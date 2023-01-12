@@ -1,6 +1,6 @@
 title: NUS High School
 url: https://nushigh.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/nushigh.png
 colors:
   primary-color: "#52d4e2"
   secondary-color: "#7698e2"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1bl70m167uzkq.amplifyapp.com
 prod: https://master.d1bl70m167uzkq.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/nushigh.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
