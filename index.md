@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: NUS High School
-      background: /images/hero-banner.png
+      background: /images/nushighhome.png
       key_highlights:
         - title: "#Breakingthebias"
           description: ""
