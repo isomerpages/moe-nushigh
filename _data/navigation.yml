@@ -1,4 +1,13 @@
 logo: /images/nushighlogo.png
 links:
+  - title: News & Events
+    url: /news-and-events/recent-highlights/
+    sublinks:
+      - title: Recent Highlights
+        url: /news-and-events/recent-highlights/
+      - title: Primary School Competitions
+        url: /news-and-events/primary-school-competitions/mathematical-olympiad-of-sg/news-and-updates/
+      - title: International & National Event
+        url: /permalink
   - title: Careers
     url: /careers/
