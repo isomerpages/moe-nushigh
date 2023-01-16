@@ -2,6 +2,7 @@ collections:
   international-math-challenge:
     output: true
     order:
+      - Results/2012 Results.md
       - Results/2010 Results.md
       - Results/2008 On Site Category Results.md
       - Results/2008 Pre site Challenge Results.md
