@@ -2,4 +2,5 @@ collections:
   primary-school-competitions:
     output: true
     order:
+      - SG Primary Science Olympiad/Results.md
       - SG Primary Science Olympiad/.keep
