@@ -1,4 +1,5 @@
 collections:
   primary-school-competitions:
     output: true
-    order: []
+    order:
+      - SG Primary Science Olympiad/.keep
