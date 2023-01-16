@@ -1,5 +1,7 @@
 logo: /images/nushighlogo.png
 links:
+  - title: Students & Parents
+    collection: students-and-parents
   - title: Alumni
     collection: alumni
   - title: Admissions
