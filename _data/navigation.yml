@@ -1,2 +1,4 @@
 logo: /images/nushighlogo.png
-links: []
+links:
+  - title: Career
+    url: /career/
