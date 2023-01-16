@@ -2,6 +2,7 @@ collections:
   international-math-challenge:
     output: true
     order:
+      - Results/2022 Results.md
       - Results/2018 Results.md
       - Results/2016 Results.md
       - Results/2014 Results.md
