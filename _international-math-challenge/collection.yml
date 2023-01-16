@@ -2,7 +2,7 @@ collections:
   international-math-challenge:
     output: true
     order:
-      - Results/2009 Pre site Challenge Results.md
+      - Results/2008 Pre site Challenge Results.md
       - Results/.keep
       - 2022 Sample Challenge Question.md
       - 2022 Challenge Problem.md
