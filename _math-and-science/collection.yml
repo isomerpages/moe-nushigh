@@ -2,5 +2,6 @@ collections:
   math-and-science:
     output: true
     order:
+      - COE for Science & Research/2013 Event.md
       - COE for Science & Research/2014 Event.md
       - COE for Science & Research/.keep
