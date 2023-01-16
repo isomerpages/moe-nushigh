@@ -1,4 +1,5 @@
 collections:
   math-and-science:
     output: true
-    order: []
+    order:
+      - COE for Science & Research/.keep
