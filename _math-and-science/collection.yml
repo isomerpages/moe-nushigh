@@ -2,6 +2,7 @@ collections:
   math-and-science:
     output: true
     order:
+      - Physics Education and Seminar.md
       - West Zone COE for Math.md
       - COE for Science & Research/West Zone COE for Science & Research.md
       - COE for Science & Research/2013 Event.md
