@@ -2,6 +2,7 @@ collections:
   students-and-parents:
     output: true
     order:
+      - Group Accident Insurance.md
       - Sexuality Education.md
       - Parents Support Group.md
       - Yearbooks.md
