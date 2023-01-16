@@ -12,16 +12,16 @@ sections:
       key_highlights:
         - title: "#Breakingthebias"
           description: ""
-          url: /news-and-events/
+          url: /news-and-events/recent-highlights/breaking-the-bias/
         - title: Alumni Spotlight
           description: ""
-          url: /news-and-events/
+          url: /news-and-events/recent-highlights/alumni-spotlight/
         - title: National Day Award Recipents
           description: ""
-          url: /news-and-events/
+          url: /news-and-events/recent-highlights/congratulations-to-our-national-day-award-recipents/
         - title: Strengthening Partnerships
           description: ""
-          url: /news-and-events/
+          url: /news-and-events/recent-highlights/strengthening-partnerships/
   - infobar:
       title: News & Events
       subtitle: Recent Highlights
