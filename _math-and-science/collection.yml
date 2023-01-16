@@ -2,6 +2,7 @@ collections:
   math-and-science:
     output: true
     order:
+      - Nobel Science Camp/Nobel Science Camp.md
       - Nobel Science Camp/2015 Nobel Science Camp.md
       - Nobel Science Camp/.keep
       - Physics Education and Seminar.md
