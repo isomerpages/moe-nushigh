@@ -2,5 +2,6 @@ collections:
   international-math-challenge:
     output: true
     order:
+      - 2022 Challenge Problem.md
       - About Singapore.md
       - Contact Us.md
