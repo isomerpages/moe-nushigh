@@ -2,4 +2,5 @@ collections:
   international-math-challenge:
     output: true
     order:
+      - About Singapore.md
       - Contact Us.md
