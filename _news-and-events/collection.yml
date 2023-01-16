@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Recent Highlights/Congratulations to the Class of 2019!.md
       - Recent Highlights/Our Teachers Receive National Day Awards.md
       - Recent Highlights/2019 National Science Challenge Champions.md
       - Recent Highlights/Passionate Advocates for Sustainable Development.md
