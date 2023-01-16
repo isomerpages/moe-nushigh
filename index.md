@@ -31,7 +31,7 @@ sections:
   - infopic:
       image: /images/infopic1.png
       alt: Image alt text
-      title: PIONEERS, HUMANITARIANS, INNOVATORS
+      title: Pioneers, Humanitarians, Innovators
   - infopic:
       title: Dylan Toh Shan Hong
       subtitle: Valedictorian of Class of 2018
