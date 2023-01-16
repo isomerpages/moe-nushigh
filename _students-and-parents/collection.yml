@@ -2,6 +2,7 @@ collections:
   students-and-parents:
     output: true
     order:
+      - Financial Assistance.md
       - School Safety Policy.md
       - Group Accident Insurance.md
       - Sexuality Education.md
