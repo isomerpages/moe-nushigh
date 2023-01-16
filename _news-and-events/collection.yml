@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Recent Highlights/An Unconventional Adventure Through Biology.md
       - Recent Highlights/Covid19 Vaccination Exercise for Students.md
       - Recent Highlights/NUS High Team Emerges Champions at National Science
         Challenge.md
