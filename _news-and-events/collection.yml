@@ -2,6 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
+      - Recent Highlights/.keep
+      - Recent Highlights/Recent Highlights.md
       - Recent Highlights/Congratulations to our National Day Award Recipents.md
       - "Recent Highlights/From Chemistry to Psychology: Seeing the World
         through a Different Lens.md"
@@ -30,7 +32,5 @@ collections:
       - Recent Highlights/2019 National Science Challenge Champions.md
       - Recent Highlights/Passionate Advocates for Sustainable Development.md
       - Recent Highlights/NUS High the Top Institution for ASTAR Talent Search.md
-      - Recent Highlights/Recent Highlights.md
-      - Recent Highlights/.keep
       - Primary School Competitions/.keep
       - International & National Event/.keep
