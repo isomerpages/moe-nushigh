@@ -2,6 +2,7 @@ collections:
   math-and-science:
     output: true
     order:
+      - Nobel Science Camp/.keep
       - Physics Education and Seminar.md
       - West Zone COE for Math.md
       - COE for Science & Research/West Zone COE for Science & Research.md
