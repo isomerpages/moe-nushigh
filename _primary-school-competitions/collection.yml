@@ -2,6 +2,7 @@ collections:
   primary-school-competitions:
     output: true
     order:
+      - Mathematical Olympiad of SG/Awards.md
       - Mathematical Olympiad of SG/Book Sales.md
       - Mathematical Olympiad of SG/Solution For Special Round Question.md
       - Mathematical Olympiad of SG/FAQ.md
