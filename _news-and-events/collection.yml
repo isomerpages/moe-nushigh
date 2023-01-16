@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Recent Highlights/Covid19 Vaccination Exercise for Students.md
       - Recent Highlights/NUS High Team Emerges Champions at National Science
         Challenge.md
       - Recent Highlights/Come, Join us for the 2021 NUS High eOpenhouse!.md
