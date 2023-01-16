@@ -2,6 +2,7 @@ collections:
   math-and-science:
     output: true
     order:
+      - West Zone COE for Math.md
       - COE for Science & Research/2013 Event.md
       - COE for Science & Research/2014 Event.md
       - COE for Science & Research/.keep
