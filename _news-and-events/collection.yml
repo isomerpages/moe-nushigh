@@ -2,6 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
+      - "Recent Highlights/#Breakingthebias: Girl Bosses Leading the Way in
+        STEM.md"
       - Recent Highlights/Futuristic Story Wins Top Prize at Science Chronicles
         Competition.md
       - "Recent Highlights/Alumni Spotlight: An Unexpected Simple Unity Between
