@@ -1,4 +1,5 @@
 collections:
   international-n-national-event:
     output: true
-    order: []
+    order:
+      - Math and Science/.keep
