@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Recent Highlights/2019 National Science Challenge Champions.md
       - Recent Highlights/Passionate Advocates for Sustainable Development.md
       - Recent Highlights/NUS High the Top Institution for ASTAR Talent Search.md
       - Recent Highlights/Recent Highlights.md
