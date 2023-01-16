@@ -40,9 +40,8 @@ sections:
       image: /images/infopic2.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: We aim to inspire and shape the future
+      description: of mathematics and science education
       alt: Image alt text
+      image: /images/infopic3.png
 ---
