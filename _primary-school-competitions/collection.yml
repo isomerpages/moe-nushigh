@@ -2,6 +2,7 @@ collections:
   primary-school-competitions:
     output: true
     order:
+      - Mathematical Olympiad of SG/FAQ.md
       - Mathematical Olympiad of SG/Partners and Sponsors.md
       - Mathematical Olympiad of SG/Contact Us.md
       - Mathematical Olympiad of SG/.keep
