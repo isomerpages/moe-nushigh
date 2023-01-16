@@ -23,10 +23,10 @@ sections:
           description: ""
           url: /news-and-events/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: News & Events
+      subtitle: Recent Highlights
+      description: Find out more about what's going on in NUS High!
+      button: More Info
       url: /faq/
   - infopic:
       image: /images/infopic1.png
