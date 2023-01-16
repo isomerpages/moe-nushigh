@@ -1,0 +1,4 @@
+collections:
+  students-and-parents:
+    output: true
+    order: []
