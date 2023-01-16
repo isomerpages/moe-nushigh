@@ -2,6 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
+      - Recent Highlights/NUS High Team Emerges Champions at National Science
+        Challenge.md
       - Recent Highlights/Come, Join us for the 2021 NUS High eOpenhouse!.md
       - Recent Highlights/Winner of Splash Awards 2019 writes an article on
         HealthTech.md
