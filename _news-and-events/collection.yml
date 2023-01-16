@@ -2,6 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
+      - "Recent Highlights/Alumni Spotlight: An Unexpected Simple Unity Between
+        Math and Arts.md"
       - Recent Highlights/Strengthening Partnerships with Industry and IHLs,
         Appointment of New Chairman to Board of Governors.md
       - Recent Highlights/An Unconventional Adventure Through Biology.md
