@@ -2,6 +2,8 @@ collections:
   admissions:
     output: true
     order:
+      - Year 1 and 3 Admissions/Admissions for Returning Singapore Citizens,
+        Permanent Residents and International Students.md
       - Year 1 and 3 Admissions/Admissions FAQs.md
       - Year 1 and 3 Admissions/.keep
       - Hear from our Alumni/Alumni.md
