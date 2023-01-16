@@ -2,4 +2,5 @@ collections:
   students-and-parents:
     output: true
     order:
+      - Yearbooks.md
       - Convocation 2022.md
