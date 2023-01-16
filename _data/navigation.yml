@@ -1,5 +1,9 @@
 logo: /images/nushighlogo.png
 links:
+  - title: Alumni
+    collection: alumni
+  - title: Admissions
+    collection: admissions
   - title: News & Events
     url: /news-and-events/recent-highlights/
     sublinks:
