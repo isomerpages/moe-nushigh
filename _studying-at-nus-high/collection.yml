@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - The NUS High Diploma/Music and Art.md
       - The NUS High Diploma/Physics and Engineering.md
       - The NUS High Diploma/Research, Innovation and Enterprise.md
       - The NUS High Diploma/.keep
