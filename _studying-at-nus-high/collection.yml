@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - The NUS High Diploma/Biology.md
       - The NUS High Diploma/Chemistry.md
       - The NUS High Diploma/Computer Science.md
       - The NUS High Diploma/English Language and Literature.md
