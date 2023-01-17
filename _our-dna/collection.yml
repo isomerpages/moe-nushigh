@@ -2,6 +2,7 @@ collections:
   our-dna:
     output: true
     order:
+      - Board of Directors and Governors.md
       - School Song.md
       - Achievements/.keep
       - Vision, Mission, Values.md
