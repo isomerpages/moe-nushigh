@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The NUS High Diploma/.keep
+      - Student Development/Student Leadership Programme.md
       - Student Development/Co Curricular Activities.md
       - Student Development/Physical Education.md
       - Student Development/Boarding Programme.md
