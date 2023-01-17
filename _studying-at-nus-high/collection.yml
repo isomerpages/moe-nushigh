@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - The NUS High Diploma/Research, Innovation and Enterprise.md
       - The NUS High Diploma/.keep
       - Student Development/Student Development.md
       - Student Development/Humanitarian Education.md
