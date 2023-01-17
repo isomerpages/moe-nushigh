@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - The NUS High Diploma/.keep
+      - Student Development/Voyager Programme.md
       - Student Development/.keep
