@@ -2,4 +2,5 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - The NUS High Diploma/.keep
       - Student Development/.keep
