@@ -1,4 +1,5 @@
 collections:
   our-dna:
     output: true
-    order: []
+    order:
+      - Contact Us/.keep
