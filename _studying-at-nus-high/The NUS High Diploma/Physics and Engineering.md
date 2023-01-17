@@ -1,0 +1,6 @@
+---
+title: Physics and Engineering
+permalink: /studying-at-nus-high/the-nus-high-diploma/physics-and-engineering/
+description: ""
+third_nav_title: The NUS High Diploma
+---
