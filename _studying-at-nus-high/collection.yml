@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The NUS High Diploma/.keep
+      - Student Development/Humanitarian Education.md
       - Student Development/Character Citizenship Education.md
       - Student Development/Student Leadership Programme.md
       - Student Development/Co Curricular Activities.md
