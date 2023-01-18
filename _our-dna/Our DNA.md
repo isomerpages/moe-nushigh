@@ -10,25 +10,45 @@ description: ""
 
 <br clear="left">
 
+|  |  |
+|---|---|
+|  |  |
+
 <img src="/images/specialprogramme3.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme4.jpg" style="width:40%;margin-right:55px;" align = "right">
 
 <br clear="left">
+
+|  |  |
+|---|---|
+|  |  |
 
 <img src="/images/specialprogramme5.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme6.jpg" style="width:40%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
+|  |  |
+|---|---|
+|  |  |
+
 <img src="/images/specialprogramme7.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme8.jpg" style="width:40%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
+|  |  |
+|---|---|
+|  |  |
+
 <img src="/images/specialprogramme9.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme10.jpg" style="width:40%;margin-right:55px;" align = "right">
 
 <br clear="left">
+
+|  |  |
+|---|---|
+|  |  |
 
 ### **Student Interest Groups (SIGs)**
 
