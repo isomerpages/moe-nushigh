@@ -13,6 +13,7 @@ description: ""
 |  |  |
 |---|---|
 | - The programme aims to nurture creative minds and develop skilled hands backed with deep knowledge.<br><br>- In the lower years, students are trained to polish their presentation, technical and creative thinking skills.<br><br>- Students are exposed to formal scientific literature and current research topics.<br><br>- In the senior years, students have to embark on compulsory Advanced Research Projects in the domains of math, science or engineering as individuals or up to groups of threes. They are either mentored by our own teachers, or by researchers from universities and research institutions. | - The programme introduces selected students to the complexities involved in engineering a space satellite system with flight control, power management, signalling processing and communications capabilities.<br><br>- It gives students the first exposure on the issues that are typically faced by engineers when they design and build a system which can be deployed into space.<br><br>- One of the goals of the programme is to co-develop and launch a nano-satellite. |
+|
 
 <img src="/images/specialprogramme3.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme4.jpg" style="width:40%;margin-right:55px;" align = "right">
@@ -21,7 +22,8 @@ description: ""
 
 |  |  |
 |---|---|
-|  |  |
+| - The programme identifies students with exceptional talent and stretches them to their fullest potential.<br><br>- Students can read university modules offered by NUS, the Digipen, Institute of Technology, Singapore and the Singapore Management University<br><br>- Selected students take part in the Overseas Student Academic Programme such as to CERN for particle physics & XLAB for neurophysiology<br><br>- The Distinguished Visitors’ Programme brings in eminent scientists and mathematicians annually, to inspire our students through talks and fire-side chats. | - The programme aims to nurture maker mindsets imbued with pioneering spirit in our students, developing their readiness and capabilities to become future Engineering and Innovation Leaders.<br><br>- Basic skill sets in the areas of Design & Engineering, Computing and interdisciplinary fields will be taught explicitly via structured programmes (modules and workshops)<br><br>- Shared learning should be beyond the school campus. This could mean learning journeys, workshops, job-shadowing and short-term immersions. |
+|
 
 <img src="/images/specialprogramme5.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme6.jpg" style="width:40%;margin-right:55px;" align = "right">
@@ -30,7 +32,8 @@ description: ""
 
 |  |  |
 |---|---|
-|  |  |
+| - Embraces the world as the classroom as our students learn from overseas experiences.<br><br>- The programme aims to help students develop a global outlook and the ability to operate within multi-national settings<br><br>- Students learn with the best as they go for Student Exchange Programmes with our partner schools, as well as international Science Fairs and Service Learning Trips.<br><br>- Students learn from the best as they take part in conferences and various academic field trips. | - The goal of the programme is to nurture students who excel in the disciplines of the Humanities, English Language and Literature.<br><br>- Students are invited to sign up for activities organised by the Gifted Education Branch of MOE, such as the Creative Writing programme, Moot Parliament Programme and the Humanities & Social Science Programme.<br><br>- Students can also join the Humanities Interest Group, English Interest Group, or Current Affairs Interest Group. |
+|
 
 <img src="/images/specialprogramme7.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme8.jpg" style="width:40%;margin-right:55px;" align = "right">
@@ -39,7 +42,8 @@ description: ""
 
 |  |  |
 |---|---|
-|  |  |
+| - School-wide programme with structured experiencial activities for all 6 years of students.<br><br>- The aim is to develop students’ aesthetic sensitivity and awareness, as well as broaden and refine students’ repertoire of expressive abilities.<br><br>- A wide range of activities are organised through the year such as workshops, performances and experiential journeys are organised covering art, music, dance, film and more. | - 6-year programme designed to nurture dispositions of a Humanitarian through the Heart, Head and Hand approach.<br><br>- It aims to attune our students to the needs of our society, and the key challenges involved in serving the community.<br><br>- A primary goal is to to channel our students’ passion in Science, Technology, Engineering and Mathematics (STEM), towards collaborations and solutions for the betterment of the world. |
+|
 
 <img src="/images/specialprogramme9.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme10.jpg" style="width:40%;margin-right:55px;" align = "right">
@@ -48,7 +52,8 @@ description: ""
 
 |  |  |
 |---|---|
-|  |  |
+| - The Year 5 Boarding Programme is a platform to develop character and promote bonding among students over a full year of boarding.<br><br>- The programme aims to help students acquire life-skills, cultivate friendships, develop leadership capacity and grow intellectual curiosity.<br><br>- The special features introduced to support the programme are enrichment activities, extended time & space for research, academic coaching, extended leadership opportunities and student initiated activities. | - The ATLAS Initiative aims to nurture and prepare students with an interest in leadership in community and public service through the close mentoring by educators with backgrounds in teaching, talent development, student leadership, public speaking, higher education and scholarships. The initiative represents:<br><br>- **Exploration** : Students will seek to better understand their interests, strengths, and areas for improvement<br><br>- **Possibility and Growth** : Students will be encouraged to chart their own developmental map<br><br>- **Service** : Students are encouraged to discover and undertake service and leadership |
+|
 
 ### **Student Interest Groups (SIGs)**
 
