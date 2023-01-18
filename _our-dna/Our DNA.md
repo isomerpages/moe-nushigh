@@ -12,7 +12,7 @@ description: ""
 
 |  |  |
 |---|---|
-|  |  |
+| - The programme aims to nurture creative minds and develop skilled hands backed with deep knowledge.<br><br>- In the lower years, students are trained to polish their presentation, technical and creative thinking skills.<br><br>- Students are exposed to formal scientific literature and current research topics.<br><br>- In the senior years, students have to embark on compulsory Advanced Research Projects in the domains of math, science or engineering as individuals or up to groups of threes. They are either mentored by our own teachers, or by researchers from universities and research institutions. | - The programme introduces selected students to the complexities involved in engineering a space satellite system with flight control, power management, signalling processing and communications capabilities.<br><br>- It gives students the first exposure on the issues that are typically faced by engineers when they design and build a system which can be deployed into space.<br><br>- One of the goals of the programme is to co-develop and launch a nano-satellite. |
 
 <img src="/images/specialprogramme3.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme4.jpg" style="width:40%;margin-right:55px;" align = "right">
@@ -30,7 +30,7 @@ description: ""
 
 |  |  |
 |---|---|
-| - The programme aims to nurture creative minds and develop skilled hands backed with deep knowledge.<br><br>- In the lower years, students are trained to polish their presentation, technical and creative thinking skills.<br><br>- Students are exposed to formal scientific literature and current research topics.<br><br>- In the senior years, students have to embark on compulsory Advanced Research Projects in the domains of math, science or engineering as individuals or up to groups of threes. They are either mentored by our own teachers, or by researchers from universities and research institutions. | - The programme introduces selected students to the complexities involved in engineering a space satellite system with flight control, power management, signalling processing and communications capabilities.<br><br>- It gives students the first exposure on the issues that are typically faced by engineers when they design and build a system which can be deployed into space.<br><br>- One of the goals of the programme is to co-develop and launch a nano-satellite. |
+|  |  |
 
 <img src="/images/specialprogramme7.jpg" style="width:40%;margin-left:55px;" align = "left">
 <img src="/images/specialprogramme8.jpg" style="width:40%;margin-right:55px;" align = "right">
