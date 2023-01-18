@@ -5,8 +5,8 @@ description: ""
 ---
 ### **Special Programmes**
 
-<img src="/images/specialprogramme1.jpg" style="width:43%;margin-left:35px;" align = "left">
-<img src="/images/specialprogramme2.jpg" style="width:43%;margin-right:35px;" align = "right">
+<img src="/images/specialprogramme1.jpg" style="width:45%;margin-left:35px;" align = "left">
+<img src="/images/specialprogramme2.jpg" style="width:45%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
