@@ -27,7 +27,7 @@ sections:
       subtitle: Recent Highlights
       description: Find out more about what's going on in NUS High!
       button: More Info
-      url: /faq/
+      url: /news-and-events/recent-highlights/
   - infopic:
       image: /images/infopic1.png
       alt: Image alt text
