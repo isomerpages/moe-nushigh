@@ -16,7 +16,7 @@ Find out more about the exciting journey our students go through in the [Program
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Acquiring process skills:<br>Using chi-square test on M&Ms | Creative Connections:<br>Building geometrical models | Real world connections:<br>Measuring angle of elevation |
 
 The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/)
@@ -29,7 +29,7 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Exploring math research:<br>Singapore Mathematics<br>Project Festival | Participating in Fun Challenges:<br>Rubiks Cube Competition | Student Initiated Activities:<br>Math Interest Group |
 
 The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
@@ -42,7 +42,7 @@ Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Asia Pacific Math Olympiad:<br>1 Silver | Tuymaada Olympiad<br>Overall First (Math, Senior) | A*\STAR Talent Search<br>Top Prize |
 
 ##### **Write Ups / Articles of Some of our Achievements:**
 *   2020 Singapore Mathematics Project Festival: Top Prize in Junior Category with Project Title "Finding Colourful Trails". [Link to Video of the Presentation](https://www.facebook.com/SingaporeMathSoc/videos/200349054628840) 
