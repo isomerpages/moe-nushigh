@@ -18,7 +18,7 @@ Find out more about the exciting journey our students go through the [Programme 
 |:---:|:---:|:---:|
 | Learning Focused<br>Interaction | Authentic Assessment in groups | Values-Driven Language<br>Education |
 
-The Joy of Learning doesn't stop in the classrooms.
+The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/english-and-literature/beyond-the-classroom/)
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/english-and-literature/beyond-the-classroom/"><img src="/images/engnlit4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
