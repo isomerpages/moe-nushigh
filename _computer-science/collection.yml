@@ -1,4 +1,5 @@
 collections:
   computer-science:
     output: true
-    order: []
+    order:
+      - Beyond the Classroom.md
