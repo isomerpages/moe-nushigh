@@ -18,6 +18,9 @@ Find out more about the exciting journey our students go through in the [Program
 |:---:|:---:|:---:|
 |  |  |  |
 
+The Joy of Learning doesn't stop in the classrooms.<br>
+Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/)
+
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -28,6 +31,9 @@ Find out more about the exciting journey our students go through in the [Program
 |:---:|:---:|:---:|
 |  |  |  |
 
+The building of a vibrant community of talents with scientific prowess.<br>
+Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
+
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -37,3 +43,11 @@ Find out more about the exciting journey our students go through in the [Program
 |  |  |  |
 |:---:|:---:|:---:|
 |  |  |  |
+
+##### **Write Ups / Articles of Some of our Achievements:**
+*   2020 Singapore Mathematics Project Festival: Top Prize in Junior Category with Project Title "Finding Colourful Trails". [Link to Video of the Presentation](https://www.facebook.com/SingaporeMathSoc/videos/200349054628840) 
+*   2020 Singapore Mathematics Society Essay Competition: 3rd Prize. <br>
+Essays: [Neural Networks and Dynamic Bayesian Networks](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%201.pdf)<br>
+[Multipurpose Calculus and its Applications to Artificial Intelligence](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%202.pdf)  
+
+*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs". [Link to Media Article on the Project](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/ST%20IN%2027%20May%20Kin%20Hern.pdf)
