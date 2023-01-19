@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /our-dna/principals-message/
 description: ""
 ---
+<img src="/images/principal.jpg" style="width:25%">
+
 Welcome to NUS High School of Mathematics and Science!
 
 In a span of just 16 years, NUS High has established herself as a touchstone of math and science education around the world. Our alumni are pursuing their aspirations in top universities both locally and overseas. Our students continue to do us proud on the international stage and at the national level. The remarkable successes of this young institution are the result of the pioneering efforts of the NUS High Family; the Board, the former and current principals, staff, parents and alumni have worked hard to create a vibrant, innovative learning environment where students are both challenged and supported.
@@ -14,3 +16,6 @@ Our School Values - Wonderment, Integrity, Service, Excellence and Resilience wi
 Our vision is to groom future-ready Pioneers, Humanitarians and Innovators for the world, Indeed, NUS High is a place of discovery and growth and I believe that the holistic education that our students receive will help them develop a spirit of independence, resilience and confidence that will enable them to thrive in a rapidly-changing world.
 
 Experiment, Explore Excel!
+
+**Soh Lai Leng Magdalen (Ms)**<br>
+Principal
