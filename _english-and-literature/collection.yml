@@ -2,4 +2,5 @@ collections:
   english-and-literature:
     output: true
     order:
+      - Wonderment in the Classroom.md
       - Beyong the Classroom.md
