@@ -16,7 +16,8 @@ Why is Computer Science such an important subject? Our students find the answer 
 |:---:|:---:|:---:|
 | Engaging the learner:<br>Gamified Learning | Authentic Assessment:<br>Making Android Apps | Peer Learning:<br>Collaborative Problem Discussions |
 
-The Joy of Learning doesn't stop in the classrooms. Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/).
+The Joy of Learning doesn't stop in the classrooms.<br>
+Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/).
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/"><img src="/images/compsci4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/"><img src="/images/compsci5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
