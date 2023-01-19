@@ -2,8 +2,9 @@ collections:
   studying-at-nus-high:
     output: true
     order:
-      - The NUS High Diploma/Programme of Studies.md
+      - The NUS High Diploma/.keep
       - The NUS High Diploma/The NUS High Diploma.md
+      - The NUS High Diploma/Programme of Studies.md
       - The NUS High Diploma/Biology.md
       - The NUS High Diploma/Chemistry.md
       - The NUS High Diploma/Computer Science.md
@@ -14,7 +15,6 @@ collections:
       - The NUS High Diploma/Music and Art.md
       - The NUS High Diploma/Physics and Engineering.md
       - The NUS High Diploma/Research, Innovation and Enterprise.md
-      - The NUS High Diploma/.keep
       - Student Development/Student Development.md
       - Student Development/Humanitarian Education.md
       - Student Development/Character Citizenship Education.md
