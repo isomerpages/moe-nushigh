@@ -14,11 +14,22 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 
 <center>The Joy of Learning doesn't stop in the classrooms.<br>Find out about the informal curriculum that complements the main curriculum</center>
 
-| <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> |
-|:---:|:---:|:---:|
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+
+<br clear="left">
+
 |  |  |  |
+|:---:|:---:|:---:|
+| Learning from the best:<br>University of Queensland, Australia | Student Initiated Activities:<br>Biology Interest Group | Learning Journeys to give exposure:<br>Visiting Sky Greens |
 
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-| <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> |
+<br clear="left">
+
+|  |  |  |
 |:---:|:---:|:---:|
 |  |  |  |
