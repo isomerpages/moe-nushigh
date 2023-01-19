@@ -1,4 +1,5 @@
 collections:
   mtl-and-foreign-languages:
     output: true
-    order: []
+    order:
+      - Third Language Programmes.md
