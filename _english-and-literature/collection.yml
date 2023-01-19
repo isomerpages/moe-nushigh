@@ -1,4 +1,5 @@
 collections:
   english-and-literature:
     output: true
-    order: []
+    order:
+      - Beyong the Classroom.md
