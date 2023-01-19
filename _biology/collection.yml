@@ -2,4 +2,5 @@ collections:
   biology:
     output: true
     order:
+      - Wonderment in the Classroom.md
       - Beyond the Classroom.md
