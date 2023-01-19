@@ -12,6 +12,8 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 |:---:|:---:|:---:|
 | Real world connections: <br> Investigating Enzymatic Reactions | Authentic Assessment in groups:<br>Fieldwork at Lazarus Island | Experiential Inquiry:<br>Ecological Sampling |
 
+<center>The Joy of Learning doesn't stop in the classrooms.<br>Find out about the informal curriculum that complements the main curriculum</center>
+
 |  |  |  |
 |:---:|:---:|:---:|
 |  |  |  |
