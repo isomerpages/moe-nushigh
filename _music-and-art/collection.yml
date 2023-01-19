@@ -2,4 +2,5 @@ collections:
   music-and-art:
     output: true
     order:
+      - Music.md
       - Art.md
