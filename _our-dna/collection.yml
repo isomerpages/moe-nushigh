@@ -2,7 +2,7 @@ collections:
   our-dna:
     output: true
     order:
-      - Our DNA.md
+      - Experiment Explore Excel.md
       - Principal's Message.md
       - Board of Directors and Governors.md
       - School Song.md
