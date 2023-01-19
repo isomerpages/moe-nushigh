@@ -14,11 +14,11 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 
 <center>The Joy of Learning doesn't stop in the classrooms.<br>Find out about the informal curriculum that complements the main curriculum</center>
 
-|  |  |  |
+| <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> |
 |:---:|:---:|:---:|
 |  |  |  |
 
 
-|  |  |  |
+| <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> | <a href="webhere"><img style="width:25%" src="/images/bio.jpg"></a> |
 |:---:|:---:|:---:|
 |  |  |  |
