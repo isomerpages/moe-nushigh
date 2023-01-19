@@ -1,4 +1,5 @@
 collections:
   chemistry:
     output: true
-    order: []
+    order:
+      - Beyong the Classroom.md
