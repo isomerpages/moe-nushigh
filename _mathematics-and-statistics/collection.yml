@@ -2,4 +2,5 @@ collections:
   mathematics-and-statistics:
     output: true
     order:
+      - Wonderment in the Classroom.md
       - Beyond the Classroom.md
