@@ -16,7 +16,7 @@ about the exciting journey our students go through in the [Programme of Studies]
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Engagement in Social Issues:<br>Visit to LTA Gallery | Critical and Creative Thinking:<br>Mock UN sessions for Year 2s | Inquiry through Experiential Learning:<br>Soil Testing |
 
 The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum
@@ -30,7 +30,7 @@ that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Learning from the best:<br>Rocky Slope Profiling, Wales UK | Humanities Interest Group:<br>Sustainable Youth Development<br>Convention | Extension to Humanities Curriculum:<br>Humanities &<br>Social Sciences Research Project |
 
 The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
@@ -43,4 +43,4 @@ Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| NUS Geography Challenge | National Financial Literacy<br>Competition | Time Capsule Challenge<br>(Current Affairs) |
