@@ -14,7 +14,7 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 
 <center>The Joy of Learning doesn't stop in the classrooms.<br>Find out about the informal curriculum that complements the main curriculum</center>
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
@@ -24,7 +24,7 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 |:---:|:---:|:---:|
 | Learning from the best:<br>University of Queensland, Australia | Student Initiated Activities:<br>Biology Interest Group | Learning Journeys to give exposure:<br>Visiting Sky Greens |
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
@@ -32,4 +32,4 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| International Biology Olympiad:<br>1 Gold | Yakutia International<br>Science Games<br>Gold & Best Presentation (research) | NUS STEP Brain Camp<br>2nd in Research |
