@@ -8,9 +8,9 @@ third_nav_title: The NUS High Diploma
 Our students find out for themselves through their curriculum.<br>
 Find out more about the exciting journey our students go through in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/wonderment-in-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/wonderment-in-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/wonderment-in-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/wonderment-in-the-classroom/"><img src="/images/mathandstats1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/wonderment-in-the-classroom/"><img src="/images/mathandstats2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/wonderment-in-the-classroom/"><img src="/images/mathandstats3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -21,9 +21,9 @@ Find out more about the exciting journey our students go through in the [Program
 The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/)
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mathematics-and-statistics/beyond-the-classroom/"><img src="/images/mathandstats6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -34,9 +34,9 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
