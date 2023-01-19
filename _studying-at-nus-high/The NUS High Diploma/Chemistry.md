@@ -10,9 +10,9 @@ _The objectives of the Foundation Years 1 - 3 are to build a strong understandin
 
 _In the Specialisation Years 4 - 6, students will be introduced to more advanced concepts such as Equilibria, Energetics and Thermodynamics. They will also have hands-on experience in chemical synthesis, purification and analysis. Building on students’ firm foundation, topics are covered with greater depth in the senior years. Students often engage in laboratory activities where they learn about the process of scientific investigations and basic laboratory skills. These skills intensify at higher levels to encourage students to take on independent research to complement the theory covered in class.   The Department offers Chemistry Major with Honours for students who have an aptitude for and interest in the subject. To qualify for the aforementioned, students must achieve excellent results in the Core modules. Students also have the option of sitting for the Advanced Placement Chemistry examination in Year 6._
 
-Many say Chemistry is the Central Science.<br>
+Many say **Chemistry is the Central Science.**<br>
 Our students find out for themselves through their curriculum.<br>
-Find out more about the exciting journey our students go through in the Programme of Studies.
+Find out more about the exciting journey our students go through in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
 
 <p><a href="web"><img src="/images/chem.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="web"><img src="/images/chem.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
