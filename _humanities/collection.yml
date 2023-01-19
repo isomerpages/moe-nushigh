@@ -1,0 +1,4 @@
+collections:
+  humanities:
+    output: true
+    order: []
