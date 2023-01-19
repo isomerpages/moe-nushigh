@@ -47,7 +47,7 @@ Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp
 ##### **Write Ups / Articles of Some of our Achievements:**
 *   2020 Singapore Mathematics Project Festival: Top Prize in Junior Category with Project Title "Finding Colourful Trails". [Link to Video of the Presentation](https://www.facebook.com/SingaporeMathSoc/videos/200349054628840) 
 *   2020 Singapore Mathematics Society Essay Competition: 3rd Prize. <br>
-Essays: [Neural Networks and Dynamic Bayesian Networks](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%201.pdf)<br>
-[Multipurpose Calculus and its Applications to Artificial Intelligence](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%202.pdf)  
+Essays: [Neural Networks and Dynamic Bayesian Networks](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%201.pdf)**broken link**<br>
+[Multipurpose Calculus and its Applications to Artificial Intelligence](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%202.pdf)  **broken link**
 
-*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs". [Link to Media Article on the Project](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/ST%20IN%2027%20May%20Kin%20Hern.pdf)
+*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs". [Link to Media Article on the Project](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/ST%20IN%2027%20May%20Kin%20Hern.pdf) **broken link**
