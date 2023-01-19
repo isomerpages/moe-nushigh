@@ -1,4 +1,5 @@
 collections:
   physics-and-engineering:
     output: true
-    order: []
+    order:
+      - Beyond the Classroom.md
