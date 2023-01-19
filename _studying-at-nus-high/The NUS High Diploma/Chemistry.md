@@ -22,7 +22,10 @@ Find out more about the exciting journey our students go through in the [Program
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Real world connections:<br>Investigating Iron in Cereals | Authentic Assessment in groups:<br>Simulating an Airbag | Practical Skills beyond A Levels:<br>Synthetic Chemistry |
+
+The Joy of Learning doesn't stop in the classrooms.<br>
+Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/beyond-the-classroom/)
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/beyond-the-classroom/"><img src="/images/chem4.jpg" style="width:30%;margin-right:15px;margin-left:45px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/beyond-the-classroom/"><img src="/images/chem5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -32,7 +35,10 @@ Find out more about the exciting journey our students go through in the [Program
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Learning from the best:<br>XLab, Germany | Student Initiated Activities:<br>Chemistry Interest Group | Learning Journeys:<br>Food and Science Technology |
+
+The building of a vibrant community of talents with scientific prowess.<br>
+Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/chem7.jpg" style="width:30%;margin-right:15px;margin-left:45px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/chem8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -42,4 +48,4 @@ Find out more about the exciting journey our students go through in the [Program
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| International Chemistry Olympiad:<br>1 Gold, 2 Silver | International Chemistry<br>Tournament:<br>Silver | NYP-Swensen's Ice Cream<br>Competition:<br>1st Runner Up |
