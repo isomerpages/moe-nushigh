@@ -7,7 +7,9 @@ third_nav_title: Contact Us
 ### **NUS High School Staff**
 NUS High School has more than 100 academic staff as well as 40 administrative and support staff. More than 50% of our academic staff holds a PhD or a Master degree. Our highly qualified teachers bring with them a wealth of experience from various backgrounds. This diversity helps to enrich our students’ learning experience. By mentoring students and providing one-to-one guidance and counselling on academic work, research as well as personal issues, our teachers create a supportive community for our students to discover and realise their full potential.
 
-|   Management |  |
+#### **Management**
+
+|  |  |
 |---|---|
 |   Ms Soh Lai Leng Magdalen |   Principal |
 |   Mr Goh Hock Leong |   Deputy Principal (Academic) |
@@ -15,7 +17,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Doreen Gan |   Deputy Principal (Admin) |
 |
 
-| Chemistry |  |
+#### **Chemistry**
+
+|  |  |
 |---|---|
 |   Ms Koh Siok Bee | Head, Chemistry |
 |   Dr Teh Yun Ling | Assistant Head, Chemistry |
@@ -38,7 +42,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Lew Andrew Delfin Reyes | Laboratory Technologist |
 |
 
-|   Physics & Engineering |  |
+#### **Physics & Engineering**
+
+|  |  |
 |---|---|
 |   Mr Poh Boon Hor |   Head, Physics & Engineering |
 |   Ms Lim Jia Hui |   Assistant Head, Physics & Engineering |
@@ -60,7 +66,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Desmond Lim Beng Chong |   Senior Laboratory Technologist |
 |
 
-| Biology |  |
+#### **Biology**
+
+|  |  |
 |---|---|
 |   Dr Tang Hock Chun |   Head, Biology |
 |   Ms Ng Oon Hui |   Assistant Head, Biology |
@@ -79,7 +87,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Rachel Goh Hui Qi |   Laboratory Technologist |
 |
 
-|   Mathematics & Statistics |  |
+#### **Mathematics & Statistics**
+
+|  |  |
 |---|---|
 |   Mr Chen Hong Ming | Head, Mathematics & Statistics |
 |   Ms Lee Sheau Huey  | Teacher  |
@@ -103,7 +113,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Herman Chua Jia He  | Teacher  |
 |
 
-|   Computer Science |  |
+#### **Computer Science**
+
+|  |  |
 |---|---|
 |   Ms Chew Shuhui Phylliscia  |   Head, Computer Science |
 |   Mr Ng Chee Loong |   Head, Talent Development |
@@ -112,7 +124,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Teo Chee Yong Shawn  |   Teacher  |
 |
 
-| Humanities |  |
+#### **Humanities**
+
+|  |  |
 |---|---|
 |   Ms Lim Ing Chieh Rebekah |   Head, Humanities (Geography) |
 |   Ms Chua Bann |   Head, CCE & Counselling (History) |
@@ -123,7 +137,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Alex Kwee Yeow Teck |   Assistant Head, Humanities |
 |
 
-|   Mother Tongue & Foreign Languages |  |
+#### **Mother Tongue & Foreign Languages**
+
+|  |  |
 |---|---|
 |   Dr Li Liangzi | Head, Mother Tongue & Foreign Languages |
 |   Mr Ho Kok Kiat  | Assistant Head, Mother Tongue & Foreign Languages |
@@ -140,7 +156,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Elizabeth Mariko Gomez | Teacher (Foreign Language) |
 |
 
-|   English Language & Literature |  |
+#### **English Language & Literature**
+
+|  |  |
 |---|---|
 |   Ms Bay Wee Wen | Head, English Language & Literature |
 |   Ms Caroline Gordon | Assistant Head, English Language &   Literature |
@@ -158,7 +176,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Yuen Lilin Sharalee | Teacher  |
 |
 
-|   Music & Art |  |
+#### **Music & Art**
+
+|  |  |
 |---|---|
 |   Dr Emilia Wong |   Head (Music) |
 |   Ms Chua Ngeah Sian |   Teacher (Music) |
@@ -167,7 +187,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Syed Mahdar B Syed Othman |   Senior Specialist Associate (Art) |
 |
 
-|   Physical Education |  |
+#### **Physical Education**
+
+|  |  |
 |---|---|
 |   Ms Angela Loh Lai Kiang |   Head, Physical Education |
 |   Mr Jeryl Sim Tze Yong |   Teacher  |
@@ -177,14 +199,18 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Kong Seow Yoke Annie  |   Teacher |
 |
 
-|   Research, Innovation & Enterprise |  |
+#### **Research, Innovation & Enterprise**
+
+|  |  |
 |---|---|
 |   Dr Chiam Sher-Yi |   Head, Research, Innovation & Enterprise |
 |   Mr Andre Jusuf |   Teacher |
 |   Mr Leong Kin Chong |   Senior Laboratory Technologist |
 |
 
-|   Student Affairs |  |
+#### **Student Affairs**
+
+|  |  |
 |---|---|
 |   Ms Van Li Hui |   Manager, Student Affairs |
 |   Ms Philomena Loh  |   Senior Executive  |
@@ -193,33 +219,43 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Sheela Peranandam |   Assistant Executive, Library |
 |
 
-|   Finance |  |
+#### **Finance**
+
+|  |  |
 |---|---|
 |   Mrs Lynette Tan-Soon  |   Manager |
 |   Ms Duong Thi Kim Hang Evelyn |   Senior Executive |
 |   Ms Teng Lwen Huang Ji Ann |   Assistant Executive |
 |
 
-|   Human Resource |  |
+#### **Human Resource**
+
+|  |  |
 |---|---|
 |   Ms Chee Wei Fang |   Manager |
 |   Ms Ang Sherli |   Assistant Manager |
 |   Mr Timothy Foo Chee Wei |   Senior Executive  |
 |
 
-|   Admissions & Recruitment |  |
+#### **Admissions & Recruitment**
+
+|  |  |
 |---|---|
 |   Ms Van Li Hui |   Manager |
 |   Ms Mazni Bte Abdullah  |   Senior Executive |
 |
 
-|   Partnership & Internationalization |  |
+#### **Partnership & Internationalization**
+
+|  |  |
 |---|---|
 |   Ms Sion Hwei Hoon |   Manager |
 |   Ms Tan Hiang Kiat |   Assistant Manager |
 |
 
-| Counsellors |  |
+#### **Counsellors**
+
+|  |  |
 |---|---|
 |   Mr Allan Patrick Uy |   College Counsellor |
 |   Mrs Mala Balaji Swaminathan |   College Counsellor |
@@ -229,15 +265,19 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Lim Siok Hwa Jenny  |   Assistant Executive |
 |
 
-| Boarding |
-| --- |
+#### **Boarding**
+
+|  |  |
+|---|---|
 |   Mr Wong Chee Khiam |   Manager (Boarding Operations) |
 |   Mr Joseph Giri Sri Krishnan |   Boarding Master |
 |   Ms Susan Cheong Sook Cheng |   Senior Executive |
 |   Ms Shahira Bte Amat Amin |   Assistant Executive |
 |
 
-| Infrastructure |  |
+#### **Infrastructure**
+
+|  |  |
 |---|---|
 |   Mr Teo Chun Siong Alan |   Manager |
 |   Mr Ng Jin Guan |   Assistant Manager, Estate |
