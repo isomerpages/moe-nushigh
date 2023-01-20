@@ -6,8 +6,8 @@ third_nav_title: The NUS High Diploma
 ---
 The **[Music Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/)** will enhance students' learning and doing through the acquisition of Music knowledge and Reading; Music Listening and Analysis; Music Composition and Performance.
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music1.jpg" style="width:26%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music2.jpg" style="width:26%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
@@ -18,8 +18,8 @@ The **[Music Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-
 
 The **[Art Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/)** will enhance students' learning and doing through the acquisition of Aesthetic Perception; Artistic Expression; Historical and Cultural Context; Critical Analysis; and Practical Applications.
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music4.jpg" style="width:30%;margin-right:25px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music5.jpg" style="width:28%;margin-right:25px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
