@@ -14,7 +14,7 @@ The **[Music Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Experiential Learning:<br>Talks, Workshops, Trips | Authentic Assessment:<br>Music Recitals | Partnering YST Conservatory (NUS)<br>and NIE in our programmes |
 
 The **[Art Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/)** will enhance students' learning and doing through the acquisition of Aesthetic Perception; Artistic Expression; Historical and Cultural Context; Critical Analysis; and Practical Applications.
 
@@ -26,7 +26,7 @@ The **[Art Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-ar
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Experiential Learning:<br>Talks, Workshops, Trips | Authentic Assessment:<br>Art Graduation Show | Active Contribution<br>to the School Community |
 
 The Joy of Learning doesn’t stop in the classrooms.<br>
 Find out about the informal curriculum
@@ -40,7 +40,7 @@ that complements the main curriculum.
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| School-wide<br>Aesthetic Appreciation Programme | Student Initiated Activities:<br>Music & Art Ambassadors | External Enrichment:<br>Participation in the arts scene |
 
 #### **Video and Audio Links**
 <center>NUSHS Music and Art Department wishes everyone good health, and may you all be filled with inspirations, aspirations and dreams for our world.<br><b>Love Music and Art for Life!</b></center>
