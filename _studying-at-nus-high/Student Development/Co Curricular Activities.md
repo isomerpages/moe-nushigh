@@ -14,9 +14,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca1.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca2.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca3.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -25,15 +25,15 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca4.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca5.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca6.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
 <center>Youth Flying Club</center>
 
-<img src="/images/cca.png" style="width:30%">
+<img src="/images/cca7.png" style="width:30%">
 
 #### **Performing Arts**
 
@@ -41,9 +41,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca8.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca9.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca10.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -51,8 +51,8 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|
 |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:55px;" align = "right">
-<img src="/images/cca.png" style="width:30%;margin-left:55px;" align = "left">
+<img src="/images/cca11.png" style="width:30%;margin-right:55px;" align = "right">
+<img src="/images/cca12.png" style="width:30%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
@@ -63,9 +63,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca13.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca14.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca15.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -73,9 +73,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca16.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca17.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca18.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -83,9 +83,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca19.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca20.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca21.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -95,8 +95,8 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca22.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca23.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca24.png" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
