@@ -18,7 +18,7 @@ This is NUS High’s 6-year programme designed to nurture dispositions of a Huma
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Year 1<br>Family Bonding Day | Year 2<br>Knowing our Community | Year 3<br>Simulation Activity to Empathise with Elderly |
+| Year 1<br>Family Bonding Day | Year 2<br>Knowing our Community | Year 3<br>Simulation Activity to<br> Empathise with Elderly |
 
 <center>In the senior years, students are encouraged to initiate, plan and implement service or STEM projects with community partners. Together with our staff, they reflect and review on the effectiveness and learning outcomes of their projects, and share their experiences with their peers and juniors.</center>
 
@@ -42,4 +42,4 @@ This is NUS High’s 6-year programme designed to nurture dispositions of a Huma
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Table Tennis Activities for Children from Children’s<br>Wishing Well | Chinese Orchestra Performing &<br>Befriending at Nursing Home | St John’s Ambulance Brigade<br>Befriending at NKF Dialysis<br>Centre |
+| Table Tennis Activities for Children from Children’s<br>Wishing Well | Chinese Orchestra Performing & Befriending at Nursing Home | St John’s Ambulance Brigade Befriending at NKF Dialysis<br>Centre |
