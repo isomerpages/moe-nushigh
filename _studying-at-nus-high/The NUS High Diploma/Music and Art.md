@@ -32,8 +32,8 @@ The Joy of Learning doesn’t stop in the classrooms.<br>
 Find out about the informal curriculum
 that complements the main curriculum.
 
-<img src="/images/music7.jpg" style="width:30%;margin-right:15px;margin-left:25px;" align = "left">
-<img src="/images/music8.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img src="/images/music7.jpg" style="width:30%;margin-right:45px;margin-left:25px;" align = "left">
+<img src="/images/music8.jpg" style="width:25%;margin-right:25px;" align = "left">
 <img src="/images/music9.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
