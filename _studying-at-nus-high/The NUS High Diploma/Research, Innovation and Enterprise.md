@@ -10,8 +10,6 @@ The department of Research, Innovation and Enterprise (RIE) helms the Da Vinci P
 <img src="/images/rie2.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/rie3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<br clear="left">
-
 |  |  |  |
 |:---:|:---:|:---:|
 | To nurture students’ appreciation and understanding of the multi- and inter-disciplinary nature of work so that they can be polymaths in this fast-changing world. | To help students stay at the frontier of research and innovation. | To inculcate the observation, communication and thinking skills vital for research and innovation. |
