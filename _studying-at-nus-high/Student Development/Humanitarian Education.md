@@ -18,7 +18,9 @@ This is NUS High’s 6-year programme designed to nurture dispositions of a Huma
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Year 1<br>Family Bonding Day | Year 2<br>Knowing our Community | Year 3<br>Simulation Activity to Empathise with Elderly |
+
+<center>In the senior years, students are encouraged to initiate, plan and implement service or STEM projects with community partners. Together with our staff, they reflect and review on the effectiveness and learning outcomes of their projects, and share their experiences with their peers and juniors.</center>
 
 <img src="/images/humanitarian8.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/humanitarian9.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -28,7 +30,9 @@ This is NUS High’s 6-year programme designed to nurture dispositions of a Huma
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Humanitarian Education Project<br>Virtual Robotics Project | Humanitarian Education Project<br>Virtual Intergenerational Activity | Overseas Community<br>Involvement Projects |
+
+<center>Community Projects are also carried out by CCA groups, as our students use their talents and skills to benefit others.</center>
 
 <img src="/images/humanitarian11.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/humanitarian12.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -38,4 +42,4 @@ This is NUS High’s 6-year programme designed to nurture dispositions of a Huma
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Table Tennis Activities for Children from Children’s<br>Wishing Well | Chinese Orchestra Performing &<br>Befriending at Nursing Home | St John’s Ambulance Brigade<br>Befriending at NKF Dialysis<br>Centre |
