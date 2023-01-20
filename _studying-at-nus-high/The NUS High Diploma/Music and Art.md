@@ -57,7 +57,7 @@ that complements the main curriculum.
 <thead>
   <tr>
     <td class="tg-l3jo"><a href="https://youtu.be/XnWatXcclZI"><span style="text-decoration:none;color:#0894A0">A World We're Dreaming of</span></a><br><span style="font-weight:normal">(an original a cappella work by our Music Track Students)</span></td>
-    <td class="tg-l3jo"><a href="https://tinyurl.com/nushMAD"><span style="text-decoration:none;color:#0894A0">Game Show by Music and Art Ambassadors</span></a></td>
+    <td class="tg-l3jo"><a href="https://tinyurl.com/nushMAD"><span style="text-decoration:none;color:#0894A0">Game Show by Music and Art Ambassadors<br>broken link</span></a></td>
     <td class="tg-l3jo"><a href="https://youtu.be/D1Gts8tf5pY"><span style="text-decoration:none;color:#0894A0">"Fly High" - A Virtual Concert by NUS High School Orchestra</span></a></td>
     <td class="tg-l3jo"><a href="https://youtu.be/VpDDMT_-iqU"><span style="text-decoration:none;color:#0894A0">A Virtual Performance by NUS High School Orchestra</span></a></td>
     <td class="tg-l3jo"><a href="https://youtu.be/4L56sCsZeS0"><span style="text-decoration:none;color:#0894A0">Music and Art Department Virtual Concert</span></a></td>
