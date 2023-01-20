@@ -8,3 +8,12 @@ Why does the **world** need **Physics and Engineering?**<br>
 Our students find the answer through their curriculum.<br>
 Find out more about the exciting journey our students go through in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
 
+<p><a href="web"><img src="/images/physicsneng.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="web"><img src="/images/physicsneng.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="web"><img src="/images/physicsneng.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
