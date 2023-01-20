@@ -44,7 +44,7 @@ Students are taught health concepts and practical applications of fitness traini
 
 #### **Outdoor Education**
 
-<img src="/images/pe7.jpg" style="width:40%;margin-right:15px;" align = "right">
+<img src="/images/pe7.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 Students get to develop connections with the environment and the responsibility to safeguard it, thereby facilitating a lifelong pursuit of outdoor physical recreation.
 
