@@ -10,3 +10,32 @@ This is NUS High’s 6-year programme designed to nurture dispositions of a Huma
 
 <center>In the lower years, structured activities are organised to expose our students to the needs of the community and for them to acquire skills and competencies that will build them up as humanitarians.</center>
 
+<img src="/images/humanitarian5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/humanitarian6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/humanitarian7.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
+
+<img src="/images/humanitarian8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/humanitarian9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/humanitarian10.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
+
+<img src="/images/humanitarian11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/humanitarian12.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/humanitarian13.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
