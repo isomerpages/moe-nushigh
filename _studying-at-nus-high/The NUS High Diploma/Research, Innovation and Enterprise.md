@@ -62,4 +62,4 @@ In line with our school’s vision to nurture pioneers, humanitarians and innova
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Solid State Fan - Patented | Hackathon 2019 Champions | Engineering Interest Group |
