@@ -14,11 +14,26 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+
 | Journalism Club | Media Club | Robotics Club|
 |:---:|:---:|:---:|
 |  |  |  |
 
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 <center>Youth Flying Club</center>
+
+<img src="/images/cca.png" style="width:30%">
 
 #### **Performing Arts**
 
@@ -26,9 +41,21 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 | Drama Club | School Orchestra |
 |:---:|:---:|
 |  |  |
+
+<img src="/images/cca.png" style="width:30%;margin-right:55px;" align = "right">
+<img src="/images/cca.png" style="width:30%;margin-left:55px;" align = "left">
+
+<br clear="left">
+
 
 #### **Sports**
 
@@ -36,16 +63,40 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 | Netball | Outdoor Adventure Club | Table Tennis |
 |:---:|:---:|:---:|
 |  |  |  |
 
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 | Tennis | Track & Field | Water Sports |
 |:---:|:---:|:---:|
 |  |  |  |
+
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 #### **Uniformed Groups**
 
 | NCC Land | Scouts | St John Brigade |
 |:---:|:---:|:---:|
 |  |  |  |
+
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
