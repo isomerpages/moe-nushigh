@@ -26,7 +26,7 @@ Developing a sound character as a foundation.</center>
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Orientation Activities | CCE Lessons | Leadership Workshops |
 
 <center><b>Inspiring Others</b><br>
 Working with others to bring about positive change.</center>
@@ -40,7 +40,7 @@ Working with others to bring about positive change.</center>
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| House Activities | CCA Leaders | Leadership Camp |
 
 <center><b>Shaping Futures</b><br>
 Making a Difference to the Community.</center>
@@ -53,4 +53,4 @@ Making a Difference to the Community.</center>
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Orientation Leaders | House Leaders | Students’ Council |
