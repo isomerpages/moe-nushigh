@@ -32,17 +32,23 @@ There are 4 major components of our curriculum:
 
 All students will learn at least 3 types of sports, one from each category of territorial-invasion, net-barrier and striking-fielding.<br>Territorial-invasion: Football . Basketball . Netball . Ultimate Frisbee . Tchoukball . Touch Rugby Net-barrier: Badminton . Tennis Strike-fielding: Softball
 
+<br clear="left">
+
 #### **Physical Health and Fitness**
 
 <img src="/images/pe6.jpg" style="width:40%;margin-right:15px;" align = "left">
 
 Students are taught health concepts and practical applications of fitness training and gym safety. Students will gain an understanding of good health practices in nutrition, exercise, safety and hygiene.
 
+<br clear="left">
+
 #### **Outdoor Education**
 
 <img src="/images/pe7.jpg" style="width:40%;margin-right:15px;" align = "right">
 
 Students get to develop connections with the environment and the responsibility to safeguard it, thereby facilitating a lifelong pursuit of outdoor physical recreation.
+
+<br clear="left">
 
 #### **NAPFA/IPPT**
 
