@@ -45,5 +45,22 @@ that complements the main curriculum.
 #### **Video and Audio Links**
 <center>NUSHS Music and Art Department wishes everyone good health, and may you all be filled with inspirations, aspirations and dreams for our world.<br><b>Love Music and Art for Life!</b></center>
 
-
-	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l3jo{background-color:#B0B0B0;border-color:inherit;color:#0894A0;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-l3jo"><a href="https://youtu.be/XnWatXcclZI"><span style="text-decoration:none;color:#0894A0">A World We're Dreaming of</span></a><br><span style="font-weight:normal">(an original a cappella work by our Music Track Students)</span></td>
+    <td class="tg-l3jo"><a href="https://tinyurl.com/nushMAD"><span style="text-decoration:none;color:#0894A0">Game Show by Music and Art Ambassadors</span></a></td>
+    <td class="tg-l3jo"><a href="https://youtu.be/D1Gts8tf5pY"><span style="text-decoration:none;color:#0894A0">"Fly High" - A Virtual Concert by NUS High School Orchestra</span></a></td>
+    <td class="tg-l3jo"><a href="https://youtu.be/VpDDMT_-iqU"><span style="text-decoration:none;color:#0894A0">A Virtual Performance by NUS High School Orchestra</span></a></td>
+    <td class="tg-l3jo"><a href="https://youtu.be/4L56sCsZeS0"><span style="text-decoration:none;color:#0894A0">Music and Art Department Virtual Concert</span></a></td>
+  </tr>
+</thead>
+</table>
