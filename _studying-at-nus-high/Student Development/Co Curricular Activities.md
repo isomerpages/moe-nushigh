@@ -31,7 +31,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 
 <br clear="left">
 
-<center>Youth Flying Club</center>
+| Youth Flying Club |
+|:---:|
+|  |
 
 <img src="/images/cca7.png" style="width:30%">
 
