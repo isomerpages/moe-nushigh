@@ -28,7 +28,7 @@ There are 4 major components of our curriculum:
 
 #### **Sports and Games**
 
-<img src="/images/pe5.jpg" style="width:40%;margin-right:15px;" align = "right">
+<img src="/images/pe5.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 All students will learn at least 3 types of sports, one from each category of territorial-invasion, net-barrier and striking-fielding.<br>Territorial-invasion: Football . Basketball . Netball . Ultimate Frisbee . Tchoukball . Touch Rugby Net-barrier: Badminton . Tennis Strike-fielding: Softball
 
