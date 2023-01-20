@@ -14,7 +14,7 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca1.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca1.png" style="width:30%;margin-right:15px;margin-left:25px;" align = "left">
 <img src="/images/cca2.png" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/cca3.png" style="width:30%;margin-right:15px;" align = "left">
 
