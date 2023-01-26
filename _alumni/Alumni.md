@@ -22,6 +22,15 @@ description: ""
 #### **Alumni - Get Involved!**
 There are many ways that alumni can contribute to our NUS High community!
 
+<img src="/images/alumni1.png" style="width:15%;margin-right:95px;margin-left:35px;" align = "left">
+<img src="/images/alumni2.png" style="width:15%;margin-right:65px;" align = "left">
+<img src="/images/alumni3.png" style="width:15%;margin-right:55px;" align = "left">
+<img src="/images/alumni4.png" style="width:18%;margin-right:25px;" align = "left">
 
+<br clear="left">
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| Sharing of university, army, interview, scholarship experiences | Assisting as instructors/trainers in various disciplines | Helping the school in outreach activities | Providing Leads for Research Projects / Internship opportunities |
 
 #### **Keep In Touch!**
