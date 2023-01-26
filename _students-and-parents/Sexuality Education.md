@@ -86,3 +86,11 @@ b.Character and Citizenship Education (CCE)
 |  | 3<br>(60 mins) | - Examine issues related to abortion and the impact of sexually transmitted infections (STIs) <br>- Understand that one has to make responsible decisions for both self and others <br>- Understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>- Know how to support friends or others who may be pregnant or have STIs  | Semester 2 |
 | eTeens Program for Year 5:  | Mass Talk by HPB appointed vendor | - Awareness of the different STI and HIV<br>- Modes of transmission for STI and HIV<br>- Modes of protection against infection, specifically abstinence and the correct use of condom<br>- Consequences and impact of STI/HIV<br>- State the ways of managing the challenges of the impact | Semester 2 |
 |
+
+**Year 6** 
+
+| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD |
+|:---:|:---:|---|:---:|
+| Lessons about Love (Part 7) | 4<br>(60 mins) | - identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship <br>- appreciate that one can emerge stronger despite having gone through a breakup<br>- explore beliefs about marriage<br>- know the possible psychological impact on children experiencing parental separation or divorce<br>- recognise the importance of having family support for a relationship<br>- aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>- appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships | Semester 2 |
+|  | 6<br>(60 mins) | - recognise that personal decisions on how one displays own affections in public can affect others<br>- discern the impact of new media on relationship building | Semester 2 |
+| 
