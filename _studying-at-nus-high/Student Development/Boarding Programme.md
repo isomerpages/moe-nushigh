@@ -86,12 +86,20 @@ D. Giro Schedule for 2023 Boarding Fee
 E.  Financial Assistance<br>
 To assist financially needy students to defray the cost of their Year 5 residential stay, NUS High School will provide a subsidy for students who are currently under the Ministry of Education Financial Assistance Scheme or who qualify according to its eligibility criteria.
 
+#### **Useful Forms**
 
 <img src="/images/boarding10.png" style="width:25%">
-<center><b>Useful Forms</b></center>
 
 1\. [Leave and Late Return Application Form](/files/form1.pdf)<br>
 2\. [Student Accommodation Application Form](/files/form2.pdf)<br>
 3\. [Boarding Resident Application Form](/files/form3.pdf)<br>
 4\. [Adult Guest Application Form (Student Dorm)](/files/form4.pdf)<br>
 5\. [Adult Guest Application Form (Apartment)](/files/form5.pdf)
+
+#### **Where to find us**
+
+<center>NUS High Boarding School<br>40 Clementi Avenue 1<br>Singapore 129959</center>
+
+<img src="/images/boarding11.png" style="width:75%">
+
+<center>General Hotline:<br>Tel: +65-65161741 Fax: +65-67780225<br>Email: boarding@highsch.nus.edu.sg</center>
