@@ -41,4 +41,9 @@ b.Character and Citizenship Education (CCE)
 ##### **At NUS High School, the following lessons from the Years 1- 6 Growing Years Programme will be taught in 2022:**
 **Year 1**
 
-
+| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD |
+|:---:|:---:|---|:---:|
+| Respectful Relationships and Safety | 1<br>(60 mins) | - Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>- Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>- Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>- Understand what dating is, and recognise that the readiness and interest in dating vary among individuals   | Semester 2  |
+|  Respectful Relationships and Safety |  2<br>(60 mins) | - Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Semester 2   |
+|   Respectful Relationships and Safety |  3<br>(60 mins) | - Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>- Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)  |  Semester 2   |
+|
