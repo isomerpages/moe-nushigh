@@ -32,3 +32,25 @@ parent-child conversation and strengthen positive parent-child relationship.<br>
 |:---:|:---:|
 | **Contributing:**<br>_Connect and collaborate with the school to avail platforms and opportunities for NUS High students to hear and learn from experts and individuals of their fields_<br>**- Research and mentorship<br>- Internship opportunities and experiences<br>- Additional chaperone for industrial visits, learning journeys<br>- Conducting life-skills workshops<br>- Outreach and sharing to primary schools** | **Equipping:**<br>_Build and deepen parent-child conversation and strengthen positive parent-child relationship_<br>**- Key School talks<br>- Parenting Workshops<br>- Parent-Teacher Meetings** |
 |
+
+#### **Bonding Activities among Parents**
+Activities within the Parents Support Group revolve around 4 themes - Do Good Together, Have Fun Together, Exercise Together, Makan Together! Write to us if you would like to join in some of these activities as well!
+
+<img src="/images/psg5.jpg" style="width:32%;margin-right:5px;" align = "left">
+<img src="/images/psg6.jpg" style="width:32%;margin-right:5px;" align = "left">
+<img src="/images/psg7.jpg" style="width:32%;margin-right:5px;" align = "left">
+
+<br clear="left">
+
+#### **Parents - Be Part of our NUS High Family**
+Please fill in the relevant sections via this **[link](https://tinyurl.com/nushpsg21)** to indicate your interest. For PSG-related queries, you may also write into Ms Philomena Loh at **[nhslohp@nus.edu.sg](mailto:nhslohp@nus.edu.sg)**.  
+
+Stay connected with us too, via our school Facebook, as well as emails you may receive from the PSG Committee sent in the year, on events or workshops you can be part of.
+
+#### **Keep In Touch!**
+
+<img src="/images/psg10.jpg" style="width:5%;margin-right:15px;" align = "left">[nhslohp@nus.edu.sg](mailto:nhslohp@nus.edu.sg)
+<br clear="left">
+<img src="/images/psg8.jpg" style="width:5%;margin-right:15px;" align = "left">[https://www.linkedin.com/school/nushigh/](https://www.linkedin.com/school/nushigh/)
+<br clear="left">
+<img src="/images/psg9.jpg" style="width:5%;margin-right:15px;" align = "left">[facebook/NUSHighSchool/](https://www.facebook.com/NUSHighSchool/)
