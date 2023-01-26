@@ -11,7 +11,7 @@ For Year 1 admission in 2023, 100% of the places are offered via the DSA-Sec Exe
 
 If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2022 to the third day of release of PSLE results.
 
-For Year 3 admission in 2023, the registration is from 15 to 29 August 2022 at [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b).
+For Year 3 admission in 2023, the registration is from 15 to 29 August 2022 at [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) **expired form**.
 
 ##### **2\. How old must an applicant be to qualify for admission?**
 
@@ -31,10 +31,10 @@ For Year 1 DSA-Sec applicants:<br>
 Before the Selection Camp: The details for submission of the portfolio including scanned copies of P4, P5 and P6 semester 1 school report books, achievements, competitions, awards and scholarships certificates will be announced after the Selection Tests. Only applicants who have been shortlisted for the DSA Selection Camp are required to do so.
 
 For Year 3 Admission applicants:<br>
-Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) by 29 August 2022. All Year 3 Admission applicants are required to do so.
+Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) **expired form** by 29 August 2022. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
-From 1 to 14 Nov 2022: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) by 14 Nov 2022. All SIE applicants are required to do so.
+From 1 to 14 Nov 2022: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form** by 14 Nov 2022. All SIE applicants are required to do so.
 
 As supporting documents are non-returnable, the applicant is advised to provide only scanned copies of the original documents.
 
@@ -148,7 +148,7 @@ Anything that the child does to show their passion and strength in math and scie
 
 ##### **24\. Does NUSHS participate in the Secondary One (S1) posting exercise?**
 
-No. NUSHS does not participate in the S1 posting exercise. Students who wish to participate in the NUSHS SIE must apply online at our [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6).
+No. NUSHS does not participate in the S1 posting exercise. Students who wish to participate in the NUSHS SIE must apply online at our [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**.
 
 ##### **25\. Do I need to participate in the S1 posting exercise if I’ve applied for NUSHS SIE?**
 
@@ -160,13 +160,13 @@ Yes. You may apply for SIE. Selection of applicants in the SIE will be based on 
 
 ##### **27\. When can I register for NUSHS SIE?**
 
-You may indicate your interest & register online at [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) and upload your scanned documents from 1 November 2022 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
+You may indicate your interest & register online at [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form** and upload your scanned documents from 1 November 2022 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
 
 ##### **28\. Do I need to re-register online for SIE if I have already completed the online application for DSA-Sec via the MOE Centralised Online Portal?**
 
-Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) from 1 to 14 November 2022.
+Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via [NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form** from 1 to 14 November 2022.
 
-If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the [PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6) from the first to the third day of release of PSLE results.
+If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the [PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6) **expired form** from the first to the third day of release of PSLE results.
 
 ##### **29\. Can I request for an e-interview for SIE if I am overseas during the SIE interview period?**
 
@@ -192,4 +192,4 @@ As NUS High School is not in the S1 Posting Exercise, there is no cut-off point 
 
 The SIE will not be opened. 
 
-Other information related to University and Career options, University Admissions can be found [here](https://www.nushigh.edu.sg/student-development-1/university-admissions-and-career-guidance).
+Other information related to University and Career options, University Admissions can be found [here](https://www.nushigh.edu.sg/student-development-1/university-admissions-and-career-guidance) **broken link**.
