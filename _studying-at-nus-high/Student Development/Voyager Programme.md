@@ -14,3 +14,36 @@ NUS High School has established exchange and research programme collaborations w
 
 <center>Student Exchange Programmes are organised with overseas partner schools. These programmes involve our students visiting these partner schools as well as hosting students from these schools when they visit Singapore. For some of these programmes, our students also participate in math competitions or scientific research with partner schools.</center>
 
+<img src="/images/voyager4.jpg" style="width:30%;margin-right:5px;margin-left:35px;" align = "left">
+<img src="/images/voyager5.jpg" style="width:33%;margin-right:5px;" align = "left">
+<img src="/images/voyager6.jpg" style="width:30%;margin-right:5px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Mahidol Wittayanusorn School<br>Bangkok, Thailand | Fazekas Mihaly Primary<br>& Secondary School, Hungary | Korea Science Academy<br>of KAIST, South Korea |
+
+<center>Overseas science fairs and competitions give our students the opportunity to network with other young researchers and budding scientists.</center>
+
+<img src="/images/voyager7.jpg" style="width:30%;margin-right:5px;margin-left:15px;" align = "left">
+<img src="/images/voyager8.jpg" style="width:33%;margin-right:5px;" align = "left">
+<img src="/images/voyager9.jpg" style="width:30%;margin-right:5px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Beijing Aerospace & Aviation<br>Museum, Beihang University of<br>Aeronautics and Astronautics | Wales, United Kingdom<br>Studies in Biology (Diversity) &<br>Physical Geography | XLAB, Gottingen, Germany<br>Studies in Neurophysiology,<br>Radioactivity, Organic Chemistry |
+
+<center>Our students participate in numerous science fairs and competitions overseas. This gives our students the opportunity to network with other young researchers and budding scientists.</center>
+
+<img src="/images/voyager10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
+<img src="/images/voyager11.jpg" style="width:30%;margin-right:5px;" align = "left">
+<img src="/images/voyager12.jpg" style="width:34.5%;margin-right:5px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Korea Science Academy of<br>KAIST Science Fair, South Korea | Intel International Science &<br>Engineering Fair in USA | International Chemistry<br>Tournament in Russia |
