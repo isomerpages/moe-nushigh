@@ -47,3 +47,15 @@ b.Character and Citizenship Education (CCE)
 |  Respectful Relationships and Safety |  2<br>(60 mins) | - Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Semester 2   |
 |   Respectful Relationships and Safety |  3<br>(60 mins) | - Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>- Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)  |  Semester 2   |
 |
+
+**Year 2**
+
+| UNIT | LESSONS / DURATION | Lesson Objectives |  |
+|:---:|:---:|---|:---:|
+| Respectful Relationships and Safety | 1<br>(60 mins) | - Know that one’s understanding of gender roles should not be limited by gender stereotypes. <br>- Develop an appreciation of one’s own unique qualities and characteristics as a male or female. <br>- Understand what sexual orientation entails. | Semester 1  |
+|  | <br>2A<br>(60 mins) | - Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline. | Semester 1  |
+| Respectful Relationships and Safety | 2B<br>(60 mins) | - Recognise the importance of self-respect and respect for others when relating to members of the opposite gender. <br>- Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online. | Semester 1  |
+|
+
+**Year 3**
+
