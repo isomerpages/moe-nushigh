@@ -34,3 +34,9 @@ There are many ways that alumni can contribute to our NUS High community!
 | Sharing of university, army, interview, scholarship experiences | Assisting as instructors/trainers in various disciplines | Helping the school in outreach activities | Providing Leads for Research Projects / Internship opportunities |
 
 #### **Keep In Touch!**
+
+<img src="/images/alumni5.png" style="width:3%;margin-right:15px;" align = "left"> [nhsalumni@highsch.nus.edu.sg](mailto:nhsalumni@highsch.nus.edu.sg)
+
+<img src="/images/alumni6.png" style="width:3%;margin-right:15px;" align = "left"> [https://www.linkedin.com/school/nushigh/](https://www.linkedin.com/school/nushigh/)
+
+<img src="/images/alumni7.png" style="width:3%;margin-right:15px;" align = "left"> drop us an email to be invited into the [alumni fb group!](https://www.facebook.com/NUSHighSchool/)
