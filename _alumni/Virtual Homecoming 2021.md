@@ -27,9 +27,9 @@ Please note that we are also taking the opportunity to refresh our alumni contac
 **Registration Link for ex-NUS High Staff:** [https://tinyurl.com/NUSHFam2021](https://tinyurl.com/NUSHFam2021)[](https://tinyurl.com/NUSHFam2021)
 
 **Padlet Links to upload photos/videos**:<br>
-*   Class of 2008 – 2012: [https://tinyurl.com/NUSH20082012](https://tinyurl.com/NUSH20082012)
-*   Class of 2013 – 2016: [https://tinyurl.com/NUSH20132016](https://tinyurl.com/NUSH20132016)
-*   Class of 2017 – 2020: [https://tinyurl.com/NUSH20172020](https://tinyurl.com/NUSH20172020)
+*   Class of 2008 – 2012: [https://tinyurl.com/NUSH20082012](https://tinyurl.com/NUSH20082012) **broken link**
+*   Class of 2013 – 2016: [https://tinyurl.com/NUSH20132016](https://tinyurl.com/NUSH20132016) **broken link**
+*   Class of 2017 – 2020: [https://tinyurl.com/NUSH20172020](https://tinyurl.com/NUSH20172020) **broken link**
 
 **Linking up with ex-staff from NUS High School:** [https://tinyurl.com/findmycher](https://tinyurl.com/findmycher)
 
