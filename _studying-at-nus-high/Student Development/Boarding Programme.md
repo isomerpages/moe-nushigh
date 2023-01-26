@@ -144,12 +144,12 @@ Daily breakfast & dinner, with the inclusion of lunch on weekends and MOE term h
 | Sun & Holidays | 8:00am – 9:30am | 12:00nn – 2:00pm | 6:00pm – 7:30pm |
 |
 
-<img style="width:25%" src="/images/boarding17.png">
+<img style="width:20%" src="/images/boarding17.png">
 
 #### **Academic Support & Pastoral Care**
 The Boarding School provides a protected time for boarders to do their homework during term time in the form of compulsory "Study Time". Study time is from Monday to Thursday, 9pm to 10:30pm and boarders are only exempted on weekends and scheduled School Holidays.
 
-<img style="width:25%" src="/images/boarding18.png">
+<img style="width:20%" src="/images/boarding18.png">
 
 #### **Common Areas**
 Apart from the various facilities within the Boarding School, various sports facilities like the running track, soccer field, basketball court, tennis courts, badminton courts, netball courts, outdoor fitness station and mini amphitheater in the School are also available for use.
