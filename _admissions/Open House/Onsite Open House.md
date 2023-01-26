@@ -38,7 +38,7 @@ Additional information:<br>
 6\.  Our School car park is NOT open to the public. Nearest public car park is the HDB car park at Casa Clementi (Block 416 - 425), which is about 5 minutes walk away.  
 
 7\.  For more information, please click and download the e-brochures below:<br>
-a\. [NUS High School Information Brochure](https://www.nushigh.edu.sg/qql/slot/u90/e-Open%20House%202022/2022%20NUS%20High%20School%20Information%20Brochure%201_compressed.pdf) **file bigger than 5mb**
+a\. [NUS High School Information Brochure](https://www.nushigh.edu.sg/qql/slot/u90/e-Open%20House%202022/2022%20NUS%20High%20School%20Information%20Brochure%201_compressed.pdf) **file bigger than 5mb**<br>
 b\. [2022 NUS High School Open House Brochure](/files/openhouse2.pdf)
 
 <img src="/images/openhse1.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -51,4 +51,3 @@ b\. [2022 NUS High School Open House Brochure](/files/openhouse2.pdf)
 <img src="/images/openhse4.jpg" style="width:40%;margin-left:55px;" align = "left">
 
 <br clear="left">
-
