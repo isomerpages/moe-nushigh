@@ -14,7 +14,7 @@ _\*Note that you will be brought to a zoom registration page, before you are ema
 
 | Time | Cohorts Meeting During this Slot |
 |:---:|:---:|
-| <br><br>10.00 - 11.15 am | **[Class of 2008](https://tinyurl.com/NUSH-2008VHC)<br>[Class of 2009](https://tinyurl.com/NUSH-2009VHC)<br>[Class of 2013](https://tinyurl.com/NUSH-2013VHC)<br>[Class of 2014](https://tinyurl.com/NUSH-2014VHC)<br>[Class of 2015](https://tinyurl.com/NUSH-2015VHC)** |
-| 11.00 am - 12.15 pm | **[Class of 2019](https://tinyurl.com/NUSH-2019VHC)  <br>[Class of 2020](https://tinyurl.com/NUSH-2020VHC)**|
-|  <br><br>7.30 - 8.45pm |  **[Class of 2010](https://tinyurl.com/NUSH-2010VHC)<br>[Class of 2011](https://tinyurl.com/NUSH-2011VHC)<br>[Class of 2012](https://tinyurl.com/NUSH-2012VHC)<br>[Class of 2016](https://tinyurl.com/NUSH-2016VHC)<br>[Class of 2017](https://tinyurl.com/NUSH-2017VHC)<br>[Class of 2018](https://tinyurl.com/NUSH-2018VHC)**|
+| <br><br>10.00 - 11.15 am | **[Class of 2008](https://tinyurl.com/NUSH-2008VHC) broken link<br>[Class of 2009](https://tinyurl.com/NUSH-2009VHC) broken link<br>[Class of 2013](https://tinyurl.com/NUSH-2013VHC) broken link<br>[Class of 2014](https://tinyurl.com/NUSH-2014VHC) broken link<br>[Class of 2015](https://tinyurl.com/NUSH-2015VHC) broken link** |
+| 11.00 am - 12.15 pm | **[Class of 2019](https://tinyurl.com/NUSH-2019VHC) broken link <br>[Class of 2020](https://tinyurl.com/NUSH-2020VHC) broken link**|
+|  <br><br>7.30 - 8.45pm |  **[Class of 2010](https://tinyurl.com/NUSH-2010VHC) broken link<br>[Class of 2011](https://tinyurl.com/NUSH-2011VHC) broken link<br>[Class of 2012](https://tinyurl.com/NUSH-2012VHC) broken link<br>[Class of 2016](https://tinyurl.com/NUSH-2016VHC) broken link<br>[Class of 2017](https://tinyurl.com/NUSH-2017VHC) broken link<br>[Class of 2018](https://tinyurl.com/NUSH-2018VHC) broken link**|
 |
