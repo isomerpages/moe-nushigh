@@ -26,3 +26,13 @@ third_nav_title: Student Development
 |  |  |  |  |
 
 <center>Special features introduced to support the programme are enrichment activities, extended time and space for research, extended leadership opportunities and student initiated activities.<br><br>The year starts with Games Day, an orientation activity for boarders to come together and get to know more new friends. Throughout the course of the year, Inter-Cluster Sports & Games see boarders participating in Ultimate Frisbee, Tchoukball, Bridge and other activities. There are also workshops that Boarding Leaders plans and executes. These include workshops where the Boarding Leaders teach their peers cooking, balloon-sculpting, origami, Chinese calligraphy for Chinese New Year celebrations etc. Through these platforms, we hope to develop the boarders' abilities beyond the classroom and allow them to discover their hidden talents and other potentials.</center>
+
+<img src="/images/boarding7.png" style="width:30%;margin-right:5px;margin-left:15px;" align = "left">
+<img src="/images/boarding8.png" style="width:36%;margin-right:5px;" align = "left">
+<img src="/images/boarding9.png" style="width:30%;margin-right:5px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Student Initiated Activities | Boarding Leaders | Enrichment Activities |
