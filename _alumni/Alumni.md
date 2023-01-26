@@ -20,7 +20,8 @@ description: ""
 <iframe width="700" height="350" src="https://www.youtube.com/embed/jW2rqc-lZPs" title="Catching up with UK Alumni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### **Alumni - Get Involved!**
+There are many ways that alumni can contribute to our NUS High community!
+
 
 
 #### **Keep In Touch!**
-
