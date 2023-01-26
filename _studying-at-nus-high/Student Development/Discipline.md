@@ -14,3 +14,16 @@ The school’s discipline policy aims to do the following:
 |<div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; border-radius: 50%; background-color: rgb(122, 204, 200); width: 105px; height: 102px; display: inline-block;"><img src="/images/discipline3.png" style="width:85%"><blockquote style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none;"></blockquote></div>| Maintain order and cohesion within the school community.|<div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; border-radius: 50%; background-color: rgb(122, 204, 200); width: 105px; height: 102px; display: inline-block;"><img src="/images/discipline4.png" style="width:75%"><blockquote style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none;"></blockquote></div>| Promote self-responsibility and self-discipline in NUS High students.
 |
 
+The School Discipline Policy is guided by **Restorative Practices**, an approach which enhances Teacher-Student Relationship and aims to make positive changes in students’ lives and attitudes as well as to encourage them to take responsibility for their actions. In addition, the School Discipline Policy also employs **Logical Consequence** which enables students to understand how their choices will create a particular situation for themselves. This will further empower the student to accept ownership of consequence/s that is related to their behavior.
+
+<img src="/images/discipline5.png" style="width:15%">
+
+In handling disciplinary issues, NUS High aims to achieve the following outcomes:
+
+a) Building relationships<br>
+Promoting a positive and trusting relationship so as to enhance the social and academic development of our students.
+
+b) Repairing relationships Recognising that wrongdoing is a violation of the trust that others have placed on us; and taking responsibility to amend one’s wrong actions so as to rebuild relationships.
+
+c) Reaffirming relationships<br>
+Developing strong and positive relationships to prevent incidents of inappropriate behavior from occurring again.
