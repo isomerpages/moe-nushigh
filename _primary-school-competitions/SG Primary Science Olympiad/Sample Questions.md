@@ -86,3 +86,44 @@ Answer: D
 Answer: D
 
 #### **Sample Questions for Section B**
+For each of the questions in this section, one or more of the three numbered statements **1** to **3** may be correct.
+
+Decide whether each of the statements is or is not correct. (You may find it helpful to put a tick against the statement that you consider to be correct.)
+
+The responses **A** to **D** should be selected on the basis of
+
+| A | B | C | D |
+|:---:|:---:|:---:|:---:|
+| 1, 2 and 3<br>are correct | 1 and 2 only<br>are correct | 2 and 3 only<br>are correct | 1 only<br>is correct |
+|
+
+**No other combination of statements** is used as a correct response.<br>
+Each question is worth 2 marks. No mark will be deducted for a wrong answer.
+
+1\. Which of the following statement(s) is a hypothesis (are hypotheses)?
+
+1\. If KMnO4 crystals are heated above the decomposition temperature, 240 oC, they will give off oxygen gas.<br>
+2\. If pure gold had a density of 0.8 g/cm3, instead of 22 g/cm3, then it would float on water.<br>
+3\. If iron were as easy to extract from its ores as copper, then its use would have begun much earlier in history.
+
+Answer: D
+
+2\. What can we infer when an object floats on water?
+
+1\. The object must be less dense than water.<br>
+2\. The object must be able to float in oil.<br>
+3\. The object must be submerged with half its volume in water.
+
+Answer: D
+
+3\. The diagram below shows the circulatory system in a human body.
+
+<img src="/images/sample1.jpg" style="width:25%">
+
+After a lunch meal, what happens to blood vessel **M** when compared with that of blood vessel **N**?
+
+1\. Blood vessel **M** carries more oxygen.<br>
+2\. Blood vessel **M** carries less carbon dioxide.<br>
+3\. Blood vessel **M** carries more digested food.
+
+Answer: B
