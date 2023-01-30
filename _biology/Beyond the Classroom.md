@@ -13,8 +13,8 @@ description: ""
 | **Biology Interest Group** aims to gather like-minded students and increase interest and passion in Biology, both inside and outside of the school community. Students join on a voluntary basis and are given platforms to pursue their passion through organising talks, sharing sessions and learning journeys for enrichment beyond the formal curriculum. | **Participating in External Challenges** such as online international competitions provide platforms for the students to exercise their interest in Biology beyond the curriculum. These are also good opportunities to gauge their standard with peers locally and overseas. |
 |
 
-<img src="/images/biology7.jpg" style="width:53%" align=left>
-<img src="/images/biology8.jpg" style="width:45%" align=right>
+<img src="/images/biology7.jpg" style="width:49%" align=left>
+<img src="/images/biology8.jpg" style="width:47%" align=right>
 
 <br clear="left">
 
