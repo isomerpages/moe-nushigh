@@ -3,3 +3,20 @@ title: Careers
 permalink: /careers/
 description: ""
 ---
+The NUS High School provides a six-year high school education for talented students who have a strong inclination in Mathematics and Science. The curriculum will also incorporate a balanced program emphasizing the importance of the languages, arts and humanities.  
+  
+The specialized nature of the NUS High School curriculum requires teachers who are able to interest their students, and motivate and stretch them to greater heights. The teachers must be passionate about their subjects and the belief in a program for the highly able and are well-rounded in pedagogy and have the necessary traits that would provide a conducive environment for learning. The teachers would need to nurture their students both in the affective and cognitive areas. The teachers would need to understand their students’ needs and set high standards for individual excellence for their students.  
+  
+The School seeks TEACHERS who can encourage and support the development of creative and independent learners. Applicants from education and other sectors will be equally welcome.   
+  
+Successful candidates will participate in the planning and development of an integrated, cross-disciplinary six-year curriculum. Teachers should be effective within and outside the classroom, adopting innovative and challenging methodologies such as problem-based-learning and creative-problem-solving, and able to inspire interactive learning and peer-tutoring. Teachers are also expected to mentor and guide, and to undertake CCA and other responsibilities within the framework of providing a holistic education for the students.   
+  
+Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
+
+#### **Acamic Position**
+* [PE Teacher][](/files/peteacher.pdf)
+
+#### **Non-Academic Position**
+* [Assistant Executive, Finance](/files/nonacademicposition1.pdf)
+* [Assistant Manager, Admissions & Recruitment](/files/nonacademicposition2.pdf)
+* [Temp Asst Executive (Alumni Relations and Outreach)](/files/nonacademicposition3.pdf)
