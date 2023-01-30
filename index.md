@@ -23,6 +23,13 @@ sections:
           description: ""
           url: /news-and-events/recent-highlights/strengthening-partnerships/
   - infobar:
+      title: Careers
+      subtitle: Nus High school
+      description: The School seeks TEACHERS who can encourage and support the
+        development of creative and independent learners.
+      button: more info
+      url: /careers/
+  - infobar:
       title: News & Events
       subtitle: Recent Highlights
       description: Find out more about what's going on in NUS High!
