@@ -8,39 +8,39 @@ third_nav_title: Results
 Raffles Institution
 
 #### **Distinction**
-Pui Ching Middle School
-Anglo-Chinese School (Independent)
-Philippine Science High School Main Campus
-Batory High School
-Dunman High School
-Fazekas Mihály Secondary Grammar School
-John Monash Science School
-Lycée Champollion
-Korea Science Academy of KAIST
-Hwa Chong Institution
-North Carolina School of Science and Mathematics
+Pui Ching Middle School<br>
+Anglo-Chinese School (Independent)<br>
+Philippine Science High School Main Campus<br>
+Batory High School<br>
+Dunman High School<br>
+Fazekas Mihály Secondary Grammar School<br>
+John Monash Science School<br>
+Lycée Champollion<br>
+Korea Science Academy of KAIST<br>
+Hwa Chong Institution<br>
+North Carolina School of Science and Mathematics<br>
 NUS High School of Mathematics & Science
 
 #### **Commendation**
-Lyceum Physical Technical High School
-Shijiazhuang No. 2 Middle School
-Nanyang Girls' High School
-Tokyo Tech High School of Science & Technology
-Raffles Girls’ School (Secondary)
-Illinois Mathematics & Science Academy
-Yokohama Science Frontier High School
-Taipei Municipal Jianguo High School
-Shanghai Yan'an Junior Middle School
-Penang Chinese Girls High School
-Lycée Descartes, Tours
-Victoria Junior College
-The High School Affiliated to Renmin University of China
-National Junior College
+Lyceum Physical Technical High School<br>
+Shijiazhuang No. 2 Middle School<br>
+Nanyang Girls' High School<br>
+Tokyo Tech High School of Science & Technology<br>
+Raffles Girls’ School (Secondary)<br>
+Illinois Mathematics & Science Academy<br>
+Yokohama Science Frontier High School<br>
+Taipei Municipal Jianguo High School<br>
+Shanghai Yan'an Junior Middle School<br>
+Penang Chinese Girls High School<br>
+Lycée Descartes, Tours<br>
+Victoria Junior College<br>
+The High School Affiliated to Renmin University of China<br>
+National Junior College<br>
 The Center for the Development of the Gifted and Talented, The Hong Kong University of Science and Technology.
 
 #### **Special Award (Presentation)**
-North Carolina School of Science and Mathematics
-Philippine Science High School Main Campus
+North Carolina School of Science and Mathematics<br>
+Philippine Science High School Main Campus<br>
 Raffles Girls’ School (Secondary)
 
 #### **Special Award (Creativity)**
