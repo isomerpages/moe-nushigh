@@ -14,7 +14,7 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Acamic Position**
-* [PE Teacher][](/files/peteacher.pdf)
+* [PE Teacher](/files/peteacher.pdf)
 
 #### **Non-Academic Position**
 * [Assistant Executive, Finance](/files/nonacademicposition1.pdf)
