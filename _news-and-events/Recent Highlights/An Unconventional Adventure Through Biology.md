@@ -4,7 +4,7 @@ permalink: /news-and-events/recent-highlights/unconventional-adventure-through-b
 description: ""
 third_nav_title: Recent Highlights
 ---
-<img src="/images/highlights6.png" style="width:35%" align=left>
+<img src="/images/highlights6.png" style="width:45%" align=left>
 
 <br clear="left">
 
