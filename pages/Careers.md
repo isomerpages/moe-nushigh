@@ -20,3 +20,12 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Assistant Executive, Finance](/files/nonacademicposition1.pdf)
 * [Assistant Manager, Admissions & Recruitment](/files/nonacademicposition2.pdf)
 * [Temp Asst Executive (Alumni Relations and Outreach)](/files/nonacademicposition3.pdf)
+
+Only shortlisted candidates will be notified. <br>
+Human Resource <br>
+NUS High School of Mathematics and Science <br>
+20 Clementi Avenue 1 <br>
+Singapore 129957 <br>
+Email:  [hr@highsch.nus.edu.sg](mailto:hr@highsch.nus.edu.sg)
+
+You may download and use the [Application Form](/files/Recruitment%20Application%20Form.pdf)
