@@ -44,17 +44,17 @@ third_nav_title: Recent Highlights
 |:---:|:---:|
 | 31 May 2021<br>Covid-19 Vaccination Exercise for Students | 05 Apr 2021<br>NUS High Team Emerges<br> Champions at National Science<br> Challenge |
 
-<a href="webhere"><img src="/images/recenthighlights11.jpg" style="width:36%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/2021-nus-high-eopenhouse/"><img src="/images/recenthighlights11.jpg" style="width:36%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights12.jpg" style="width:46.5%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/winner-of-splash-awards-2019/"><img src="/images/recenthighlights12.jpg" style="width:46.5%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
 | 03 May 2021<br>Come, Join us for the 2021 NUS High e-Open House! | 02 Jun 2020<br>Winner of Splash Awards 2019 writes an article on HealthTech |
 
-<a href="webhere"><img src="/images/recenthighlights13.jpg" style="width:46.5%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/alumnus-journey-to-conservation/"><img src="/images/recenthighlights13.jpg" style="width:46.5%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights14.jpg" style="width:36.5%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/receiving-gold-for-moe-innergy-2019/"><img src="/images/recenthighlights14.jpg" style="width:36.5%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
