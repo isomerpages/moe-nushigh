@@ -15,3 +15,4 @@ Participants are encouraged to read on topics provided in the following syllabus
 | <br>Chemistry | - Properties of Matter<br>- Phase transformations (solid/liquid/gas)<br>- Physical, chemical and biological transformations |
 | <br><br>Physics | - Mechanics (motion of objects, static, fluid, gas)<br>- Electricity and magnetism<br>- Thermal properties (temperature, conduction, convection and radiation)<br>- Light (properties, vision colour)<br>- Forces (magnetic, gravitation, frictional force)<br>- Energy and energy change (kinetic, potential, renewable, energy conversions) |
 | <br>Earth Science | - General environmental issue (deforestation, managing natural resource, pollution, water and carbon cycle)<br>- Solar system (rotation of earth and moon, earth and moon eclipses)<br>- The planet earth (structure, surface, climate, seasons, gravitation, wind) |
+|
