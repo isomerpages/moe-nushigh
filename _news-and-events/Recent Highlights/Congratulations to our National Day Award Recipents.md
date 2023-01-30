@@ -4,10 +4,21 @@ permalink: /news-and-events/recent-highlights/congratulations-to-our-national-da
 description: ""
 third_nav_title: Recent Highlights
 ---
-We heartily congratulate our teachers who have received the National Day Awards and thank these teachers for their dedication and professionalism - they have made a difference!
+<img src="/images/recenthighlights1.jpg" style="width:85%">
 
-"The best part of having stayed in the fraternity for more than 25 years is that I now sit on the shoulders of Time. I see what my students have become way beyond their school years. They have found their niche and have become successful in their own spheres of influence and areas of life." Mrs Soong-Tan Seck Cher from the Chemistry Department reflects on what has encouraged her heart in her years of service as an educator.
+In August, a few of our staff (including our Principal Ms Soh Lai Leng) received recognition for their service through the National Day Awards. We would like to congratulate them and thank them for their service and contributions to education.  
+  
+Public Administration Medal (Silver): Ms Soh Lai Leng Magdalen (Principal)  
+Commendation Medal: Mr Alan Teo Chun Siong (Head, Infrastructure)  
+Long Service Medal:  
+Ms Angela Loh Lai Kiang (Head, Physical Education)  
+Mrs Khoo-Teo Yew Mei Grace (Teacher, Chemistry)  
+Mrs Rebekah Yeo-Lim Ing Chieh (Head, Humanities)                        
+  
+In addition, we also want to congratulate our BoG Chairman, Mr Seah Moon Ming, for being awarded the Meritorious Service Medal. Indeed, the award is well-deserved for his contributions to Singapore.
 
-We heartily congratulate our teachers who have received the National Day Awards: Mr Ng Chee Loong received the Commendation Medal for his commendable performance and conduct, competence and devotion to duty, whilst Mr Clifton Soh, Mr Joel Teoh, Mr Hariz Tan, Mrs Elizabeth Mariko Gomez and Mrs Soong-Tan Seck Cher received the Long Service Award in recognition of their irreproachable character for 25 or more years of service.
+<img src="/images/highlight1.jpg" style="width:45%" align=left>
 
-We thank these teachers for their dedication and professionalism - they have made a difference!
+<br clear="left">
+
+Congratulations and thank you!
