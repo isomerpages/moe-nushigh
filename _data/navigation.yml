@@ -17,7 +17,12 @@ links:
         url: /news-and-events/recent-highlights/
       - title: Primary School Competitions
         url: /news-and-events/primary-school-competitions/mathematical-olympiad-of-sg/news-and-updates/
-      - title: International & National Event
+  - title: International & National Event
+    url: /news-and-events/international-and-national-events/sg-international-math-challenge/
+    sublinks:
+      - title: Singapore International Math..
+        url: /news-and-events/international-and-national-events/sg-international-math-challenge/
+      - title: Sustainable Youth Developme..
+        url: /news-and-events/international-and-national-events/sustainable-youth-development-convention/
+      - title: Centre of Curriculum Leaders..
         url: /math-and-science/centre-of-curriculum-leadership-for-math-and-science/
-  - title: Careers
-    url: /careers/
