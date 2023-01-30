@@ -10,7 +10,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 9 Sep 2022 <br>Congratulations to our National Day Award Recipients | 8 Apr 2022 <br>From Chemistry to Psychology: Seeing the World through a different lens |
 
 <a href="webhere"><img src="/images/recenthighlights3.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
