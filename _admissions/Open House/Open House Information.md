@@ -6,7 +6,9 @@ third_nav_title: Open House
 ---
 #### **Information curated from previous years e-Open House**
 
-<ul class="jekyllcodex\_accordion"><li><input type="checkbox" id="accordion1"><label for="accordion1">Principal's Presentation</label><div><p>  
+<ul class="jekyllcodex\_accordion"><li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">Principal's Presentation</label><div><p>  
 View the presentation by our Principal, Ms Soh. She shares our education philosophy, highlights some of our graduands, and helps you understand our unique curriculum leading to the NUS High School Diploma. Find out how the NUS High experience is carefully tailored for each of our students. See how our students design experiments to be conducted in space and how our students spend their time to touch the heart of others as they grow in their service leadership.
 	
 <iframe width="800" height="450" src="https://www.youtube.com/embed/fFzs_zq0zuQ" title="School Presentation for e-Open House 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
