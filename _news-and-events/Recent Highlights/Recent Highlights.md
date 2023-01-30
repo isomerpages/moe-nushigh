@@ -20,9 +20,9 @@ third_nav_title: Recent Highlights
 |:---:|:---:|
 | 20 Mar 2022<br> Deus Ex Machina | 08 Mar 2022<br>#Breakingthebias:<br> Girl Bosses Leading<br> the Way in STEM |
 
-<a href="webhere"><img src="/images/recenthighlights5.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/futuristic-story-wins-top-prize/"><img src="/images/recenthighlights5.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights6.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/alumni-spotlight/"><img src="/images/recenthighlights6.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
