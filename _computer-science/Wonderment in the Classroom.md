@@ -13,8 +13,8 @@ description: ""
 | **Gamified Learning**: This is an educational approach to motivate students to learn by game elements in learning environments. This enhances their learning experience and gives them immediate feedback. | **Authentic Assessments** are employed, and students are given tasks that allow them to provide solutions for real world problems. In year 4, students are given projects where they have to build android apps. |
 |
 
-<img src="/images/computerscience3.jpg" style="width:49%" align=left>
-<img src="/images/computerscience4.jpg" style="width:49%" align=right>
+<img src="/images/computerscience3.jpg" style="width:44%" align=left>
+<img src="/images/computerscience4.jpg" style="width:53.5%" align=right>
 
 <br clear="left">
 
