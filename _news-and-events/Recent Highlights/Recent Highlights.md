@@ -60,25 +60,25 @@ third_nav_title: Recent Highlights
 |:---:|:---:|
 | 20 May 2020<br>Alumnus' Journey to Conservation | 22 Dec 2019 <br>Receiving a Gold for MOE<br> Innergy (HQ) Awards 2019 |
 
-<a href="webhere"><img src="/images/recenthighlights15.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/young-humanitarians/"><img src="/images/recenthighlights15.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights16.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/congrats-to-class-of-2019/"><img src="/images/recenthighlights16.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
 | 27 Nov 2019<br>Young Humanitarians -<br> Serving the Needs of the Community | 21 Nov 2019<br>Congratulations to the Class of 2019! |
 
-<a href="webhere"><img src="/images/recenthighlights17.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/teacher-receive-national-day-awards/"><img src="/images/recenthighlights17.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights18.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/2019-national-sci-challenge-champions/"><img src="/images/recenthighlights18.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
 | 14 Nov 2019<br>Our Teachers Receive National Day Awards | 25 Sep 2019<br>2019 National Science Challenge Champions |
 
-<a href="webhere"><img src="/images/recenthighlights19.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/passionate-advocates-for-sustainable-development/"><img src="/images/recenthighlights19.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights20.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/astar-talent-search/"><img src="/images/recenthighlights20.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
