@@ -42,7 +42,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 31 May 2021<br>Covid-19 Vaccination Exercise for Students | 05 Apr 2021<br>NUS High Team Emerges Champions at National Science Challenge |
 
 <a href="webhere"><img src="/images/recenthighlights11.jpg" style="width:36%;margin-left:55px;" align = "left"></a>
 
@@ -50,7 +50,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 03 May 2021<br>Come, Join us for the 2021 NUS High e-Open House! | 02 Jun 2020<br>Winner of Splash Awards 2019 writes an article on HealthTech |
 
 <a href="webhere"><img src="/images/recenthighlights13.jpg" style="width:46.5%;margin-left:55px;" align = "left"></a>
 
@@ -58,7 +58,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 20 May 2020<br>Alumnus' Journey to Conservation | 22 Dec 2019 <br>Receiving a Gold for MOE Innergy (HQ) Awards 2019 |
 
 <a href="webhere"><img src="/images/recenthighlights15.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
@@ -66,7 +66,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 27 Nov 2019<br>Young Humanitarians - Serving the Needs of the Community | 21 Nov 2019<br>Congratulations to the Class of 2019! |
 
 <a href="webhere"><img src="/images/recenthighlights17.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
@@ -74,7 +74,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 14 Nov 2019<br>Our Teachers Receive National Day Awards | 25 Sep 2019<br>2019 National Science Challenge Champions |
 
 <a href="webhere"><img src="/images/recenthighlights19.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
@@ -82,4 +82,4 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| 23 Aug 2019<br>Passionate Advocates for Sustainable Development | 01 May 2019<br>NUS High the Top Institution for A\*STAR Talent Search |
