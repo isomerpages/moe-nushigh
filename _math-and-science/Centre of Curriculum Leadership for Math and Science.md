@@ -9,8 +9,6 @@ The Centre for Curriculum Leadership in Math and Science (CCLMS) supports school
 #### **What we do**
 The centre supports a wide variety of activities including
 
-  
-
 *   West Zone Centre of Excellence (COE) for Math
 *   West Zone Centre of Excellence (COE) for Science & Research
 *   Physics Education Seminar
