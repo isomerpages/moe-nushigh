@@ -4,3 +4,4 @@ permalink: /news-and-events/recent-highlights/alumni-spotlight/
 description: ""
 third_nav_title: Recent Highlights
 ---
+### **An Unexpected Simple Unity between Math and Arts**
