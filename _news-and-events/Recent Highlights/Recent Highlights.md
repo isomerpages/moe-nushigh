@@ -10,7 +10,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 09 Sep 2022 <br>Congratulations to our National Day Award Recipients | 08 Apr 2022 <br>From Chemistry to Psychology: Seeing the World through a different lens |
+| 09 Sep 2022 <br>Congratulations to our<br> National Day Award Recipients | 08 Apr 2022 <br>From Chemistry<br> to Psychology:<br> Seeing the World<br> through a different lens |
 
 <a href="webhere"><img src="/images/recenthighlights3.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
@@ -18,7 +18,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 20 Mar 2022<br> Deus Ex Machina | 08 Mar 2022<br>#Breakingthebias: Girl Bosses Leading the Way in STEM |
+| 20 Mar 2022<br> Deus Ex Machina | 08 Mar 2022<br>#Breakingthebias:<br> Girl Bosses Leading<br> the Way in STEM |
 
 <a href="webhere"><img src="/images/recenthighlights5.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
@@ -34,7 +34,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 26 Sep 2021<br>trengthening Partnerships with Industry and IHLs, Appointment of New Chairman to Board of Governors | 26 Jul 2021<br>An Unconventional Adventure Through Biology |
+| 26 Sep 2021<br>trengthening Partnerships with<br> Industry and IHLs, Appointment<br> of New Chairman to Board of Governors | 26 Jul 2021<br>An Unconventional Adventure<br> Through Biology |
 
 <a href="webhere"><img src="/images/recenthighlights9.jpg" style="width:47.5%;margin-left:55px;" align = "left"></a>
 
@@ -42,7 +42,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 31 May 2021<br>Covid-19 Vaccination Exercise for Students | 05 Apr 2021<br>NUS High Team Emerges Champions at National Science Challenge |
+| 31 May 2021<br>Covid-19 Vaccination Exercise for Students | 05 Apr 2021<br>NUS High Team Emerges<br> Champions at National Science<br> Challenge |
 
 <a href="webhere"><img src="/images/recenthighlights11.jpg" style="width:36%;margin-left:55px;" align = "left"></a>
 
@@ -58,7 +58,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 20 May 2020<br>Alumnus' Journey to Conservation | 22 Dec 2019 <br>Receiving a Gold for MOE Innergy (HQ) Awards 2019 |
+| 20 May 2020<br>Alumnus' Journey to Conservation | 22 Dec 2019 <br>Receiving a Gold for MOE<br> Innergy (HQ) Awards 2019 |
 
 <a href="webhere"><img src="/images/recenthighlights15.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
@@ -66,7 +66,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 27 Nov 2019<br>Young Humanitarians - Serving the Needs of the Community | 21 Nov 2019<br>Congratulations to the Class of 2019! |
+| 27 Nov 2019<br>Young Humanitarians -<br> Serving the Needs of the Community | 21 Nov 2019<br>Congratulations to the Class of 2019! |
 
 <a href="webhere"><img src="/images/recenthighlights17.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
