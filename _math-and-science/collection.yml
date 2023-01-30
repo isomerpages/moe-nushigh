@@ -2,6 +2,7 @@ collections:
   math-and-science:
     output: true
     order:
+      - Centre of Curriculum Leadership for Math and Science.md
       - Nobel Science Camp/Nobel Science Camp.md
       - Nobel Science Camp/2015 Nobel Science Camp.md
       - Nobel Science Camp/.keep
