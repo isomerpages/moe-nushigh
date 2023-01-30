@@ -8,6 +8,8 @@ third_nav_title: Recent Highlights
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/from-chemistry-to-psychology/"><img src="/images/recenthighlights2.jpg" style="width:38%;margin-right:55px;" align = "right"></a>
 
+<br clear="left">
+
 |  |  |
 |:---:|:---:|
 | 09 Sep 2022 <br>Congratulations to our<br> National Day Award Recipients | 08 Apr 2022 <br>From Chemistry<br> to Psychology:<br> Seeing the World<br> through a different lens |
@@ -15,6 +17,8 @@ third_nav_title: Recent Highlights
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/deus-ex-machina/"><img src="/images/recenthighlights3.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/breaking-the-bias/"><img src="/images/recenthighlights4.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -24,6 +28,8 @@ third_nav_title: Recent Highlights
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/alumni-spotlight/"><img src="/images/recenthighlights6.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
+<br clear="left">
+
 |  |  |
 |:---:|:---:|
 | 07 Feb 2022<br>Futuristic Story wins Top Prize at Science Chronicles Competition | 15 Jan 2022<br>Alumni Spotlight: An Unexpected Simple Unity between Math and Arts |
@@ -31,6 +37,8 @@ third_nav_title: Recent Highlights
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/strengthening-partnerships/"><img src="/images/recenthighlights7.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/unconventional-adventure-through-biology/"><img src="/images/recenthighlights8.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -40,6 +48,8 @@ third_nav_title: Recent Highlights
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/nus-high-team-emerges-champions-at-national-science-challenge/"><img src="/images/recenthighlights10.jpg" style="width:38%;margin-right:55px;" align = "right"></a>
 
+<br clear="left">
+
 |  |  |
 |:---:|:---:|
 | 31 May 2021<br>Covid-19 Vaccination Exercise for Students | 05 Apr 2021<br>NUS High Team Emerges<br> Champions at National Science<br> Challenge |
@@ -47,6 +57,8 @@ third_nav_title: Recent Highlights
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/2021-nus-high-eopenhouse/"><img src="/images/recenthighlights11.jpg" style="width:36%;margin-left:55px;" align = "left"></a>
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/winner-of-splash-awards-2019/"><img src="/images/recenthighlights12.jpg" style="width:46.5%;margin-right:55px;" align = "right"></a>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -56,6 +68,8 @@ third_nav_title: Recent Highlights
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/receiving-gold-for-moe-innergy-2019/"><img src="/images/recenthighlights14.jpg" style="width:36.5%;margin-right:55px;" align = "right"></a>
 
+<br clear="left">
+
 |  |  |
 |:---:|:---:|
 | 20 May 2020<br>Alumnus' Journey to Conservation | 22 Dec 2019 <br>Receiving a Gold for MOE<br> Innergy (HQ) Awards 2019 |
@@ -63,6 +77,8 @@ third_nav_title: Recent Highlights
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/young-humanitarians/"><img src="/images/recenthighlights15.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/congrats-to-class-of-2019/"><img src="/images/recenthighlights16.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
@@ -72,6 +88,8 @@ third_nav_title: Recent Highlights
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/2019-national-sci-challenge-champions/"><img src="/images/recenthighlights18.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
+<br clear="left">
+
 |  |  |
 |:---:|:---:|
 | 14 Nov 2019<br>Our Teachers Receive National Day Awards | 25 Sep 2019<br>2019 National Science Challenge Champions |
@@ -79,6 +97,8 @@ third_nav_title: Recent Highlights
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/passionate-advocates-for-sustainable-development/"><img src="/images/recenthighlights19.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
 <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/astar-talent-search/"><img src="/images/recenthighlights20.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
