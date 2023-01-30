@@ -4,17 +4,17 @@ permalink: /news-and-events/recent-highlights/
 description: ""
 third_nav_title: Recent Highlights
 ---
-<a href="webhere"><img src="/images/recenthighlights1.jpg" style="width:45%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/congratulations-to-our-national-day-award-recipents/"><img src="/images/recenthighlights1.jpg" style="width:45%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights2.jpg" style="width:38%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/from-chemistry-to-psychology/"><img src="/images/recenthighlights2.jpg" style="width:38%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
 | 09 Sep 2022 <br>Congratulations to our<br> National Day Award Recipients | 08 Apr 2022 <br>From Chemistry<br> to Psychology:<br> Seeing the World<br> through a different lens |
 
-<a href="webhere"><img src="/images/recenthighlights3.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/deus-ex-machina/"><img src="/images/recenthighlights3.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights4.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/breaking-the-bias/"><img src="/images/recenthighlights4.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
@@ -34,7 +34,7 @@ third_nav_title: Recent Highlights
 
 |  |  |
 |:---:|:---:|
-| 26 Sep 2021<br>trengthening Partnerships with<br> Industry and IHLs, Appointment<br> of New Chairman to Board of Governors | 26 Jul 2021<br>An Unconventional Adventure<br> Through Biology |
+| 26 Sep 2021<br>Strengthening Partnerships with<br> Industry and IHLs, Appointment<br> of New Chairman to Board of Governors | 26 Jul 2021<br>An Unconventional Adventure<br> Through Biology |
 
 <a href="webhere"><img src="/images/recenthighlights9.jpg" style="width:47.5%;margin-left:55px;" align = "left"></a>
 
