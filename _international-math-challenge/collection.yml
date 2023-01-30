@@ -2,6 +2,10 @@ collections:
   international-math-challenge:
     output: true
     order:
+      - 2022 Sample Challenge Question.md
+      - 2022 Challenge Problem.md
+      - About Singapore.md
+      - Results/.keep
       - Results/2022 Results.md
       - Results/2018 Results.md
       - Results/2016 Results.md
@@ -10,8 +14,4 @@ collections:
       - Results/2010 Results.md
       - Results/2008 On Site Category Results.md
       - Results/2008 Pre site Challenge Results.md
-      - Results/.keep
-      - 2022 Sample Challenge Question.md
-      - 2022 Challenge Problem.md
-      - About Singapore.md
       - Contact Us.md
