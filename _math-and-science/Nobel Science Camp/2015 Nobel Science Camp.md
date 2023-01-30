@@ -34,4 +34,28 @@ These experiments and practicals have been carefully selected to help students g
 
 As part of the programme, students will also participate in special lectures and field trips to see physics in action in both industry and academia. Through interaction with peers from different schools, they will be able to form new friendships and networks to pursue their common interest in science.
 
-#### **Keynote Guest Lecturer**
+##### **Keynote Guest Lecturer**
+This year, we are privileged to have Dr. Barbara Ritter from the Department of Biology at XLAB, a world-famous teaching laboratory for high school and university students based in University of Göttingen, Germany.
+
+<img src="/images/2015nobelscicamp1.jpg" style="width:18%;margin-left:15px;" align = "right">
+
+Dr. Ritter specialises in neurophysiology and has much experience lecturing on neurophysiology and chemistry at XLAB. Students and teachers will be able to attend her lecture and experimental workshop and experience how Dr. Ritter is able to link neurophysiology with chemistry in her work.
+
+##### **Camp Details**
+**Date** : 23rd to 26th November 2015 **(non-residential camp)**<br>
+**Location** : NUS High School (20 Clementi Avenue 1, S129957)<br>
+**Open to** : All JC students and IP year 4 to 6 students<br>
+**Fees** : Free of charge
+
+##### **Application**
+All science teachers are welcome to nominate outstanding students in your school to participate in the Camp. Schools are advised to submit no more than five nominations (ranked in order). Due to limited places and resources, all schools are encouraged to register early. The confirmed registrations from each school may be adjusted accordingly if the response is overwhelming. Schools may submit nominations using the following application form, and send it to [davinci@highsch.nus.edu.sg](mailto:davinci@highsch.nus.edu.sg). Early registration will close on **31st August 2015**.
+
+In the registration form, students will be required to rank the subject-specific experiments in order of their preference, as shown in the example below. If the student prefers Chemistry, Physics and Biology in that order, please circle Chemistry under Rank 1, Physics under Rank 2 and Biology under Rank 3, as shown in the example below. We will do our best to assign students to their preferred subjects, depending on the signups for each subject.
+
+<img src="/images/2015nobelscicamp3.jpg" style="width:85%">
+
+##### **Inquiries**
+For more information, you may contact us at [davinci@highsch.nus.edu.sg](mailto:davinci@highsch.nus.edu.sg).
+
+<img src="/images/2015nobelscicamp2.jpg" style="width:65%">
+
