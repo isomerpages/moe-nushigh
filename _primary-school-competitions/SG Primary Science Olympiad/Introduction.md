@@ -21,3 +21,5 @@ _SPSO 2023 will consist of only the Theory Round._
 |:---:|:---:|:---:|
 | Theory Round | 24 May 2023 (Wednesday) | Participants' Own Schools |
 |
+
+--------------------------------------------------
