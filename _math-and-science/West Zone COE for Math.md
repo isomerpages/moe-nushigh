@@ -59,3 +59,8 @@ Participants learnt how to teach PRWC to students via a metacognitive approach o
 Participants attended a masterclass by master teachers from Hungary, where they learnt about the experiential learning approach to teach the concepts of divisibility and prime number factorisation through several hands-on activities.
 		
 ##### **Assessment**
+1\. **How to Mark Hard Questions**<br>
+Participants learnt from Professor Imre Leader, Fellow at Trinity College, Cambridge University, how to give useful feedback to students when giving them hard questions to solve.
+
+2\. **Analysis & Insights of Assessment Results**<br>
+Participants learnt to use analytical methods like facility and discrimination indices to review assessment results. Further diagnostic information were garnered by evaluating the data against the table of specifications.
