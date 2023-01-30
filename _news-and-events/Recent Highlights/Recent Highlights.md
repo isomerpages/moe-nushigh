@@ -28,17 +28,17 @@ third_nav_title: Recent Highlights
 |:---:|:---:|
 | 07 Feb 2022<br>Futuristic Story wins Top Prize at Science Chronicles Competition | 15 Jan 2022<br>Alumni Spotlight: An Unexpected Simple Unity between Math and Arts |
 
-<a href="webhere"><img src="/images/recenthighlights7.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/strengthening-partnerships/"><img src="/images/recenthighlights7.jpg" style="width:40%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights8.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/unconventional-adventure-through-biology/"><img src="/images/recenthighlights8.jpg" style="width:40%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
 | 26 Sep 2021<br>Strengthening Partnerships with<br> Industry and IHLs, Appointment<br> of New Chairman to Board of Governors | 26 Jul 2021<br>An Unconventional Adventure<br> Through Biology |
 
-<a href="webhere"><img src="/images/recenthighlights9.jpg" style="width:47.5%;margin-left:55px;" align = "left"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/covid-19-vaccination-exercise/"><img src="/images/recenthighlights9.jpg" style="width:47.5%;margin-left:55px;" align = "left"></a>
 
-<a href="webhere"><img src="/images/recenthighlights10.jpg" style="width:38%;margin-right:55px;" align = "right"></a>
+<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/news-and-events/recent-highlights/nus-high-team-emerges-champions-at-national-science-challenge/"><img src="/images/recenthighlights10.jpg" style="width:38%;margin-right:55px;" align = "right"></a>
 
 |  |  |
 |:---:|:---:|
