@@ -90,8 +90,7 @@ Singapore's medical facilities are among the finest in the world, with well-qual
 **_Tipping_**<br>
 Tipping is not practised as most hotels and restaurants in Singapore already levy a 10% service charge on customers' bills.
 
-**D) Useful Telephone Numbers**
-
+**D) Useful Telephone Numbers**<br>
 **_Police_**<br>
 999 (toll-free)
 
