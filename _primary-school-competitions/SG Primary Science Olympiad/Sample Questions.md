@@ -16,3 +16,73 @@ Participants are encouraged to read on topics provided in the following syllabus
 | <br><br>**Physics** | - Mechanics (motion of objects, static, fluid, gas)<br>- Electricity and magnetism<br>- Thermal properties (temperature, conduction, convection and radiation)<br>- Light (properties, vision colour)<br>- Forces (magnetic, gravitation, frictional force)<br>- Energy and energy change (kinetic, potential, renewable, energy conversions) |
 | <br>**Earth Science** | - General environmental issue (deforestation, managing natural resource, pollution, water and carbon cycle)<br>- Solar system (rotation of earth and moon, earth and moon eclipses)<br>- The planet earth (structure, surface, climate, seasons, gravitation, wind) |
 |
+
+#### **Sample Questions**
+The Theory paper consists of 40 multiple choice questions in two Sections: A and B.
+
+Section A comprises 30 questions. For each, four possible answers are provided. Students are to choose the most suitable answer. Each question is worth 1 mark.
+
+Section B comprises 10 questions. For each of the questions, three statements 1 to 3 are provided. One or more of the three numbered statements 3 may be correct.
+
+Students have to decide whether each of the statements is or is not correct.
+
+(They may find it helpful to put a tick against the statement that they consider to be correct.)
+
+The responses A to D should be selected on the basis of
+
+| A | B | C | D |
+|:---:|:---:|:---:|:---:|
+| 1, 2 and 3<br>are correct | 1 and 2 only<br>are correct | 2 and 3 only<br>are correct | 1 only<br>is correct |
+|
+
+No other combination of statements is used as a correct response.<br>
+Each question is worth 2 marks. No mark will be deducted for a wrong answer.
+
+#### **Sample Questions for Section A**
+For each question, four options are given. Only one of them is the correct answer.<br>
+Choose the **most suitable answer** and shade your answer clearly on the Optical Mark Sheet (OMS) provided. Each question carries 1 mark.
+
+1\. Which of the following statements describes substances which are gases at room temperature?
+
+A\. Their boiling point is below room temperature but their melting point is above.<br>
+B\. Their boiling point is above room temperature but their melting point is below.<br>
+C\. Their boiling and melting points are both above room temperature.<br>
+D\. Their boiling and melting points are both below room temperature.
+
+Answer: D
+
+2\. The figure below shows an apparatus set up to investigate the rate of photosynthesis of water weeds.
+
+<img src="/images/sample.jpg" style="width:25%">
+
+Which of the following will **_not_** increase the rate of photosynthesis?
+
+A\. Increase in light intensity<br>
+B\. Increase in temperature to 40 °C<br>
+C\. Increase in oxygen concentration<br>
+D\. Increase in concentration of mineral salts in the water
+
+Answer: C
+
+3\. In a container, water and ice are found to exist together. What is most likely to be the temperature of the container?
+
+A\. Less than 0 degree celcius<br>
+B\. Around –4 degree celcius<br>
+C\. 4 oC<br>
+D\. Exactly 0 degree celcius
+
+Answer: D
+
+4\. Coal remains as one of our most precious sources of energy today. Coal contains elements like carbon, hydrogen, oxygen and sulfur. The element in coal that gives it the energy content is carbon. Four types of coal were analysed for their composition. The results are given below. Which of the type of coal below gives the highest energy content?
+
+|  | Type of Coal | Carbon (g) | Hydrogen (g) | Oxygen (g) | Sulfur(s) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| A. | Flame Coal | 4 | 0.3 | 0.5 | 0.05 |
+| B. | Anthracite | 4.8 | 0.17 | 0.12 | 0.05 |
+| C. | Lignite | 6 | 6 | 34 | 0.4 |
+| D. | Forge Coal | 9 | 4 | 3 | 0.1 |
+|
+
+Answer: D
+
+#### **Sample Questions for Section B**
