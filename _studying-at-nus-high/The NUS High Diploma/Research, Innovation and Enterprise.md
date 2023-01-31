@@ -20,16 +20,16 @@ In the foundation years, the department has designed structured modules that pro
 
 To prepare our students for research work, all students are required to take the Research Methodology module. Students also have the opportunity to take on simpler research projects guided by our teachers. From Year 3, they can also participate in mentorship programmes to conduct research with partner organisations.
 
-<img src="/images/rie4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/rie5.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/rie6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/rie4.jpg" style="width:28%;margin-right:15px;margin-left:35px;" align = "left">
+<img src="/images/rie5.jpg" style="width:26%;margin-right:15px;" align = "left">
+<img src="/images/rie6.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | Customising circuit boards<br>(Design and Engineering) | Design Thinking - Understanding<br>about Perspectives | Solar Tracker:<br>A Year 1 project |
 
-<img src="/images/rie7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/rie8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/rie7.jpg" style="width:30%;margin-right:15px;margin-left:35px;" align = "left">
+<img src="/images/rie8.jpg" style="width:28%;margin-right:15px;" align = "left">
 <img src="/images/rie9.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 |  |  |  |
@@ -38,7 +38,7 @@ To prepare our students for research work, all students are required to take the
 
 Our students embark on their Advanced Research Project in their Specialisation years. All students’ research will culminate in a project presentation at our annual NUS High School Research Congress. Students are always encouraged to interact with their peers, both local and international, and exchange ideas through oral and poster presentations at local and overseas science fairs and conferences.
 
-<img src="/images/rie10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
+<img src="/images/rie10.jpg" style="width:26%;margin-right:15px;margin-left:35px;" align = "left">
 <img src="/images/rie11.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/rie12.jpg" style="width:30%;margin-right:15px;" align = "left">
 
