@@ -24,6 +24,8 @@ To prepare our students for research work, all students are required to take the
 <img src="/images/rie5.jpg" style="width:26%;margin-right:15px;" align = "left">
 <img src="/images/rie6.jpg" style="width:35%;margin-right:15px;" align = "left">
 
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | Customising circuit boards<br>(Design and Engineering) | Design Thinking - Understanding<br>about Perspectives | Solar Tracker:<br>A Year 1 project |
@@ -31,6 +33,8 @@ To prepare our students for research work, all students are required to take the
 <img src="/images/rie7.jpg" style="width:30%;margin-right:15px;margin-left:35px;" align = "left">
 <img src="/images/rie8.jpg" style="width:28%;margin-right:15px;" align = "left">
 <img src="/images/rie9.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -42,6 +46,8 @@ Our students embark on their Advanced Research Project in their Specialisation y
 <img src="/images/rie11.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/rie12.jpg" style="width:30%;margin-right:15px;" align = "left">
 
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | Annual Research Congress | Representing Singapore at the<br>Intel International Science and<br>Engineering Fair | Our students’ research<br>contribute to<br>research publications |
@@ -51,6 +57,8 @@ In line with our school’s vision to nurture pioneers, humanitarians and innova
 <img src="/images/rie13.jpg" style="width:23%;margin-right:15px;margin-left:35px;" align = "left">
 <img src="/images/rie14.jpg" style="width:27%;margin-right:15px;" align = "left">
 <img src="/images/rie15.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
