@@ -48,8 +48,8 @@ Our students embark on their Advanced Research Project in their Specialisation y
 
 In line with our school’s vision to nurture pioneers, humanitarians and innovators, the department seeks to develop skillsets in our students that can encourage them in the area of innovation and enterprise. Besides elective modules offered to equip them with design thinking skills, the department organises a hackathon annually. The school has also filed patents for innovative engineering and software solutions.
 
-<img src="/images/rie13.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/rie14.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/rie13.jpg" style="width:23%;margin-right:15px;margin-left:35px;" align = "left">
+<img src="/images/rie14.jpg" style="width:27%;margin-right:15px;" align = "left">
 <img src="/images/rie15.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 |  |  |  |
