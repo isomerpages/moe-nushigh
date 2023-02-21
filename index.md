@@ -62,7 +62,7 @@ sections:
       description: Infopic description
       button: Button Text
       image: /images/cca6.png
-      alt: Image alt text
+      alt: Robotics CCA
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
