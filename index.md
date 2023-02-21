@@ -51,4 +51,20 @@ sections:
       description: of mathematics and science education
       alt: Image alt text
       image: /images/infopic3.png
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title (ROBO CCA)
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/cca6.png
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
