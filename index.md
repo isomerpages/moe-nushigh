@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: NUS HIGH SCHOOL
       background: /images/nushighhome.png
       key_highlights:
         - title: "#Breakingthebias"
@@ -22,7 +21,6 @@ sections:
         - title: Strengthening Partnerships
           description: ""
           url: /news-and-events/recent-highlights/strengthening-partnerships/
-      subtitle: NUS High School
   - infobar:
       title: News & Events
       subtitle: Recent Highlights
