@@ -18,4 +18,5 @@ links:
       - title: Primary School Competitions
         url: /news-and-events/primary-school-competitions/mathematical-olympiad-of-sg/news-and-updates/
   - title: Physics and Engineering
-    collection: physics-and-engineering
+    url: /physics-and-engineering
+    sublinks: []
