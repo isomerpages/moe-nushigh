@@ -2,6 +2,7 @@ collections:
   physics-and-engineering:
     output: true
     order:
+      - Engineering Page.md
       - Wonderment in the Classroom.md
       - Beyond the Classroom.md
       - Robotics Enrichment Module.md
