@@ -1,3 +1,6 @@
 contact_us: /our-dna/contact-us/
 show_reach: true
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/NUSHighSchool/
+  youtube: https://www.youtube.com/channel/UCwJGN9Ee7HMV_ravJN6BBsA
+  instagram: https://www.instagram.com/nushigh.lights/
