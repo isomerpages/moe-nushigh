@@ -21,8 +21,6 @@ sections:
         - title: Strengthening Partnerships
           description: ""
           url: /news-and-events/recent-highlights/strengthening-partnerships/
-      title: NUS High School
-      subtitle: of Math and Science
   - infobar:
       title: News & Events
       subtitle: Recent Highlights
