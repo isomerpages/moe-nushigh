@@ -55,15 +55,4 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-  - infopic:
-      title: Infopic Title (ROBO CCA)
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/cca6.png
-      alt: Robotics CCA
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
