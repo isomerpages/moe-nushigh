@@ -50,9 +50,4 @@ sections:
       description: of mathematics and science education
       alt: Image alt text
       image: /images/infopic3.png
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
