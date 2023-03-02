@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Character Citizenship Education.md
       - Humanitarian Education.md
       - Student Development.md
