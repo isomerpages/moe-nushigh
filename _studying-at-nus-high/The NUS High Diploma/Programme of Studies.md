@@ -14,4 +14,6 @@ third_nav_title: The NUS High Diploma
 [Class of 2025](/files/grad2025.pdf)<br>
 [Class of 2026](/files/grad2026.pdf)<br>
 [Class of 2027](/files/grad2027.pdf)<br>
-[Class of 2028](/files/grad2028.pdf)
+[Class of 2028](/files/grad2028.pdf)<br>
+
+<a href="/files/grad2028.pdf" target="_blank" rel="noopener noreferrer">Class of 2028</a>
