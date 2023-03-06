@@ -13,7 +13,7 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 ### Learning in the Classrooms and Laboratories
 |  |  |  |
 |:---:|:---:|:---:|
-|<img src="/images/chem1.jpg" style="width:60%"/> |<img src="/images/chem2.jpg" style="width:200%">|<img src="/images/chem3.jpg" style="width:100%">|
+|<img src="/images/chem1.jpg" style="width:30%"/> |<img src="/images/chem2.jpg" style="width:30%">|<img src="/images/chem3.jpg" style="width:30%">|
 
 |  |  |  |
 |:---:|:---:|:---:|
