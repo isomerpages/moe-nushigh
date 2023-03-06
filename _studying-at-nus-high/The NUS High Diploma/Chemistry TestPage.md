@@ -12,9 +12,9 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 
 ### Learning in the Classrooms and Laboratories
 
-|  |  |  |
-|:---:|:---:|:---:|
-|<img src="/images/chem1.jpg"/> |<img src="/images/chem2.jpg"/>|<img src="/images/chem3.jpg"/>|
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/wonderment-in-the-classroom/"><img src="/images/chem1.jpg" style="width:30%;margin-right:15px;margin-left:45px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/wonderment-in-the-classroom/"><img src="/images/chem2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/wonderment-in-the-classroom/"><img src="/images/chem3.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
 
 
 |  |  |  |
