@@ -14,7 +14,7 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 
 |  |  |  |
 |:---:|:---:|:---:|
-|<img src="/images/chem1.jpg" style="width:100%"/> |<img src="/images/chem2.jpg" style="width:100%"/>|<img src="/images/chem3.jpg" style="width:100%"/>|
+|<img src="/images/chem1.jpg"/> |<img src="/images/chem2.jpg"/>|<img src="/images/chem3.jpg"/>|
 
 
 |  |  |  |
