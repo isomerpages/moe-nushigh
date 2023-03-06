@@ -16,6 +16,7 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/wonderment-in-the-classroom/"><img src="/images/chem2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/chemistry/wonderment-in-the-classroom/"><img src="/images/chem3.jpg" style="width:20%;margin-right:15px;" align = "left"></a></p>
 
+<br clear="left"/>
 
 |  |  |  |
 |:---:|:---:|:---:|
