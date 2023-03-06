@@ -21,3 +21,30 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 |  |  |  |
 |:---:|:---:|:---:|
 | Description 1 | Description 2 | Description 3 |
+
+### Our Informal Curriculum Complements Our Formal Curriculum
+
+<table>
+	<thead>
+		<tr>
+			<th style="align: center">
+				<img src="/images/chem4.jpg">
+			</th>
+			<th style="align: center">
+				<img src="/images/chem5.jpg">
+			</th>
+			<th style="align: center">
+				<img src="/images/chem6.jpg">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Desc 1 </td>
+			<td> Desc 2 </td>
+			<td> Desc 3 </td>
+		</tr>
+	</tbody>
+</table>
+
+
