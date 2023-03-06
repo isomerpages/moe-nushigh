@@ -34,15 +34,15 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 				<img src="/images/chem5.jpg" style="margin-right:15px; width:30%" align="left" >
 			</th>
 			<th style="align: center">
-				<img src="/images/chem6.jpg" style="margin-right:15px; width:20%" align="left">
+				<img src="/images/chem6.jpg" style="margin-right:15px; width:20%" align="left" >
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td> Desc 1 </td>
-			<td> Desc 2 </td>
-			<td> Desc 3 </td>
+			<td style="text-align:center" > Desc 1 </td>
+			<td style="text-align:center" > Desc 2 </td>
+			<td style="text-align:center"> Desc 3 </td>
 		</tr>
 	</tbody>
 </table>
