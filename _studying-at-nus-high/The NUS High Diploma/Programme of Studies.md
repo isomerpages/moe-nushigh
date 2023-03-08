@@ -15,4 +15,4 @@ third_nav_title: The NUS High Diploma
 <a href="/files/grad2025.pdf" target="_blank" rel="noopener noreferrer"> Class of 2025</a>  
 <a href="/files/grad2026.pdf" target="_blank" rel="noopener noreferrer"> Class of 2026</a>  
 <a href="/files/grad2027.pdf" target="_blank" rel="noopener noreferrer"> Class of 2027</a>  
-<a href="/files/grad2028.pdf" target="_blank" rel="noopener noreferrer"> Class of 2028</a>  
+<a href="/files/grad2028.pdf" target="_blank" rel="noopener noreferrer"> Class of 2028</a>
