@@ -14,9 +14,9 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 
 <p><a href="/chemistry/wonderment-in-the-classroom/"><img src="/images/Chemistrytestpage/PoneCtest.jpg" style="width:30%;margin-right:15px;margin-left:0px;" align = "left"></a></p>
 <p><a href="/chemistry/wonderment-in-the-classroom/"><img src="/images/Chemistrytestpage/PtwoCtest.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="/chemistry/wonderment-in-the-classroom/"><img src="/images/Chemistrytestpage/PthreeCtest.jpg" style="width:30%;margin-right:15px;"></a></p>
-
+<p><a href="/chemistry/wonderment-in-the-classroom/"><img src="/images/Chemistrytestpage/PthreeCtest.jpg" style="width:30%;margin-right:15px;"></
 <br clear="left"/>
+
 
 |  |  |  |
 |:---:|:---:|:---:|
