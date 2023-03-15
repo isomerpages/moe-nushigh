@@ -17,7 +17,7 @@ sections:
           url: /students-and-parents/school-fees
         - title: Alumni
           description: ""
-          url: /alumni/alumni
+          url: /alumni/
         - title: Careers
           description: Join us!
           url: /careers
