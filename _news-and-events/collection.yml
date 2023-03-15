@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - Mathematics Challenge/.keep
       - International&National Events/Sustainable Youth Development Convention.md
       - International&National Events/.keep
       - Recent Highlights/.keep
