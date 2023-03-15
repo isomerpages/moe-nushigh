@@ -7,4 +7,4 @@ description: ""
 
 #### <a href="/primary-school-competitions/mathematical-olympiad-of-sg/news-and-updates"> National Mathematical Olympiad of Singapore </a>
 
-#### <a href=/> Singapore Primary Science Olympiad </a>
+#### <a href="/primary-school-competitions/sg-primary-science-olympiad/introduction"> Singapore Primary Science Olympiad </a>
