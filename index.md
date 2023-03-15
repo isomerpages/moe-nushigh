@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/nushighhome.png
       key_highlights:
-        - title: "#Breakingthebias"
+        - title: Recent Highlights
           description: ""
-          url: /news-and-events/recent-highlights/breaking-the-bias/
+          url: /news-and-events/recent-highlights
         - title: Alumni Spotlight
           description: ""
           url: /news-and-events/recent-highlights/alumni-spotlight/
-        - title: National Day Award Recipents
-          description: ""
-          url: /news-and-events/recent-highlights/congratulations-to-our-national-day-award-recipents/
         - title: Strengthening Partnerships
           description: ""
           url: /news-and-events/recent-highlights/strengthening-partnerships/
+        - title: Careers
+          description: Join us!
+          url: ""
   - infobar:
       title: News & Events
       subtitle: Recent Highlights
