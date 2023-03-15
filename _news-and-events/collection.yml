@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - International&National Events/Sustainable Youth Development Convention.md
       - International&National Events/.keep
       - Recent Highlights/.keep
       - Recent Highlights/Recent Highlights.md
