@@ -12,12 +12,12 @@ sections:
         - title: Recent Highlights
           description: ""
           url: /news-and-events/recent-highlights
-        - title: Alumni Spotlight
-          description: ""
-          url: /news-and-events/recent-highlights/alumni-spotlight/
-        - title: Strengthening Partnerships
+        - title: Students & Parents
           description: ""
           url: /news-and-events/recent-highlights/strengthening-partnerships/
+        - title: Alumni
+          description: ""
+          url: /news-and-events/recent-highlights/alumni-spotlight/
         - title: Careers
           description: Join us!
           url: ""
