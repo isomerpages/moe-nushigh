@@ -20,7 +20,7 @@ sections:
           url: /news-and-events/recent-highlights/alumni-spotlight/
         - title: Careers
           description: Join us!
-          url: ""
+          url: /careers
   - infobar:
       title: News & Events
       subtitle: Recent Highlights
