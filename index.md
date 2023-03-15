@@ -17,7 +17,7 @@ sections:
           url: /students-and-parents/
         - title: Alumni
           description: ""
-          url: /alumni
+          url: /alumni/alumni
         - title: Careers
           description: Join us!
           url: /careers
