@@ -14,7 +14,7 @@ sections:
           url: /news-and-events/recent-highlights
         - title: Students & Parents
           description: ""
-          url: /students-and-parents/
+          url: /students-and-parents/school-fees
         - title: Alumni
           description: ""
           url: /alumni/alumni
