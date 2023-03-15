@@ -1,6 +1,0 @@
-collections:
-  international-n-national-event:
-    output: true
-    order:
-      - International Math Challenge/.keep
-      - Math and Science/.keep
