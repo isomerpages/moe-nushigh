@@ -6,3 +6,5 @@ description: ""
 ## Primary School Competitions
 
 #### <a href=/> National Mathematical Olympiad of Singapore </a>
+
+#### <a href=/> Singapore Primary Science Olympiad </a>
