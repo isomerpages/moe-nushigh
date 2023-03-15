@@ -17,7 +17,7 @@ sections:
           url: /students-and-parents/
         - title: Alumni
           description: ""
-          url: /news-and-events/recent-highlights/alumni-spotlight/
+          url: /alumni
         - title: Careers
           description: Join us!
           url: /careers
