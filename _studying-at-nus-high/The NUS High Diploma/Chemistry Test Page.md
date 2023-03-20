@@ -95,9 +95,15 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > Desc 1 </td>
-			<td style="text-align:center" > Desc 2 </td>
-			<td style="text-align:center"> Desc 3 </td>
+			<td style="text-align:center" >
+				International Chemistry Olympiad:
+				1 Gold, 2 Silver</td>
+			<td style="text-align:center" > 
+				International Chemistry Tournament: 
+				Silver </td>
+			<td style="text-align:center"> 
+				NYP-Swensen's Ice Cream Competition:
+				1st Runner Up </td>
 		</tr>
 	</tbody>
 </table>
