@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Programme of Studies/Research, Innovation and Enterprise.md
       - Programme of Studies/Physics and Engineering.md
       - Programme of Studies/Music and Art.md
       - Programme of Studies/Mother Tongue and Foreign Languages.md
