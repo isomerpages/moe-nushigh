@@ -7,7 +7,7 @@ third_nav_title: The NUS High Diploma
 ## Chemistry
 
 <div style="text-align: justify; display: block">
-The Chemistry curriculum, which takes on a spiral approach, delivers a meaningful learning experience for every student, and nurtures the student as an inquirer. It is designed to instil depth in the understanding of fundamentals, and to gain competency in solving chemical problems. 
+The Chemistry curriculum, which takes on a spiral approach, delivers a meaningful learning experience for every student, and nurtures the student as an inquirer. It is designed to instill depth in the understanding of fundamentals, and to gain competency in solving chemical problems. 
 
 The objectives of the Foundation Years 1 - 3 are to build a strong understanding of basic and essential concepts in Chemistry, and to develop an appreciation for the subject. Through an astute observation of the physical world using a chemical lens, topics introduced cover a wide breadth using a conceptual approach.  In the Foundation Years, Junior High students can look forward to learning about the Periodic Table, reactions of acids and bases, structure and bonding of materials, and basic organic chemistry amongst other topics.  
 
