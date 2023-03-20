@@ -2,17 +2,17 @@ collections:
   studying-at-nus-high:
     output: true
     order:
-      - Programme of Studies/The NUS High Diploma.md
-      - Programme of Studies/.keep
-      - Programme of Studies/Programme of Studies.md
-      - Programme of Studies/Chemistry TestPage.md
-      - Programme of Studies/Biology.md
-      - Programme of Studies/Chemistry.md
-      - Programme of Studies/Computer Science.md
-      - Programme of Studies/English Language and Literature.md
-      - Programme of Studies/Humanities.md
-      - Programme of Studies/Mathematics and Statistics.md
-      - Programme of Studies/Mother Tongue and Foreign Languages.md
-      - Programme of Studies/Music and Art.md
-      - Programme of Studies/Physics and Engineering.md
-      - Programme of Studies/Research, Innovation and Enterprise.md
+      - The NUS High Diploma/The NUS High Diploma.md
+      - The NUS High Diploma/.keep
+      - The NUS High Diploma/Programme of Studies.md
+      - The NUS High Diploma/Chemistry TestPage.md
+      - The NUS High Diploma/Biology.md
+      - The NUS High Diploma/Chemistry.md
+      - The NUS High Diploma/Computer Science.md
+      - The NUS High Diploma/English Language and Literature.md
+      - The NUS High Diploma/Humanities.md
+      - The NUS High Diploma/Mathematics and Statistics.md
+      - The NUS High Diploma/Mother Tongue and Foreign Languages.md
+      - The NUS High Diploma/Music and Art.md
+      - The NUS High Diploma/Physics and Engineering.md
+      - The NUS High Diploma/Research, Innovation and Enterprise.md
