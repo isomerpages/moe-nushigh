@@ -34,12 +34,13 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 		<tr>
 			<td style="text-align:center" > 
 				Real world connections:  
-Investigating Iron in Cereals</td>
+				Investigating Iron in Cereals</td>
 			<td style="text-align:center" >
 				Authentic Assessment in groups:
-Simulating an Airbag </td>
-			<td style="text-align:center"> Practical Skills beyond A Levels:
-Synthetic Chemistry </td>
+				Simulating an Airbag </td>
+			<td style="text-align:center"> 
+				Practical Skills beyond A Levels:
+				Synthetic Chemistry </td>
 		</tr>
 	</tbody>
 </table>
@@ -63,7 +64,9 @@ Synthetic Chemistry </td>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > Desc 1 </td>
+			<td style="text-align:center" >
+				Learning from the best:
+				XLab, Germany Desc 1 </td>
 			<td style="text-align:center" > Desc 2 </td>
 			<td style="text-align:center"> Desc 3 </td>
 		</tr>
