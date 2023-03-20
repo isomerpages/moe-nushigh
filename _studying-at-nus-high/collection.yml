@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Chemistry.md
       - Biology.md
       - Chemistry TestPage.md
       - The NUS High Diploma/.keep
