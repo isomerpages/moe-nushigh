@@ -4,8 +4,6 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/chemistry-test-page/
 description: Chemistry at NUS High School
 third_nav_title: The NUS High Diploma
 ---
-
-
 ## Chemistry
 
 The Chemistry curriculum, which takes on a spiral approach, delivers a meaningful learning experience for every student, and nurtures the student as an inquirer. It is designed to instil depth in the understanding of fundamentals, and to gain competency in solving chemical problems.    
