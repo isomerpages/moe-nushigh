@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Programme of Studies/Mother Tongue and Foreign Languages.md
       - Programme of Studies/Mathematics and Statistics.md
       - Programme of Studies/Humanities.md
       - Programme of Studies/English Language and Literature.md
