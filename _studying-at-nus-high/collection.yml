@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Programme of Studies/.keep
       - Research, Innovation and Enterprise.md
       - Physics and Engineering.md
       - Music and Art.md
