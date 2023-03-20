@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Humanities.md
       - English Language and Literature.md
       - Computer Science.md
       - Chemistry.md
