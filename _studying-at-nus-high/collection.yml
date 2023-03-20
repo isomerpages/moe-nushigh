@@ -2,7 +2,6 @@ collections:
   studying-at-nus-high:
     output: true
     order:
-      - The NUS High Diploma/.keep
       - Programme of Studies/.keep
       - Programme of Studies/Programme of Studies.md
       - Programme of Studies/Chemistry TestPage.md
