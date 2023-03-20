@@ -63,7 +63,7 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 	</tbody>
 </table>
 
-#### Our students excel at External Competitions
+#### Our Students Excel at External Competitions
 
 <table>
 	<thead>
