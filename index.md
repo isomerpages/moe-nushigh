@@ -21,19 +21,6 @@ sections:
         - title: Careers
           description: Join us!
           url: /careers
-  - infobar:
-      title: News & Events
-      subtitle: Recent Highlights
-      description: Find out more about what's going on in NUS High!
-      button: More Info
-      url: /news-and-events/recent-highlights/
-  - infobar:
-      title: Careers
-      subtitle: Nus High school
-      description: The School seeks TEACHERS who can encourage and support the
-        development of creative and independent learners.
-      button: more info
-      url: /careers/
   - infopic:
       image: /images/infopic1.png
       alt: Image alt text
