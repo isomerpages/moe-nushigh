@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Programme of Studies/Computer Science.md
       - Programme of Studies/Chemistry.md
       - Programme of Studies/Biology.md
       - Programme of Studies/Chemistry TestPage.md
