@@ -4,12 +4,7 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/programme-of-studies/
 description: ""
 third_nav_title: The NUS High Diploma
 ---
-
-
-
 ### **Please click on the year of graduation for the relevant programme of studies.**
-
-<img src="/images/Nushdip.jpeg">
 
 <a href="/files/grad2019.pdf" target="_blank" rel="noopener noreferrer"> Class of 2019</a>  
 <a href="/files/grad2020.pdf" target="_blank" rel="noopener noreferrer"> Class of 2020</a>  
