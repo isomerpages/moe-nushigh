@@ -18,13 +18,13 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 	<thead>
 		<tr>
 			<th style="align: center">
-				<img src="/images/chemistry/Picture 1.jpg" style="width:500px" >
+				<img src="/images/Chemistry/Picture 1.jpg" style="width:500px" >
 			</th>
 			<th style="align: center">
-				<img src="/images/chemistry/Picture 2.jpg" style="width:500px" >
+				<img src="/images/Chemistry/Picture 2.jpg" style="width:500px" >
 			</th>
 			<th style="align: center">
-				<img src="/images/chemistry/Picture 3.jpg" style=" width:500px;">
+				<img src="/images/Chemistry/Picture 3.jpg" style=" width:500px;">
 			</th>
 		</tr>
 	</thead>
@@ -44,13 +44,38 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 	<thead>
 		<tr>
 			<th style="align: center">
-				<img src="/images/chem4.jpg" style="width:500px" >
+				<img src="/images/Chemistry/Picture 4.jpg" style="width:500px" >
 			</th>
 			<th style="align: center">
-				<img src="/images/chem5.jpg" style="width:500px" >
+				<img src="/images/Chemistry/Picture 5.jpg" style="width:500px" >
 			</th>
 			<th style="align: center">
-				<img src="/images/chem6.jpg" style=" width:500px;">
+				<img src="/images/Chemistry/Picture 6.jpg" style=" width:500px;">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > Desc 1 </td>
+			<td style="text-align:center" > Desc 2 </td>
+			<td style="text-align:center"> Desc 3 </td>
+		</tr>
+	</tbody>
+</table>
+
+#### Our students excel at External Competitions
+
+<table>
+	<thead>
+		<tr>
+			<th style="align: center">
+				<img src="/images/Chemistry/Picture 7.jpg" style="width:500px" >
+			</th>
+			<th style="align: center">
+				<img src="/images/Chemistry/Picture 8.jpg" style="width:500px" >
+			</th>
+			<th style="align: center">
+				<img src="/images/Chemistry/Picture 9.jpg" style=" width:500px;">
 			</th>
 		</tr>
 	</thead>
