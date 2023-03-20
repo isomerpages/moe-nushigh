@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Programme of Studies/Humanities.md
       - Programme of Studies/English Language and Literature.md
       - Programme of Studies/Computer Science.md
       - Programme of Studies/Chemistry.md
