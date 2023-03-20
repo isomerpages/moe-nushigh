@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The NUS High Diploma/.keep
-      - The NUS High Diploma/Programme of Studies.md
       - The NUS High Diploma/Chemistry TestPage.md
       - The NUS High Diploma/Biology.md
       - The NUS High Diploma/Chemistry.md
