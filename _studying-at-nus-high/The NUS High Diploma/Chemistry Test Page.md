@@ -67,8 +67,12 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 			<td style="text-align:center" >
 				Learning from the best:
 				XLab, Germany Desc 1 </td>
-			<td style="text-align:center" > Desc 2 </td>
-			<td style="text-align:center"> Desc 3 </td>
+			<td style="text-align:center" > 
+				Student Initiated Activities:  
+				Chemistry Interest Group </td>
+			<td style="text-align:center"> 
+				 Learning Journeys:
+				Food and Science Technology</td>
 		</tr>
 	</tbody>
 </table>
