@@ -2,6 +2,7 @@ collections:
   studying-at-nus-high:
     output: true
     order:
+      - Music and Art.md
       - Mother Tongue and Foreign Languages.md
       - Mathematics and Statistics.md
       - Humanities.md
