@@ -6,6 +6,8 @@ third_nav_title: The NUS High Diploma
 ---
 ### **Please click on the year of graduation for the relevant programme of studies.**
 
+<img src="/images/Nushdip.jpeg">
+
 <a href="/files/grad2019.pdf" target="_blank" rel="noopener noreferrer"> Class of 2019</a>  
 <a href="/files/grad2020.pdf" target="_blank" rel="noopener noreferrer"> Class of 2020</a>  
 <a href="/files/grad2021.pdf" target="_blank" rel="noopener noreferrer"> Class of 2021</a>  
