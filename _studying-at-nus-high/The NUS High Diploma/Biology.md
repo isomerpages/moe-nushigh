@@ -17,6 +17,34 @@ For more information, please visit the [Programme of Studies](https://staging.d1
 #### The **living world** around us is fascinating with all its beauty and complexity.<br>
 Our students come upclose and personal with this world in the biology curriculum.<br>
 Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
+<table>
+	<thead>
+		<tr>
+			<th style="align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="width:500px" >
+			</th>
+			<th style="align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 2.jpg" style="width:500px" >
+			</th>
+			<th style="align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 3.jpg" style="width:500px" >
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+				Real world connections:  
+				Investigating Iron in Cereals</td>
+			<td style="text-align:center" >
+				Authentic Assessment in groups:
+				Simulating an Airbag </td>
+			<td style="text-align:center"> 
+				Practical Skills beyond A Levels:
+				Synthetic Chemistry </td>
+		</tr>
+	</tbody>
+</table>
 
 | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 1.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 2.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 3.jpg"></a> |
 |:---:|:---:|:---:|
