@@ -21,13 +21,13 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 	<thead>
 		<tr>
 			<th style="align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="width:500px" >
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="width:100%" >
 			</th>
 			<th style="align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 2.jpg" style="width:500px" >
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 2.jpg" style="width:100%" >
 			</th>
 			<th style="align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 3.jpg" style="width:500px" >
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 3.jpg" style="width:100%" >
 			</th>
 		</tr>
 	</thead>
