@@ -18,16 +18,16 @@ For more information, please visit the [Programme of Studies](https://staging.d1
 Our students come upclose and personal with this world in the biology curriculum.<br>
 Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
 
-| <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/bio1.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/bio2.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/bio3.jpg"></a> |
+| <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 1.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 2.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 3.jpg"></a> |
 |:---:|:---:|:---:|
 | Real world connections: <br> Investigating Enzymatic Reactions | Authentic Assessment in groups:<br>Fieldwork at Lazarus Island | Experiential Inquiry:<br>Ecological Sampling |
 
 #### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/)
 	
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/bio6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -38,9 +38,9 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 #### The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/bio9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 9.jpg" style="width:30%;margin-right:1px;" align = "right"></a></p>
 
 <br clear="left">
 
