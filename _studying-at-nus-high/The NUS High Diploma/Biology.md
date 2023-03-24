@@ -23,13 +23,18 @@ Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/program
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%">
+				<a href="/biology/wonderment-in-the-classroom/">
+					<img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%"></a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/images/Biology/bio Photo 1.jpg"><img src="/images/Biology/bio Photo 2.jpg" style="max-height:100%; max-width:100%" >
+				<a href="/biology/wonderment-in-the-classroom/">
+					<img src="/images/Biology/bio Photo 2.jpg" style="max-height:100%; max-width:100%" >
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/images/Biology/bio Photo 1.jpg"><img src="/images/Biology/bio Photo 3.jpg" style="max-height:100%; max-width:100%" >
+				<a href="/biology/wonderment-in-the-classroom/">
+					<img src="/images/Biology/bio Photo 3.jpg" style="max-height:100%; max-width:100%" >
+				</a>
 			</th>
 		</tr>
 	</thead>
