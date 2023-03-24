@@ -18,7 +18,6 @@ For more information, please visit the <a href="/studying-at-nus-high/the-nus-hi
 Our students come upclose and personal with this world in the biology curriculum.<br>
 Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/">Programme of Studies</a>.<br>
 
-
 <table>
 	<thead>
 		<tr>
@@ -53,7 +52,6 @@ Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/program
 	</tbody>
 </table>
 
-<br>
 #### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/)
 <table>
@@ -91,7 +89,6 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 	</tbody>
 </table>
 
-<br>
 #### The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
 	
