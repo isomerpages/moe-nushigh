@@ -12,11 +12,12 @@ The first three years are Foundation Years which will introduce students to the 
 
 The next three years are Specialization Years whereby students who are interested in pursuing biology related disciplines in universities will continue their learning in biology beyond the basics. The topics covered include evolutionary biology, ecology, biodiversity, molecular genetics and biochemistry. Students will explore biological phenomena, learn more extensively via outdoor field trips and engage in more in-depth investigations. There is more exposure to critical thinking and analytical skills in the more demanding modules, as well as an emphasis towards more knowledge application in broader and concept-orientated perspectives. Students will also become more independent in their learning approaches. 
 
-For more information, please visit the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
+For more information, please visit the <a href="/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/">Programme of Studies </a> .
 
 #### The **living world** around us is fascinating with all its beauty and complexity.<br>
 Our students come upclose and personal with this world in the biology curriculum.<br>
 Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/">Programme of Studies </a> .
+
 
 <table>
 	<thead>
