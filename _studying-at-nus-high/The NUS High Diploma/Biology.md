@@ -53,6 +53,7 @@ Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/program
 	</tbody>
 </table>
 
+<br>
 #### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/)
 <table>
