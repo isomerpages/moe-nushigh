@@ -41,13 +41,16 @@ Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/program
 		<tr>
 			<td style="text-align:center" > 
 				Real world connections:  
-				Investigating Enzymatic Reactions</td>
+				Investigating Enzymatic Reactions
+			</td>
 			<td style="text-align:center" >
 				Authentic Assessment in groups:
-				Fieldwork at Lazarus Island </td>
+				Fieldwork at Lazarus Island 
+			</td>
 			<td style="text-align:center"> 
 				Experiential Inquiry:
-				Ecological Sampling </td>
+				Ecological Sampling 
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -78,13 +81,16 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 		<tr>
 			<td style="text-align:center" > 
 				Learning from the best:  
-				University of Queensland, Australia</td>
+				University of Queensland, Australia
+			</td>
 			<td style="text-align:center" >
 				Student Initiated Activities:
-				Biology Interest Group </td>
+				Biology Interest Group
+			</td>
 			<td style="text-align:center"> 
 				Learning Journeys to give exposure:
-				Visiting Sky Greens </td>
+				Visiting Sky Greens 
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -116,14 +122,17 @@ Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp
 		<tr>
 			<td style="text-align:center" > 
 				International Biology Olympiad:  
-				1 Gold</td>
+				1 Gold
+			</td>
 			<td style="text-align:center" >
 				Yakutia International  
 Science Games  
-Gold & Best Presentation (research) </td>
+Gold & Best Presentation (research)
+			</td>
 			<td style="text-align:center"> 
 				NUS STEP Brain Camp  
-2nd in Research </td>
+2nd in Research 
+			</td>
 		</tr>
 	</tbody>
 </table>
