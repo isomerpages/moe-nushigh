@@ -107,7 +107,7 @@ Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/">
-					<img src="/images/Biology/bio Photo 9.jpg" style="max-height:100%; max-width:100%">\
+					<img src="/images/Biology/bio Photo 9.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 		</tr>
