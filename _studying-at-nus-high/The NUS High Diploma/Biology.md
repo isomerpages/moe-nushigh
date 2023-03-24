@@ -35,33 +35,48 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 		<tr>
 			<td style="text-align:center" > 
 				Real world connections:  
-				Investigating Iron in Cereals</td>
+				Investigating Enzymatic Reactions</td>
 			<td style="text-align:center" >
 				Authentic Assessment in groups:
-				Simulating an Airbag </td>
+				Fieldwork at Lazarus Island </td>
 			<td style="text-align:center"> 
-				Practical Skills beyond A Levels:
-				Synthetic Chemistry </td>
+				Experiential Inquiry:
+				Ecological Sampling </td>
 		</tr>
 	</tbody>
 </table>
 
-| <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 1.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 2.jpg"></a> | <a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img style="width:100%" src="/images/Biology/bio Photo 3.jpg"></a> |
-|:---:|:---:|:---:|
-| Real world connections: <br> Investigating Enzymatic Reactions | Authentic Assessment in groups:<br>Fieldwork at Lazarus Island | Experiential Inquiry:<br>Ecological Sampling |
-
 #### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/)
 	
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Learning from the best:<br>University of Queensland, Australia | Student Initiated Activities:<br>Biology Interest Group | Learning Journeys to give exposure:<br>Visiting Sky Greens |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 4.jpg" style="max-height:100%; max-width:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 5.jpg"     style="max-height:100%; max-width:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 6.jpg" style="max-height:100%; max-width:100%" >
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+				Learning from the best:  
+				University of Queensland, Australia</td>
+			<td style="text-align:center" >
+				Student Initiated Activities:
+				Biology Interest Group </td>
+			<td style="text-align:center"> 
+				Learning Journeys to give exposure:
+				Visiting Sky Greens </td>
+		</tr>
+	</tbody>
+</table>
 
 #### The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
