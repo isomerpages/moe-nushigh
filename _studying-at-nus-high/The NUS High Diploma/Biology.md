@@ -60,13 +60,19 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 4.jpg" style="max-height:100%; max-width:100%" >
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/">
+					<img src="/images/Biology/bio Photo 4.jpg" style="max-height:100%; max-width:100%">
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 5.jpg"     style="max-height:100%; max-width:100%" >
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/">
+					<img src="/images/Biology/bio Photo 5.jpg"     style="max-height:100%; max-width:100%">
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/"><img src="/images/Biology/bio Photo 6.jpg" style="max-height:100%; max-width:100%" >
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/">
+					<img src="/images/Biology/bio Photo 6.jpg" style="max-height:100%; max-width:100%" >
+				</a>
 			</th>
 		</tr>
 	</thead>
