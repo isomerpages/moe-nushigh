@@ -16,12 +16,13 @@ For more information, please visit the [Programme of Studies](https://staging.d1
 
 #### The **living world** around us is fascinating with all its beauty and complexity.<br>
 Our students come upclose and personal with this world in the biology curriculum.<br>
-Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
+Find out more in the <a href="">Programme of Studies </a> .
+
 <table>
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%" >
+				<a href="/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%" >
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 2.jpg"     style="max-height:100%; max-width:100%" >
