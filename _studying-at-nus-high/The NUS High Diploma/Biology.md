@@ -16,7 +16,7 @@ For more information, please visit the [Programme of Studies](https://staging.d1
 
 #### The **living world** around us is fascinating with all its beauty and complexity.<br>
 Our students come upclose and personal with this world in the biology curriculum.<br>
-Find out more in the <a href="">Programme of Studies </a> .
+Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/">Programme of Studies </a> .
 
 <table>
 	<thead>
