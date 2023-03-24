@@ -48,7 +48,6 @@ Find out more in the [Programme of Studies](https://staging.d1bl70m167uzkq.ampli
 
 #### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/)
-	
 <table>
 	<thead>
 		<tr>
@@ -80,13 +79,33 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 
 #### The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
-
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 9.jpg" style="width:30%;margin-right:1px;" align = "right"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| International Biology Olympiad:<br>1 Gold | Yakutia International<br>Science Games<br>Gold & Best Presentation (research) | NUS STEP Brain Camp<br>2nd in Research |
+	
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 7.jpg" style="max-height:100%; max-width:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 8.jpg"     style="max-height:100%; max-width:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<a href=https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/Biology/bio Photo 9.jpg" style="max-height:100%; max-width:100%" >
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+				International Biology Olympiad:  
+				1 Gold</td>
+			<td style="text-align:center" >
+				Yakutia International  
+Science Games  
+Gold & Best Presentation (research) </td>
+			<td style="text-align:center"> 
+				NUS STEP Brain Camp  
+2nd in Research </td>
+		</tr>
+	</tbody>
+</table>
