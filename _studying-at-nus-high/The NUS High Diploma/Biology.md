@@ -85,6 +85,7 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 	</tbody>
 </table>
 
+<br>
 #### The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
 	
