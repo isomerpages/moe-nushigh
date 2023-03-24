@@ -22,7 +22,7 @@ Find out more in the <a href="">Programme of Studies </a> .
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="study-at-nus-high-school/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%" >
+				<a href="/study-at-nus-high-school/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%" >
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/wonderment-in-the-classroom/"><img src="/images/Biology/bio Photo 2.jpg"     style="max-height:100%; max-width:100%" >
