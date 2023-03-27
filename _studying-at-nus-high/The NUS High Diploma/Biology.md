@@ -96,23 +96,23 @@ Find out about the informal curriculum that complements the [main curriculum](/b
 </table>
 
 #### The building of a vibrant community of talents with scientific prowess.<br>
-Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
+Find out more about our [achievements](/our-dna/achievements/2019/).
 	
 <table>
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/">
+				<a href="/our-dna/achievements/2019/">
 					<img src="/images/Biology/bio Photo 7.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/">
+				<a href="/our-dna/achievements/2019/">
 					<img src="/images/Biology/bio Photo 8.jpg"     style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/">
+				<a href="/our-dna/achievements/2019/">
 					<img src="/images/Biology/bio Photo 9.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
