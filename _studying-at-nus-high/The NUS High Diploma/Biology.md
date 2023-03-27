@@ -56,22 +56,22 @@ Find out more in the <a href="/studying-at-nus-high/the-nus-high-diploma/program
 </table>
 
 #### The Joy of Learning doesn't stop in the classrooms.<br>
-Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/)
+Find out about the informal curriculum that complements the [main curriculum](/biology/beyond-the-classroom/)
 <table>
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/">
+				<a href="/biology/beyond-the-classroom/">
 					<img src="/images/Biology/bio Photo 4.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/">
+				<a href="/biology/beyond-the-classroom/">
 					<img src="/images/Biology/bio Photo 5.jpg"     style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="https://staging.d1bl70m167uzkq.amplifyapp.com/biology/beyond-the-classroom/">
+				<a href="/biology/beyond-the-classroom/">
 					<img src="/images/Biology/bio Photo 6.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
