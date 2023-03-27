@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School Logo/Hero/hero2.png
+      background: /images/School Logo/Hero/hero3.png
       key_highlights:
         - title: Recent Highlights
           description: ""
