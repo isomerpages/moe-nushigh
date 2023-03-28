@@ -19,11 +19,11 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 <table>
 	<thead>
 		<tr>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 1.jpg" style="width:500px" >
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 1.jpg" style="max-width: 100%; max-height:100%" >
 			</th>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 2.jpg" style="width:500px" >
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 2.jpg" style="max-width: 100%; max-heigth: 100%" >
 			</th>
 			<th style="align: center">
 				<img src="/images/Chemistry/Picture 3.jpg" style=" width:500px;">
