@@ -4,7 +4,6 @@ permalink: /news-and-events/recent-highlights/breaking-the-bias/
 description: ""
 third_nav_title: Recent Highlights
 ---
-
 <img src="/images/recenthighlights4.jpg" style="width:65%">
 <center><b>In celebration of women whose interests STEM from a passion for coding, engineering, and beyond</b></center>
 
@@ -13,7 +12,14 @@ This International Women’s Day NUS High School of Math & Science celebrates it
 #### **The Polymath**
 A talented young mathematician, programmer, artist, writer, and musician, Shevonne Chia has conceptualised and coded an app-based repository of critical information to facilitate the handling of medical crises by doctors in Singapore General Hospital, the SGH Crisis Manual. Used by doctors as a means of accessing a critical body of information under time-sensitive conditions, the user-friendly app with its streamlined design saves precious minutes in medical work. A self-professed problem-solver, Shevonne revels in more formal challenges as well, most notably attaining a Silver award in the International Mathematical Olympiad in 2021 and receiving the prestigious Maryam Mirzakhani Prize for Asia in the course of the competition. In the same year she went on to attain a Silver in the European Physics Olympiad. Shevonne also enjoys creating digital art and music, which she posts on her independently coded website. A diverse and curious mind and a true all-rounder, she pursues creative writing both on her own time, and also with the school’s Journalism Club. On the joy of pursuing STEM subjects, she notes “In a broad sense, I love it when things come together. Seeing strange similarities across different fields, and concepts being applied in unexpected places, and understanding the underlying reasoning underpinning these confluences. I do believe as a society we're becoming more progressive and hopefully someday the concept of gender-roles in science will be a foreign idea.”
 
-<figcaption><figure><caption><img src="/images/highlights4a.jpg" style="width:65%">Shevonne with Mr Wang Haibin, her Math teacher and mentor at NUS High</figure></caption></figcaption>
+<figcaption>
+	<figure>
+		<caption>
+			<img src="/images/highlights4a.jpg" style="width:65%">Shevonne with Mr Wang Haibin, her Math teacher and mentor at NUS High
+		</caption>
+	</figure>
+</figcaption>
+
 
 #### **The Engineer for Good**
 Growing up with a much-loved older brother diagnosed with cerebral palsy, Angelina Wong learnt first-hand from a young age about the significant impact that thoughtful design can make in daily living. When he submitted expressed his wish for an automated umbrella for his powered wheelchair as an idea for World Cerebral Palsy Day in 2014, Angelina undertook to make the very first prototype for him. His delight and appreciation has inspired and continues to inspire Angelina to be in a position to bring this good to others. She independently initiated a project in collaboration with local non-profit organisation Engineering Good to make assistive grip switch toys for children with cerebral palsy to train vital motor skills.
