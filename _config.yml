@@ -3,7 +3,7 @@ url: https://nushigh.edu.sg
 favicon: /images/School Logo/nhs logo_tab browser.png
 colors:
   primary-color: "#009a90"
-  secondary-color: "#7698e2"
+  secondary-color: "#007771"
   media-colors:
     - title: media-color-one
       color: "#49759a"
