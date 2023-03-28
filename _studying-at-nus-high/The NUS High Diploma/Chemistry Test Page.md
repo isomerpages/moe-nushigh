@@ -51,14 +51,14 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 <table>
 	<thead>
 		<tr>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 4.jpg" style="width:500px" >
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 4.jpg" style="max-width: 100%; max-heigth: 100%" >
 			</th>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 5.jpg" style="width:500px" >
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 5.jpg" style="max-width: 100%; max-heigth: 100%" >
 			</th>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 6.jpg" style=" width:500px;">
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 6.jpg" style="max-width: 100%; max-heigth: 100%">
 			</th>
 		</tr>
 	</thead>
@@ -82,14 +82,14 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 <table>
 	<thead>
 		<tr>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 7.jpg" style="width:500px" >
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 7.jpg" style="max-width: 100%; max-heigth: 100%" >
 			</th>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 8.jpg" style="width:500px" >
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 8.jpg" style="max-width: 100%; max-heigth: 100%">
 			</th>
-			<th style="align: center">
-				<img src="/images/Chemistry/Picture 9.jpg" style=" width:500px;">
+			<th style="width: 33%; align: center">
+				<img src="/images/Chemistry/Picture 9.jpg" style="max-width: 100%; max-heigth: 100%">
 			</th>
 		</tr>
 	</thead>
