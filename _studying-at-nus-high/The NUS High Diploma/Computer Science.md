@@ -49,25 +49,81 @@ Why is Computer Science such an important subject? Our students find the answer 
 #### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/).
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/"><img src="/images/compsci4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/"><img src="/images/compsci5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/"><img src="/images/compsci6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<br clear="left">
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/computer-science/beyond-the-classroom/">
+					<img src="/images/Computer%20Science/CS%20Picture%204.jpg" style="max-height:100%; max-width:100%"></a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/computer-science/beyond-the-classroom/">
+					<img src="/images/Computer%20Science/CS%20Picture%205.jpg" style="max-height:100%; max-width:100%" >
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/computer-science/beyond-the-classroom/">
+					<img src="/images/Computer%20Science/CS%20Picture%206.jpg" style="max-height:100%; max-width:100%" >
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+				Learning from the best:  
+				Learning Journeys to Google
+			</td>
+			<td style="text-align:center" >
+				Student Initiated Activities:
+				Computer Science Interest Group 
+			</td>
+			<td style="text-align:center"> 
+				Getting Connected:
+				Internships
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-|  |  |  |
-|:---:|:---:|:---:|
-| Learning from the best:<br>Learning Journeys to Google | Student Initiated Activities:<br>Computer Science Interest Group | Getting Connected:<br>Internships |
 
-The building of a vibrant community of talents with scientific prowess.<br>
+#### The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/compsci7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/compsci8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/compsci9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| International Olympiad for Informatics:<br>1 Silver | Cyberthon:<br>Overall Champion | Splash Awards:<br>Champion |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2019/">
+					<img src="/images/Computer%20Science/CS%20Picture%207.jpg" style="max-height:100%; max-width:100%"></a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2019/">
+					<img src="/images/Computer%20Science/CS%20Picture%208.jpg" style="max-height:100%; max-width:100%" >
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2019/">
+					<img src="/images/Computer%20Science/CS%20Picture%209.jpg" style="max-height:100%; max-width:100%" >
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+				International Olympiad for Informatics:  
+				1 Silver
+			</td>
+			<td style="text-align:center" >
+				Cyberthon:
+				Overall Champion 
+			</td>
+			<td style="text-align:center"> 
+				Splash Awards:
+				Champion
+			</td>
+		</tr>
+	</tbody>
+</table>
