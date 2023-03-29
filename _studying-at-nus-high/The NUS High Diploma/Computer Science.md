@@ -6,21 +6,22 @@ third_nav_title: The NUS High Diploma
 ---
 Why is Computer Science such an important subject? Our students find the answer through their curriculum. Find out moreabout the skill sets gained through the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
 
+
 <table>
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
 				<a href="/biology/wonderment-in-the-classroom/">
-					<img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%"></a>
+					<img src="/images/Computer%20Science/CS%20Picture%201.jpg" style="max-height:100%; max-width:100%"></a>
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/biology/wonderment-in-the-classroom/">
-					<img src="/images/Biology/bio Photo 2.jpg" style="max-height:100%; max-width:100%" >
+					<img src="/images/Computer%20Science/CS%20Picture%202.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/biology/wonderment-in-the-classroom/">
-					<img src="/images/Biology/bio Photo 3.jpg" style="max-height:100%; max-width:100%" >
+					<img src="/images/Computer%20Science/CS%20Picture%203.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 		</tr>
@@ -28,31 +29,24 @@ Why is Computer Science such an important subject? Our students find the answer 
 	<tbody>
 		<tr>
 			<td style="text-align:center" > 
-				Real world connections:  
-				Investigating Enzymatic Reactions
+				Engaging the learner:  
+				Gamified Learning
 			</td>
 			<td style="text-align:center" >
-				Authentic Assessment in groups:
-				Fieldwork at Lazarus Island 
+				Authentic Assessment:
+				Making Android Apps 
 			</td>
 			<td style="text-align:center"> 
-				Experiential Inquiry:
-				Ecological Sampling 
+				Peer Learning:
+				Collaborative Problem Discussions
 			</td>
 		</tr>
 	</tbody>
 </table>
-<p><a href="/computer-science/wonderment-in-the-classroom/"><img src="/images/compsci1.png" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/wonderment-in-the-classroom/"><img src="/images/compsci2.png" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/wonderment-in-the-classroom/"><img src="/images/compsci3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<br clear="left">
 
-|  |  |  |
-|:---:|:---:|:---:|
-| Engaging the learner:<br>Gamified Learning | Authentic Assessment:<br>Making Android Apps | Peer Learning:<br>Collaborative Problem Discussions |
 
-####The Joy of Learning doesn't stop in the classrooms.<br>
+#### The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/).
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/computer-science/beyond-the-classroom/"><img src="/images/compsci4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
