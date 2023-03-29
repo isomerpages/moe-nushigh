@@ -72,13 +72,13 @@ To prepare our students for research work, all students are required to take the
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie7.png" style="max-width: 100%; max-height:100%" >
+				<img src="/images/RIE/rie4.png" style="max-width: 100%; max-height:100%" >
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie8.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/RIE/rie5.png" style="max-width: 100%; max-heigth: 100%" >
 			</th>
 			<th style="width: 33%;align: center">
-				<img src="/images/RIE/rie9.png" style="max-width: 100%; max-heigth: 100%">
+				<img src="/images/RIE/rie6.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 		</tr>
 	</thead>
@@ -99,15 +99,34 @@ To prepare our students for research work, all students are required to take the
 
 Our students embark on their Advanced Research Project in their Specialisation years. All students’ research will culminate in a project presentation at our annual NUS High School Research Congress. Students are always encouraged to interact with their peers, both local and international, and exchange ideas through oral and poster presentations at local and overseas science fairs and conferences.
 
-<img src="/images/rie10.jpg" style="width:26%;margin-right:15px;margin-left:35px;" align = "left">
-<img src="/images/rie11.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/rie12.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Annual Research Congress | Representing Singapore at the<br>Intel International Science and<br>Engineering Fair | Our students’ research<br>contribute to<br>research publications |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie7.png" style="max-width: 100%; max-height:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie8.png" style="max-width: 100%; max-heigth: 100%" >
+			</th>
+			<th style="width: 33%;align: center">
+				<img src="/images/RIE/rie9.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			Annual Research Congress
+			</td>
+			<td style="text-align:center" >
+			Representing Singapore at the<br>Intel International Science and<br>Engineering Fair
+			</td>
+			<td style="text-align:center">
+			Our students’ research<br>contribute to<br>research publications
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 In line with our school’s vision to nurture pioneers, humanitarians and innovators, the department seeks to develop skillsets in our students that can encourage them in the area of innovation and enterprise. Besides elective modules offered to equip them with design thinking skills, the department organises a hackathon annually. The school has also filed patents for innovative engineering and software solutions.
 
