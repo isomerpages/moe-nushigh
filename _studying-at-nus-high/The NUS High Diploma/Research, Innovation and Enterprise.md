@@ -39,15 +39,34 @@ In the foundation years, the department has designed structured modules that pro
 
 To prepare our students for research work, all students are required to take the Research Methodology module. Students also have the opportunity to take on simpler research projects guided by our teachers. From Year 3, they can also participate in mentorship programmes to conduct research with partner organisations.
 
-<img src="/images/rie4.jpg" style="width:28%;margin-right:15px;margin-left:35px;" align = "left">
-<img src="/images/rie5.jpg" style="width:26%;margin-right:15px;" align = "left">
-<img src="/images/rie6.jpg" style="width:35%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Customising circuit boards<br>(Design and Engineering) | Design Thinking - Understanding<br>about Perspectives | Solar Tracker:<br>A Year 1 project |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie1.png" style="max-width: 100%; max-height:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie2.png" style="max-width: 100%; max-heigth: 100%" >
+			</th>
+			<th style="width: 33%;align: center">
+				<img src="/images/RIE/rie3.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			Customising circuit boards<br>(Design and Engineering)
+			</td>
+			<td style="text-align:center" >
+			Design Thinking - Understanding<br>about Perspectives
+			</td>
+			<td style="text-align:center">
+			Solar Tracker:<br>A Year 1 project |
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <img src="/images/rie7.jpg" style="width:30%;margin-right:15px;margin-left:35px;" align = "left">
 <img src="/images/rie8.jpg" style="width:28%;margin-right:15px;" align = "left">
