@@ -62,7 +62,7 @@ To prepare our students for research work, all students are required to take the
 			Design Thinking - Understanding<br>about Perspectives
 			</td>
 			<td style="text-align:center">
-			Solar Tracker:<br>A Year 1 project |
+			Solar Tracker:<br>A Year 1 project
 			</td>
 		</tr>
 	</tbody>
