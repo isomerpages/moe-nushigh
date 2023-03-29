@@ -130,12 +130,31 @@ Our students embark on their Advanced Research Project in their Specialisation y
 
 In line with our school’s vision to nurture pioneers, humanitarians and innovators, the department seeks to develop skillsets in our students that can encourage them in the area of innovation and enterprise. Besides elective modules offered to equip them with design thinking skills, the department organises a hackathon annually. The school has also filed patents for innovative engineering and software solutions.
 
-<img src="/images/rie13.jpg" style="width:23%;margin-right:15px;margin-left:35px;" align = "left">
-<img src="/images/rie14.jpg" style="width:27%;margin-right:15px;" align = "left">
-<img src="/images/rie15.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Solid State Fan - Patented | Hackathon 2019 Champions | Engineering Interest Group |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie10.png" style="max-width: 100%; max-height:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie11.png" style="max-width: 100%; max-heigth: 100%" >
+			</th>
+			<th style="width: 33%;align: center">
+				<img src="/images/RIE/rie12.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			Solid State Fan - Patented
+			</td>
+			<td style="text-align:center" >
+			Hackathon 2019 Champions
+			</td>
+			<td style="text-align:center">
+			Engineering Interest Group
+			</td>
+		</tr>
+	</tbody>
+</table>
