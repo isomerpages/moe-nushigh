@@ -11,16 +11,16 @@ Why is Computer Science such an important subject? Our students find the answer 
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/computer-science/wonderment-in-the-classroom/">
 					<img src="/images/Computer%20Science/CS%20Picture%201.jpg" style="max-height:100%; max-width:100%"></a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/computer-science/wonderment-in-the-classroom/">
 					<img src="/images/Computer%20Science/CS%20Picture%202.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/computer-science/wonderment-in-the-classroom/">
 					<img src="/images/Computer%20Science/CS%20Picture%203.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
