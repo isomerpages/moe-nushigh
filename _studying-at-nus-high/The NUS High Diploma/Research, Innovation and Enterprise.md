@@ -4,20 +4,36 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/research-innovation-and-en
 description: ""
 third_nav_title: The NUS High Diploma
 ---
-
-
-
 The department of Research, Innovation and Enterprise (RIE) helms the Da Vinci Programme. This programme is one of the school’s keystone programmes designed to complement the curriculum to develop the scientific minds of our students. The 6-year programme aims to develop skills for research, innovation and enterprise in multiple disciplines. Students undergo a series of structured programmes in the first four years in order to prepare them to carry out a research project in their senior years. We strive to develop our students in the following ways:
 
-<img src="/images/rie1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/rie2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/rie3.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| To nurture students’ appreciation and understanding of the multi- and inter-disciplinary nature of work so that they can be polymaths in this fast-changing world. | To help students stay at the frontier of research and innovation. | To inculcate the observation, communication and thinking skills vital for research and innovation. |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie_icon1.png" style="max-width: 100%; max-height:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie_icon2.png" style="max-width: 100%; max-heigth: 100%" >
+			</th>
+			<th style="width: 33%;align: center">
+				<img src="/images/RIE/rie_icon3.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			To nurture students’ appreciation and understanding of the multi- and inter-disciplinary nature of work so that they can be polymaths in this fast-changing world.
+			</td>
+			<td style="text-align:center" >
+			To help students stay at the frontier of research and innovation.
+			</td>
+			<td style="text-align:center">
+			To inculcate the observation, communication and thinking skills vital for research and innovation.
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 In the foundation years, the department has designed structured modules that provide training in problem solving skills as well as inter- & multi-disciplinary studies. Elective modules in Design & Engineering and Science Communication are also offered to students.
 
