@@ -68,15 +68,34 @@ To prepare our students for research work, all students are required to take the
 	</tbody>
 </table>
 
-<img src="/images/rie7.jpg" style="width:30%;margin-right:15px;margin-left:35px;" align = "left">
-<img src="/images/rie8.jpg" style="width:28%;margin-right:15px;" align = "left">
-<img src="/images/rie9.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Junior Science Research<br>Module for Year 3s | Junior Scientist Category:<br>Singapore Science and<br>Engineering Fair | Science Mentorship<br>Programme |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie7.png" style="max-width: 100%; max-height:100%" >
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/RIE/rie8.png" style="max-width: 100%; max-heigth: 100%" >
+			</th>
+			<th style="width: 33%;align: center">
+				<img src="/images/RIE/rie9.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			Junior Science Research<br>Module for Year 3s
+			</td>
+			<td style="text-align:center" >
+			Junior Scientist Category:<br>Singapore Science and<br>Engineering Fair
+			</td>
+			<td style="text-align:center">
+			Science Mentorship<br>Programme
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 Our students embark on their Advanced Research Project in their Specialisation years. All students’ research will culminate in a project presentation at our annual NUS High School Research Congress. Students are always encouraged to interact with their peers, both local and international, and exchange ideas through oral and poster presentations at local and overseas science fairs and conferences.
 
