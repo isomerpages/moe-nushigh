@@ -67,7 +67,8 @@ To prepare our students for research work, all students are required to take the
 		</tr>
 	</tbody>
 </table>
-
+<br>
+<br>
 <table>
 	<thead>
 		<tr>
