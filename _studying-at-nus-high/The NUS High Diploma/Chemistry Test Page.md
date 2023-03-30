@@ -58,13 +58,19 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<a href="/chemistry/beyond-the-classroom/">
 				<img src="/images/Chemistry/Picture 4.jpg" style="max-width: 100%; max-heigth: 100%" >
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
+				<a href="/chemistry/beyond-the-classroom/">
 				<img src="/images/Chemistry/Picture 5.jpg" style="max-width: 100%; max-heigth: 100%" >
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
+				<a href="/chemistry/beyond-the-classroom/">
 				<img src="/images/Chemistry/Picture 6.jpg" style="max-width: 100%; max-heigth: 100%">
+				</a>
 			</th>
 		</tr>
 	</thead>
@@ -89,13 +95,19 @@ In the Specialisation Years 4 - 6, students will be introduced to more advanced 
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
 				<img src="/images/Chemistry/Picture 7.jpg" style="max-width: 100%; max-heigth: 100%" >
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
 				<img src="/images/Chemistry/Picture 8.jpg" style="max-width: 100%; max-heigth: 100%">
+				</a>
 			</th>
 			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
 				<img src="/images/Chemistry/Picture 9.jpg" style="max-width: 100%; max-heigth: 100%">
+				</a>
 			</th>
 		</tr>
 	</thead>
