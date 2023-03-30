@@ -4,8 +4,14 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/physics-and-engineering/
 description: ""
 third_nav_title: The NUS High Diploma
 ---
-Why does the **world** need **Physics and Engineering?**<br>
-Our students find the answer through their curriculum.<br>
+## Physics and Engineering
+The Physics & Engineering curriculum in NUS High School spans 6 years and is divided into two key stages – Foundation and Specialisation Years.
+
+Foundation modules (Year 1, 2 & 3) are designed to ensure that students receive a strong grounding in fundamental Physics concepts such as motion, conservation of energy and electricity. There is a greater emphasis on hands-on activities to enable students to develop a conceptual understanding of these concepts.
+
+The Specialisation modules (Year 4, 5 & 6) build on what has been introduced in the earlier years, covering a wide range of topics from rotational mechanics to practical circuitry and modern physics. Honours students will extend their study in mechanics and electromagnetism through the use of calculus as well as offer a module on special relativity. The emphasis is on deepening students’ understanding and extending their learning through a higher level of analytical and mathematical sophistication. These modules provide the necessary foundation for students to take university modules in Physics and Engineering.
+
+
 Find out more about the exciting journey our students go through in the <a href="/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/"> Programme of Studies</a>.
 
 <table>
