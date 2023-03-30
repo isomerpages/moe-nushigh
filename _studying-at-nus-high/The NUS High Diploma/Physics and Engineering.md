@@ -4,18 +4,15 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/physics-and-engineering/
 description: ""
 third_nav_title: The NUS High Diploma
 ---
-
-
-
 Why does the **world** need **Physics and Engineering?**<br>
 Our students find the answer through their curriculum.<br>
-Find out more about the exciting journey our students go through in the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
+Find out more about the exciting journey our students go through in the <a href="/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/"> Programme of Studies</a>.
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/wonderment-in-the-classroom/"><img src="/images/physicsneng1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+
+<p><a href="/physics-and-engineering/wonderment-in-the-classroom/"><img src="/images/physicsneng1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/wonderment-in-the-classroom/"><img src="/images/physicsneng2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/wonderment-in-the-classroom/"><img src="/images/physicsneng3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
