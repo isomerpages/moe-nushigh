@@ -11,16 +11,16 @@ Find out more about the exciting journey our students go through the [Programme 
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/english-and-literature/wonderment-in-the-classroom/">
 					<img src="/images/English/english7.jpg" style="max-height:100%; max-width:100%"></a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/english-and-literature/wonderment-in-the-classroom/">
 					<img src="/images/English/english2.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/english-and-literature/wonderment-in-the-classroom/">
 					<img src="/images/English/english3.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
@@ -52,16 +52,16 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/english-and-literature/beyond-the-classroom/">
 					<img src="/images/English/english4.jpg" style="max-height:100%; max-width:100%"></a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/english-and-literature/beyond-the-classroom/">
 					<img src="/images/English/english5.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/english-and-literature/beyond-the-classroom/">
 					<img src="/images/English/english6.jpg" style="max-height:100%; max-width:100%" >
 				</a>
 			</th>
