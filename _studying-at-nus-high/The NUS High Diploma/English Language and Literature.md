@@ -83,4 +83,3 @@ For Exposure
 		</tr>
 	</tbody>
 </table>
-
