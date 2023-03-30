@@ -4,16 +4,14 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/music-and-art/
 description: ""
 third_nav_title: The NUS High Diploma
 ---
+## Music and Art
 
-
-
-The **[Music Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/)** will enhance students' learning and doing through the acquisition of Music knowledge and Reading; Music Listening and Analysis; Music Composition and Performance.
+The **<a href="/music-and-art/music/">Music Programme</a>** will enhance students' learning and doing through the acquisition of Music knowledge and Reading; Music Listening and Analysis; Music Composition and Performance.
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music1.jpg" style="width:26%;margin-right:15px;margin-left:25px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music2.jpg" style="width:26%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
