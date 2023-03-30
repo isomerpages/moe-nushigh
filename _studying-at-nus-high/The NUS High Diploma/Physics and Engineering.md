@@ -109,24 +109,14 @@ Find out more about our <a href="/our-dna/achievements/2022/">achievements</a>.
 	<tbody>
 		<tr>
 			<td style="text-align:center" > 
-			 Learning from the best:<br>CERN, Switzerland
+			 International Physics Olympiad:<br>1 Gold, 1 Silver, 1 Bronze
 			</td>
 			<td style="text-align:center" >
-			Student Initiated Activities:<br>Physics Interest Group
+			International Young Physicists' Tournament:<br>NUS High's Youngest Participant
 			</td>
 			<td style="text-align:center">
-			Competitions to give exposure:<br>Singapore Amazing Flying<br>Machine Competition
+			International Olympaid for<br>Astronomy and Astrophysics:<br>1 Bronze
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| International Physics Olympiad:<br>1 Gold, 1 Silver, 1 Bronze | International Young Physicists' Tournament:<br>NUS High's Youngest Participant | International Olympaid for<br>Astronomy and Astrophysics:<br>1 Bronze |
