@@ -49,7 +49,7 @@ Find out more about the exciting journey our students go through in the <a href=
 	</tbody>
 </table>
 
-The Joy of Learning doesn't stop in the classrooms.<br>
+#### The Joy of Learning doesn't stop in the classrooms
 Find out about the  <a href="/physics-and-engineering/beyond-the-classroom/">informal curriculum</a> that complements the main curriculum. 
 
 <table>
@@ -88,7 +88,8 @@ Find out about the  <a href="/physics-and-engineering/beyond-the-classroom/">inf
 </table>
 
 
-The building of a vibrant community of talents with scientific prowess.<br>
+### Building of a vibrant community of talents with scientific prowess
+
 Find out more about our <a href="/our-dna/achievements/2022/">achievements</a>.
 
 
