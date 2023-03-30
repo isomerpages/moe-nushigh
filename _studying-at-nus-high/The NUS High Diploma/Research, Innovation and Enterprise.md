@@ -4,6 +4,8 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/research-innovation-and-en
 description: ""
 third_nav_title: The NUS High Diploma
 ---
+## Research, Innovation and Enterprise
+
 The department of Research, Innovation and Enterprise (RIE) helms the Da Vinci Programme. The Da Vinci Programme is one of the keystone programmes in NUS High School and it complements the curriculum to develop the scientific minds of our students. The 6-year programme aims to develop skills for research, innovation and enterprise in multiple disciplines. Students undergo a series of structured programmes in the first four years in order to prepare them to carry out a research project in their senior years.
 
 <table>
