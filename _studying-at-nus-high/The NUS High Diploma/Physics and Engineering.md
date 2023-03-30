@@ -17,10 +17,14 @@ Find out more about the exciting journey our students go through in the <a href=
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
+				<a href="/physics-and-engineering/wonderment-in-the-classroom/">
 				<img src="/images/Physics and Eng/physics2.png" style="max-width: 100%; max-heigth: 100%" >
+				</a>
 			</th>
 			<th style="width: 33%;align: center">
+				<a href="/physics-and-engineering/wonderment-in-the-classroom/">
 				<img src="/images/Physics and Eng/physics3.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
 			</th>
 		</tr>
 	</thead>
