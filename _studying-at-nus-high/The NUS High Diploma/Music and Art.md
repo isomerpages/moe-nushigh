@@ -7,41 +7,110 @@ third_nav_title: The NUS High Diploma
 ## Music and Art
 
 The **<a href="/music-and-art/music/">Music Programme</a>** will enhance students' learning and doing through the acquisition of Music knowledge and Reading; Music Listening and Analysis; Music Composition and Performance.
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/music-and-art/music/">
+				<img style="max-width: 100%; max-height:100%" src="/images/Music and Art/music_art1.png">
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/music-and-art/music/">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music_art2.png">
+				</a>
+			</th>
+			<th style="width: 33%;align: center">
+				<a href="/music-and-art/music/">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music_art3.png">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+			Experiential Learning:<br>Talks, Workshops, Trips
+			</td>
+			<td style="text-align:center">
+			Authentic Assessment:<br>Music Recitals
+			</td>
+			<td style="text-align:center">
+			Partnering YST Conservatory (NUS)<br>and NIE in our programmes
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music1.jpg" style="width:26%;margin-right:15px;margin-left:25px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music2.jpg" style="width:26%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/music/"><img src="/images/music3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+The **<a href="/music-and-art/art/">Art Programme</a>** will enhance students' learning and doing through the acquisition of Aesthetic Perception; Artistic Expression; Historical and Cultural Context; Critical Analysis; and Practical Applications.
 
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/music-and-art/art/">
+				<img style="max-width: 100%; max-height:100%" src="/images/Music and Art/music_art4.png">
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/music-and-art/art/">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music_art5.png">
+				</a>
+			</th>
+			<th style="width: 33%;align: center">
+				<a href="/music-and-art/art/">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music_art6.png">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+			Experiential Learning:<br>Talks, Workshops, Trips
+			</td>
+			<td style="text-align:center">
+			Authentic Assessment:<br>Art Graduation Show
+			</td>
+			<td style="text-align:center">
+			Active Contribution<br>to the School Community
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-|  |  |  |
-|:---:|:---:|:---:|
-| Experiential Learning:<br>Talks, Workshops, Trips | Authentic Assessment:<br>Music Recitals | Partnering YST Conservatory (NUS)<br>and NIE in our programmes |
-
-The **[Art Programme](https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/)** will enhance students' learning and doing through the acquisition of Aesthetic Perception; Artistic Expression; Historical and Cultural Context; Critical Analysis; and Practical Applications.
-
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music4.jpg" style="width:30%;margin-right:25px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music5.jpg" style="width:28%;margin-right:25px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/music-and-art/art/"><img src="/images/music6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Experiential Learning:<br>Talks, Workshops, Trips | Authentic Assessment:<br>Art Graduation Show | Active Contribution<br>to the School Community |
-
-The Joy of Learning doesn’t stop in the classrooms.<br>
+#### The Joy of Learning doesn’t stop in the classrooms
 Find out about the informal curriculum
 that complements the main curriculum.
 
-<img src="/images/music7.jpg" style="width:30%;margin-right:45px;margin-left:25px;" align = "left">
-<img src="/images/music8.jpg" style="width:25%;margin-right:25px;" align = "left">
-<img src="/images/music9.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| School-wide<br>Aesthetic Appreciation Programme | Student Initiated Activities:<br>Music & Art Ambassadors | External Enrichment:<br>Participation in the arts scene |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img style="max-width: 100%; max-height:100%" src="/images/Music and Art/music_art7.png">
+			</th>
+			<th style="width: 33%; align: center">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music_art8.png">
+			</th>
+			<th style="width: 33%;align: center">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music_art9.png">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+			School-wide<br>Aesthetic Appreciation Programme
+			</td>
+			<td style="text-align:center">
+			Student Initiated Activities:<br>Music &amp; Art Ambassadors
+			</td>
+			<td style="text-align:center">
+			External Enrichment:<br>Participation in the arts scene
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 #### **Video and Audio Links**
 <center>NUSHS Music and Art Department wishes everyone good health, and may you all be filled with inspirations, aspirations and dreams for our world.<br><b>Love Music and Art for Life!</b></center>
