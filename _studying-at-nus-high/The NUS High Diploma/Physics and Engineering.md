@@ -13,17 +13,17 @@ Find out more about the exciting journey our students go through in the <a href=
 		<tr>
 			<th style="width: 33%; align: center">
 				<a href="/physics-and-engineering/wonderment-in-the-classroom/">
-					<img src="/images/Physics and Eng/physics1.png" style="max-width: 100%; max-height:100%" >
+					<img src="/images/Physics/physics1.png" style="max-width: 100%; max-height:100%" >
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/physics-and-engineering/wonderment-in-the-classroom/">
-				<img src="/images/Physics and Eng/physics2.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/Physics/physics2.png" style="max-width: 100%; max-heigth: 100%" >
 				</a>
 			</th>
 			<th style="width: 33%;align: center">
 				<a href="/physics-and-engineering/wonderment-in-the-classroom/">
-				<img src="/images/Physics and Eng/physics3.png" style="max-width: 100%; max-heigth: 100%">
+				<img src="/images/Physics/physics3.png" style="max-width: 100%; max-heigth: 100%">
 				</a>
 			</th>
 		</tr>
@@ -46,18 +46,46 @@ Find out more about the exciting journey our students go through in the <a href=
 The Joy of Learning doesn't stop in the classrooms.<br>
 Find out about the  <a href="/physics-and-engineering/beyond-the-classroom/">informal curriculum</a> that complements the main curriculum. 
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/beyond-the-classroom/"><img src="/images/physicsneng4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/beyond-the-classroom/"><img src="/images/physicsneng5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/beyond-the-classroom/"><img src="/images/physicsneng6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/physics-and-engineering/beyond-the-classroom/">
+					<img src="/images/Physics/physics4.png" style="max-width: 100%; max-height:100%" >
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/physics-and-engineering/beyond-the-classroom/">
+					<img src="/images/Physics/physics5.png" style="max-width: 100%; max-heigth: 100%" >
+				</a>
+			</th>
+			<th style="width: 33%;align: center">
+				<a href="/physics-and-engineering/beyond-the-classroom/">
+					<img src="/images/Physics/physics6.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			 Learning from the best:<br>CERN, Switzerland
+			</td>
+			<td style="text-align:center" >
+			Student Initiated Activities:<br>Physics Interest Group
+			</td>
+			<td style="text-align:center">
+			Competitions to give exposure:<br>Singapore Amazing Flying<br>Machine Competition
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Learning from the best:<br>CERN, Switzerland | Student Initiated Activities:<br>Physics Interest Group | Competitions to give exposure:<br>Singapore Amazing Flying<br>Machine Competition |
 
 The building of a vibrant community of talents with scientific prowess.<br>
-Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
+Find out more about our <a href="/our-dna/achievements/2022/">achievements</a>.
+
+
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
