@@ -44,7 +44,7 @@ Find out more about the exciting journey our students go through in the <a href=
 </table>
 
 The Joy of Learning doesn't stop in the classrooms.<br>
-Find out about the informal curriculum that complements the [main curriculum](https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/beyond-the-classroom/)
+Find out about the  <a href="/physics-and-engineering/beyond-the-classroom/">informal curriculum</a> that complements the main curriculum. 
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/beyond-the-classroom/"><img src="/images/physicsneng4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/physics-and-engineering/beyond-the-classroom/"><img src="/images/physicsneng5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
