@@ -86,6 +86,40 @@ The building of a vibrant community of talents with scientific prowess.<br>
 Find out more about our <a href="/our-dna/achievements/2022/">achievements</a>.
 
 
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
+					<img src="/images/Physics/physics7.png" style="max-width: 100%; max-height:100%" >
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
+					<img src="/images/Physics/physics8.png" style="max-width: 100%; max-heigth: 100%" >
+				</a>
+			</th>
+			<th style="width: 33%;align: center">
+				<a href="/our-dna/achievements/2022/">
+					<img src="/images/Physics/physics9.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center" > 
+			 Learning from the best:<br>CERN, Switzerland
+			</td>
+			<td style="text-align:center" >
+			Student Initiated Activities:<br>Physics Interest Group
+			</td>
+			<td style="text-align:center">
+			Competitions to give exposure:<br>Singapore Amazing Flying<br>Machine Competition
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/physicsneng8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
