@@ -41,17 +41,42 @@ Core, elective and enrichment modules are offered to students taking Chinese, Ma
 	</tbody>
 </table>
 
-Students can also learn French, Japanese, Chinese as 3rd Language and Malay as [3rd Language](https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/third-language-programmes/) as Elective Modules.
+Students can also learn French, Japanese, Chinese as 3rd Language and Malay as <a href="/mtl-and-foreign-languages/third-language-programmes/">3rd Language </a> as Elective Modules.
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/third-language-programmes/"><img src="/images/mtl4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align="left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/third-language-programmes/"><img src="/images/mtl5.jfif" style="width:30%;margin-right:15px;" align="left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/third-language-programmes/"><img src="/images/mtl6.jpg" style="width:30%;margin-right:15px;" align="left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Achieving communicative<br>competence | Gaining Cultural Insights | Authentic Learning<br>Opportunities |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/mtl-and-foreign-languages/third-language-programmes/">
+					<img src="/images/MT FL/mt_fl4.png" style="max-width: 100%; max-height:100%">
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/mtl-and-foreign-languages/third-language-programmes/">
+				<img src="/images/MT FL/mt_fl5.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
+			</th>
+			<th style="width: 33%;align: center">
+				<a href="/mtl-and-foreign-languages/third-language-programmes/">
+				<img src="/images/MT FL/mt_fl6.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Achieving communicative<br>competence
+			</td>
+			<td style="text-align:center">
+			 Gaining Cultural Insights
+			</td>
+			<td style="text-align:center">
+				Authentic Learning<br>Opportunities
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 Beyond the classroom, students learn to appreciate our vibrant multicultural society
 
