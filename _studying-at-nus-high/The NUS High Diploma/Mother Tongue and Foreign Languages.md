@@ -80,12 +80,31 @@ Students can also learn French, Japanese, Chinese as 3rd Language and Malay as <
 
 Beyond the classroom, students learn to appreciate our vibrant multicultural society
 
-<img src="/images/mtl7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align="left">
-<img src="/images/mtl8.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/mtl9.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Festive Celebrations | Cultural Exchange | Mother Tongue and Foreign<br>Languages Week |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/MT FL/mt_fl7.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/MT FL/mt_fl8.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%;align: center">
+				<img src="/images/MT FL/mt_fl9.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Festive Celebrations
+			</td>
+			<td style="text-align:center">
+			 Cultural Exchange
+			</td>
+			<td style="text-align:center">
+				Mother Tongue and Foreign<br>Languages Week
+			</td>
+		</tr>
+	</tbody>
+</table>
