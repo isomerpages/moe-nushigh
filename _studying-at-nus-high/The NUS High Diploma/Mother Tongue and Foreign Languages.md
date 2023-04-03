@@ -6,15 +6,40 @@ third_nav_title: The NUS High Diploma
 ---
 Core, elective and enrichment modules are offered to students taking Chinese, Malay and Tamil as their <a href="/mtl-and-foreign-languages/mother-tongue-languages/">Mother Tongue</a>. These modules serve to cater to the varying learning needs of our students from different cultural backgrounds. The department aims to provide our students with the language foundation required for tertiary education, and to develop in them the aptitude for language learning.
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/mother-tongue-languages/"><img src="/images/mtl1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align="left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/mother-tongue-languages/"><img src="/images/mtl2.jpg" style="width:30%;margin-right:15px;" align="left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/mother-tongue-languages/"><img src="/images/mtl3.jpg" style="width:30%;margin-right:15px;" align="left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Acquiring the necessary skills<br>to communicate proficiently | Experiential Learning | Competitions to give exposure |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/mtl-and-foreign-languages/mother-tongue-languages/">
+					<img src="/images/MT FL/mt_fl1.png" style="max-width: 100%; max-height:100%">
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/mtl-and-foreign-languages/mother-tongue-languages/">
+				<img src="/images/MT FL/mt_fl2.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
+			</th>
+			<th style="width: 33%;align: center">
+				<a href="/mtl-and-foreign-languages/mother-tongue-languages/">
+				<img src="/images/MT FL/mt_fl3.png" style="max-width: 100%; max-heigth: 100%">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+			Acquiring the necessary skills<br>to communicate proficiently
+			</td>
+			<td style="text-align:center">
+			 Experiential Learning
+			</td>
+			<td style="text-align:center">
+			Competitions to give exposure
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 Students can also learn French, Japanese, Chinese as 3rd Language and Malay as [3rd Language](https://staging.d1bl70m167uzkq.amplifyapp.com/mtl-and-foreign-languages/third-language-programmes/) as Elective Modules.
 
