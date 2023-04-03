@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School Logo/Hero/hero1.png
+      background: /images/School Logo/Hero/nush_hero1.png
       key_highlights:
         - title: Recent Highlights
           description: ""
