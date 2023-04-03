@@ -56,16 +56,16 @@ Find out about the informal curriculum that complements the [main curriculum](/m
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/mathematics-and-statistics/beyond-the-classroom/">
 					<img src="/images/Mathematics/maths4.jpg" style="max-height:100%; max-width:100%"></a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/mathematics-and-statistics/beyond-the-classroom/">
 					<img src="/images/Mathematics/maths5.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
+				<a href="/mathematics-and-statistics/beyond-the-classroom/">
 					<img src="/images/Mathematics/maths6.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
@@ -74,38 +74,63 @@ Find out about the informal curriculum that complements the [main curriculum](/m
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				Real world connections:  
-				Investigating Enzymatic Reactions
+				Exploring math research:  
+				Singapore Mathematics  
+Project Festival
 			</td>
 			<td style="text-align:center">
-				Authentic Assessment in groups:
-				Fieldwork at Lazarus Island 
+				Participating in Fun Challenges:
+				Rubiks Cube Competition 
 			</td>
 			<td style="text-align:center"> 
-				Experiential Inquiry:
-				Ecological Sampling 
+				Student Initiated Activities:
+				Math Interest Group
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 
-|  |  |  |
-|:---:|:---:|:---:|
-| Exploring math research:<br>Singapore Mathematics<br>Project Festival | Participating in Fun Challenges:<br>Rubiks Cube Competition | Student Initiated Activities:<br>Math Interest Group |
 
-The building of a vibrant community of talents with scientific prowess.<br>
-Find out more about our [achievements](https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/).
+#### The building of a vibrant community of talents with scientific prowess.<br>
+Find out more about our [achievements](/our-dna/achievements/2022/).
 
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align="left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats8.jpg" style="width:30%;margin-right:15px;" align="left"></a></p>
-<p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/our-dna/achievements/2019/"><img src="/images/mathandstats9.jpg" style="width:30%;margin-right:15px;" align="left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Asia Pacific Math Olympiad:<br>1 Silver | Tuymaada Olympiad<br>Overall First (Math, Senior) | A*\STAR Talent Search<br>Top Prize |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
+					<img src="/images/Mathematics/maths7.jpg" style="max-height:100%; max-width:100%"></a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
+					<img src="/images/Mathematics/maths8.jpg" style="max-height:100%; max-width:100%">
+				</a>
+			</th>
+			<th style="width: 33%; align: center">
+				<a href="/our-dna/achievements/2022/">
+					<img src="/images/Mathematics/maths9.jpg" style="max-height:100%; max-width:100%">
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Asia Pacific Math Olympiad:  
+1 Silver  
+			</td>
+			<td style="text-align:center">
+				Tuymaada Olympiad  
+Overall First (Math, Senior) 
+			</td>
+			<td style="text-align:center"> 
+				A*STAR Talent Search  
+Top Prize
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ##### **Write Ups / Articles of Some of our Achievements:**
 *   2020 Singapore Mathematics Project Festival: Top Prize&nbsp;in Junior Category with Project Title "Finding Colourful Trails".&nbsp;[Link to Video of the Presentation](https://www.facebook.com/SingaporeMathSoc/videos/200349054628840)&nbsp;
