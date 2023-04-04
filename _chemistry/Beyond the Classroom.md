@@ -7,10 +7,10 @@ description: ""
 	<thead>
 		<tr>
 			<th style="width: 49%; align: center">
-					<img src="/images/Chemistry/chemphotow1.jpg" style="max-height:100%; max-width:100%">
+					<img src="/images/Chemistry/chemphotob1.jpg" style="max-height:100%; max-width:100%">
 			</th>
 			<th style="width: 49%; align: center">
-					<img src="/images/Chemistry/chemphotow2.jpg" style="max-height:100%; max-width:100%">
+					<img src="/images/Chemistry/chemphotob2.jpg" style="max-height:100%; max-width:100%">
 			</th>
 		</tr>
 	</thead>
@@ -30,10 +30,10 @@ description: ""
 	<thead>
 		<tr>
 			<th style="width: 49%; align: center">
-					<img src="/images/Chemistry/chemphotow3.jpg" style="max-height:100%; max-width:100%">
+					<img src="/images/Chemistry/chemphotob3.jpg" style="max-height:100%; max-width:100%">
 			</th>
 			<th style="width: 49%; align: center">
-					<img src="/images/Chemistry/chemphotow4.jpg" style="max-height:100%; max-width:100%">
+					<img src="/images/Chemistry/chemphotob4.jpg" style="max-height:100%; max-width:100%">
 			</th>
 		</tr>
 	</thead>
