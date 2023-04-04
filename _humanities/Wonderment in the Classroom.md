@@ -40,7 +40,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<b>Critical and creative thinkin</b>&nbsp;define the humanities curriculum. Students have to think from multiple perspectives in order to make informed choices.
+				<b>Critical and creative thinking</b>&nbsp;define the humanities curriculum. Students have to think from multiple perspectives in order to make informed choices.
 			</td>
 			<td style="text-align:center">
 				<b>Engaged Learning</b>&nbsp;through the application of theory to real-life issues sparks wonderment, and developes self-reflection into our thoughts, beliefs and feelings.
