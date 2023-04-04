@@ -7,13 +7,10 @@ description: ""
 	<thead>
 		<tr>
 			<th style="width: 49%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
-					<img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%"></a>
+					<img src="/images/Biology/bio Photo 1.jpg" style="max-height:100%; max-width:100%">
 			</th>
 			<th style="width: 49%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
 					<img src="/images/Biology/bio Photo 2.jpg" style="max-height:100%; max-width:100%">
-				</a>
 			</th>
 		</tr>
 	</thead>
@@ -33,13 +30,10 @@ description: ""
 	<thead>
 		<tr>
 			<th style="width: 49%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
-					<img src="/images/Biology/Bio%20PhotoWO%203.jpg" style="max-height:100%; max-width:100%"></a>
+					<img src="/images/Biology/Bio%20PhotoWO%203.jpg" style="max-height:100%; max-width:100%">
 			</th>
 			<th style="width: 49%; align: center">
-				<a href="/biology/wonderment-in-the-classroom/">
 					<img src="/images/Biology/bio Photo 3.jpg" style="max-height:100%; max-width:100%">
-				</a>
 			</th>
 		</tr>
 	</thead>
