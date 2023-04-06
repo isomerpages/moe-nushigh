@@ -49,13 +49,3 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
-<img src="/images/mothertonguelanguage3.jpg" style="width:49%" align="left">
-<img src="/images/mothertonguelanguage4.jpg" style="width:49%" align="right">
-
-<br clear="left">
-
-|  |  |
-|---|---|
-| **Festival Celebrations**:&nbsp;The celebration of Chinese New Year, Hari Raya Haji and Deepavali allows our students to embrace diversity and share their culture and customs. It’s also the chance for them to showcase their talents. | **Language Appreciation**:&nbsp; Purposefully planned assembly programmes, activities and competitions are held during the Mother Tongue Language Week to engage the students to use and appreciate their Mother Tongue languages. |
-|
