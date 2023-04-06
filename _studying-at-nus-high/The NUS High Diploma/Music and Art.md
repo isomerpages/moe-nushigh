@@ -49,7 +49,8 @@ The music program will develop students in achieving these learning competencies
 	</tbody>
 </table>
 
-The **<a href="/music-and-art/art/">Art Programme</a>** will enhance students' learning and doing through the acquisition of Aesthetic Perception; Artistic Expression; Historical and Cultural Context; Critical Analysis; and Practical Applications.
+The  **<a href="/music-and-art/art/">Art programme</a>** in NUS High School aims to cultivate the student’s interest and curiosity in fields of art study. Students can put into practice what they have learnt in the Math and Science modules to enhance their holistic learning within the art classroom: Geometry in perspective drawing, Chemistry in ceramics, Physics in sculpture, Biology in figure drawing and environmental sculptures, Psychology in interactive art and computer technology in new media arts. Art can also be used as a neutral ground when talking about social or controversial subjects.
+<br>
 
 <table>
 	<thead>
