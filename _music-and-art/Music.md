@@ -7,14 +7,10 @@ description: ""
 	<thead>
 		<tr>
 			<th style="width: 50%; align: center">
-				<a href="/music-and-art/music/">
 				<img style="max-width: 100%; max-height:100%" src="/images/Music and Art/music1.png">
-				</a>
 			</th>
 			<th style="width: 50%; align: center">
-				<a href="/music-and-art/music/">
 				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music2.png">
-				</a>
 			</th>
 		</tr>
 	</thead>
@@ -34,14 +30,10 @@ description: ""
 	<thead>
 		<tr>
 			<th style="width: 50%; align: center">
-				<a href="/music-and-art/music/">
 				<img style="max-width: 100%; max-height:100%" src="/images/Music and Art/music3.png">
-				</a>
 			</th>
 			<th style="width: 50%; align: center">
-				<a href="/music-and-art/music/">
 				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/music4.png">
-				</a>
 			</th>
 		</tr>
 	</thead>
