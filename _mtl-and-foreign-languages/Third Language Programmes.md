@@ -48,13 +48,3 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
-<img src="/images/thirdlanguage3.jpg" style="width:49%" align="left">
-<img src="/images/thirdlanguage4.jpg" style="width:49%" align="right">
-
-<br clear="left">
-
-|  |  |
-|---|---|
-| **Cultural Awareness**:&nbsp;Apart from equipping students with the knowledge and skills, acquiring them with a sense of cultural awareness is meaningful in language appreciation. Class tasks (for e.g. French food tasting) and learning journeys are purposefully planned and guided in this respect. | **Learning Opportunities**:&nbsp; To deepen and broaden learning, learning opportunities in the form of competitions (for e.g. Japanese Speech Contest, mBoggle Competition for MSP) and overseas student exchange programmes (such as Nanao, Ritsumeikan SEP) are organized. Students also get to reflect on these learning opportunities to maximize their learning. |
-|
