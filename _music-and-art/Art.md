@@ -26,12 +26,25 @@ description: ""
 	</tbody>
 </table>
 
-<img src="/images/musicnart7.jpg" style="width:49%" align="left">
-<img src="/images/musicnart8.jpg" style="width:49%" align="right">
-
-<br clear="left">
-
-|  |  |
-|---|---|
-| **External Enrichment**&nbsp;is a platform for students to participate in the arts scene - such as the SYF Art Exhibition and SYF Celebrations in the City-Youth Arts Workshops. | **Authentic Assessment**&nbsp;is employed in the curriculum. Art majors have to set up an Art Graduation Show where all art track students will display their work. |
-|
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+				<img style="max-width: 100%; max-height:100%" src="/images/Music and Art/artpic3.png">
+			</th>
+			<th style="width: 33%; align: center">
+				<img style="max-width: 100%; max-heigth: 100%" src="/images/Music and Art/artpic4.png">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<b>External Enrichment</b> is a platform for students to participate in the arts scene - such as the SYF Art Exhibition and SYF Celebrations in the City-Youth Arts Workshops.
+			</td>
+			<td style="text-align:center">
+				<b>Authentic Assessment</b>is employed in the curriculum. Art majors have to set up an Art Graduation Show where all art track students will display their work. 
+			</td>
+		</tr>
+	</tbody>
+</table>
