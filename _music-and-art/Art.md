@@ -17,24 +17,14 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-			Experiential Learning:<br>Talks, Workshops, Trips
+				<b>Experiential, Inquiry-based and Collaborative Learning</b> are some of the different pedagogical approaches in the art modules.
 			</td>
 			<td style="text-align:center">
-			Authentic Assessment:<br>Music Recitals
+				<b>Contribution back to the community</b> is a requirement for Art majors. These students are tasked with the privilege and responsibility of creating art pieces which are given to guests of honour at school events.
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<img src="/images/musicnart5.jpg" style="width:54%" align="left">
-<img src="/images/musicnart6.jpg" style="width:44.5%" align="right">
-
-<br clear="left">
-
-|  |  |
-|---|---|
-| **Experiential, Inquiry-based and Collaborative Learning**&nbsp;are some of the different pedagogical approaches in the art modules. | **Contribution back to the community**&nbsp;is a requirement for Art majors. These students are tasked with the privilege and responsibility of creating art pieces which are given to guests of honour at school events. |
-|
 
 <img src="/images/musicnart7.jpg" style="width:49%" align="left">
 <img src="/images/musicnart8.jpg" style="width:49%" align="right">
