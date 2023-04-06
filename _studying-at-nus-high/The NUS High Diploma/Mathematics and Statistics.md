@@ -6,6 +6,16 @@ third_nav_title: The NUS High Diploma
 ---
 ## Mathematics and Statistics
 
+The mathematics curriculum at NUS High School is built upon important mathematical concepts such as number and algebra, geometry and measurement, function and graph, as well as probability and statistics.
+
+Students will be able to apply these concepts in multiple ways using numbers, graphs, symbols, diagrams, and words. The learning process emphasises concept attainment through problem solving and reasoning, mathematical skills and tools, mathematical computation and modelling, and putting mathematics to work. 
+
+In the Foundation Years (Years 1 to 3), students are given a broad-based mathematical study of algebra, geometry, statistics and trigonometry. These topics serve as a foundation for many modules offered in the later years. Pre-calculus topics such as functions will also be taught. Students must be familiar with the properties of functions, the algebra of functions, the graphs of functions, the language of functions, and the values of trigonometric functions. Simple concepts of calculus are introduced too. 
+
+Students in the Specialization Years (Years 4 to 6) are required to read calculus at an extensive level that is comparable to calculus courses in colleges and universities. Vectors, numerical methods and mathematical proofs will also be touched upon. Students will also further their knowledge in pure mathematics and statistics. In addition, they have a range of electives to choose from to deepen their knowledge and widen their exposure. 
+
+The Department offers both Major in Mathematics and Major with Honours in Mathematics.
+
 #### **Mathematics is the key to solving problems around us.**<br>
 Our students find out for themselves through their curriculum.<br>
 Find out more about the exciting journey our students go through in the [Programme of Studies](/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
