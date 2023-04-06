@@ -6,7 +6,14 @@ third_nav_title: The NUS High Diploma
 ---
 ## Music and Art
 
-The **<a href="/music-and-art/music/">Music Programme</a>** will enhance students' learning and doing through the acquisition of Music knowledge and Reading; Music Listening and Analysis; Music Composition and Performance.
+**<a href="/music-and-art/music/">Music education</a>**  in the NUS High School aims to refine the aesthetic sensitivities of all humanities. It is our mission to provide a quality music program that is an integral part of the entire education as well as a reflection of a well-balanced education experience. School and community resources are used to facilitate the exploration of music in a manner both meaningful and relevant to students. Students majoring in music—upon recommendation— will also enjoy the collaboration opportunities with higher institutions. The music program will enhance students’ learning through the acquisition of 
+* Music Knowledge and Reading 
+* Music Listening and Analysis 
+* Music Composition and Performance 
+
+The music program will develop students in achieving these learning competencies and to strive for excellence within the limits of their individual capabilities in three areas: Skill Development, Musical Understanding, and Attitude Development.
+<br>
+
 <table>
 	<thead>
 		<tr>
