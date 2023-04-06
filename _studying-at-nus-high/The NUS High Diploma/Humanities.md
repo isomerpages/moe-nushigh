@@ -5,6 +5,9 @@ description: ""
 third_nav_title: The NUS High Diploma
 ---
 ## Humanities
+The Humanities Curriculum at NUS High School aims to nurture our students into world-ready learners with humanitarian values. Students will have an appreciation and sustained interest in the world around them. They will also be adept at thinking critically and inventively, inspiring multiple and varied possibilities for the betterment of our community and society. 
+
+The Department offers a choice of three subject disciplines – History, Geography and Economics. Students will gain an introduction to the three independent disciplines by means of an Integrated Humanities course of study. They shall then have the option of pursuing either History or Geography in Years 2 – 3; and History, Geography or Economics in Years 4 - 6.
 
 #### Why does the **world** need **Humanities**?
 Our students find the answer through their curriculum. Find out more
