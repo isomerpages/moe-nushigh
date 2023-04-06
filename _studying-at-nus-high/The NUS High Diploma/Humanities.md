@@ -4,6 +4,8 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/humanities/
 description: ""
 third_nav_title: The NUS High Diploma
 ---
+## Humanities
+
 Why does the **world** need **Humanities**?
 Our students find the answer through their curriculum. Find out more
 about the exciting journey our students go through in the [Programme of Studies](/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
