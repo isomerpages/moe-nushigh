@@ -4,7 +4,10 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/mother-tongue-and-foreign-
 description: ""
 third_nav_title: The NUS High Diploma
 ---
-Core, elective and enrichment modules are offered to students taking Chinese, Malay and Tamil as their <a href="/mtl-and-foreign-languages/mother-tongue-languages/">Mother Tongue</a>. These modules serve to cater to the varying learning needs of our students from different cultural backgrounds. The department aims to provide our students with the language foundation required for tertiary education, and to develop in them the aptitude for language learning.
+## Mother Tongue and Foreign Language
+
+The <a href="/mtl-and-foreign-languages/mother-tongue-languages/">Mother Tongue</a> &amp; <a href="/mtl-and-foreign-languages/third-language-programmes/">Foreign Language </a> Department of NUS High School of Math &amp; Science offers core, elective and enrichment language modules to our students. These modules serve to cater to the varying learning needs of our students from different cultural backgrounds. The department aims to provide our students with the language foundation required for tertiary education, and to develop in them the aptitude for language learning.
+<br>
 
 <table>
 	<thead>
