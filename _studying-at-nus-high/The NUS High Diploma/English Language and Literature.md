@@ -4,6 +4,8 @@ permalink: /studying-at-nus-high/the-nus-high-diploma/english-language-and-liter
 description: ""
 third_nav_title: The NUS High Diploma
 ---
+## English Language and Literature
+
 #### How does **English Language and Literature** increase your appreciation of the world around you?<br>
 Our students find the answer through their curriculum.<br>
 Find out more about the exciting journey our students go through the [Programme of Studies](https://staging.d1bl70m167uzkq.amplifyapp.com/studying-at-nus-high/the-nus-high-diploma/programme-of-studies/).
@@ -16,23 +18,23 @@ Find out more about the exciting journey our students go through the [Programme 
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/english-and-literature/wonderment-in-the-classroom/">
-					<img src="/images/English/english2.jpg" style="max-height:100%; max-width:100%" >
+					<img src="/images/English/english2.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/english-and-literature/wonderment-in-the-classroom/">
-					<img src="/images/English/english3.jpg" style="max-height:100%; max-width:100%" >
+					<img src="/images/English/english3.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
+			<td style="text-align:center"> 
 				Learning Focused  
 Interaction  
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 				Authentic Assessment in groups
 			</td>
 			<td style="text-align:center"> 
@@ -57,22 +59,22 @@ Find out about the informal curriculum that complements the [main curriculum](ht
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/english-and-literature/beyond-the-classroom/">
-					<img src="/images/English/english5.jpg" style="max-height:100%; max-width:100%" >
+					<img src="/images/English/english5.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 			<th style="width: 33%; align: center">
 				<a href="/english-and-literature/beyond-the-classroom/">
-					<img src="/images/English/english6.jpg" style="max-height:100%; max-width:100%" >
+					<img src="/images/English/english6.jpg" style="max-height:100%; max-width:100%">
 				</a>
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
-				Student Initiated Activities: English Language & Current Affairs Interest Group  
+			<td style="text-align:center"> 
+				Student Initiated Activities: English Language &amp; Current Affairs Interest Group  
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 				Learning Journeys and  
 Enrichment Programmes
 			</td>
