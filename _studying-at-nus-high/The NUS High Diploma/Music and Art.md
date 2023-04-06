@@ -6,7 +6,7 @@ third_nav_title: The NUS High Diploma
 ---
 ## Music and Art
 
-**<a href="/music-and-art/music/">Music education</a>**  in the NUS High School aims to refine the aesthetic sensitivities of all humanities. It is our mission to provide a quality music program that is an integral part of the entire education as well as a reflection of a well-balanced education experience. School and community resources are used to facilitate the exploration of music in a manner both meaningful and relevant to students. Students majoring in music—upon recommendation— will also enjoy the collaboration opportunities with higher institutions. The music program will enhance students’ learning through the acquisition of 
+<a href="/music-and-art/music/">Music education</a>  in the NUS High School aims to refine the aesthetic sensitivities of all humanities. It is our mission to provide a quality music program that is an integral part of the entire education as well as a reflection of a well-balanced education experience. School and community resources are used to facilitate the exploration of music in a manner both meaningful and relevant to students. Students majoring in music—upon recommendation— will also enjoy the collaboration opportunities with higher institutions. The music program will enhance students’ learning through the acquisition of 
 * Music Knowledge and Reading 
 * Music Listening and Analysis 
 * Music Composition and Performance 
@@ -49,7 +49,7 @@ The music program will develop students in achieving these learning competencies
 	</tbody>
 </table>
 
-The  **<a href="/music-and-art/art/">Art programme</a>** in NUS High School aims to cultivate the student’s interest and curiosity in fields of art study. Students can put into practice what they have learnt in the Math and Science modules to enhance their holistic learning within the art classroom: Geometry in perspective drawing, Chemistry in ceramics, Physics in sculpture, Biology in figure drawing and environmental sculptures, Psychology in interactive art and computer technology in new media arts. Art can also be used as a neutral ground when talking about social or controversial subjects.
+The  <a href="/music-and-art/art/">Art programme</a> in NUS High School aims to cultivate the student’s interest and curiosity in fields of art study. Students can put into practice what they have learnt in the Math and Science modules to enhance their holistic learning within the art classroom: Geometry in perspective drawing, Chemistry in ceramics, Physics in sculpture, Biology in figure drawing and environmental sculptures, Psychology in interactive art and computer technology in new media arts. Art can also be used as a neutral ground when talking about social or controversial subjects.
 <br>
 
 <table>
