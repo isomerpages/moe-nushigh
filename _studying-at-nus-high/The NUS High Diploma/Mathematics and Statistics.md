@@ -147,7 +147,7 @@ Top Prize
 ##### **Write Ups / Articles of Some of our Achievements:**
 *   2020 Singapore Mathematics Project Festival: Top Prize&nbsp;in Junior Category with Project Title "Finding Colourful Trails".&nbsp;[Link to Video of the Presentation](https://www.facebook.com/SingaporeMathSoc/videos/200349054628840)&nbsp;
 *   2020 Singapore Mathematics Society Essay Competition: 3rd Prize.&nbsp;<br>
-Essays:&nbsp;<a target="_blank" href="/Files/Math and Stats/sms essay 1.pdf">Neural Networks and Dynamic Bayesian Networks</a><br>
-<a target="_blank" href="/Files/Math and Stats/sms essay 2.pdf">Multipurpose Calculus and its Applications to Artificial Intelligence</a>
+Essays:&nbsp;<a target="_blank" href="/files/Math and Stats/sms essay 1.pdf">Neural Networks and Dynamic Bayesian Networks</a><br>
+<a target="_blank" href="/files/Math and Stats/sms essay 2.pdf">Multipurpose Calculus and its Applications to Artificial Intelligence</a>
 
 *   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs".&nbsp;<a target="_blank" href="/files/Math and Stats/st in 27 may kin hern.pdf">Link to Media Article on the Project</a>
