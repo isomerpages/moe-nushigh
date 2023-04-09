@@ -44,6 +44,36 @@ NUS High School has established exchange and research programme collaborations w
 
 <center>Overseas science fairs and competitions give our students the opportunity to network with other young researchers and budding scientists.</center>
 
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/Student Development/Voyager/voyager4.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Voyager/voyager5.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Voyager/voyager6.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Beijing Aerospace &amp; Aviation<br>Museum, Beihang University of Aeronautics and Astronautics
+			</td>
+			<td style="text-align:center">
+			Wales, United Kingdom<br>Studies in Biology (Diversity) &amp; Physical Geography
+			</td>
+			<td style="text-align:center">
+			XLAB, Gottingen, Germany<br>Studies in Neurophysiology, Radioactivity, Organic Chemistry
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 <img src="/images/voyager7.jpg" style="width:30%;margin-right:5px;margin-left:15px;" align="left">
 <img src="/images/voyager8.jpg" style="width:33%;margin-right:5px;" align="left">
 <img src="/images/voyager9.jpg" style="width:30%;margin-right:5px;" align="left">
