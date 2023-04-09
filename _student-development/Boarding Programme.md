@@ -3,7 +3,6 @@ title: Boarding Programme
 permalink: /studying-at-nus-high/student-development/boarding-programme/
 description: ""
 ---
-
 <img style="width:25%" src="/images/boarding1.png">
 
 <center>NUS High Boarding School is a home away from home where our boarders build lasting friendships, grow more confident and independent while developing the school values of WISER with Humility (Wonderment, Integrity, Service, Excellence, Resilience).</center>
@@ -29,15 +28,34 @@ description: ""
 
 <center>Special features introduced to support the programme are enrichment activities, extended time and space for research, extended leadership opportunities and student initiated activities.<br><br>The year starts with Games Day, an orientation activity for boarders to come together and get to know more new friends. Throughout the course of the year, Inter-Cluster Sports &amp; Games see boarders participating in Ultimate Frisbee, Tchoukball, Bridge and other activities. There are also workshops that Boarding Leaders plans and executes. These include workshops where the Boarding Leaders teach their peers cooking, balloon-sculpting, origami, Chinese calligraphy for Chinese New Year celebrations etc. Through these platforms, we hope to develop the boarders' abilities beyond the classroom and allow them to discover their hidden talents and other potentials.</center>
 
-<img align="left" style="width:30%;margin-right:5px;margin-left:15px;" src="/images/boarding7.png">
-<img align="left" style="width:36%;margin-right:5px;" src="/images/boarding8.png">
-<img align="left" style="width:30%;margin-right:5px;" src="/images/boarding9.png">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Student Initiated Activities | Boarding Leaders | Enrichment Activities |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/Student Development/Boarding/boarding1.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Boarding/boarding2.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Boarding/boarding3.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Student Initiated Activities
+			</td>
+			<td style="text-align:center">
+			Boarding Leaders
+			</td>
+			<td style="text-align:center">
+			Enrichment Activities
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 #### **Administration &amp; Information**
 
@@ -111,13 +129,13 @@ The Boarding environment allows for meaningful interactions among students from 
 
 <img style="width:25%" src="/images/boarding14.png">
 
-##### **Facilities & Recreation**
+##### **Facilities &amp; Recreation**
 
 *   Gym
 *   Games Room and game equipment (table soccer, table hockey, pool)
 *   Study Room
-*   Computer Room & Study Area
-*   Pantries (equipped with induction cookers, pan, microwave ovens, toasters, refrigerators and hot & cold water dispensers)
+*   Computer Room &amp; Study Area
+*   Pantries (equipped with induction cookers, pan, microwave ovens, toasters, refrigerators and hot &amp; cold water dispensers)
 *   Sound-proof music rooms with pianos, digital pianos and drums sets
 *   TV Rooms
 *   Study benches around the common areas
@@ -126,7 +144,7 @@ The Boarding environment allows for meaningful interactions among students from 
 
 ##### **Services**
 
-*   24-hour security & biometrics access
+*   24-hour security &amp; biometrics access
 *   Free wifi throughout the Boarding School and LAN ports in the rooms
 *   Printing and photocopying services
 *   Coin-operated washer and dryer machines
@@ -135,18 +153,18 @@ The Boarding environment allows for meaningful interactions among students from 
 <img style="width:35%" src="/images/boarding16.png">
 
 ##### **Meals**
-Daily breakfast & dinner, with the inclusion of lunch on weekends and MOE term holidays and public holidays. Supper is provided during term time. Residents who require halal or vegetarian diets will have their meals catered from an external kitchen.
+Daily breakfast &amp; dinner, with the inclusion of lunch on weekends and MOE term holidays and public holidays. Supper is provided during term time. Residents who require halal or vegetarian diets will have their meals catered from an external kitchen.
 
 | Day / Meal | Breakfast | Lunch | Dinner |
 |:---:|:---:|:---:|:---:|
 | Mon – Fri<br>(during Term) | 6:00am – 7:45am | N/A | 6:00pm – 7:30pm |
 | Sat | 7:00am – 8:30am | 12:00nn – 2:00pm | 6:00pm – 7:30pm |
-| Sun & Holidays | 8:00am – 9:30am | 12:00nn – 2:00pm | 6:00pm – 7:30pm |
+| Sun &amp; Holidays | 8:00am – 9:30am | 12:00nn – 2:00pm | 6:00pm – 7:30pm |
 |
 
 <img style="width:20%" src="/images/boarding17.png">
 
-#### **Academic Support & Pastoral Care**
+#### **Academic Support &amp; Pastoral Care**
 The Boarding School provides a protected time for boarders to do their homework during term time in the form of compulsory "Study Time". Study time is from Monday to Thursday, 9pm to 10:30pm and boarders are only exempted on weekends and scheduled School Holidays.
 
 <img style="width:20%" src="/images/boarding18.png">
