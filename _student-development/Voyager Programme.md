@@ -73,25 +73,33 @@ NUS High School has established exchange and research programme collaborations w
 	</tbody>
 </table>
 
-
-<img src="/images/voyager7.jpg" style="width:30%;margin-right:5px;margin-left:15px;" align="left">
-<img src="/images/voyager8.jpg" style="width:33%;margin-right:5px;" align="left">
-<img src="/images/voyager9.jpg" style="width:30%;margin-right:5px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Beijing Aerospace &amp; Aviation<br>Museum, Beihang University of<br>Aeronautics and Astronautics | Wales, United Kingdom<br>Studies in Biology (Diversity) &amp;<br>Physical Geography | XLAB, Gottingen, Germany<br>Studies in Neurophysiology,<br>Radioactivity, Organic Chemistry |
-
 <center>Our students participate in numerous science fairs and competitions overseas. This gives our students the opportunity to network with other young researchers and budding scientists.</center>
 
-<img src="/images/voyager10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align="left">
-<img src="/images/voyager11.jpg" style="width:30%;margin-right:5px;" align="left">
-<img src="/images/voyager12.jpg" style="width:34.5%;margin-right:5px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Korea Science Academy of<br>KAIST Science Fair, South Korea | Intel International Science &amp;<br>Engineering Fair in USA | International Chemistry<br>Tournament in Russia |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/Student Development/Voyager/voyager7.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Voyager/voyager8.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Voyager/voyager9.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Korea Science Academy of KAIST Science Fair, South Korea
+			</td>
+			<td style="text-align:center">
+			Intel International Science &amp; Engineering Fair in USA
+			</td>
+			<td style="text-align:center">
+			International Chemistry Tournament in Russia
+			</td>
+		</tr>
+	</tbody>
+</table>
