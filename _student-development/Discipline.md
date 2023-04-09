@@ -3,7 +3,6 @@ title: Discipline
 permalink: /studying-at-nus-high/student-development/discipline/
 description: ""
 ---
-
 To foster a positive and safe school environment, NUS High School strives to inculcate positive behaviour as well as rehabilitate and deter unsuitable behaviour.
 
 The school’s discipline policy aims to do the following:
@@ -20,10 +19,11 @@ The School Discipline Policy is guided by **Restorative Practices**, an approach
 
 In handling disciplinary issues, NUS High aims to achieve the following outcomes:
 
-a) Building relationships<br>
+###### Building relationships
 Promoting a positive and trusting relationship so as to enhance the social and academic development of our students.
 
-b) Repairing relationships Recognising that wrongdoing is a violation of the trust that others have placed on us; and taking responsibility to amend one’s wrong actions so as to rebuild relationships.
+###### Repairing relationships 
+Recognising that wrongdoing is a violation of the trust that others have placed on us; and taking responsibility to amend one’s wrong actions so as to rebuild relationships.
 
-c) Reaffirming relationships<br>
+###### Reaffirming relationships
 Developing strong and positive relationships to prevent incidents of inappropriate behavior from occurring again.
