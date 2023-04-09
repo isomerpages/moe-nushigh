@@ -150,4 +150,4 @@ Top Prize
 Essays:&nbsp;[Neural Networks and Dynamic Bayesian Networks](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%201.pdf) **broken link**<br>
 [Multipurpose Calculus and its Applications to Artificial Intelligence](https://www-nushigh-edu-sg-admin.cwp.sg/qql/slot/u90/2020/Studying%20at%20NUS%20High/Mathematics%20and%20Stats%20Department/SMS%20essay%202.pdf)  **broken link**
 
-*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs".&nbsp;<a href="/Files/Math and Stats/st in 27 may kin hern.pdf">Link to Media Article on the Project</a>
+*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs".&nbsp;<a target="_blank" href="/Files/Math and Stats/st in 27 may kin hern.pdf">Link to Media Article on the Project</a>
