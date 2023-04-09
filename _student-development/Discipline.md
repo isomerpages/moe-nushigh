@@ -19,11 +19,11 @@ The School Discipline Policy is guided by **Restorative Practices**, an approach
 
 In handling disciplinary issues, NUS High aims to achieve the following outcomes:
 
-###### Building relationships
+#### Building relationships
 Promoting a positive and trusting relationship so as to enhance the social and academic development of our students.
 
-###### Repairing relationships 
+#### Repairing relationships 
 Recognising that wrongdoing is a violation of the trust that others have placed on us; and taking responsibility to amend one’s wrong actions so as to rebuild relationships.
 
-###### Reaffirming relationships
+#### Reaffirming relationships
 Developing strong and positive relationships to prevent incidents of inappropriate behavior from occurring again.
