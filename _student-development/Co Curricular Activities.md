@@ -94,11 +94,8 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 		</tr>
 	</tbody>
 </table>
-| Youth Flying Club |
-|:---:|
-|  |
 
-<img src="/images/cca7.png" style="width:30%">
+<br>
 
 #### **Performing Arts**
 
