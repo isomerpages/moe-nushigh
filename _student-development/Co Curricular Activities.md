@@ -8,6 +8,34 @@ CCA is considered a core but non-examinable module at NUS High School. It is com
 Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbsp;to take a look at our CCA e-Brochure for 2022, prepared for our Virtual CCA Fair!&nbsp;_(file takes a while to download)_
 
 #### **Clubs &amp; Societies**
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					Astronomy Club
+			</th>
+			<th style="width: 33%; align: center">
+				Chess Club
+			</th>
+			<th style="width: 33%; align: center">
+				Debate Club
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/cca1.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/cca2.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/cca3.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 | Astronomy Club | Chess Club | Debate Club |
 |:---:|:---:|:---:|
