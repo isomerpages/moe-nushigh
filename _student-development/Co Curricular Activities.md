@@ -158,56 +158,130 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 
 <br>
 
-| Drama Club | School Orchestra |
-|:---:|:---:|
-|  |  |
-
-<img src="/images/cca11.png" style="width:30%;margin-right:55px;" align="right">
-<img src="/images/cca12.png" style="width:30%;margin-left:55px;" align="left">
-
-<br clear="left">
-
-
 #### **Sports**
 
-| Badminton | Basketball | Football |
-|:---:|:---:|:---:|
-|  |  |  |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+				Badminton
+			</th>
+			<th style="width: 33%; text-align: center">
+				Basketball
+			</th>
+			<th style="width: 33%; text-align: center">
+				Football
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/Student Development/CCA/ccapic13.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic14.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic15.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-<img src="/images/cca13.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca14.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca15.png" style="width:30%;margin-right:15px;" align="left">
+<br>
 
-<br clear="left">
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+				Netball
+			</th>
+			<th style="width: 33%; text-align: center">
+				Outdoor Adventure Club
+			</th>
+			<th style="width: 33%; text-align: center">
+				Table Tennis
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/Student Development/CCA/ccapic16.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic17.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic18.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-| Netball | Outdoor Adventure Club | Table Tennis |
-|:---:|:---:|:---:|
-|  |  |  |
+<br>
 
-<img src="/images/cca16.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca17.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca18.png" style="width:30%;margin-right:15px;" align="left">
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+				Tennis
+			</th>
+			<th style="width: 33%; text-align: center">
+				Track &amp; Field
+			</th>
+			<th style="width: 33%; text-align: center">
+				Water Sports
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/Student Development/CCA/ccapic19.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic20.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic21.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-<br clear="left">
-
-| Tennis | Track &amp; Field | Water Sports |
-|:---:|:---:|:---:|
-|  |  |  |
-
-<img src="/images/cca19.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca20.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca21.png" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
+<br>
 
 #### **Uniformed Groups**
 
-| NCC Land | Scouts | St John Brigade |
-|:---:|:---:|:---:|
-|  |  |  |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+				NCC Land
+			</th>
+			<th style="width: 33%; text-align: center">
+				Scouts
+			</th>
+			<th style="width: 33%; text-align: center">
+				St John Brigade
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/Student Development/CCA/ccapic22.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic23.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic24.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-<img src="/images/cca22.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca23.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca24.png" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
+<br>
