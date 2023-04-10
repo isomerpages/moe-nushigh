@@ -48,4 +48,4 @@ Our school’s counselling staff are here to provide a listening ear, help our s
 
 <img src="/images/counselling8.png" style="width:22%">
 
-Please click&nbsp;<a target="_blank" href="/files/Counselling/usefulresource.pdf">here</a> for some useful online pastoral resources.
+Please click <a target="_blank" href="/files/Counselling/usefulresource.pdf">here</a> for some useful online pastoral resources.
