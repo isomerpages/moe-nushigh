@@ -74,14 +74,22 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
+			</th>
+			<th style="width: 33%; text-align: center">
 					Youth Flying Club
+			</th>
+			<th style="width: 33%; text-align: center">
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center; width: 33%">
-				<img height="300" width="300" src="/images/Student Development/CCA/ccapic7.png">
+			<td>
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic7.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>
