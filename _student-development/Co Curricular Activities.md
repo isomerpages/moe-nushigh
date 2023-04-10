@@ -3,20 +3,19 @@ title: Co Curricular Activities
 permalink: /studying-at-nus-high/student-development/cca/
 description: ""
 ---
+CCA is considered a core but non-examinable module at NUS High School. It is compulsory for every student to participate in one school-based CCA from any of the 4 CCA categories: Clubs &amp; Societies, Performing Arts, Sports and Uniformed Groups.
 
-CCA is considered a core but non-examinable module at NUS High School. It is compulsory for every student to participate in one school-based CCA from any of the 4 CCA categories: Clubs & Societies, Performing Arts, Sports and Uniformed Groups.
+Click&nbsp;**[here](/files/CCA/ccabrochure.pdf)**&nbsp;to take a look at our CCA e-Brochure for 2022, prepared for our Virtual CCA Fair!&nbsp;_(file takes a while to download)_
 
-Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure for 2022, prepared for our Virtual CCA Fair! _(file takes a while to download)_
-
-#### **Clubs & Societies**
+#### **Clubs &amp; Societies**
 
 | Astronomy Club | Chess Club | Debate Club |
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca1.png" style="width:30%;margin-right:15px;margin-left:25px;" align = "left">
-<img src="/images/cca2.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca3.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca1.png" style="width:30%;margin-right:15px;margin-left:25px;" align="left">
+<img src="/images/cca2.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca3.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -25,9 +24,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca4.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca5.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca6.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca4.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca5.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca6.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -43,9 +42,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca8.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca9.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca10.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca8.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca9.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca10.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -53,8 +52,8 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|
 |  |  |
 
-<img src="/images/cca11.png" style="width:30%;margin-right:55px;" align = "right">
-<img src="/images/cca12.png" style="width:30%;margin-left:55px;" align = "left">
+<img src="/images/cca11.png" style="width:30%;margin-right:55px;" align="right">
+<img src="/images/cca12.png" style="width:30%;margin-left:55px;" align="left">
 
 <br clear="left">
 
@@ -65,9 +64,9 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca13.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca14.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca15.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca13.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca14.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca15.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -75,19 +74,19 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca16.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca17.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca18.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca16.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca17.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca18.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
-| Tennis | Track & Field | Water Sports |
+| Tennis | Track &amp; Field | Water Sports |
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca19.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca20.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca21.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca19.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca20.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca21.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -97,8 +96,8 @@ Click **[here](/files/ccabrochure.pdf)** to take a look at our CCA e-Brochure 
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/cca22.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca23.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/cca24.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cca22.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca23.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/cca24.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
