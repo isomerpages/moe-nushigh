@@ -11,13 +11,13 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 <table>
 	<thead>
 		<tr>
-			<th style="width: 33%; align: center">
+			<th style="width: 33%; text-align: center">
 					Astronomy Club
 			</th>
-			<th style="width: 33%; align: center">
+			<th style="width: 33%; text-align: center">
 				Chess Club
 			</th>
-			<th style="width: 33%; align: center">
+			<th style="width: 33%; text-align: center">
 				Debate Club
 			</th>
 		</tr>
