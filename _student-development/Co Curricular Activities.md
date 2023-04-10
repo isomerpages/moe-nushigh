@@ -143,10 +143,10 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic11.png" style="max-width=100%; max-height=100%">
+				<img src="/images/Student Development/CCA/ccapic11.png">
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic12.png" style="max-width=100%; max-height=100%">
+			<img src="/images/Student Development/CCA/ccapic12.png">
 			</td>
 		</tr>
 	</tbody>
