@@ -25,39 +25,67 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/cca1.png" style="max-width=100%; max-height=100%">
+				<img src="/images/Student Development/CCA/ccapic1.png" style="max-width=100%; max-height=100%">
 			</td>
 			<td style="text-align:center">
-			<img src="/images/cca2.png" style="max-width=100%; max-height=100%">
+			<img src="/images/Student Development/CCA/ccapic2.png" style="max-width=100%; max-height=100%">
 			</td>
 			<td style="text-align:center">
-			<img src="/images/cca3.png" style="max-width=100%; max-height=100%">
+			<img src="/images/Student Development/CCA/ccapic3.png" style="max-width=100%; max-height=100%">
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-| Astronomy Club | Chess Club | Debate Club |
-|:---:|:---:|:---:|
-|  |  |  |
+<br>
 
-<img src="/images/cca1.png" style="width:30%;margin-right:15px;margin-left:25px;" align="left">
-<img src="/images/cca2.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca3.png" style="width:30%;margin-right:15px;" align="left">
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+					Journalism Club
+			</th>
+			<th style="width: 33%; text-align: center">
+				Media Club
+			</th>
+			<th style="width: 33%; text-align: center">
+				Robotics Club
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/Student Development/CCA/ccapic4.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic5.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic6.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-<br clear="left">
+<br>
 
-
-| Journalism Club | Media Club | Robotics Club|
-|:---:|:---:|:---:|
-|  |  |  |
-
-<img src="/images/cca4.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca5.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca6.png" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+					Youth Flying Club
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center; width: 33%">
+				<img src="/images/Student Development/CCA/ccapic7.png" style="max-width=33%; max-height=33%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 | Youth Flying Club |
 |:---:|
 |  |
