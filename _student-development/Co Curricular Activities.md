@@ -138,15 +138,19 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 			<th style="width: 33%; text-align: center">
 				School Orchestra
 			</th>
+			<th>
+			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic11.png">
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic11.png" style="max-width=100%; max-height=100%">
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic12.png">
+			<img src="/images/Student Development/CCA/ccapic12.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td>
 			</td>
 		</tr>
 	</tbody>
