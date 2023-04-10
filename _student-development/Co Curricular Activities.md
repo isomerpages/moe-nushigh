@@ -98,16 +98,36 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 <br>
 
 #### **Performing Arts**
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; text-align: center">
+				Chinese Orchestra
+			</th>
+			<th style="width: 33%; text-align: center">
+				High School Choir
+			</th>
+			<th style="width: 33%; text-align: center">
+				Dance Club
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				<img src="/images/Student Development/CCA/ccapic8.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic9.png" style="max-width=100%; max-height=100%">
+			</td>
+			<td style="text-align:center">
+			<img src="/images/Student Development/CCA/ccapic10.png" style="max-width=100%; max-height=100%">
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-| Chinese Orchestra | High School Choir |  Dance Club |
-|:---:|:---:|:---:|
-|  |  |  |
-
-<img src="/images/cca8.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca9.png" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/cca10.png" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
+<br>
 
 | Drama Club | School Orchestra |
 |:---:|:---:|
