@@ -15,7 +15,7 @@ description: ""
 
 <center>This programme is a platform to develop character and promote bonding among students over a full year of boarding. The objectives of the programme are as follows:</center>
 
-<img align="left" style="width:25%;margin-right:20px;margin-left:25px;" src="/images/boarding3.png">
+<img align="left" style="width:25%;margin-right:20px;" src="/images/boarding3.png">
 <img align="left" style="width:25%;margin-right:20px;" src="/images/boarding4.png">
 <img align="left" style="width:25%;margin-right:20px;" src="/images/boarding5.png">
 <img align="left" style="width:25%;margin-right:20px;" src="/images/boarding6.png">
