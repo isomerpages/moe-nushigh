@@ -72,14 +72,33 @@ In the senior years, students are encouraged to initiate, plan and implement ser
 </table>
 <br>
 
-<center>Community Projects are also carried out by CCA groups, as our students use their talents and skills to benefit others.</center>
+Community Projects are also carried out by CCA groups, as our students use their talents and skills to benefit others.
 
-<img src="/images/humanitarian11.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/humanitarian12.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/humanitarian13.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Table Tennis Activities for Children from Children’s<br>Wishing Well | Chinese Orchestra Performing &amp; Befriending at Nursing Home | St John’s Ambulance Brigade Befriending at NKF Dialysis<br>Centre |
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/Student Development/Humanitarian Edu/he_edu7.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Humanitarian Edu/he_edu8.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Student Development/Humanitarian Edu/he_edu9.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				 Table Tennis Activities for Children from Children’s<br>Wishing Well
+			</td>
+			<td style="text-align:center">
+			Chinese Orchestra Performing &amp; Befriending at Nursing Home
+			</td>
+			<td style="text-align:center">
+			St John’s Ambulance Brigade Befriending at NKF Dialysis<br>Centre
+			</td>
+		</tr>
+	</tbody>
+</table>
