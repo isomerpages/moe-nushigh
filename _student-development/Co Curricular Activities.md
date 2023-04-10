@@ -81,7 +81,7 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center; width: 33%">
-				<img src="/images/Student Development/CCA/ccapic7.png" style="max-width=33%; max-height=33%">
+				<img height="300" width="300" src="/images/Student Development/CCA/ccapic7.png">
 			</td>
 		</tr>
 	</tbody>
