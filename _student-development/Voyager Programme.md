@@ -11,7 +11,7 @@ Besides opportunities open to all Junior Colleges and Integrated Programme schoo
 
 NUS High School has established exchange and research programme collaborations with top Math and Science schools, and leading research institutions in many countries and regions, including Australia, Brunei, China, Germany, Hungary, Japan, Russia, South Korea, Switzerland, Taiwan, Thailand and United Kingdom. Students will be able to engage in challenging academic work, learn to appreciate other cultures and extend the friendship and understanding of their friends overseas who have similar passion in math and science.
 
-<center>Student Exchange Programmes are organised with overseas partner schools. These programmes involve our students visiting these partner schools as well as hosting students from these schools when they visit Singapore. For some of these programmes, our students also participate in math competitions or scientific research with partner schools.</center>
+Student Exchange Programmes are organised with overseas partner schools. These programmes involve our students visiting these partner schools as well as hosting students from these schools when they visit Singapore. For some of these programmes, our students also participate in math competitions or scientific research with partner schools.
 
 <table>
 	<thead>
@@ -42,7 +42,7 @@ NUS High School has established exchange and research programme collaborations w
 	</tbody>
 </table>
 
-<center>Overseas science fairs and competitions give our students the opportunity to network with other young researchers and budding scientists.</center>
+Overseas science fairs and competitions give our students the opportunity to network with other young researchers and budding scientists.
 
 <table>
 	<thead>
@@ -73,7 +73,7 @@ NUS High School has established exchange and research programme collaborations w
 	</tbody>
 </table>
 
-<center>Our students participate in numerous science fairs and competitions overseas. This gives our students the opportunity to network with other young researchers and budding scientists.</center>
+Our students participate in numerous science fairs and competitions overseas. This gives our students the opportunity to network with other young researchers and budding scientists.
 
 <table>
 	<thead>
