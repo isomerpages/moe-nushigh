@@ -151,4 +151,5 @@ Essays:&nbsp;
 <br><a target="_blank" href="/files/Math and Stats/sms essay 1.pdf">Neural Networks and Dynamic Bayesian Networks</a>
 <br><a target="_blank" href="/files/Math and Stats/sms essay 2.pdf">Multivariable Calculus and its Applications to Artificial Intelligence</a>
 
-*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs".&nbsp;<a target="_blank" href="/files/Math and Stats/st in 27 may kin hern.pdf">Link to Media Article on the Project</a>
+*   2019 A\*STAR Talent Search: Top Prize with Project Title "Regular Matchstick Graphs".&nbsp;
+<br><a target="_blank" href="/files/Math and Stats/st in 27 may kin hern.pdf">Link to Media Article on the Project</a>
