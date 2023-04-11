@@ -19,7 +19,7 @@ In the lower years, structured activities are organised to expose our students t
 				<img src="/images/Student Development/Humanitarian Edu/he_edu2.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/humanitarian7.jpg" style="max-width: 100%; max-heigth: 100%">
+				<img src="/images/Student Development/Humanitarian Edu/he_edu3.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 		</tr>
 	</thead>
@@ -46,10 +46,10 @@ In the senior years, students are encouraged to initiate, plan and implement ser
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-					<img src="/images/humanitarian8.jpg" style="max-width: 100%; max-height:100%">
+					<img src="/images/Student Development/Humanitarian Edu/he_edu4.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/humanitarian9.jpg" style="max-width: 100%; max-heigth: 100%">
+				<img src="/images/Student Development/Humanitarian Edu/he_edu5.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
 				<img src="/images/Student Development/Humanitarian Edu/he_edu6.png" style="max-width: 100%; max-heigth: 100%">
