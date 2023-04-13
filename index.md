@@ -22,7 +22,7 @@ sections:
           description: Join us!
           url: /careers
   - infopic:
-      image: /images/infopic1.png
+      image: /images/Main Page/phi14x3.png
       alt: Image alt text
       title: Pioneers, Humanitarians, Innovators
   - infopic:
