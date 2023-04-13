@@ -4,7 +4,7 @@ title: NUS High School
 description: Brief site description here
 image: /images/nushigh.png
 permalink: /
-notification: ""
+notification: www.nushigh.edu.sg
 sections:
   - hero:
       background: /images/School Logo/Hero/nush_hero1.png
