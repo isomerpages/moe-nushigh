@@ -15,7 +15,7 @@ sections:
         - title: Students & Parents
           description: ""
           url: /students-and-parents/school-fees
-        - title: Alumni
+        - title: University Placements
           description: ""
           url: /alumni/
         - title: Careers
