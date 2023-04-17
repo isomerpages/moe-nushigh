@@ -13,3 +13,8 @@ third_nav_title: Open House
 <p><a href="https://staging.d1bl70m167uzkq.amplifyapp.com/admissions/open-house/open-house-information/">
 <img src="/images/openhouse2.jpg" style="width:30%;margin-right:125px;" align="right">
 </a></p>
+
+
+**No pre-registration is required!**
+
+You may click on this link:&nbsp;[https://nush.link/keepintouch/](https://nush.link/keepintouch/)&nbsp;to be on our mailing list for updates on Open House and admissions related matters.
