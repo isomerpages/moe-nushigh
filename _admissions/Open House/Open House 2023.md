@@ -21,7 +21,7 @@ Do not miss the chance to hear our staff and students share exciting anecdotes o
 
 **No pre-registration is required**. You may click on this link:&nbsp;[https://nush.link/keepintouch/](https://nush.link/keepintouch/)&nbsp;to be on our mailing list for updates on Open House and admissions related matters.&nbsp;
 
-You may also refer to the above tab "Open House Information" for information curated from our previous e-Open House.
+You may also refer to the tab "Open House Information" for information curated from our previous e-Open House.
 
 <img src="/images/openhse1.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/openhse2.jpg" style="width:30%;margin-right:15px;" align="left">
