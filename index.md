@@ -23,15 +23,15 @@ sections:
       alt: Image alt text
       title: Pioneers, Humanitarians, Innovators
   - infopic:
+      title: We aim to inspire and shape the future
+      description: of mathematics and science education
+      alt: Image alt text
+      image: /images/infopic3.png
+  - infopic:
       title: Dylan Toh Shan Hong
       subtitle: Valedictorian of Class of 2018
       description: '"I see adventurers, visionaries, pioneers in our field of work ...
         no dream too far to reach, no idea too mad to try."'
       image: /images/infopic2.jpg
       alt: Image alt text
-  - infopic:
-      title: We aim to inspire and shape the future
-      description: of mathematics and science education
-      alt: Image alt text
-      image: /images/infopic3.png
 ---
