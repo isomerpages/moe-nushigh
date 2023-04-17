@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Voyager Programme.md
-      - Discipline.md
-      - Counselling.md
-      - House System.md
       - Boarding Programme.md
-      - Physical Education.md
-      - Co Curricular Activities.md
-      - Student Leadership Programme.md
       - Character Citizenship Education.md
+      - Co Curricular Activities.md
+      - Counselling.md
+      - Discipline.md
+      - House System.md
       - Humanitarian Education.md
+      - Physical Education.md
+      - Student Leadership Programme.md
+      - Voyager Programme.md
