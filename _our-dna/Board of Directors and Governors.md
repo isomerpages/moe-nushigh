@@ -3,11 +3,12 @@ title: Board of Directors and Governors
 permalink: /our-dna/board-of-directors-and-governors/
 description: ""
 ---
-Parent Organisation:
+<p>
+	Parent Organisation:
 <br>
 <img align="left" style="width:50%" src="/images/Our DNA/BODG/nus logo.png">
 <br><br>
-<br><br>
+	</p>
 
 ### **Board of Directors**
 
