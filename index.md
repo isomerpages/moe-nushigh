@@ -34,4 +34,12 @@ sections:
         no dream too far to reach, no idea too mad to try."'
       image: /images/infopic2.jpg
       alt: Image alt text
+  - infopic:
+      title: Open House 2023
+      subtitle: 20th May, 9am to 4pm
+      description: Come join our family!
+      button: Click for more details
+      url: /admissions/open-house-2023/
+      image: /images/openhouse2023.jpg
+      alt: Image alt text
 ---
