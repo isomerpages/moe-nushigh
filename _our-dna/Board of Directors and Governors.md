@@ -5,8 +5,8 @@ description: ""
 ---
 Parent Organisation:
 <br>
-<img align="left" style="width:30%" src="/images/Our DNA/BODG/nus logo edited.png">
-<br><br>
+<img align="left" style="width:25%" src="/images/Our DNA/BODG/nus logo edited.png">
+<br><br><br>
 
 ### **Board of Directors**
 
