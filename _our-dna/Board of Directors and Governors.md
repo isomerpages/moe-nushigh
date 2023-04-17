@@ -4,8 +4,10 @@ permalink: /our-dna/board-of-directors-and-governors/
 description: ""
 ---
 Parent Organisation:
-
-<img style="width:50%;text-align:left" src="/images/Our DNA/BODG/nus logo.png">
+<br>
+<img align="left" style="width:50%" src="/images/Our DNA/BODG/nus logo.png">
+<br><br>
+<br><br>
 
 ### **Board of Directors**
 
