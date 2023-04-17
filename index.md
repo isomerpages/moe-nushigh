@@ -19,6 +19,14 @@ sections:
           description: Join us!
           url: /careers
   - infopic:
+      title: Open House 2023
+      subtitle: 20th May, 9am to 4pm
+      description: Come join our family!
+      button: Click for more details
+      url: /admissions/open-house-2023/
+      image: /images/openhouse2023.jpg
+      alt: Image alt text
+  - infopic:
       image: /images/Main Page/phi14x3.png
       alt: Image alt text
       title: Pioneers, Humanitarians, Innovators
@@ -33,13 +41,5 @@ sections:
       description: '"I see adventurers, visionaries, pioneers in our field of work ...
         no dream too far to reach, no idea too mad to try."'
       image: /images/infopic2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      subtitle: 20th May, 9am to 4pm
-      description: Come join our family!
-      button: Click for more details
-      url: /admissions/open-house-2023/
-      image: /images/openhouse2023.jpg
       alt: Image alt text
 ---
