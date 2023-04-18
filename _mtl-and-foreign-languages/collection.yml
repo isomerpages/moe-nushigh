@@ -1,0 +1,6 @@
+collections:
+  mtl-and-foreign-languages:
+    output: true
+    order:
+      - Mother Tongue Languages.md
+      - Third Language Programmes.md

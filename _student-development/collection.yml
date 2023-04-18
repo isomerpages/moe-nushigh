@@ -1,0 +1,14 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Student Development.md
+      - Boarding Programme.md
+      - Character Citizenship Education.md
+      - Co Curricular Activities.md
+      - Counselling.md
+      - Discipline.md
+      - House System.md
+      - Humanitarian Education.md
+      - Physical Education.md
+      - Student Leadership Programme.md

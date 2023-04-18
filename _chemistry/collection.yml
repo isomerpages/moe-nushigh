@@ -1,0 +1,6 @@
+collections:
+  chemistry:
+    output: true
+    order:
+      - Wonderment in the Classroom.md
+      - Beyond the Classroom.md

@@ -1,0 +1,18 @@
+collections:
+  our-dna:
+    output: true
+    order:
+      - Experiment Explore Excel.md
+      - Principal's Message.md
+      - Board of Directors and Governors.md
+      - Vision, Mission, Values, Motto.md
+      - School Song.md
+      - Achievements/.keep
+      - Achievements/2022.md
+      - Achievements/2021.md
+      - Achievements/2020.md
+      - Achievements/2019.md
+      - Achievements/2018.md
+      - Contact Us/.keep
+      - Contact Us/Contact Us.md
+      - Contact Us/Our Staff.md

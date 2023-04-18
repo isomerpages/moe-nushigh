@@ -1,32 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
+title: NUS High School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/nushigh.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/School Logo/Hero/nush_hero1.png
+      key_highlights:
+        - title: Recent Highlights
+          description: ""
+          url: /news-and-events/recent-highlights
+        - title: Students & Parents
+          description: ""
+          url: /students-and-parents/school-fees
+        - title: Careers
+          description: Join us!
+          url: /careers
+  - infopic:
+      title: Open House 2023
+      subtitle: 20th May, 9am to 4pm
+      description: Come join our family!
+      button: Click for more details
+      url: /admissions/open-house-2023/
+      image: /images/openhouse2023.jpg
+      alt: Image alt text
+  - infopic:
+      image: /images/Main Page/phi14x3.png
+      alt: Image alt text
+      title: Pioneers, Humanitarians, Innovators
+  - infopic:
+      title: We aim to inspire and shape the future
+      description: of mathematics and science education
+      alt: Image alt text
+      image: /images/infopic3.png
 ---
-

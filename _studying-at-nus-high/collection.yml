@@ -1,0 +1,17 @@
+collections:
+  studying-at-nus-high:
+    output: true
+    order:
+      - The NUS High Diploma/.keep
+      - The NUS High Diploma/The NUS High Diploma.md
+      - The NUS High Diploma/Programme of Studies.md
+      - The NUS High Diploma/Biology.md
+      - The NUS High Diploma/Chemistry.md
+      - The NUS High Diploma/Computer Science.md
+      - The NUS High Diploma/English Language and Literature.md
+      - The NUS High Diploma/Humanities.md
+      - The NUS High Diploma/Mathematics and Statistics.md
+      - The NUS High Diploma/Mother Tongue and Foreign Languages.md
+      - The NUS High Diploma/Music and Art.md
+      - The NUS High Diploma/Physics and Engineering.md
+      - The NUS High Diploma/Research, Innovation and Enterprise.md

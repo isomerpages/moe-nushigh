@@ -1,0 +1,36 @@
+collections:
+  news-and-events:
+    output: true
+    order:
+      - Recent Highlights/.keep
+      - Recent Highlights/Recent Highlights.md
+      - Recent Highlights/Congratulations to our National Day Award Recipents.md
+      - "Recent Highlights/From Chemistry to Psychology: Seeing the World
+        through a Different Lens.md"
+      - Recent Highlights/Deus Ex Machina.md
+      - "Recent Highlights/Breakingthebias: Girl Bosses Leading the Way in
+        STEM.md"
+      - Recent Highlights/Futuristic Story Wins Top Prize at Science Chronicles
+        Competition.md
+      - "Recent Highlights/Alumni Spotlight: An Unexpected Simple Unity Between
+        Math and Arts.md"
+      - Recent Highlights/Strengthening Partnerships with Industry and IHLs,
+        Appointment of New Chairman to Board of Governors.md
+      - Recent Highlights/An Unconventional Adventure Through Biology.md
+      - Recent Highlights/Covid19 Vaccination Exercise for Students.md
+      - Recent Highlights/NUS High Team Emerges Champions at National Science
+        Challenge.md
+      - Recent Highlights/Come, Join us for the 2021 NUS High eOpenhouse!.md
+      - Recent Highlights/Winner of Splash Awards 2019 writes an article on
+        HealthTech.md
+      - Recent Highlights/Alumnus Journey to Conservation.md
+      - Recent Highlights/Receiving a Gold for MOE Innergy (HQ) Awards 2019.md
+      - "Recent Highlights/Young Humanitarians: Serving the Needs of the
+        Community.md"
+      - Recent Highlights/Congratulations to the Class of 2019!.md
+      - Recent Highlights/Our Teachers Receive National Day Awards.md
+      - Recent Highlights/2019 National Science Challenge Champions.md
+      - Recent Highlights/Passionate Advocates for Sustainable Development.md
+      - Recent Highlights/NUS High the Top Institution for ASTAR Talent Search.md
+      - Primary School Competitions.md
+      - International & National Events.md
