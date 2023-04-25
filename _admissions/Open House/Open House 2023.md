@@ -9,7 +9,7 @@ third_nav_title: Open House
 #### **Onsite Open House on 20 May 2023**
 Come, join us at NUS High School Open House on&nbsp;**20 May 2023, Saturday, 9 am – 4 pm!**
 
-Do not miss the chance to hear our staff and students share exciting anecdotes of their school life and be enlightened by our unique curriculum and modular system. Interact with our students and find out how our students find their talents, expand their interests and explore their passions.
+Do not miss the chance to hear our staff and students share exciting anecdotes of their school life and be enlightened by our unique curriculum and modular system. Interact with our students and find out how our students find their talents, expand their interests and explore their passions. Click here for <a target="_blank" href="\files\open house\2023\oh_brochure_2023.pdf">Open House 2023</a> brochure. 
 
 **No pre-registration is required**. You may click on this link:&nbsp;[https://nush.link/keepintouch/](https://nush.link/keepintouch/)&nbsp;to be on our mailing list for updates on Open House and admissions related matters.&nbsp;
 
