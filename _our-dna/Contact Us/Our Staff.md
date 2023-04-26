@@ -201,6 +201,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Dr Chiam Sher-Yi |   Head, Research, Innovation & Enterprise |
+|   Mr Leong Kin Chong |   Senior Laboratory Technologist |
 |   Mr Andre Jusuf |   Teacher |
 |   Mr Phoon Chee Haw |   Teacher |
 |
