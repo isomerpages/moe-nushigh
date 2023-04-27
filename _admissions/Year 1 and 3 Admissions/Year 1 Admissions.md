@@ -9,9 +9,9 @@ NUS High School admits 100% of students through the Direct School Admission Seco
 #### **A. DSA-SEC EXERCISE**
 The DSA-Sec exercise comprises a two-phase selection. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. Thereafter, applicants who need to be further assessed will attend a Selection Interview. Applicants&nbsp;will be notified of the exercise details via the main contact e-mail address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;Successful DSA applicants are not eligible for school transfer after the release of the PSLE results and cannot participate in the S1 Posting Exercise.&nbsp;
 
-Interested applicants must register at the MOE Centralised DSA-Sec Online Portal from&nbsp;**5 May to 1 June 2022**. For more details, please refer to MOE website –&nbsp;[DSA for Secondary Schools](https://www.moe.gov.sg/secondary/dsa). Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.&nbsp;NUS High School can be found under the talent area of both "Math" and "Science". Applicants need to register only ONCE in either "Math" or "Science". You SHOULD NOT select NUS High School twice as you only have three DSA choices.
+Interested applicants must register at the MOE Centralised DSA-Sec Online Portal from&nbsp;**4 May to 31 May 2023**. For more details, please refer to MOE website –&nbsp;[DSA for Secondary Schools](https://www.moe.gov.sg/secondary/dsa). Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.&nbsp;NUS High School can be found under the talent area of both "Math" and "Science". Applicants need to register only ONCE in either "Math" or "Science". You SHOULD NOT select NUS High School twice as you only have three DSA choices.
 
-International Students (IS) residing in Singapore seeking for Year 1 DSA-Sec to NUS High School do not need to sit for the MOE's Admissions Exercise for International Students (AEIS) test. The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will be based on the applicants' performance in the DSA-Sec Exercise and their submitted portfolio via the MOE Centralised DSA-Sec Online Portal. International Students (IS) not residing in Singapore are not eligible to register for the Year 1 DSA-Sec Exercise.
+International Students (IS) residing in Singapore seeking for Year 1 DSA-Sec to NUS High School do not need to sit for the MOE's Admissions Exercise for International Students (AEIS) test. The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will be based on the applicants' performance in the DSA-Sec Exercise.
 
 **Important dates and information for DSA-Sec Exercise**
 
@@ -20,8 +20,8 @@ International Students (IS) residing in Singapore seeking for Year 1 DSA-Sec to 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
 | Description |  Dates | Time |
-| Opening of MOE Centralised DSA-Sec Online Portal* | May 2023 | 11 am |
-| Closing of MOE Centralised DSA-Sec Online Portal | June 2023 | 3 pm |
+| Opening of MOE Centralised DSA-Sec Online Portal* | 4 May 2023 | 11 am |
+| Closing of MOE Centralised DSA-Sec Online Portal | 31 May 2023 | 3 pm |
 | DSA Selection Tests *(All Applicants)* | 1 July 2023 | 8:30 am - 12:30 pm |
 | DSA Selection Camp *(Only Shortlisted Applicants)* | 15 July 2023 | 7.30 pm - 3.30 pm |
 | DSA Selection Interview *(Only Applicants<br>Who Need Further Assessment)* | 25 July 2023 |  2 pm - 6 pm |
