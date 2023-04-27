@@ -15,7 +15,7 @@ For Year 3 admission in 2023, the registration is from 15 to 29 August 2022 at&n
 
 ##### **2\. How old must an applicant be to qualify for admission?**
 
-For admission to Year 1 at NUS High School, Singapore mainstream schools' applicants must currently be in Primary Six. Non mainstream schools' applicants must either be currently reading or have completed Singapore Primary Six education (or its equivalent). In addition, applicants should not be older than 15 years of age as of 1 January 2024. The Year 1 DSA-Sec is&nbsp;**not open**&nbsp;to International Students (IS) not residing in Singapore.
+For admission to Year 1 at NUS High School, Singapore mainstream schools' applicants must currently be in Primary Six. Non mainstream schools' applicants must either be currently reading or have completed Singapore Primary Six education (or its equivalent). In addition, applicants should not be older than 15 years of age as of 1 January 2024.
 
 For admission to Year 3 at NUS High School, Singapore mainstream schools' applicants must currently be in Secondary Two. Non mainstream schools' applicants must either be currently reading or have completed Singapore Secondary Two education (or its equivalent). In addition, applicants should not be older than 17 years of age as of 1 January 2024.&nbsp;The Year 3 Admission is&nbsp;**not open**&nbsp;to Singapore mainstream schools' Secondary Two students who are currently studying in IP school / IP track or were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS).&nbsp;&nbsp;
 
