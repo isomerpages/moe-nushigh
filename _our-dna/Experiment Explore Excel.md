@@ -122,7 +122,10 @@ description: ""
 				- The Year 5 Boarding Programme is a platform to develop character and promote bonding among students over a full year of boarding.<br><br>- The programme aims to help students acquire life-skills, cultivate friendships, develop leadership capacity and grow intellectual curiosity.<br><br>- The special features introduced to support the programme are enrichment activities, extended time &amp; space for research, academic coaching, extended leadership opportunities and student initiated activities.
 			</td>
 			<td>
-				 - The ATLAS Initiative aims to nurture and prepare students with an interest in leadership in community and public service through the close mentoring by educators with backgrounds in teaching, talent development, student leadership, public speaking, higher education and scholarships. The initiative represents:<br><br>- **Exploration** : Students will seek to better understand their interests, strengths, and areas for improvement<br><br>- **Possibility and Growth** : Students will be encouraged to chart their own developmental map<br><br>- **Service** : Students are encouraged to discover and undertake service and leadership
+				 - The ATLAS Initiative aims to nurture and prepare students with an interest in leadership in community and public service through the close mentoring by educators with backgrounds in teaching, talent development, student leadership, public speaking, higher education and scholarships. The initiative represents:<br><br>
+				- <b>Exploration</b>: Students will seek to better understand their interests, strengths, and areas for improvement<br><br>
+				- <b>Possibility and Growth</b> : Students will be encouraged to chart their own developmental map<br><br>
+				- <b>Service</b> : Students are encouraged to discover and undertake service and leadership
 			</td>
 		</tr>
 	</tbody>
