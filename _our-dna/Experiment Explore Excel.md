@@ -158,52 +158,78 @@ SIGs are a unique feature of NUS High. A ground-up initiative from the students,
 		</td>
 	</tr>
 </tbody></table>
-
-
-<img src="/images/sigheading1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading2.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading3.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sig1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig2.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig3.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sigheading4.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading5.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading6.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sig4.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig5.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig6.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sigheading7.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading8.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading9.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sig7.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig8.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig9.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sigheading10.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading11.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sigheading12.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/sig10.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig11.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/sig12.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
+<br>
+<table>
+	<tbody><tr>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading4.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading5.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading6.jpg" style="max-height:100%; max-width:100%">
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig4.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig5.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig6.jpg" style="max-height:100%; max-width:100%">
+		</td>
+	</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading7.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading8.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading9.jpg" style="max-height:100%; max-width:100%">
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig7.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig8.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig9.jpg" style="max-height:100%; max-width:100%">
+		</td>
+	</tr>
+</tbody></table>
+<br>
+<table>
+	<tbody><tr>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading10.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading11.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sigheading12.jpg" style="max-height:100%; max-width:100%">
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig10.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig11.jpg" style="max-height:100%; max-width:100%">
+		</td>
+		<td style="width: 33%; align: center">
+			<img src="/images/sig12.jpg" style="max-height:100%; max-width:100%">
+		</td>
+	</tr>
+</tbody></table>
