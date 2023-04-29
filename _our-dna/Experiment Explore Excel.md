@@ -123,7 +123,7 @@ description: ""
 			</td>
 			<td>
 				 - The ATLAS Initiative aims to nurture and prepare students with an interest in leadership in community and public service through the close mentoring by educators with backgrounds in teaching, talent development, student leadership, public speaking, higher education and scholarships. The initiative represents:<br><br>
-				- <b>Exploration</b>: Students will seek to better understand their interests, strengths, and areas for improvement<br><br>
+				- <b>Exploration</b> : Students will seek to better understand their interests, strengths, and areas for improvement<br><br>
 				- <b>Possibility and Growth</b> : Students will be encouraged to chart their own developmental map<br><br>
 				- <b>Service</b> : Students are encouraged to discover and undertake service and leadership
 			</td>
