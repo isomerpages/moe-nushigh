@@ -13,7 +13,7 @@ Parent Organisation:
 |  |  |
 |---|---|
 | Professor Tan Eng Chye (Chairman) | President<br>National University of Singapore |
-| Professor Ho Teck Hua | Senior Deputy President &amp; Provost<br>National University of Singapore |
+| Professor Aaron Thean |  Deputy President (Academic Affairs) &amp; Provost<br>National University of Singapore |
 |  Professor Tan Cheng Yian, Bernard | Senior Vice Provost (Undergraduate Education)<br>National University of Singapore |
 |
 
