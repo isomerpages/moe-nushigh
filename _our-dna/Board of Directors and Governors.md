@@ -13,7 +13,7 @@ Parent Organisation:
 |  |  |
 |---|---|
 | Professor Tan Eng Chye (Chairman) | President<br>National University of Singapore |
-| Professor Ho Teck Hua | Senior Deputy President &amp; Provost<br>National University of Singapore |
+|Professor Thean Voon-Yew Aaron |  Deputy President (Academic Affairs) &amp; Provost<br>National University of Singapore |
 |  Professor Tan Cheng Yian, Bernard | Senior Vice Provost (Undergraduate Education)<br>National University of Singapore |
 |
 
@@ -22,7 +22,6 @@ Parent Organisation:
 |  |  |
 |---|---|
 | Mr Seah Moon Ming<br> (Chairman) | Chairman<br>SMRT Corp Ltd |
-| Professor Ho Teck Hua<br> (Vice Chairman) | Senior Deputy President &amp; Provost<br>National University of Singapore |
 | Ms Chang Li Lin | Press Secretary to the Prime Minister<br>Prime Minister's Office |
 | Ms Chong Chin Fong, Jazz | Owner<br>Ode to Art |
 | Professor Chong Yap Seng | Dean, Yong Loo Lin School of Medicine<br>National University of Singapore and Senior Consultant |
@@ -34,7 +33,6 @@ Parent Organisation:
 | Mr S Sivanesan | Senior Partner<br>Dentons Rodyk &amp; Davidson LLP |
 | Ms Soh Siew Choo | Chief Information Officer<br>MetLife Asia |
 | Mr Teo Thiam Guan Daniel | Vice President and Chief Finance Officer<br>Bridgestone China Asia Pacific |
-| Professor Thean Voon-Yew Aaron | Dean<br>College of Design and Engineering, National University of Singapore |
 | Ms Theodora Tan | Zonal Director Schools West School Division<br>Ministry of Education |
 |
 
