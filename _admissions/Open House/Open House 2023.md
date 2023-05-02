@@ -11,6 +11,30 @@ Come, join us at NUS High School Open House on&nbsp;**20 May 2023, Saturday, 9 a
 
 Do not miss the chance to hear our staff and students share exciting anecdotes of their school life and be enlightened by our unique curriculum and modular system. Interact with our students and find out how our students find their talents, expand their interests and explore their passions. Click here for the <a target="_blank" href="/files/Open House/2023 nush brochure.pdf">2023 NUS High Brochure</a>. 
 
+You can look forward to the following features:
+
+• School Leader’s Talk
+
+• Academic and Programmes Showcase
+
+• CCA and Student Life Showcase
+
+• Alumni and PSG Booth
+
+• School tour
+
+There will be 5 School Leader’s Talks at the following timings:
+
+• Session 1: 0930 to 1015
+
+• Session 2: 1100 to 1145
+
+• Session 3: 1230 to 1315
+
+• Session 4: 1430 to 1515
+
+• Session 5: 1600 to 1645
+
 **No pre-registration is required**. You may click on this link:&nbsp;[https://nush.link/keepintouch/](https://nush.link/keepintouch/)&nbsp;to be on our mailing list for updates on Open House and admissions related matters.&nbsp;
 
 You may also refer to the tab "Open House Information" for information curated from our previous e-Open House.
