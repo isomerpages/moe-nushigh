@@ -36,7 +36,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Ng Yu Rui | Assistant Head, Student Wellbeing |
 |   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
 |   Mr Wong Teck Hee  | Teacher  |
-|   Mr Tee Tiam Siong Johnathan  | Teacher  |
+|   Mr Tee Tiam Siong Jonathan  | Teacher  |
 |   Ms Pek Lay Pheng | Principal Laboratory Technologist |
 |   Ms Loo Koh Lee | Senior Laboratory Technologist |
 |   Mr Lew Andrew Delfin Reyes | Laboratory Technologist |
