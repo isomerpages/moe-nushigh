@@ -4,6 +4,8 @@ permalink: /news-and-events/primary-school-competitions/sg-primary-science-olymp
 description: ""
 third_nav_title: SG Primary Science Olympiad
 ---
+### **Sample Questions**
+
 The questions are constructed based on elementary school Science curricula, reference books and other relevant sources which assess intellectual reasoning and creativity.
 
 Participants are encouraged to read on topics provided in the following syllabus:
