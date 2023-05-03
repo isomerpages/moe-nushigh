@@ -4,7 +4,7 @@ permalink: /news-and-events/primary-school-competitions/mathematical-olympiad-of
 description: ""
 third_nav_title: Mathematical Olympiad of SG
 ---
-### **FAQ**
+### **Frequently Asked Questions**
 
 ##### **1. Do we need to give details of participants' particulars when registration is made?**
 Yes. Schools must upload a list of participants' particulars using the template given in the NMO∑ portal. Schools have the flexibility until the Preliminary Round to amend the list of participants.
