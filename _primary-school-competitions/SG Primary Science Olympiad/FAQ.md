@@ -4,6 +4,8 @@ permalink: /news-and-events/primary-school-competitions/sg-primary-science-olymp
 description: ""
 third_nav_title: SG Primary Science Olympiad
 ---
+### **Frequently Asked Questions**
+
 ##### **1\. Is SPSO related to Direct School Admissions?**
 It is not related to the Direct School Admissions Exercise. However, participants who show outstanding performance will be taken note of.
 
