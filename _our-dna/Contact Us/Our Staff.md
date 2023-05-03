@@ -250,6 +250,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mr Allan Patrick Uy |   College Counsellor |
+|   Mr Christopher Andrew West |   College Counsellor |
 |   Ms Jade Lee Ye Kee |   Pastoral Counsellor |
 |   Miss Koh Pei Fern Emily |   Pastoral Counsellor |
 |   Ms Chua Shuyi Sarah Elizabeth |   Pastoral Counsellor |
@@ -263,6 +264,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Wong Chee Khiam |   Manager (Boarding Operations) |
 |   Mr Joseph Giri Sri Krishnan |   Boarding Master |
 |   Ms Susan Cheong Sook Cheng |   Senior Executive |
+|   Mr Foo Chee Wei Timothy |   Senior Executive |
 |   Ms Shahira Bte Amat Amin |   Assistant Executive |
 |
 
@@ -270,14 +272,13 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Mr Teo Chun Siong Alan |   Manager |
+|   Mr Teo Chun Siong Alan |   Deputy Director |
 |   Mr Ng Jin Guan |   Assistant Manager, Estate |
-|   Mr Chris Yap Chin Voon |   Senior System Analyst |
-|   Mr Tawfiq Sim Xin Wei |   Senior System Engineer |
-|   Mr Wang Anqiang |   Senior System Engineer |
+|   Mr Chris Yap Chin Voon |   Senior Systems Analyst |
+|   Mr Tawfiq Sim Xin Wei |   Senior Systems Engineer |
+|   Mr Wang Anqiang |   Senior Systems Engineer |
 |   Mr Hay Yong Huat |   Principal Estate Officer |
 |   Mr Leong Chun Chiew Johnny |   Senior Estate Officer |
-|   Mr Mohd Yacob Bin Abdullah |   Estate Officer |
 |   Ms Norashikin Bte Abdul Rahim |   Estate Officer |
 |
 
