@@ -4,9 +4,11 @@ permalink: /news-and-events/primary-school-competitions/sg-primary-science-olymp
 description: ""
 third_nav_title: SG Primary Science Olympiad
 ---
+### **Introduction**
+
 The&nbsp;**Singapore Primary Science Olympiad (SPSO)**&nbsp;is an annual national competition which has been organised by the NUS High School of Mathematics and Science since 2009. This competition, which is open to Primary 5 pupils in Singapore, comprises the Theory round and the Practical round. Selected participants from the Theory round will be invited to the Practical round held on a later date.
 
-**Aims of SPSO**
+##### **Aims of SPSO**
 
 *   Identify Singapore's Science representatives for the International Mathematics and Science Olympiad (IMSO).
 *   Generate greater interest in Biology, Chemistry and Physics among Primary school pupils.
