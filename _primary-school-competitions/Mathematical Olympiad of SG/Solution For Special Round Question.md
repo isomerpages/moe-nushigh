@@ -4,6 +4,11 @@ permalink: /news-and-events/primary-school-competitions/mathematical-olympiad-of
 description: ""
 third_nav_title: Mathematical Olympiad of SG
 ---
+
+#### **2022**
+Click [here](/files/nmos%20special%20round%202022%20solution.pdf) for the solution to NMOS 2022 Special Round.
+
+#### **2019**
 Click [here](/files/specialround.pdf) for the solution to NMOS 2019 Special Round Solution
 
 #### **2017**

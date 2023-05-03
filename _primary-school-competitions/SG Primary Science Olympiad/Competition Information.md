@@ -5,10 +5,10 @@ description: ""
 third_nav_title: SG Primary Science Olympiad
 ---
 #### **General**
-*   This competition is open to all primary school pupils who are enrolled in the **Primary Five** level as of the year of the competition. 
+*   This competition is open to all primary school pupils who are enrolled in the **Primary Five** level as of the year of the competition.
 *   **All** participants have to be registered by their primary school. **No individual or private registration is allowed.** 
 *   For 2023, there is no cap on the number of participants from each school.
-*   The period for the registration is from **20 March to 21 April 2023**.  
+*   The period for the registration is from **30 March to 21 April 2023**.  
     
 *   The registration fee per participant is $22 nett.
 *   There will be **no refund** of the registration fee.

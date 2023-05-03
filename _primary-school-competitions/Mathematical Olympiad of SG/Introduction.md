@@ -4,6 +4,8 @@ permalink: /news-and-events/primary-school-competitions/mathematical-olympiad-of
 description: ""
 third_nav_title: Mathematical Olympiad of SG
 ---
+### **Introduction**
+
 The National Mathematical Olympiad of Singapore ( NMO∑ ) is an NUS High School initiative, working in partnership with the Singapore Mathematical Society.
 
 NMO∑ aims to
