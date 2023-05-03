@@ -4,7 +4,21 @@ permalink: /nmos/
 description: ""
 third_nav_title: Mathematical Olympiad of SG
 ---
-Thank you for your participation in the National Mathematical Olympiad of Singapore (NMOS). Please note that the results of the competition will be released to the schools by 11 August 2022. Enquiries over the phone and email regarding results will not be entertained.  
+#### **Competition Schedule**
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| **PRELIMINARY ROUND** <br><br> (written) |  *Date:* 27th&nbsp;June 2023, Tuesday<br><br>*Venue:* Respective Primary Schools | &nbsp;All registered participants |
+| **SPECIAL ROUND** <br><br> (written) | *Date:* 1st&nbsp;August 2023, Tuesday<br><br>*Venue:* NUS High School<br><br>*Time:* 3:30pm to 5:30pm | By invitation |
+|
+
+**NMOS 2023 registration will be from 30**<font size="-1">**th**
+</font>**March 2023 to 21**<font size="-1">**st**
+</font>&nbsp;**April 2023.**  
   
-NMOS Committee<br>
-29&nbsp; July 2022
+Please refer to the link below for the NMOS 2023 briefing:  
+**[https://nush.link/nmos2023briefing](https://nush.link/nmos2023briefing)**
+
+  
+NMOS Committee  
+20&nbsp; March 2023
