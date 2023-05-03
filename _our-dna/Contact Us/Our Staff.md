@@ -59,7 +59,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Yenny Wijaya |   Teacher |
 |   Mr Tan Guan Seng |    Acting Assistant Head, Discipline |
 |   Mr Silas Yeem Kai Ean |   Teacher   |
-|   Mr Ho Jun Hao Kenneth      |   Teacher / Outreach Educator  |
+|   Mr Ho Jun Hao Kenneth      |   Teacher<br><br> Outreach Educator  |
 |   Mr Seow Yongli |   Teacher   |
 |   Mr Joseph Tan Jit Bin |   Principal Laboratory Technologist |
 |   Mr Riduwan B Gafoor |   Senior Laboratory Technologist |
