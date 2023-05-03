@@ -128,11 +128,12 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Ms Lim Ing Chieh Rebekah |   Head, Humanities |
 |   Ms Chua Bann |   Teacher (History) |
+|   Mr Alex Kwee Yeow Teck |   Assistant Head, Humanities |
 |   Mrs Chen Zhaoyan Madeline |   Teacher (Geography) |
 |   Ms Irene Poh  |   Teacher (Geography) |
 |   Mr Loh Ping Shun  |   Teacher (History)  |
 |   Ms Tong Boon Yee |   Teacher (Economics) |
-|   Mr Alex Kwee Yeow Teck |   Assistant Head, Humanities |
+|   Ms Tay Melody  |   Teacher (History)  |
 |
 
 #### **Mother Tongue & Foreign Languages**
@@ -151,7 +152,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Han Xuanjun | Teacher |
 |   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
 |   Ms Rohaida Bte Ismail | Teacher (Malay Language) |
-|   Mrs Elizabeth Mariko Gomez | Teacher (Foreign Language) |
+|   Mrs Elizabeth Mariko Gomez | Teacher (Japanese Language) |
 |
 
 #### **English Language & Literature**
@@ -163,9 +164,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Sofia Lau Wen Li | Head, Staff Development |
 |   Ms Ivy Koo | Dean, Junior High |
 |   Ms Chan Yun-Zhi Eunice | Dean, Senior High |
-|   Ms Beji Dass | Lead Teacher |
+|   Mdm Beji Dass | Lead Teacher |
 |   Ms Esther Vincent Xueming  | Teacher |
-|   Mr Eric Francis Tinsay Valles  | Teacher |
+|   Dr Eric Francis Tinsay Valles  | Teacher |
 |   Mr Lim Chong Shen | Teacher |
 |   Ms Asrina Bte Sani | Teacher |
 |   Mr Chin Kiane Yun Dustin | Teacher |
@@ -179,7 +180,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Dr Emilia Wong |   Head (Music) |
+|   Dr Emilia Wong |   Head (Music & Art) |
 |   Ms Chua Ngeah Sian |   Teacher (Music) |
 |   Ms Koh Wun Be Geneva |   Teacher (Art) |
 |   Mr Syed Mahdar B Syed Othman |   Senior Specialist Associate (Art) |
@@ -194,6 +195,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Loke Kok Fei |  Acting Assistant Head, Physical Education |
 |   Mr Norman Dominique Tse Y-Yin |   Teacher |
 |   Ms Kong Seow Yoke Annie  |   Teacher |
+|   Mr Chee Kok Liang David  |   Teacher |
 |
 
 #### **Research, Innovation & Enterprise**
@@ -211,7 +213,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Van Li Hui |   Manager Student Affairs / Manager Admissions & Recruitment |
-|   Ms Philomena Loh  |   Senior Executive, Student Affairs  |
+|   Ms Philomena Loh  |   Executive, Student Affairs  |
 |   Ms Ang Sherna |   Senior Executive, Student Affairs |
 |   Ms Celestine d/o Arlando |   Senior Executive, Student Affairs |
 |   Ms Mazni Bte Abdullah  |   Senior Executive, Admissions & Recruitment |
@@ -222,8 +224,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mrs Lynette Tan-Soon  |   Manager |
-|   Ms Duong Thi Kim Hang Evelyn |   Senior Executive |
+|   Ms Duong Thi Kim Hang Evelyn |   Assistant Manager |
 |   Ms Teng Lwen Huang Ji Ann |   Assistant Executive |
+|   Ms Lim Tian Choo Ris |   Assistant Executive |
 |
 
 #### **Human Resource**
