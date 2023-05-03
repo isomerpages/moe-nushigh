@@ -14,26 +14,16 @@ Do not miss the chance to hear our staff and students share exciting anecdotes o
 You can look forward to the following features:
 
 • School Leader’s Talk
-
-• Academic and Programmes Showcase
-
-• CCA and Student Life Showcase
-
-• Alumni and PSG Booth
-
-• School tour
+<br>• Academic and Programmes Showcase<br>• CCA and Student Life Showcase
+<br>• Alumni and PSG Booth
+<br>• School tour
 
 There will be 5 School Leader’s Talks at the following timings:
 
 • Session 1: 0930 to 1015
-
-• Session 2: 1100 to 1145
-
-• Session 3: 1230 to 1315
-
-• Session 4: 1430 to 1515
-
-• Session 5: 1600 to 1645
+<br>• Session 2: 1100 to 1145
+<br>• Session 3: 1230 to 1315
+<br>• Session 4: 1430 to 1515<br>• Session 5: 1600 to 1645
 
 **No pre-registration is required**. You may click on this link:&nbsp;[https://nush.link/keepintouch/](https://nush.link/keepintouch/)&nbsp;to be on our mailing list for updates on Open House and admissions related matters.&nbsp;
 
