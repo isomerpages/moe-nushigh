@@ -280,3 +280,10 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Mohd Yacob Bin Abdullah |   Estate Officer |
 |   Ms Norashikin Bte Abdul Rahim |   Estate Officer |
 |
+
+#### **NUS High School Library**
+
+|  |  |
+|---|---|
+|   Mrs Sheela Peranandam |  Assistant Executive  |
+|
