@@ -12,7 +12,7 @@ Future-ready Pioneers, Humanitarians and Innovators for the world.
 
 ##### **School Values**
 We grow WISER with Humility:<br>
-Wonderment, Integrity, Service, Excellence, Resilience with Humility
+Wonderment, Integrity, Service, Excellence, Resilience, Humility
 
 ##### **School Motto**
 Experiment. Explore. Excel
