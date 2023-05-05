@@ -22,6 +22,7 @@ Parent Organisation:
 |  |  |
 |---|---|
 | Mr Seah Moon Ming<br> (Chairman) | Chairman<br>SMRT Corp Ltd |
+|Professor Thean Voon-Yew Aaron<br>(Vice Chairman) |  Deputy President (Academic Affairs) &amp; Provost<br>National University of Singapore |
 | Ms Chang Li Lin | Press Secretary to the Prime Minister<br>Prime Minister's Office |
 | Ms Chong Chin Fong, Jazz | Owner<br>Ode to Art |
 | Professor Chong Yap Seng | Dean, Yong Loo Lin School of Medicine<br>National University of Singapore and Senior Consultant |
