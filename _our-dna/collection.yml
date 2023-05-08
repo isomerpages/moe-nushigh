@@ -2,7 +2,6 @@ collections:
   our-dna:
     output: true
     order:
-      - Our Staff.md
       - Experiment Explore Excel.md
       - Principal's Message.md
       - Board of Directors and Governors.md
@@ -14,5 +13,6 @@ collections:
       - Achievements/2020.md
       - Achievements/2019.md
       - Achievements/2018.md
+      - Our Staff.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
