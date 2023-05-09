@@ -9,7 +9,7 @@ third_nav_title: Year 1 and 3 Admissions
 
 For Year 1 admission in 2023, 100% of the places are offered via the DSA-Sec Exercise. Registration for DSA-Sec Exercise is at the MOE centralised DSA-Sec online portal from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
-If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2022 to the third day of release of PSLE results.
+If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2023 to the third day of release of PSLE results.
 
 For Year 3 admission in 2023, the registration is from 15 to 29 August 2022 at&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) **expired form**.
 
