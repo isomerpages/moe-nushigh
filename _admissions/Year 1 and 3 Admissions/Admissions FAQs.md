@@ -7,7 +7,7 @@ third_nav_title: Year 1 and 3 Admissions
 #### **Admissions &amp; Application Matters**
 ##### **1\. How many application phases are there per year?**
 
-For Year 1 admission in 2023, 100% of the places are offered via the DSA-Sec Exercise. Registration for DSA-Sec Exercise is at the MOE centralised DSA-Sec online portal from 5 May to 1 June 2022. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
+For Year 1 admission in 2023, 100% of the places are offered via the DSA-Sec Exercise. Registration for DSA-Sec Exercise is at the MOE centralised DSA-Sec online portal from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
 If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2022 to the third day of release of PSLE results.
 
