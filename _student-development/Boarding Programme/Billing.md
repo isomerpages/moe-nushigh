@@ -6,7 +6,7 @@ third_nav_title: Boarding Programme
 ---
 ### Billing
 
-#### Boarding Fees
+#### **Boarding Fees**
 
 |  | NUS High Student | Non-NUS High Student |
 |---|---|---|
