@@ -4,9 +4,9 @@ permalink: /student-development/boarding-programme/permalink/
 description: ""
 third_nav_title: Boarding Programme
 ---
-###Billing
+## Billing
 
-A. Boarding Fees
+#### Boarding Fees
 
 |  | NUS High Student | Non-NUS High Student |
 |---|---|---|
@@ -26,7 +26,7 @@ Rates cover the following:<br>
 5\. Special programmes and various activities<br>
 6\. 24-hour security
 
-B.&nbsp;Giro Schedule for 2023 Boarding Fee
+#### Giro Schedule for 2023 Boarding Fee
 
 | Term | Scheduled Date | Collecting For |
 |---|---|---|
@@ -36,5 +36,5 @@ B.&nbsp;Giro Schedule for 2023 Boarding Fee
 | 4 | 22 Sep 2023 (Friday) | Term 4  boarding fee, plus Sep holiday boarding fee (if any) |
 |
 
-C.&nbsp;&nbsp;Financial Assistance<br>
+#### Financial Assistance<br>
 To assist financially needy students to defray the cost of their Year 5 residential stay, NUS High School will provide a subsidy for students who are currently under the Ministry of Education Financial Assistance Scheme or who qualify according to its eligibility criteria.
