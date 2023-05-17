@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Boarding Programme/Boarding Programme.md
       - Boarding Programme/.keep
       - Student Development.md
       - Character Citizenship Education.md
