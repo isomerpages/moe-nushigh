@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Development.md
+      - Boarding Programme/Admin and Information.md
       - Boarding Programme/.keep
       - Boarding Programme/Boarding Objectives.md
       - Character Citizenship Education.md
