@@ -4,9 +4,9 @@ permalink: /student-development/boarding-programme/billing/
 description: ""
 third_nav_title: Boarding Programme
 ---
-### Billing
+### **Billing**
 
-#### **Boarding Fees**
+#### Boarding Fees
 
 |  | NUS High Student | Non-NUS High Student |
 |---|---|---|
