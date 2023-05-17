@@ -4,7 +4,7 @@ permalink: /student-development/boarding-programme/permalink/
 description: ""
 third_nav_title: Boarding Programme
 ---
-#### **Administration &amp; Information**
+### **Administration &amp; Information**
 
 A. Curfew<br>
 Our Boarding School has curfew hours as follows:
