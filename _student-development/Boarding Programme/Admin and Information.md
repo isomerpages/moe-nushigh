@@ -6,7 +6,7 @@ third_nav_title: Boarding Programme
 ---
 ### **Administration &amp; Information**
 
-A. Curfew<br>
+#### Curfew<br>
 Our Boarding School has curfew hours as follows:
 
 |  | Start | End |
@@ -15,11 +15,11 @@ Our Boarding School has curfew hours as follows:
 | Fri – Sun,Eve of Public and School Holidays,  Public and School Holidays | 2200h | 0600h |
 |
 
-B. Eligibility to Board<br>
+#### Eligibility to Board<br>
 Students who hold valid student passes and are above 12 years old are welcome to apply for stay at the Boarding School.
 
 
-#### **Useful Forms**
+#### Useful Forms
 
 <img style="width:25%" src="/images/boarding10.png">
 
