@@ -25,7 +25,7 @@ Email:&nbsp;[newton@highsch.nus.edu.sg](mailto:newton@highsch.nus.edu.sg)
 
 ### **Boarding Office:**
 Tel: +65-65161741<br>
-Email: boarding@highsch.nus.edu.sg
+Email: [boarding@highsch.nus.edu.sg](mailto:boarding@highsch.nus.edu.sg)
 
 ### **Bus Services**
 Bus Services: 96, 97, 151, 183, 188, 189, 196, 197, 198, 963<br>
