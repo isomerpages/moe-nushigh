@@ -10,8 +10,6 @@ Singapore 129957
 
 <img src="/images/map.jpg" style="width:85%">
 
-### **During Full Home-Based Learning Days<br> from 8 Apr - 4 May:**
-General Office Opening Hours will be from 7.30 am to 4.00 pm on Mondays, Wednesdays and Fridays.
 
 ### **Contacts**
 General Hotline:<br>
