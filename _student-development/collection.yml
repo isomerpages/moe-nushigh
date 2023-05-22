@@ -3,7 +3,10 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Boarding Programme.md
+      - Boarding Programme/.keep
+      - Boarding Programme/Boarding Objectives.md
+      - Boarding Programme/Admin and Information.md
+      - Boarding Programme/Billing.md
       - Character Citizenship Education.md
       - Co Curricular Activities.md
       - Counselling.md
