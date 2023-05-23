@@ -54,6 +54,6 @@ prod: https://master.d1bl70m167uzkq.amplifyapp.com
 shareicon: /images/nushigh.png
 is_government: false
 facebook-pixel: ""
-google_analytics: ""
+google_analytics: "UA-40138348-1"
 linkedin-insights: ""
 resources_name: resources-1
