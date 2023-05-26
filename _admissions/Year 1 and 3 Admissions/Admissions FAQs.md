@@ -11,7 +11,7 @@ For Year 1 admission in 2023, 100% of the places are offered via the DSA-Sec Exe
 
 If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2023 to the third day of release of PSLE results.
 
-For Year 3 admission in 2024, the registration is from 14 to 28 August 2023 at&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) **expired form**.
+For Year 3 admission in 2024, the registration is from 14 to 28 August 2023 at&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b).
 
 ##### **2\. How old must an applicant be to qualify for admission?**
 
@@ -31,10 +31,10 @@ For Year 1 DSA-Sec applicants:<br>
 Before the Selection Camp: The details for submission of the portfolio including scanned copies of P4, P5 and P6 semester 1 school report books, achievements, competitions, awards and scholarships certificates will be announced after the Selection Tests. Only applicants who have been shortlisted for the DSA Selection Camp are required to do so.
 
 For Year 3 Admission applicants:<br>
-Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) **expired form**&nbsp;by 28 August 2023. All Year 3 Admission applicants are required to do so.
+Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) &nbsp;by 28 August 2023. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
-From 1 to 14 Nov 2023: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;by 14 Nov 2023. All SIE applicants are required to do so.
+From 1 to 14 Nov 2023: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) &nbsp;by 14 Nov 2023. All SIE applicants are required to do so.
 
 As supporting documents are non-returnable, the applicant is advised to provide only scanned copies of the original documents.
 
@@ -148,7 +148,7 @@ Anything that the child does to show their passion and strength in math and scie
 
 ##### **24\. Does NUSHS participate in the Secondary One (S1) posting exercise?**
 
-No. NUSHS does not participate in the S1 posting exercise. Students who wish to participate in the NUSHS SIE must apply online at our&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**.
+No. NUSHS does not participate in the S1 posting exercise. Students who wish to participate in the NUSHS SIE must apply online at our&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6).
 
 ##### **25\. Do I need to participate in the S1 posting exercise if I’ve applied for NUSHS SIE?**
 
@@ -160,13 +160,13 @@ Yes. You may apply for SIE. Selection of applicants in the SIE will be based on 
 
 ##### **27\. When can I register for NUSHS SIE?**
 
-You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;and upload your scanned documents from 1 November 2023 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
+You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) &nbsp;and upload your scanned documents from 1 November 2023 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
 
 ##### **28\. Do I need to re-register online for SIE if I have already completed the online application for DSA-Sec via the MOE Centralised Online Portal?**
 
-Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;from 1 to 14 November 2023.
+Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) &nbsp;from 1 to 14 November 2023.
 
-If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the&nbsp;[PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6) **expired form**&nbsp;from the first to the third day of release of PSLE results.
+If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the&nbsp;[PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6) &nbsp;from the first to the third day of release of PSLE results.
 
 ##### **29\. Can I request for an e-interview for SIE if I am overseas during the SIE interview period?**
 
