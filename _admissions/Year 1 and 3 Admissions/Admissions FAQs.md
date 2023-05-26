@@ -53,7 +53,7 @@ No. We only have Mathematics and Science talent areas for DSA-Sec.
 
 ##### **7\. Is there DSA selection test, camp and interview this year? Is there Year 3 admission test and interview this year? Is there SIE interview this year?**
 
-Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 1 July 2023. The Selection Camp and Interview will be on the 15 and 25 July 2022 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. Thereafter, applicants who need to be further assessed will attend a Selection Interview.
+Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 1 July 2023. The Selection Camp and Interview will be on the 15 and 25 July 2023 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. Thereafter, applicants who need to be further assessed will attend a Selection Interview.
 
 The Year 3 Admission Selection Tests will be on the 12 September 2023 and the Selection Interview will be on the 26 September 2023. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
 
@@ -95,7 +95,7 @@ Applicants who have registered but are unable to attend the selection because of
 
 ##### **13\. How would I know if I am accepted by NUS High School?**
 
-For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by August 2022 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;
+For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by August 2023 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;
 
 For Year 3 Admission, successful applicants will be notified and given a Letter of Confirmed Offer via e-mail by mid October 2023.
 
@@ -160,11 +160,11 @@ Yes. You may apply for SIE. Selection of applicants in the SIE will be based on 
 
 ##### **27\. When can I register for NUSHS SIE?**
 
-You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;and upload your scanned documents from 1 November 2022 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
+You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;and upload your scanned documents from 1 November 2023 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
 
 ##### **28\. Do I need to re-register online for SIE if I have already completed the online application for DSA-Sec via the MOE Centralised Online Portal?**
 
-Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;from 1 to 14 November 2022.
+Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://form.gov.sg/#!/635792356163af0011ad72f6) **expired form**&nbsp;from 1 to 14 November 2023.
 
 If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the&nbsp;[PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6) **expired form**&nbsp;from the first to the third day of release of PSLE results.
 
@@ -192,4 +192,4 @@ As NUS High School is not in the S1 Posting Exercise, there is no cut-off point 
 
 The SIE will not be opened.&nbsp;
 
-Other information related to University and Career options, University Admissions can be found&nbsp;[here](https://www.nushigh.edu.sg/student-development-1/university-admissions-and-career-guidance) **broken link**.
+Other information related to University and Career options, University Admissions can be found&nbsp;[here](/admissions/university-placement/university-placement/).
