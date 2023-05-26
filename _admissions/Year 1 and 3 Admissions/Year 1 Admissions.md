@@ -11,7 +11,9 @@ The DSA-Sec exercise comprises a two-phase selection. All applicants will sit fo
 
 Interested applicants must register at the MOE Centralised DSA-Sec Online Portal from&nbsp;**4 May to 31 May 2023**. For more details, please refer to MOE website –&nbsp;[DSA for Secondary Schools](https://www.moe.gov.sg/secondary/dsa). Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.&nbsp;NUS High School can be found under the talent area of both "Math" and "Science". Applicants need to register only ONCE in either "Math" or "Science". You SHOULD NOT select NUS High School twice as you only have three DSA choices.
 
-International Students (IS) residing in Singapore seeking for Year 1 DSA-Sec to NUS High School do not need to sit for the MOE's Admissions Exercise for International Students (AEIS) test. The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will be based on the applicants' performance in the DSA-Sec Exercise.
+International students applying for admission to NUS High School do not need to sit for the Admissions Exercise for International Students (AEIS)-Secondary test due to their specialized curriculum. However, applicants who are also applying to other mainstream schools in Singapore would need to take and pass the AEIS test before they can be considered for admission to secondary schools. Please refer to [https://www.moe.gov.sg/international-students/aeis](https://ddec1-0-en-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.moe.gov.sg%2finternational%2dstudents%2faeis&amp;umid=e2c2fd7c-7247-4b8c-8af2-dccaeb115268&amp;auth=8d3ccd473d52f326e51c0f75cb32c9541898e5d5-df04d7bb99ad64218721876dca5b53af91ef250e).
+
+The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will be based on the applicants' performance in the DSA-Sec Exercise. 
 
 **Important dates and information for DSA-Sec Exercise**
 
