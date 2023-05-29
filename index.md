@@ -18,14 +18,10 @@ sections:
         - title: Careers
           description: Join us!
           url: /careers
-  - infopic:
-      title: Open House 2023
-      subtitle: 20th May, 9am to 4pm
-      description: Come join our family!
-      button: Click for more details
-      url: /admissions/open-house-2023/
-      image: /images/openhouse2023.jpg
-      alt: Image alt text
+  - infobar:
+      title: Year 1 Admissions
+      button: click here for more details
+      url: /admissions/year-1-and-3-admissions/year-1-admissions/
   - infopic:
       image: /images/Main Page/phi14x3.png
       alt: Image alt text
