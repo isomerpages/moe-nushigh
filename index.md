@@ -18,10 +18,12 @@ sections:
         - title: Careers
           description: Join us!
           url: /careers
-  - infobar:
+  - infopic:
       title: Year 1 Admissions
       button: click here for more details
       url: /admissions/year-1-and-3-admissions/year-1-admissions/
+      image: /images/year 1 admissions.jpg
+      alt: Image alt text
   - infopic:
       image: /images/Main Page/phi14x3.png
       alt: Image alt text
