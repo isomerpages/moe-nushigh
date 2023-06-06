@@ -36,11 +36,3 @@ Parent Organisation:
 | Mr Teo Thiam Guan Daniel | Vice President and Chief Finance Officer<br>Bridgestone China Asia Pacific |
 | Ms Theodora Tan | Zonal Director Schools West School Division<br>Ministry of Education |
 |
-
-<img src="/images/board.jpg" style="width:85%">
-
-_Front Row, Left to Right:_<br>
-Dr Lim Khiang Wee; Ms Soh Siew Choo ; Dr Rosemary Tan; Professor Ho Teck Hua; Mr Seah Moon Ming; Professor Ng Huck Hui; Ms Soh Lai Leng Magdalen; Ms Theodora Tan; Professor Chua Kee Chaing
-
-_Back Row, Left to Right:_<br>
-Mr S Sivanesan; Ms Chong Chin Fong, Jazz; Mr Teo Tham Guan Daniel; Professor Thean Voon-Yew Aaron; Ms Chang Li Lin, Professor Chong Yap Seng
