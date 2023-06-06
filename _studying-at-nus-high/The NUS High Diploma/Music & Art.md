@@ -1,10 +1,10 @@
 ---
-title: Music and Art
+title: Music & Art
 permalink: /studying-at-nus-high/the-nus-high-diploma/music-and-art/
 description: ""
 third_nav_title: The NUS High Diploma
 ---
-## Music and Art
+## Music &amp; Art
 
 <a href="/music-and-art/music/">Music education</a>  in the NUS High School aims to refine the aesthetic sensitivities of all humanities. It is our mission to provide a quality music program that is an integral part of the entire education as well as a reflection of a well-balanced education experience. School and community resources are used to facilitate the exploration of music in a manner both meaningful and relevant to students. Students majoring in music—upon recommendation— will also enjoy the collaboration opportunities with higher institutions. The music program will enhance students’ learning through the acquisition of 
 * Music Knowledge and Reading 
@@ -135,9 +135,6 @@ that complements the main curriculum.
 <thead>
   <tr>
     <td class="tg-l3jo"><a href="https://youtu.be/XnWatXcclZI"><span style="text-decoration:none;color:#0894A0">A World We're Dreaming of</span></a><br><span style="font-weight:normal">(an original a cappella work by our Music Track Students)</span></td>
-    <td class="tg-l3jo"><a href="https://tinyurl.com/nushMAD"><span style="text-decoration:none;color:#0894A0">Game Show by Music and Art Ambassadors<br>broken link</span></a></td>
-    <td class="tg-l3jo"><a href="https://youtu.be/D1Gts8tf5pY"><span style="text-decoration:none;color:#0894A0">"Fly High" - A Virtual Concert by NUS High School Orchestra</span></a></td>
-    <td class="tg-l3jo"><a href="https://youtu.be/VpDDMT_-iqU"><span style="text-decoration:none;color:#0894A0">A Virtual Performance by NUS High School Orchestra</span></a></td>
     <td class="tg-l3jo"><a href="https://youtu.be/4L56sCsZeS0"><span style="text-decoration:none;color:#0894A0">Music and Art Department Virtual Concert</span></a></td>
   </tr>
 </thead>
