@@ -25,7 +25,7 @@ The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will
 | Opening of MOE Centralised DSA-Sec Online Portal* | 4 May 2023 | 11 am |
 | Closing of MOE Centralised DSA-Sec Online Portal | 31 May 2023 | 3 pm |
 | DSA Selection Tests *(All Applicants)* | 1 July 2023 | 8:30 am - 12:30 pm |
-| DSA Selection Camp *(Only Shortlisted Applicants)* | 15 July 2023 | 7.30 pm - 3.30 pm |
+| DSA Selection Camp *(Only Shortlisted Applicants)* | 15 July 2023 | 7.30 am - 3.30 pm |
 | DSA Selection Interview *(Only Applicants<br>Who Need Further Assessment)* | 25 July 2023 |  2 pm - 6 pm |
 | Outcome of DSA Exercise *(DSA Preview)* | 8 August 2023 | 8 am - 4 pm  |
 | Engagement of DSA Exercise *(Newton Fun Camp)* | 13 October 2023  | 1 pm - 6 pm  |
