@@ -14,12 +14,12 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
-* <a target="_blank" href="/files/careers/cs teacher jun 2023.pdf">Computer Science Teacher
+* <a target="_blank" href="/files/Careers/cs teacher jun 2023.pdf">Computer Science Teacher
 </a>
 
 #### **Non-Academic Position**
-* <a target="_blank" href="/files/careers/estate officer jun 23.pdf">Estate Officer</a>
-* <a target="_blank" href="/files/careers/p and i temp pt staff.pdf">Part-Time Assistant Executive (Temporary)</a>
+* <a target="_blank" href="/files/Careers/estate officer jun 23.pdf">Estate Officer</a>
+* <a target="_blank" href="/files/Careers/p and i temp pt staff.pdf">Part-Time Assistant Executive (Temporary)</a>
 
 
 
