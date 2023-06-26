@@ -31,6 +31,7 @@ Parent Organisation:
 | Professor Ng Huck Hui | Assistant Chief Executive<br>Biomedical Research Council, A*\STAR |
 | Mr Quek Gim Pew | Senior Research &amp; Development Consultant<br>Ministry of Defence |
 | Dr Rosemary Tan | Chief Executive Officer<br>CoV Biotechnology |
+| Mr Shailesh Anand Ganu | Managing Director<br>Willis Towers Watson |
 | Mr S Sivanesan | Senior Partner<br>Dentons Rodyk &amp; Davidson LLP |
 | Ms Soh Siew Choo | Chief Information Officer<br>MetLife Asia |
 | Mr Teo Thiam Guan Daniel | Vice President and Chief Finance Officer<br>Bridgestone China Asia Pacific |
