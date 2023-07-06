@@ -16,10 +16,15 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Academic Position**
 * <a target="_blank" href="/files/Careers/cs teacher jun 2023.pdf">Computer Science Teacher
 </a>
+* <a target="_blank" href="/files/Careers/biology teacher jul 2023.pdf">Biology Teacher </a>
+* <a target="_blank" href="/files/Careers/chemistry teacher jul 2023.pdf">Chemistry Teacher</a>
+* <a target="_blank" href="/files/Careers/el teacher jul 2023.pdf">English Language/English Literature Teacher</a>
+* <a target="_blank" href="/files/Careers/history teacher jul 2023.pdf">History Teacher</a>
+* <a target="_blank" href="/files/Careers/physics teacher jul 2023.pdf">Physics Teacher</a>
 
 #### **Non-Academic Position**
 * <a target="_blank" href="/files/Careers/estate officer jun 23.pdf">Estate Officer</a>
-* <a target="_blank" href="/files/Careers/p and i temp pt staff.pdf">Part-Time Assistant Executive (Temporary)</a>
+
 
 
 
