@@ -11,16 +11,16 @@ NUS High may only share two letters with NParks, but we certainly have more than
 <table>
 	<thead>
 		<tr>
-			<th style="width: 33%; align: center">
+			<th style="width: 25%; align: center">
 					<img src="images/Recent%20Highlights/Alumni%20Newsletter/dayna%20sq.jpeg" style="max-width: 100%; max-height:100%">
 			</th>
-			<th style="width: 33%; align: center">
+			<th style="width: 25%; align: center">
 					<img src="/images/Recent%20Highlights/Alumni%20Newsletter/jonathan%20sq.png" style="max-width: 100%; max-height:100%">
 			</th>
-			<th style="width: 33%; align: center">
+			<th style="width: 25%; align: center">
 				<img src="/images/Recent%20Highlights/Alumni%20Newsletter/yi%20shuen%20sq.jpeg" style="max-width: 100%; max-heigth: 100%">
 			</th>
-			<th style="width: 33%;align: center">
+			<th style="width: 25%;align: center">
 				<img src="/images/Recent%20Highlights/Alumni%20Newsletter/dillen.jpg" style="max-width: 120%; max-heigth: 120%">
 			</th>
 		</tr>
