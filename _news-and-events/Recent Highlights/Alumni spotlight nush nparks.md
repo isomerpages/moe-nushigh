@@ -12,24 +12,16 @@ NUS High may only share two letters with NParks, but we certainly have more than
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<a href="/chemistry/wonderment-in-the-classroom/">
-					<img src="/images/Chemistry/Picture 1.jpg" style="max-width: 100%; max-height:100%">
-				</a>
+					<img src="images/Recent%20Highlights/Alumni%20Newsletter/dayna%20sq.jpeg" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/chemistry/wonderment-in-the-classroom/">
-					<img src="/images/Chemistry/Picture 1.jpg" style="max-width: 100%; max-height:100%">
-				</a>
+					<img src="/images/Recent%20Highlights/Alumni%20Newsletter/jonathan%20sq.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<a href="/chemistry/wonderment-in-the-classroom/">
-				<img src="/images/Chemistry/Picture 2.jpg" style="max-width: 100%; max-heigth: 100%">
-				</a>
+				<img src="/images/Recent%20Highlights/Alumni%20Newsletter/yi%20shuen%20sq.jpeg" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%;align: center">
-				<a href="/chemistry/wonderment-in-the-classroom/">
-				<img src="/images/Chemistry/Picture 3.jpg" style="max-width: 100%; max-heigth: 100%">
-				</a>
+				<img src="/images/Recent%20Highlights/Alumni%20Newsletter/dillen.jpg" style="max-width: 120%; max-heigth: 120%">
 			</th>
 		</tr>
 	</thead>
