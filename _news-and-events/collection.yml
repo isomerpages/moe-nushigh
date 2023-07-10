@@ -2,7 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
-      - Recent Highlights/Alumni spotlight nush nparks.md
+      - "Recent Highlights/Alumni Spotlight : Bridging Nature with the
+        Community.md"
       - Recent Highlights/.keep
       - Recent Highlights/Recent Highlights.md
       - Recent Highlights/Congratulations to our National Day Award Recipents.md
