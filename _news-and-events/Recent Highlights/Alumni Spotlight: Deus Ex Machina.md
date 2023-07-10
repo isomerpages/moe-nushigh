@@ -1,12 +1,12 @@
 ---
-title: Deus Ex Machina
+title: "Alumni Spotlight: Deus Ex Machina"
 permalink: /news-and-events/recent-highlights/deus-ex-machina/
 description: ""
 third_nav_title: Recent Highlights
 ---
 _Hashir Zahir (Class of 2015) has a knack for tinkering. He breathes life into amalgamations of scrap metal and circuit boards. A final year Computer Engineering undergraduate at NUS, he’s already worked on a startling breadth of projects – an auto-sorting recycling bin, a facial recognition cashless payment system, a big egg-shaped robot that roams about disinfecting indoor spaces and lift buttons – and has a few more under his belt, more recently in the field of autonomous maritime vehicles. We get the scoop on his latest endeavour._
 
-<img src="/images/highlights3a.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/highlights3a.jpg" style="width:20%;margin-right:15px;" align="left">
 
 Hashir’s turned down my offer of coffee – he’s just too bushed. “It’s a struggle for me to travel these days,” he laments. “I go to school for twelve hours on alternate days.” Not an issue, as we’ve all become too familiar with video conferencing over the past year. We set up a Zoom instead. But what is he going back to school for?  
   
@@ -18,9 +18,9 @@ Hashir is co-lead of Bumblebee, the student-run robotics group working on these 
   
 “It’s a favourite catchphrase in the field. But does anybody really know what it means?” He laughs, suggesting otherwise. “Essentially, we use a couple of sensors and that gives a good estimate of where we are in an aqueous environment. And then, once you know where you are, how you get where you want to go – that needs a control system. That’s what I do. ”
 
-<img src="/images/highlights3b.jpg" style="width:60%;margin-right:15px;" align = "left">
+<img src="/images/highlights3b.jpg" style="width:60%;margin-right:15px;" align="left">
 
-_The larger vessel with the radar R24 on the left is their_ _Autonomous Surface Vessel and the two vehicles on the right are their Autonomous Underwater Vehicles._
+_The larger vessel with the radar R24 on the left is their_&nbsp;_Autonomous Surface Vessel and the two vehicles on the right are their Autonomous Underwater Vehicles._
 
 Hashir has many robot children; I ask him if BBASV 2.0 is his favourite. He shares his screen with a large blown-up picture of his creation, along with its specs on the bottom; his cursor circles it dotingly. “It will be,” he decides, “when I finally get to test it. Development started in 2016 but my batch hasn’t seen it move since 2019, because we’ve been upgrading it for the 2020 competition. That got cancelled due to COVID, so now we’re working towards the Dec 2022 competition… Hopefully within the next three weeks it will be on water.”
 

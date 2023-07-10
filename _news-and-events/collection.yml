@@ -2,12 +2,14 @@ collections:
   news-and-events:
     output: true
     order:
+      - "Recent Highlights/Alumni Spotlight : Bridging Nature with the
+        Community.md"
       - Recent Highlights/.keep
       - Recent Highlights/Recent Highlights.md
       - Recent Highlights/Congratulations to our National Day Award Recipents.md
       - "Recent Highlights/From Chemistry to Psychology: Seeing the World
         through a Different Lens.md"
-      - Recent Highlights/Deus Ex Machina.md
+      - "Recent Highlights/Alumni Spotlight: Deus Ex Machina.md"
       - "Recent Highlights/Breakingthebias: Girl Bosses Leading the Way in
         STEM.md"
       - Recent Highlights/Futuristic Story Wins Top Prize at Science Chronicles
@@ -16,14 +18,15 @@ collections:
         Math and Arts.md"
       - Recent Highlights/Strengthening Partnerships with Industry and IHLs,
         Appointment of New Chairman to Board of Governors.md
-      - Recent Highlights/An Unconventional Adventure Through Biology.md
+      - "Recent Highlights/Alumni Spotlight: An Unconventional Adventure Through
+        Biology.md"
       - Recent Highlights/Covid19 Vaccination Exercise for Students.md
       - Recent Highlights/NUS High Team Emerges Champions at National Science
         Challenge.md
       - Recent Highlights/Come, Join us for the 2021 NUS High eOpenhouse!.md
       - Recent Highlights/Winner of Splash Awards 2019 writes an article on
         HealthTech.md
-      - Recent Highlights/Alumnus Journey to Conservation.md
+      - "Recent Highlights/Alumni Spotlight: Alumnus Journey to Conservation.md"
       - Recent Highlights/Receiving a Gold for MOE Innergy (HQ) Awards 2019.md
       - "Recent Highlights/Young Humanitarians: Serving the Needs of the
         Community.md"
