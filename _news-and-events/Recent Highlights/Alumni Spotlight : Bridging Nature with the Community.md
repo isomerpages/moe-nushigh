@@ -157,4 +157,4 @@ Writer: Leticia Tok (Class of 2021)
 
 Notetaker: Lee Kia En (Class of 2021)
 
-Editor: Dee Pei Fang (Class of 2014) and V Narthananilaa
+Editors: Dee Pei Fang (Class of 2014) and V Narthananilaa
