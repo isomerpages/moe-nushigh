@@ -15,8 +15,8 @@ Year 3 admission exercise comprises a two-phase selection. All applicants will 
 | Opening of NUS High School Online Application | 14 August 2023 | 10 am |
 | Closing of NUS High School Online Application | 28 August 2023 | 10 am |
 | Submission of Portfolio (All Applicants) | 28 August 2023 | 10 am |
-| Selection Tests (All Applicants) | 12 September 2022 | 2 pm |
-|  English Test & Selection Interview (Only Shortlisted Applicants) | 26 September 2022 |  2 pm |
+| Selection Tests (All Applicants) | 12 September 2023 | 2 pm |
+|  English Test & Selection Interview (Only Shortlisted Applicants) | 26 September 2023 |  2 pm |
 |
 
 #### **Eligibility For Year 3 Admission Exercise**
