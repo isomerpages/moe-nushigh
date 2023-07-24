@@ -48,6 +48,42 @@ Parent Organisation:
 
 ### **Board of Governors**
 
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/Our DNA/BODG/mr seah moon ming.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/prof thean voon yew aaron.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/ms chang.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Professor Tan Eng Chye (Chairman)
+				<br>President
+				<br>National University of Singapore
+			</td>
+			<td style="text-align:center">
+				Professor Thean Voon-Yew Aaron
+				<br>Deputy President (Academic Affairs) &amp; Provost
+				<br>National University of Singapore
+			</td>
+			<td style="text-align:center">
+				Professor Tan Cheng Yian, Bernard
+				<br>Senior Vice Provost (Undergraduate Education)
+				<br>National University of Singapore
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 |  |  |
 |---|---|
 | Mr Seah Moon Ming<br> (Chairman) | Chairman<br>SMRT Corp Ltd |
