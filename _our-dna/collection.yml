@@ -2,9 +2,9 @@ collections:
   our-dna:
     output: true
     order:
-      - BOD BOG Temp Page.md
       - Experiment Explore Excel.md
       - Principal's Message.md
+      - BOD BOG Temp Page.md
       - Board of Directors and Governors.md
       - Vision, Mission, Values, Motto.md
       - School Song.md
