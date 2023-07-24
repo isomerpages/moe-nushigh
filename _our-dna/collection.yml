@@ -2,6 +2,7 @@ collections:
   our-dna:
     output: true
     order:
+      - BOD BOG Temp Page.md
       - Experiment Explore Excel.md
       - Principal's Message.md
       - Board of Directors and Governors.md
