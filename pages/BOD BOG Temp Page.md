@@ -32,22 +32,19 @@ Parent Organisation:
 				<br>National University of Singapore
 			</td>
 			<td style="text-align:center">
-			Fazekas Mihaly Primary<br>&amp; Secondary School, Hungary
+				Professor Thean Voon-Yew Aaron
+				<br>Deputy President (Academic Affairs) &amp; Provost
+				<br>National University of Singapore
 			</td>
 			<td style="text-align:center">
-			Korea Science Academy<br>of KAIST, South Korea
+				Professor Tan Cheng Yian, Bernard
+				<br>Senior Vice Provost (Undergraduate Education)
+				<br>National University of Singapore
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-
-|  |  |
-|---|---|
-| Professor Tan Eng Chye (Chairman) | President<br>National University of Singapore |
-|Professor Thean Voon-Yew Aaron |  Deputy President (Academic Affairs) &amp; Provost<br>National University of Singapore |
-|  Professor Tan Cheng Yian, Bernard | Senior Vice Provost (Undergraduate Education)<br>National University of Singapore |
-|
 
 ### **Board of Governors**
 
