@@ -65,19 +65,20 @@ Parent Organisation:
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				Professor Tan Eng Chye (Chairman)
-				<br>President
-				<br>National University of Singapore
+				Mr Seah Moon Ming
+				<br>(Chairman)
+				<br>Chairman
+				<br>SMRT Corp Ltd
 			</td>
 			<td style="text-align:center">
-				Professor Thean Voon-Yew Aaron
+				Professor Thean Voon-Yew Aaron (Vice Chairman)
 				<br>Deputy President (Academic Affairs) &amp; Provost
 				<br>National University of Singapore
 			</td>
 			<td style="text-align:center">
-				Professor Tan Cheng Yian, Bernard
-				<br>Senior Vice Provost (Undergraduate Education)
-				<br>National University of Singapore
+				Ms Chang Li Lin
+				<br>Press Secretary to the Prime Minister
+				<br>Prime Minister's Office
 			</td>
 		</tr>
 	</tbody>
