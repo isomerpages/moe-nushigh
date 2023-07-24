@@ -10,6 +10,38 @@ Parent Organisation:
 
 ### **Board of Directors**
 
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+					<img src="/images/Our DNA/BODG/professor tan eng chye.png" style="max-width: 100%; max-height:100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/prof thean voon yew aaron.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/professor tan cheng yian bernard.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center"> 
+				Professor Tan Eng Chye (Chairman)
+				<br>President
+				<br>National University of Singapore
+			</td>
+			<td style="text-align:center">
+			Fazekas Mihaly Primary<br>&amp; Secondary School, Hungary
+			</td>
+			<td style="text-align:center">
+			Korea Science Academy<br>of KAIST, South Korea
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 |  |  |
 |---|---|
 | Professor Tan Eng Chye (Chairman) | President<br>National University of Singapore |
