@@ -14,12 +14,12 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
-* <a target="_blank" href="/files/Careers/cs teacher jun 2023.pdf">Computer Science Teacher
+* <a target="_blank" href="/files/Careers/cs teacher 2023.pdf">Computer Science Teacher
 </a>
 * <a target="_blank" href="/files/Careers/biology teacher jul 2023.pdf">Biology Teacher </a>
-* <a target="_blank" href="/files/Careers/chemistry teacher jul 2023.pdf">Chemistry Teacher</a>
+* <a target="_blank" href="/files/Careers/chemistry teacher 2023.pdf">Chemistry Teacher</a>
 * <a target="_blank" href="/files/Careers/el teacher jul 2023.pdf">English Language/English Literature Teacher</a>
-* <a target="_blank" href="/files/Careers/history teacher jul 2023.pdf">History Teacher</a>
+* <a target="_blank" href="/files/Careers/history teacher 2023.pdf">History Teacher</a>
 * <a target="_blank" href="/files/Careers/physics teacher jul 2023.pdf">Physics Teacher</a>
 
 #### **Non-Academic Position**
