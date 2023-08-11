@@ -33,10 +33,10 @@ Applicants who were posted to a secondary school under the DSA-Sec Exercise or A
 2\. Submit portfolio at  [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) 
 *   Submit past 3 years school results and any supporting documents by **28 August 2023**. 
 
-3\. Attend the Selection
-*   All applicants are to sit for the Selection Tests in Mathematics and Science on the **12 September 2023, Tuesday**. Venue for the Selection Tests is at NUS High School.
-*   Shortlisted applicants will be invited to sit for an English Test and attend a Selection Interview on **26 September 2023, Tuesday.**
+3\. Attend the Selection at NUS High School
+*   All applicants are to sit for the Selection Tests in Mathematics and Science on **12 September 2023**.
+*   Shortlisted applicants will be invited for English Test and Selection Interview on **26 September 2023**.
 
-4\. Offer of the Year 3 Admission Exercise
+4\. Outcome of the Year 3 Admission Exercise
 *   Successful applicants will be notified of the selection outcome by **October 2023** via the registered e-mail.
 *   Please note that the School is unable to provide information on application outcome or status over the telephone and we reserve the right not to release any information explaining why an application is unsuccessful.
