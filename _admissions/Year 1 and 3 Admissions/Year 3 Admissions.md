@@ -20,7 +20,7 @@ Year 3 admission exercise comprises a two-phase selection. All applicants will 
 |
 
 #### **Eligibility For Year 3 Admission Exercise**
-For admission to Year 3 at NUS High School, local mainstream secondary school applicants must be enrolled in the Secondary Two “Express” course of study at the time of application. Returning Singapore Citizens (RSC), Returning Singapore Permanent Residents (RSPR) and International Students (IS), be it in Singapore or overseas, must either currently be in or have completed the Secondary Two equivalent education. In addition, applicants should be born between year 2006 - 2008 and not be older than 17 years of age as of 1 Jan 2024.
+For admission to Year 3 at NUS High School, local mainstream secondary school applicants must be enrolled in the Secondary Two “Express” course of study at the time of application. Returning Singapore Citizens (RSC), Returning Singapore Permanent Residents (RSPR) and International Students (IS), be it in Singapore or overseas, must either currently be in or have completed the Secondary Two equivalent education. In addition, applicants should not be older than 17 years of age as of 1 Jan 2024.
 
 Applicants who were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) and applicants who are currently enrolled in IP track / IP school are not eligible to apply. Those students are expected to honour their commitment to their posted school.
 
