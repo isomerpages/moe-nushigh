@@ -58,7 +58,7 @@ Parent Organisation:
 				<img src="/images/Our DNA/BODG/prof thean voon yew aaron.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/ms chang.png" style="max-width: 100%; max-heigth: 100%">
+				<img src="/images/Our DNA/BODG/mr teo thiam guan daniel.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 		</tr>
 	</thead>
@@ -75,10 +75,10 @@ Parent Organisation:
 				<br>Deputy President (Academic Affairs) &amp; Provost
 				<br>National University of Singapore
 			</td>
-			<td style="text-align:center">
-				Ms Chang Li Lin
-				<br>Press Secretary to the Prime Minister
-				<br>Prime Minister's Office
+						<td style="text-align:center">
+				Mr Teo Thiam Guan Daniel (Treasurer)
+				<br>Vice President and Chief Finance Officer
+				<br>Bridgestone China Asia Pacific
 			</td>
 		</tr>
 	</tbody>
@@ -88,18 +88,23 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/ms chang.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
 					<img src="/images/Our DNA/BODG/ms jazz chong.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/prof chong yap seng.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof chua kee chaing.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Ms Chang Li Lin
+				<br>Press Secretary to the Prime Minister
+				<br>Prime Minister's Office
+			</td>
 			<td style="text-align:center"> 
 				Ms Chong Chin Fong, Jazz
 				<br>Owner
@@ -110,11 +115,6 @@ Parent Organisation:
 				<br>Dean, Yong Loo Lin School of Medicine
 				<br>National University of Singapore and Senior Consultant
 			</td>
-			<td style="text-align:center">
-				Professor Chua Kee Chaing
-				<br>President
-				<br>Singapore Institute of Technology
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -123,18 +123,23 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/prof chua kee chaing.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
 					<img src="/images/Our DNA/BODG/prof er meng hwa.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/prof ng huck hui.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr quek gim pew.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Professor Chua Kee Chaing
+				<br>President
+				<br>Singapore Institute of Technology
+			</td>
 			<td style="text-align:center"> 
 				Professor Er Meng Hwa
 				<br>Professor, Electrical &amp; Electronic Engineering
@@ -145,11 +150,6 @@ Parent Organisation:
 				<br>Assistant Chief Executive
 				<br>Biomedical Research Council, A*STAR
 			</td>
-			<td style="text-align:center">
-				Mr Quek Gim Pew
-				<br>Senior Research &amp; Development Consultant
-				<br>Ministry of Defence
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -158,18 +158,23 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/mr quek gim pew.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
 					<img src="/images/Our DNA/BODG/dr rosemary.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/mr shailesh.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr sivanesan.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Mr Quek Gim Pew
+				<br>Senior Research &amp; Development Consultant
+				<br>Ministry of Defence
+			</td>
 			<td style="text-align:center"> 
 				Dr Rosemary Tan
 				<br>Chief Executive Officer
@@ -180,11 +185,6 @@ Parent Organisation:
 				<br>Managing Director
 				<br>Willis Towers Watson
 			</td>
-			<td style="text-align:center">
-				Mr S Sivanesan
-				<br>Senior Partner
-				<br>Dentons Rodyk &amp; Davidson LLP
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -193,10 +193,10 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/ms soh siew choo.png" style="max-width: 100%; max-height:100%">
+				<img src="/images/Our DNA/BODG/mr sivanesan.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr teo thiam guan daniel.png" style="max-width: 100%; max-heigth: 100%">
+					<img src="/images/Our DNA/BODG/ms soh siew choo.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/ms theodora tan.png" style="max-width: 100%; max-heigth: 100%">
@@ -205,15 +205,15 @@ Parent Organisation:
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Mr S Sivanesan
+				<br>Senior Partner
+				<br>Dentons Rodyk &amp; Davidson LLP
+			</td>
 			<td style="text-align:center"> 
 				Ms Soh Siew Choo
 				<br>Chief Information Officer
 				<br>MetLife Asia 
-			</td>
-			<td style="text-align:center">
-				Mr Teo Thiam Guan Daniel
-				<br>Vice President and Chief Finance Officer
-				<br>Bridgestone China Asia Pacific
 			</td>
 			<td style="text-align:center">
 				Ms Theodora Tan
