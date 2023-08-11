@@ -4,7 +4,7 @@ permalink: /admissions/year-1-and-3-admissions/year-3-admissions/
 description: ""
 third_nav_title: Year 1 and 3 Admissions
 ---
-NUS High School Year 3 admission is open to applicants who are passionate and talented in Math and Science. The applicants must demonstrate interest and talent beyond the abilities of students in the same age and to excel in the fast-paced learning environment at NUS High School. Students successfully admitted will complete the 4 years (Year 3 – Year 6) of studies in NUS High School. There is no admission beyond Year 3 in NUS High School.
+NUS High School Year 3 admission is open to applicants who are passionate and talented in Mathematics and Science. The applicants must demonstrate interest and talent beyond the abilities of students in the same age and to excel in the fast-paced learning environment at NUS High School. Students successfully admitted will complete the 4 years (Year 3 – Year 6) of studies in NUS High School. There is no admission beyond Year 3 in NUS High School.
 
 Year 3 admission exercise comprises a two-phase selection. All applicants will have to sit for the Selection Tests in Mathematics and Science. Only shortlisted applicants will sit for an English Test and attend a Selection Interview. All applicants must submit their portfolio and supporting documents before the Selection Tests. The outcome of the selection will be released via registered email.
 
@@ -22,12 +22,12 @@ Year 3 admission exercise comprises a two-phase selection. All applicants will 
 #### **Eligibility For Year 3 Admission Exercise**
 For admission to Year 3 at NUS High School, local mainstream secondary school applicants must be enrolled in the Secondary Two “Express” course of study at the time of application. Returning Singapore Citizens (RSC), Returning Singapore Permanent Residents (RSPR) and International Students (IS), be it in Singapore or overseas, must either currently be in or have completed the Secondary Two equivalent education. In addition, applicants should not be older than 17 years of age as of 1 Jan 2024.
 
-Applicants who were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) and applicants who are currently enrolled in IP track / IP school are not eligible to apply. Those students are expected to honour their commitment to their posted school.
+Applicants who were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) and applicants who are currently enrolled in IP track / IP school are not eligible to apply. These students are expected to honour their commitment to their posted school.
 
 #### **Application Process**
-1\. Submit an application at [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) 
+1\. Submit application at [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) 
 
-*   [Year 3 Admission Online Application](https://form.gov.sg/61b07c1cfef0530013c85b9b) 
+*  The online application form will be open from **14 to 28 August 2023**.
 *   If you do not have computer or internet access, please complete the online application at the computers set up at NUS High School Annex Office.
 *   Pay the administrative fee of $70 by cash / cheque / PayNow at NUS High School after completing the online application. If you require waiver of fees due to financial constraints, please indicate during application.
 
