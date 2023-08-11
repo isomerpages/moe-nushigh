@@ -28,11 +28,10 @@ Applicants who were posted to a secondary school under the DSA-Sec Exercise or A
 1\. Submit application at [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) 
 
 *  The online application form will be open from **14 to 28 August 2023**.
-*   If you do not have computer or internet access, please complete the online application at the computers set up at NUS High School Annex Office.
-*   Pay the administrative fee of $70 by cash / cheque / PayNow at NUS High School after completing the online application. If you require waiver of fees due to financial constraints, please indicate during application.
+*   Pay the administrative fee of $70 through the online application form. If you require waiver of fees due to financial constraints, please indicate during application.
 
-2\. Submit portfolio
-*   Submit the portfolio of Primary 6, Secondary 1, Secondary 2 school results and supporting documents by **28 August 2023 to NUS High School**. You can submit the softcopies via the online portal or e-mail to newton@highsch.nus.edu.sg or post the photocopied hardcopies to 20 Clementi Avenue 1, Singapore 129957. Please note that the submitted documents are non-returnable.
+2\. Submit portfolio at  [Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) 
+*   Submit past 3 years school results and any supporting documents by **28 August 2023**. 
 
 3\. Attend the Selection
 *   All applicants are to sit for the Selection Tests in Mathematics and Science on the **12 September 2023, Tuesday**. Venue for the Selection Tests is at NUS High School.
