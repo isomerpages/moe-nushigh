@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Year 1 and Year 3 Admissions
       button: click here for more details
-      url: /admissions/year-1-and-3-admissions/year-1-admissions/
+      url: /admissions/year-1-and-3-admissions
       image: /images/year 1 admissions.jpg
       alt: Image alt text
   - infopic:
