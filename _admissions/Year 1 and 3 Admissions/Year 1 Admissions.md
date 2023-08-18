@@ -28,7 +28,7 @@ The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will
 | DSA Selection Camp *(Only Shortlisted Applicants)* | 15 July 2023 | 7.30 am - 3.30 pm |
 | DSA Selection Interview *(Only Applicants<br>Who Need Further Assessment)* | 25 July 2023 |  2 pm - 6 pm |
 | Outcome of DSA Exercise *(DSA Preview)* | 8 August 2023 | 8 am - 4 pm  |
-| Engagement of DSA Exercise *(Newton Fun Camp)* | 13 October 2023  | 1 pm - 6 pm  |
+| Engagement of DSA Exercise *(Newton Fun Camp)* | 6 October 2023  | 1 pm - 6 pm  |
 |  School Preference Submission |  October / November 2023  | 9 am - 3 pm |
 | DSA Allocation by MOE | November 2023 | 24 hrs |
 |
