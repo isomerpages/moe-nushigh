@@ -6,7 +6,7 @@ third_nav_title: Mathematical Olympiad of SG
 ---
 #### **Release of results**
 
-**Due to unforeseen circumstances, the release of the results for NMOS 2023 will be postponed till further notice. We apologise for any inconvenience caused.**
+**The results for NMOS 2023 are released to the respective primary schools. **
 
 NMOS Committee<br>
-16 August 2023
+24 August 2023
