@@ -21,7 +21,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * <a target="_blank" href="/files/Careers/physics teacher 2023.pdf">Physics Teacher</a>
 
 #### **Non-Academic Position**
-* <a target="_blank" href="/files/Careers/estate officer jun 23.pdf">Estate Officer</a>
+* <a target="_blank" href="/files/Careers/temp aro sept 2023.pdf">Temporary Assistant Executive</a>
 
 
 
