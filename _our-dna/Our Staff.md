@@ -194,7 +194,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Ms Angela Loh Lai Kiang |   Head, Physical Education |
 |   Mr Fan Kai Ming |   Teacher  |
-|   Mr Loke Kok Fei |  Acting Assistant Head, Physical Education |
+|   Mr Loke Kok Fei |  Teacher |
 |   Mr Norman Dominique Tse Y-Yin |   Teacher |
 |   Ms Kong Seow Yoke Annie  |   Teacher |
 |   Mr Chee Kok Liang David  |   Teacher |
