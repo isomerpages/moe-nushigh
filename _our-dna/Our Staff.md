@@ -173,7 +173,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Asrina Bte Sani | Teacher |
 |   Mr Chin Kiane Yun Dustin | Teacher |
 |   Ms Chin Lee Pyin Melissa | Teacher |
-|   Ms Koh Mei Ying Genette | Acting Assistant Head, English Language &amp;     Literature |
+|   Ms Koh Mei Ying Genette | Assistant Head, English Language &amp;     Literature |
 |   Ms Yuen Lilin Sharalee | Teacher  |
 |   Mr Wong Sung Peng Daniel | Teacher  |
 |
