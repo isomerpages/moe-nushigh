@@ -59,7 +59,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Yuen Xiang Hao |   Teacher |
 |   Ms Lim Li Chen |   Teacher |
 |   Ms Yenny Wijaya |   Teacher |
-|   Mr Tan Guan Seng |    Acting Assistant Head, Discipline |
+|   Mr Tan Guan Seng |    Assistant Head, Discipline |
 |   Mr Silas Yeem Kai Ean |   Teacher   |
 |   Mr Ho Jun Hao Kenneth      |   Teacher<br><br> Outreach Educator  |
 |   Mr Seow Yongli |   Teacher   |
