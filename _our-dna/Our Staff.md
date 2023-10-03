@@ -112,6 +112,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Liu-Ye Xiajuan | Teacher |
 |   Mr Chan Yu Ming | Teacher |
 |   Mr Herman Chua Jia He  | Teacher  |
+|   Mr Yeo Heu Ming Jeremy  |  Teacher|
 |
 
 #### **Computer Science**
@@ -152,6 +153,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Chua Chin Haw | Teacher |
 |   Ms Hilda Mak Hee Man | Teacher |
 |   Mr Han Xuanjun | Teacher |
+|   Ms Song Haiyan |  Teacher |
 |   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
 |   Ms Rohaida Bte Ismail | Teacher (Malay Language) |
 |   Mrs Elizabeth Mariko Gomez | Teacher (Japanese Language) |
@@ -272,6 +274,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 | &nbsp;&nbsp;Ms Susan Cheong Sook Cheng | &nbsp; Senior Executive |
 | &nbsp;&nbsp;Mr Foo Chee Wei Timothy | &nbsp; Senior Executive |
 | &nbsp;&nbsp;Ms Shahira Bte Amat Amin | &nbsp; Assistant Executive |
+| &nbsp; Mrs Sheela Peranandam | &nbsp;Assistant Executive  |
 |
 
 #### **Infrastructure**
@@ -292,5 +295,5 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-| &nbsp; Mrs Sheela Peranandam | &nbsp;Assistant Executive  |
+|   |   |
 |
