@@ -134,7 +134,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Alex Kwee Yeow Teck |   Assistant Head, Humanities |
 |   Ms Chen Zhaoyan Madeline |   Teacher (Geography) |
 |   Ms Irene Poh  |   Teacher (Geography) |
-|   Mr Loh Ping Shun  |   Teacher (History)  |
 |   Ms Tong Boon Yee |   Teacher (Economics) |
 |   Ms Tay Melody  |   Teacher (History)  |
 |
@@ -151,7 +150,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Dong Yanqin  | Teacher |
 |   Mr Xie Chuanling | Teacher |
 |   Mr Chua Chin Haw | Teacher |
-|   Ms Hilda Mak Hee Man | Teacher |
 |   Mr Han Xuanjun | Teacher |
 |   Ms Song Haiyan |  Teacher |
 |   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
@@ -272,7 +270,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 | &nbsp; Mr Wong Chee Khiam | &nbsp; Manager (Boarding Operations) |
 | &nbsp; Mr Joseph Giri Sri Krishnan | &nbsp; Boarding Master |
 | &nbsp;&nbsp;Ms Susan Cheong Sook Cheng | &nbsp; Senior Executive |
-| &nbsp;&nbsp;Mr Foo Chee Wei Timothy | &nbsp; Senior Executive |
 | &nbsp;&nbsp;Ms Shahira Bte Amat Amin | &nbsp; Assistant Executive |
 | &nbsp; Mrs Sheela Peranandam | &nbsp;Assistant Executive  |
 |
