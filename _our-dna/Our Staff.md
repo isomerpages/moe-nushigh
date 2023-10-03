@@ -101,7 +101,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
 |   Dr Lee Chan Lye | Senior Consultant |
 |   Mr Teoh Yeow Hwee Joel | Senior Teacher |
-|   Mr Low Chin Han | Assistant Head, Mathematics &amp; Statistics |
+|   Mr Low Chin Han | Assistant Head, Mathematics &amp; Statistics <br><br> Senior Teacher |
 |   Mr Wang Haibin | Senior Consultant |
 |   Ms Joyce Seow Chwee Loon | Senior Teacher |
 |   Ms Jiang Zewei Vivian | Assistant Head, ICT |
