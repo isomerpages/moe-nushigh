@@ -182,7 +182,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Dr Emilia Wong |   Head (Music &amp; Art) |
+|   Dr Emilia Wong |   Head, Music &amp; Art |
 |   Ms Chua Ngeah Sian |   Teacher (Music) |
 |   Ms Koh Wun Be Geneva |   Teacher (Art) |
 |   Mr Syed Mahdar B Syed Othman |   Senior Specialist Associate (Art) |
@@ -214,7 +214,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Van Li Hui |   Manager Student Affairs / Manager Admissions &amp; Recruitment |
+|   Ms Van Li Hui |   Manager Student Affairs <br><br> Manager Admissions &amp; Recruitment |
+| Ms Goh Xin Ni Annie | Assistant Manager, Admissions &amp; Recruitment|
 |   Ms Philomena Loh  |   Executive, Student Affairs  |
 |   Ms Ang Sherna |   Senior Executive, Student Affairs |
 |   Ms Celestine d/o Arlando |   Acting Assistant Manager, Student Affairs |
@@ -257,7 +258,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Allan Patrick Uy |   College Counsellor |
 |   Mr Christopher Andrew West |   College Counsellor |
 |   Ms Jade Lee Ye Kee |   Pastoral Counsellor |
-|   Miss Koh Pei Fern Emily |   Pastoral Counsellor |
+|   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
 |   Ms Chua Shuyi Sarah Elizabeth |   Pastoral Counsellor |
 |   Ms Lim Siok Hwa Jenny  |   Assistant Executive |
 |
