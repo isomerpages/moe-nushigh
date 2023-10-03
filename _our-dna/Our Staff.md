@@ -97,8 +97,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Lee Sheau Huey  | Teacher  |
 |   Mr Goh Shu Liang | Assistant Head, Mathematics &amp; Statistics |
 |   Mr Tan Boon Keong | Teacher |
-|   Mr Chai Ming Huang Royce | Assistant Head, RIE |
-|   Mr Lim Teck Choow | Assistant Head, RIE |
+|   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
+|   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
 |   Dr Lee Chan Lye | Senior Consultant |
 |   Mr Teoh Yeow Hwee Joel | Senior Teacher |
 |   Mr Low Chin Han | Assistant Head, Mathematics &amp; Statistics |
