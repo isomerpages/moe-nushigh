@@ -142,7 +142,7 @@ Parent Organisation:
 			</td>
 			<td style="text-align:center"> 
 				Professor Er Meng Hwa
-				<br>Professor, Electrical &amp; Electronic Engineering
+				<br>Emeritus Professor, School of Electrical &amp; Electronic Engineering
 				<br>Nanyang Technological University
 			</td>
 			<td style="text-align:center">
