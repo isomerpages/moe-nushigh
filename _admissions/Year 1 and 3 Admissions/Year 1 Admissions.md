@@ -29,7 +29,7 @@ The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will
 | DSA Selection Interview *(Only Applicants<br>Who Need Further Assessment)* | 25 July 2023 |  2 pm - 6 pm |
 | Outcome of DSA Exercise *(DSA Preview)* | 8 August 2023 | 8 am - 4 pm  |
 | Engagement of DSA Exercise *(Newton Fun Camp)* | 6 October 2023  | 1 pm - 6 pm  |
-|  School Preference Submission |  October / November 2023  | 9 am - 3 pm |
+|  School Preference Submission |  23 - 27 October 2023  | 9 am - 3 pm |
 | DSA Allocation by MOE | November 2023 | 24 hrs |
 |
 
@@ -71,7 +71,7 @@ Interested applicants are strongly advised to indicate their interest online and
 |:---:|:---:|:---:|
 | Opening of Online Indication of Interest<br><br>Upload Documents Including P4 to P6 Academic Results, Awards, Achievements and Scholarships | 1 Nov 2023 | 10 am |
 | Closing of Online Indication of Interest | 14 Nov 2023 | 10 pm |
-| Opening of Online Application for SIE1 with Submission of PSLE Results | On the day of release of PSLE results | 10 am |
+| Opening of Online Application for SIE with Submission of PSLE Results | On the day of release of PSLE results | 10 am |
 | Closing of Online Application for SIE | 3rd day² from the release of PSLE results | 10 am |
 | Selection Interview (Only Shortlisted Applicants) | 4th to 6th day from release of PSLE results | TBC |
 | Outcome of SIE | 4th to 6th day from release of PSLE results | TBC |
@@ -80,7 +80,7 @@ Interested applicants are strongly advised to indicate their interest online and
 
 _\* Important points to note when register at NUS High School Online Portal:_<br>
 1\.  _SIE will open if there is vacancy available on the day of release of PSLE results._<br>
-2\.  _If PSLE results are released on 17 Nov 2023 (Friday), 3rd day from release of PSLE results will be 19 Nov 2023._
+2\.  _If PSLE results are released on 22 Nov 2023 (Wednesday), 3rd day from release of PSLE results will be 24 Nov 2023._
 
 #### **Summary of Application for Supplementary Intake Exercise (SIE)**
 1\. Indication of Interest at [NUS High School Online Indication of Interest](https://form.gov.sg/635792356163af0011ad72f6).
