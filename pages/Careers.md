@@ -20,8 +20,8 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * <a target="_blank" href="/files/Careers/physics teacher 2023.pdf">Physics Teacher</a>
 
 #### **Non-Academic Position**
-* <a target="_blank" href="/files/Careers/temporary assistant executive outreach.pdf">Temporary Assistant Executive, Outreach</a>
-* <a target="_blank" href="/files/Careers/temporary assistant executive special project.pdf">Temporary Assistant Executive Special Project</a>
+* <a target="_blank" href="/files/Careers/temp assistant executive outreach.pdf">Temporary Assistant Executive, Outreach</a>
+* <a target="_blank" href="/files/Careers/temp assistant executive special projects.pdf">Temporary Assistant Executive Special Project</a>
 
 
 
