@@ -40,7 +40,7 @@ Pupils who wish to apply for ISB are to submit the application form together wit
 With effect from 1 April 2019, MOE has introduced the UPLIFT Scholarship to recognise the achievements of students in Independent Schools who have performed well academically or in specific talents areas and are from lower-income families.
 
 The UPLIFT Scholarship information is available here: 
-https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships 
+<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships">https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships</a>
 
 #### **Temasek Foundation Study Award for STEM**
 Temasek Foundation Study Award for STEM may be given to NUS High School students who received school fees subsidy under the tier 1 &amp; 2 MOE Independent School Bursary (ISB) scheme.
