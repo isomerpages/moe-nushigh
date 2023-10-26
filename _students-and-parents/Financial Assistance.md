@@ -39,17 +39,10 @@ Pupils who wish to apply for ISB are to submit the application form together wit
 #### **UPLIFT Scholarship**
 With effect from 1 April 2019, MOE has introduced the UPLIFT Scholarship to recognise the achievements of students in Independent Schools who have performed well academically or in specific talents areas and are from lower-income families.
 
-The UPLIFT Scholarship is awarded to students who are:
-
-Singapore Citizens attending Independent Schools;
-
-Admitted to the school through Direct School Admission or qualified for the Edusave Scholarships for Independent Schools; and
-
-From families with gross monthly household income (GHI) ≤ $3,000, or gross monthly household per capita income (PCI) ≤ $750 (PCI = GHI divided by number of household members). (Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
-
-ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship. To apply, please submit the completed ISB application form and all relevant documents to the school.
+The UPLIFT Scholarship information is available here: 
+https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships 
 
 #### **Temasek Foundation Study Award for STEM**
-Temasek Foundation Study Award for STEM may be given to NUS High School students who received school fees subsidy under the MOE Independent School Bursary (ISB) scheme.
+Temasek Foundation Study Award for STEM may be given to NUS High School students who received school fees subsidy under the tier 1 &amp; 2 MOE Independent School Bursary (ISB) scheme.
 
 Besides the school fees subsidy under the MOE ISB scheme, NUS High School provides additional financial assistance to needy Singapore Citizen pupils so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.
