@@ -30,7 +30,7 @@ The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will
 | Outcome of DSA Exercise *(DSA Preview)* | 8 August 2023 | 8 am - 4 pm  |
 | Engagement of DSA Exercise *(Newton Fun Camp)* | 6 October 2023  | 1 pm - 6 pm  |
 |  School Preference Submission |  23 - 27 October 2023  | 9 am - 3 pm |
-| DSA Allocation by MOE | November 2023 | 24 hrs |
+| DSA Allocation by MOE | 22 - 24 November 2023 | - |
 |
 
 _\* Important points to note when you register at MOE Centralised DSA-Sec Online Portal:_
@@ -61,7 +61,7 @@ Applicants who are interested to apply to NUS High School via the SIE should als
 
 Selection of applicants in the SIE will be based on the PSLE results and portfolio which includes primary school academic results. Only shortlisted applicants will be invited to attend a Selection Interview. Applicants with a PSLE score of 4 to 6 with AL 1 in both Mathematics and Science are encouraged to apply.
 
-Interested applicants are strongly advised to indicate their interest online and upload the required documents (P4 to 6 academic results, achievements, scholarships and awards certificates) from **1 to 14 November 2023** [NUS High School Online Indication of Interest](https://form.gov.sg/635792356163af0011ad72f6). **Online Application for SIE will only open if there is vacancy available on the PSLE results releasing date.**
+Interested applicants are strongly advised to indicate their interest online and upload the required documents (P4 to 6 academic results, achievements, scholarships and awards certificates) from **1 to 14 November 2023** [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form). **Online Application for SIE will only open if there is vacancy available on the PSLE results releasing date.**
 
 **Important dates and information for Supplementary Intake Exercise (SIE)**
 
@@ -83,13 +83,13 @@ _\* Important points to note when register at NUS High School Online Portal:_<br
 2\.  _If PSLE results are released on 22 Nov 2023 (Wednesday), 3rd day from release of PSLE results will be 24 Nov 2023._
 
 #### **Summary of Application for Supplementary Intake Exercise (SIE)**
-1\. Indication of Interest at [NUS High School Online Indication of Interest](https://form.gov.sg/635792356163af0011ad72f6).
-*   [Online Indication of Interest](https://form.gov.sg/635792356163af0011ad72f6) will be open from **1 - 14 November 2023**. If you do not have computer or internet access, please complete the online registration at NUS High School Annex Office.
+1\. Indication of Interest at [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form).
+*   [Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) will be open from **1 - 14 November 2023**. If you do not have computer or internet access, please complete the online registration at NUS High School Annex Office.
 
-*   Upload the scanned copy of the P4 to P6 academic results and supporting documents by 14 November 2023 at [NUS High School Online Indication of Interest](https://form.gov.sg/635792356163af0011ad72f6).
+*   Upload the scanned copy of the P4 to P6 academic results and supporting documents by 14 November 2023 at [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form).
 
-2\. Apply for SIE by submitting the PSLE results to [PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6).
-*   Indicate PSLE score &amp; subject grades and upload a scanned copy of the PSLE result slip by the third day from the release of PSLE results via the [PSLE results submission portal](https://form.gov.sg/635790bd6163af0011ad35e6). Submission must be completed by 10 am.
+2\. Apply for SIE by submitting the PSLE results to [PSLE results submission portal](https://go.gov.sg/2023nushs-sie-submit-psle-results).
+*   Indicate PSLE score &amp; subject grades and upload a scanned copy of the PSLE result slip by the third day from the release of PSLE results via the [PSLE results submission portal](https://go.gov.sg/2023nushs-sie-submit-psle-results). Submission must be completed by 10 am.
 *   Applying for admission via SIE is free.
 
 *   No appeal is allowed after the third day from the release of PSLE results.
