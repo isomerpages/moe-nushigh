@@ -30,7 +30,7 @@ _3.Applicable&nbsp;only&nbsp;to&nbsp;Singapore&nbsp;Citizen&nbsp;students&nbsp;e
 
 _4.The&nbsp;public&nbsp;transport&nbsp;subsidy&nbsp;will&nbsp;only&nbsp;be&nbsp;provided&nbsp;from&nbsp;the&nbsp;effective&nbsp;month&nbsp;of&nbsp;the&nbsp;MOE&nbsp;ISB&nbsp;till&nbsp;December&nbsp;of&nbsp;the&nbsp;year._
 
-_5.GGAS&nbsp;fee&nbsp;comprises&nbsp;school&nbsp;fee,&nbsp;standard&nbsp;miscellaneous&nbsp;fee and maximum 2nd tier miscellaneous fee payable by Singapore&nbsp;Citizen&nbsp;students&nbsp;in&nbsp;a&nbsp;GGAS._
+_5.GGAS&nbsp;fee&nbsp;comprises&nbsp;school&nbsp;fee and&nbsp;miscellaneous&nbsp;fee payable by Singapore&nbsp;Citizen&nbsp;students&nbsp;in&nbsp;a&nbsp;GGAS._
 
 _6.With effect from 1 January 2024_
 
@@ -43,6 +43,6 @@ The UPLIFT Scholarship information is available here: <br>
 <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships">https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships</a>
 
 #### **Temasek Foundation Study Award for STEM**
-Temasek Foundation Study Award for STEM may be given to NUS High School students who received school fees subsidy under the tier 1 &amp; 2 MOE Independent School Bursary (ISB) scheme.
+Temasek Foundation Study Award for STEM may be given to NUS High School students who received school fees subsidy under the tier 1 &amp; 2 MOE Independent School Bursary (ISB) scheme at Tier 1 and Tier 2.
 
 Besides the school fees subsidy under the MOE ISB scheme, NUS High School provides additional financial assistance to needy Singapore Citizen pupils so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.
