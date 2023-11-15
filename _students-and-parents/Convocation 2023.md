@@ -4,7 +4,7 @@ permalink: /students-and-parents/convo23/
 variant: markdown
 description: ""
 ---
-
+<img src="/images/Convocation/convo23_banner.jpg">
 
 #### NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE 
 ### CONVOCATION 2023
