@@ -2,7 +2,6 @@ collections:
   students-and-parents:
     output: true
     order:
-      - Convocation 2023.md
       - School Fees.md
       - Scholarships and Awards.md
       - Financial Assistance.md
@@ -12,3 +11,4 @@ collections:
       - Parents Support Group.md
       - Yearbooks.md
       - Convocation 2022.md
+      - Convocation 2023.md
