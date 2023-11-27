@@ -2,7 +2,7 @@ collections:
   international-math-challenge:
     output: true
     order:
-      - Singapore International Mathematics Challenge 2.md
+      - Singapore International Mathematical and Computational Challenge.md
       - 2022 Sample Challenge Question.md
       - 2022 Challenge Problem.md
       - About Singapore.md
