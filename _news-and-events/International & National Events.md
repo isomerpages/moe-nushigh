@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## International and National Events
 
-#### <a href="/news-and-events/international-and-national-events/sg-international-math-challenge/"> Singapore International Mathematics Challenge <sup>2.0</sup> </a>
+#### <a href="/news-and-events/international-and-national-events/sg-international-math-challenge/"> Singapore International Mathematical and Computational Challenge (SIMC<sup>2.0</sup>) </a>
 
 #### <a href="https://www.nushsdyc.org/" target="_blank"> Sustainable Youth Development Convention </a>
 
