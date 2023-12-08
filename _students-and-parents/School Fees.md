@@ -43,7 +43,7 @@ The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/
 
 11\.  The Edusave Standing Order can also be terminated at any time. The soft copy of the termination form is available here. [Form - Edusave EPSO Termination.pdf](/files/edusave2.pdf).
 
-#### **2023 School fees GIRO deduction date**
+#### **2024 School fees GIRO deduction date**
 
 |  | Scheduled Date |
 |:---:|:---:|
