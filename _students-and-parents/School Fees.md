@@ -2,15 +2,16 @@
 title: School Fees
 permalink: /students-and-parents/school-fees/
 description: ""
+variant: markdown
 ---
 #### **School Fees (Per Month)**
 
-| Nationality | From 2023 (S$) |
+| Nationality | From 2024 (S$) |
 |:---:|:---:|
 | Singapore Citizens | 300 |
-| Singapore Permanent Residents | 875 |
-| International Students (ASEAN) | 1,510 |
-| International Students (non-ASEAN) | 2,400 |
+| Singapore Permanent Residents | 934 |
+| International Students (ASEAN) | 1,646 |
+| International Students (non-ASEAN) | 2,616 |
 |
 
 1\.  The school fee structure applies to all students, regardless of date of admission to the school.
@@ -26,7 +27,7 @@ description: ""
 
 6\.  The softcopy of the form in PDF is available here. [Form - Direct Debit Authorisation NUSHS Students.pdf](/files/nushs.pdf)
 
-7\.  Should deductions via the Giro scheme be unsuccessful due to insufficient funds, students may be required to pay the fees by cheque / cash at the School’s General Office, subject to an administrative charge of S$10.
+7\.  Should deductions via Giro scheme be unsuccessful due to insufficient funds, students may be required to pay the fees via paynow/internet banking, subject to an administrative charge of $10.00.
 
 8\.  Please refer to the table below for GIRO deduction date. Feb’s deduction will be for school fees of Jan and Feb. Sept’s deduction will be for the school fees of Sept and Oct. Oct’s deduction will be for the school fees of Nov and Dec.
 
@@ -34,7 +35,7 @@ description: ""
 
 9\.  Edusave funds (only applicable to Singapore Citizens) can be used to pay for school enrichment programmes where eligible. Instead of signing and returning the Edusave withdrawal authorization form for every enrichment programme, the school has issued the Edusave Enrichment Programme Standing Order (Edusave EPSO) for all parents to give authorization for the school to make withdrawals from student’s Edusave account for local enrichment programmes. This one-time Edusave withdrawal authorization will remain valid throughout your child/ward's school years.
     
-The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/files/edusave1.pdf). A list of FAQs is also included in the PDF form.
+The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/files/finance/edusave2024.pdf). 
 
 10\.  If the balance in the Edusave account is insufficient, the school will proceed to deduct from the giro account nominated with the school.
 
