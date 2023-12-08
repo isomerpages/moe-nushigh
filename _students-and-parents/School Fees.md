@@ -14,6 +14,8 @@ variant: markdown
 | International Students (non-ASEAN) | 2,616 |
 |
 
+There is also a supplementary fee of S$20 (subject to revision) per month per student.
+
 1\.  The school fee structure applies to all students, regardless of date of admission to the school.
 
 2\.  Supplementary fee of S$20 per month per student is payable, in addition to school fees. The supplementary fees will help defray costs of school-wide activities and programmes where each and every student will benefit. The amount collected pays for items such as the Student Protection Plan (Insurance), School newsletters/publications and other services/facilities.
@@ -45,13 +47,13 @@ The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/
 
 |  | Scheduled Date |
 |:---:|:---:|
-| January & February | 10-Feb-2023 (Fri) |
-| March | 10-Mar-2023 (Fri) |
-| April | 10-Apr-2023 (Mon) |
-| May | 10-May-2023 (Wed) |
-| June | 12-Jun-2023 (Mon) |
-| July | 10-Jul-2023 (Mon) |
-| August | 10-Aug-2023 (Thu) |
-| September & October | 11-Sep-2023 (Mon) |
-| November & December | 10-Oct-2023 (Tue) |
+| January & February | 13-Feb-2024 (Tue) |
+| March | 11-Mar-2024 (Mon) |
+| April | 11-Apr-2024 (Thu) |
+| May | 10-May-2024 (Fri) |
+| June | 10-Jun-2024 (Mon) |
+| July | 10-Jul-2024 (Wed) |
+| August | 12-Aug-2024 (Mon) |
+| September & October | 10-Sep-2024 (Tue) |
+| November & December | 10-Oct-2024 (Thu) |
 |
