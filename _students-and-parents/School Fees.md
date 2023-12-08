@@ -37,7 +37,7 @@ There is also a supplementary fee of S$20 (subject to revision) per month per st
 
 9\.  Edusave funds (only applicable to Singapore Citizens) can be used to pay for school enrichment programmes where eligible. Instead of signing and returning the Edusave withdrawal authorization form for every enrichment programme, the school has issued the Edusave Enrichment Programme Standing Order (Edusave EPSO) for all parents to give authorization for the school to make withdrawals from student’s Edusave account for local enrichment programmes. This one-time Edusave withdrawal authorization will remain valid throughout your child/ward's school years.
     
-The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/files/finance/edusave2024.pdf). 
+The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/files/Finance/edusave2024.pdf). 
 
 10\.  If the balance in the Edusave account is insufficient, the school will proceed to deduct from the giro account nominated with the school.
 
