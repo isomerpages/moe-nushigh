@@ -33,16 +33,6 @@ There is also a supplementary fee of S$20 (subject to revision) per month per st
 
 8\.  Please refer to the table below for GIRO deduction date. Feb’s deduction will be for school fees of Jan and Feb. Sept’s deduction will be for the school fees of Sept and Oct. Oct’s deduction will be for the school fees of Nov and Dec.
 
-#### **Edusave**
-
-9\.  Edusave funds (only applicable to Singapore Citizens) can be used to pay for school enrichment programmes where eligible. Instead of signing and returning the Edusave withdrawal authorization form for every enrichment programme, the school has issued the Edusave Enrichment Programme Standing Order (Edusave EPSO) for all parents to give authorization for the school to make withdrawals from student’s Edusave account for local enrichment programmes. This one-time Edusave withdrawal authorization will remain valid throughout your child/ward's school years.
-    
-The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/files/Finance/edusave2024.pdf). 
-
-10\.  If the balance in the Edusave account is insufficient, the school will proceed to deduct from the giro account nominated with the school.
-
-11\.  The Edusave Standing Order can also be terminated at any time. The soft copy of the termination form is available here. [Form - Edusave EPSO Termination.pdf](/files/edusave2.pdf).
-
 #### **2024 School fees GIRO deduction date**
 
 |  | Scheduled Date |
@@ -57,3 +47,13 @@ The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/
 | September & October | 10-Sep-2024 (Tue) |
 | November & December | 10-Oct-2024 (Thu) |
 |
+
+#### **Edusave**
+
+9\.  Edusave funds (only applicable to Singapore Citizens) can be used to pay for school enrichment programmes where eligible. Instead of signing and returning the Edusave withdrawal authorization form for every enrichment programme, the school has issued the Edusave Enrichment Programme Standing Order (Edusave EPSO) for all parents to give authorization for the school to make withdrawals from student’s Edusave account for local enrichment programmes. This one-time Edusave withdrawal authorization will remain valid throughout your child/ward's school years.
+    
+The soft copy of the form in PDF is available here. [Form - Edusave EPSO.pdf](/files/Finance/edusave2024.pdf). 
+
+10\.  If the balance in the Edusave account is insufficient, the school will proceed to deduct from the giro account nominated with the school.
+
+11\.  The Edusave Standing Order can also be terminated at any time. The soft copy of the termination form is available here. [Form - Edusave EPSO Termination.pdf](/files/edusave2.pdf).
