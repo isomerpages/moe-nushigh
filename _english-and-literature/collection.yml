@@ -1,0 +1,6 @@
+collections:
+  english-and-literature:
+    output: true
+    order:
+      - Wonderment in the Classroom.md
+      - Beyond the Classroom.md

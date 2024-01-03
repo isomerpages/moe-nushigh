@@ -1,0 +1,5 @@
+collections:
+  archived:
+    output: true
+    order:
+      - Convocation 2022.md

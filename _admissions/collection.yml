@@ -1,0 +1,17 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Open House/.keep
+      - Open House/Open House 2023.md
+      - Open House/Open House Information.md
+      - Year 1 and 3 Admissions/Year 1 and 3 Admissions.md
+      - Year 1 and 3 Admissions/Year 1 Admissions.md
+      - Year 1 and 3 Admissions/Year 3 Admissions.md
+      - Year 1 and 3 Admissions/Admissions for Returning Singapore Citizens,
+        Permanent Residents and International Students.md
+      - Year 1 and 3 Admissions/Admissions FAQs.md
+      - Year 1 and 3 Admissions/.keep
+      - University Placement/University Placement.md
+      - University Placement/Virtual Homecoming 2021.md
+      - University Placement/.keep
