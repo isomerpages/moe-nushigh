@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - MOE Sexuality Education/.keep
       - Student Development.md
       - Boarding Programme/.keep
       - Boarding Programme/Boarding Objectives.md
