@@ -2,6 +2,7 @@
 title: Careers
 permalink: /careers/
 description: ""
+variant: markdown
 ---
 The NUS High School provides a six-year high school education for talented students who have a strong inclination in Mathematics and Science. The curriculum will also incorporate a balanced program emphasizing the importance of the languages, arts and humanities.  
   
@@ -18,12 +19,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 </a>
 * <a target="_blank" href="/files/Careers/history teacher 2023.pdf">History Teacher</a>
 * <a target="_blank" href="/files/Careers/physics teacher 2023.pdf">Physics Teacher</a>
-
-#### **Non-Academic Position**
-* <a target="_blank" href="/files/Careers/temp assistant executive outreach.pdf">Temporary Assistant Executive, Outreach</a>
-* <a target="_blank" href="/files/Careers/temp assistant executive special projects.pdf">Temporary Assistant Executive Special Project</a>
-
-
+* * <a target="_blank" href="/files/Careers/el teacher 2024.pdf">English Language Teacher</a>
 
 
 Only shortlisted candidates will be notified. <br>
