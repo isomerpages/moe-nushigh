@@ -19,7 +19,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 </a>
 * <a target="_blank" href="/files/Careers/history teacher 2023.pdf">History Teacher</a>
 * <a target="_blank" href="/files/Careers/physics teacher 2023.pdf">Physics Teacher</a>
-* * <a target="_blank" href="/files/Careers/el teacher 2024.pdf">English Language Teacher</a>
+* <a target="_blank" href="/files/Careers/el teacher 2024.pdf">English Language Teacher</a>
 
 
 Only shortlisted candidates will be notified. <br>
