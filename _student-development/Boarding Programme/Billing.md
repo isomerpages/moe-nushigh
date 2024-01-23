@@ -3,6 +3,7 @@ title: Billing
 permalink: /student-development/boarding-programme/billing/
 description: ""
 third_nav_title: Boarding Programme
+variant: markdown
 ---
 ### **Billing**
 
@@ -26,14 +27,14 @@ Rates cover the following:<br>
 5\. Special programmes and various activities<br>
 6\. 24-hour security
 
-#### Giro Schedule for 2023 Boarding Fee
+#### Giro Schedule for 2024 Boarding Fee
 
 | Term | Scheduled Date | Collecting For |
 |---|---|---|
-| 1 | 30 Jan 2023 (Monday) | Term 1 boarding fee, plus deposit (if any) |
-| 2 | 6 Apr 2023 (Thursday) | Term 2 boarding fee, plus Mar holiday boarding fee (if any) |
-| 3 | 7 Jul 2023 (Friday) | Term 3 boarding fee, plus Jun holiday boarding fee (if any) |
-| 4 | 22 Sep 2023 (Friday) | Term 4  boarding fee, plus Sep holiday boarding fee (if any) |
+| 1 | 8 Feb 2024 (Thursday) | Term 1 Boarding Fee |
+| 2 | 5 Apr 2024 (Friday) | Term 2 Boarding Fee plus Mar holiday Boarding Fee (if any)|
+| 3 | 5 Jul 2024 (Friday) | Term 3 Boarding Fee plus Jun holiday Boarding Fee(if any) |
+| 4 | 20 Sep 2024 (Friday) | Term 4 Boarding Fee plus Sep holiday Boarding Fee (if any) |
 |
 
 #### Financial Assistance<br>
