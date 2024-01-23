@@ -31,7 +31,7 @@ Rates cover the following:<br>
 
 | Term | Scheduled Date | Collecting For |
 |---|---|---|
-| 1 | 08 Feb 2024 (Thursday) | Term 1 Boarding Fee |
+| 1 | 8 Feb 2024 (Thursday) | Term 1 Boarding Fee |
 | 2 | 5 Apr 2024 (Friday) | Term 2 Boarding Fee plus Mar holiday Boarding Fee (if any)|
 | 3 | 5 Jul 2024 (Friday) | Term 3 Boarding Fee plus Jun holiday Boarding Fee(if any) |
 | 4 | 20 Sep 2024 (Friday) | Term 4 Boarding Fee plus Sep holiday Boarding Fee (if any) |
