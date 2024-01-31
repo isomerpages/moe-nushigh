@@ -14,7 +14,7 @@ variant: markdown
 | International Students (non-ASEAN) | 2,616 |
 |
 
-There is also a supplementary fee of S$20 (subject to revision) per month per student.
+There is also a miscellaneous fee of S$20 (subject to revision) per month per student.
 
 1\.  The school fee structure applies to all students, regardless of date of admission to the school.
 
