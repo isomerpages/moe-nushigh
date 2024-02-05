@@ -39,10 +39,7 @@ NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE <br>
 **For payment via PayNow**, please make a single payment for all the pupils and note the following:<br>
 * UEN200500354G<br>
 * Indicate in the reference “SPSO, school code, total number of pupils”.<br>
-* Please provide a screen shot of the PayNow and send an email to [spso@highsch.nus.edu.sg](mailto:spso@highsch.nus.edu.sg), indicating the name of the school, name and contact number of the teacher-in-charge.
-
-<br>
-
+* Please provide a screen shot of the PayNow and send an email to [spso@highsch.nus.edu.sg](mailto:spso@highsch.nus.edu.sg), indicating the name of the school, name and contact number of the teacher-in-charge.<br>
 *   If there are additional pupils after the first submission,&nbsp;please login to our registration portal again using the same school account and password to register the new pupils.&nbsp;  
     
 *   The period for registration is&nbsp;**25 Mar to 19 Apr 2024**.
