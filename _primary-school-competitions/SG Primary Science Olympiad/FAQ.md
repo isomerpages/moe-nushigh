@@ -13,7 +13,7 @@ It is not related to the Direct School Admissions Exercise. However, participant
 ##### **2\. Is there an age limit?**
 As long as the pupils are enrolled in Primary Five as of the year of competition, he/she will be allowed to participate regardless of his/her age.
 
-##### 3**\. Can Primary Six pupils take part?**
+##### **3\. Can Primary Six pupils take part?**
 No. This is for Primary Five pupils only.
 
 ##### **4\. Can pupils in levels lower than Primary Five take part?**
@@ -28,5 +28,5 @@ There will be no refund of the registration fee.
 ##### **7\. When will results of the theory round be released and how will it be made known?**
 The results will be released in July. Schools will also be notified by email. No telephone inquiry regarding results will be entertained.
 
-##### **8. Are samples of past year SPSO papers available?**
+##### **8\. Are samples of past year SPSO papers available?**
 Past year SPSO papers are **not** available. Schools and pupils can refer to the SPSO sample questions found on this website.
