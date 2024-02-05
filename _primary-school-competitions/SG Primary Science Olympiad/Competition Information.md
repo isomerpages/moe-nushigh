@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **General**
 *   This competition is open to all primary school pupils who are enrolled in the **Primary Five** level as of the year of the competition.
-*   **All** pupils have to be registered by their primary school. **No individual or private registration is allowed.** 
+*   **All** pupils have to be registered by their primary schools. **No individual or private registration is allowed.** 
 *   For 2024, there is no cap on the number of pupils from each school.
 *   The period for the registration is from **25 Mar to 19 Apr 2024**.  
     
