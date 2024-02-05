@@ -32,5 +32,10 @@ variant: markdown
 *   A surcharge of **$15 nett** will be imposed for the reprint of each certificate.
 *   All certificates (and medals and trophies, if any) will be delivered to the school around mid-September 2024.
 
+#### **IMPORTANT INFORMATION**
+1. Participating schools are to arrange for their own teachers to invigilate the theory round of the competition (without monetary compensation from the organiser). The organiser will not provide invigilators to schools. 
+2.	The organiser will deliver/collect the question booklets and answer scripts to/from schools. Details on such arrangements will be provided nearer to the competition date.
+3.	Schools conducting the competitions within their premises are to adhere to the date of the competition. This is to maintain fairness to all participants.
+
 #### **Enquiries**
 *   If you have any enquiries, please email to: [spso@highsch.nus.edu.sg](mailto:spso@highsch.nus.edu.sg).
