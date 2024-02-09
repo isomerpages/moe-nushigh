@@ -29,7 +29,7 @@ There is also a miscellaneous fee of S$20 (subject to revision) per month per st
 
 6\.  The softcopy of the form in PDF is available here. [Form - Direct Debit Authorisation NUSHS Students.pdf](/files/nushs.pdf)
 
-7\.  Should deductions via Giro scheme be unsuccessful due to insufficient funds, students may be required to pay the fees via paynow/internet banking, subject to an administrative charge of $10.00.
+7\.  In the event of unsuccessful deductions through the Giro scheme due to insufficient funds, payment for fees can alternatively be made via PayNow or internet banking, albeit subject to an administration charge of $10.00.
 
 8\.  Please refer to the table below for GIRO deduction date. Feb’s deduction will be for school fees of Jan and Feb. Sept’s deduction will be for the school fees of Sept and Oct. Oct’s deduction will be for the school fees of Nov and Dec.
 
