@@ -26,6 +26,4 @@ variant: markdown
   <br>  
 8.  The&nbsp;**NMOS Competition**&nbsp; will be a&nbsp;**1 hour 30 minutes**&nbsp;written paper.&nbsp;Schools are to conduct the competition on **16th&nbsp;July 2024** .
 <br>    
-9.  The top scorers of the Preliminary Round will be invited to sit for a written paper in the&nbsp;**Special Round**. The names of the qualifiers will be made known to the respective schools.  
-<br>    
-10.  All decisions made by the organisers shall be final and no discussion or correspondence will be entertained.
+9.  All decisions made by the organisers shall be final and no discussion or correspondence will be entertained.
