@@ -20,7 +20,7 @@ variant: markdown
  <br>          
 5.  There will be NO REFUND of registration fee.  
  <br> 
-6.  **NO CALCULATORS**&nbsp;are allowed for ALL the Rounds of the competition.  
+6.  **NO CALCULATORS**&nbsp;are allowed for the competition.  
  <br>       
 7.  The language of the competition will be English.  
   <br>  
