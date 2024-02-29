@@ -9,14 +9,11 @@ variant: markdown
 
 1.  This competition is opened to&nbsp;**Primary 5 school students only**.  
 <br>  
-
 2.  **ALL participants have to be registered via their primary school and schools have discretion to select their students for participation.**
 <br>    
-
 3.  **No individual registration will be allowed.**&nbsp;The period of registration is from&nbsp;**25th&nbsp;March 2024 to 19th**&nbsp; **April 2024**.&nbsp;&nbsp;
 <br>    
-
-5.  The registration fee per participant is&nbsp;**$24 (inclusive of 9% GST)**.  
+4.  The registration fee per participant is&nbsp;**$24 (inclusive of 9% GST)**.  
  <br>          
 5.  There will be NO REFUND of registration fee.  
  <br> 
