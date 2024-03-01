@@ -14,7 +14,7 @@ Central Library Building<br>
 CLB 01-02<br>
 Singapore 119275
 
-![](/images/NMOS_Book_Sales_2024_V4.png)
+![](/images/NMOS_Book_Sales_2024_V4_png.jpg)
 
 The books are also available on their [online bookstore.](https://www.nuscoop.sg/search?keywords=NMOS)
 
