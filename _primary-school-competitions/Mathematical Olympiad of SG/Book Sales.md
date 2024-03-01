@@ -11,7 +11,7 @@ Publications for our NMOΣ Five-Year Series (2016 to 2021), 2021 and 2022 NMOΣ 
 NUS Co-op@Central Forum<br>
 12 Kent Ridge Crescent<br>
 Central Library Building<br>
-CLB 01-02<br>
+CLB-01-02<br>
 Singapore 119275
 
 ![](/images/NMOS_Book_Sales_2024_V4_png.jpg)
