@@ -3,6 +3,7 @@ title: Book Sales
 permalink: /news-and-events/primary-school-competitions/mathematical-olympiad-of-sg/book-sales/
 description: ""
 third_nav_title: Mathematical Olympiad of SG
+variant: markdown
 ---
 ### **Retail Store**
 Publications for our NMOΣ Five-Year Series (2016 to 2021), 2021 and 2022 NMOΣ questions (with solutions for both Preliminary and Special rounds) are available for walk-in sale (while stocks last) at: <br>
@@ -10,8 +11,10 @@ Publications for our NMOΣ Five-Year Series (2016 to 2021), 2021 and 2022 NMOΣ 
 NUS Co-op@Central Forum<br>
 12 Kent Ridge Crescent<br>
 Central Library Building<br>
-CLB 01-02<br>
+CLB-01-02<br>
 Singapore 119275
+
+![](/images/NMOS_Book_Sales_2024_V4_png.jpg)
 
 The books are also available on their [online bookstore.](https://www.nuscoop.sg/search?keywords=NMOS)
 
