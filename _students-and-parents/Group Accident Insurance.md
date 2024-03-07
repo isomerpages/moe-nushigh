@@ -13,15 +13,16 @@ Please enquire at the Admin Office for submission of a claim.
 
 <img src="/images/Group Accident Insurance/gai.png" style="width:100%">
 
-Footnotes:  <br>
+Footnotes:
 1. Validity for claims on treatment must be within 12 months from date of incident.  <br>
 2. (1) Death claim – documents are required from (a) Coroner’s Report; (b) Birth Certificate; (c) Death Certificate; (d) Police Report.<br>
 (2) Permanent disability claim - Medical report.
 
-     
 
 <table style="border-collapse:
- collapse;width:506pt" width="674" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:9581;width:197pt" width="262"> <col style="mso-width-source:userset;mso-width-alt:15067;width:309pt" width="412"></colgroup><tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:
+ collapse;width:506pt" width="674" cellspacing="0" cellpadding="0" border="0">
+	<colgroup><col style="mso-width-source:userset;mso-width-alt:9581;width:197pt" width="262"> <col style="mso-width-source:userset;mso-width-alt:15067;width:309pt" width="412"></colgroup>
+	<tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:
   colspan;width:506pt" width="674" colspan="2" class="xl66" height="20">Basis of Cover: As per schedule as follows:</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl68" height="20">Benefit</td><td style="border-left:none" class="xl69">Sum Insured / Limit</td></tr><tr style="mso-height-source:userset;height:21.0pt" height="28"><td style="height:21.0pt" class="xl70" height="28">1) Accidental Death</td><td style="border-top:none;border-left:none" class="xl71">S$50,000</td></tr><tr style="mso-height-source:userset;height:33.75pt" height="45"><td style="height:33.75pt;border-top:none;
   width:197pt" width="262" class="xl72" height="45">2) Accidental Permanent Disablement (including Second and Third Degree Burns)</td><td style="border-top:none;border-left:none;width:309pt" width="412" class="xl73">Up to 150% of Accidental Death Benefit<br>(As per Policy Schedule of Benefits for Partial / Total Disability)</td></tr><tr style="mso-height-source:userset;height:23.25pt" height="31"><td style="height:23.25pt;border-top:none" class="xl70" height="31">3) Funeral Benefit / Burial expenses</td><td style="border-top:none;border-left:none" class="xl74">S$5,000</td></tr><tr style="height:25.5pt" height="34"><td style="height:330.0pt;
   border-top:none;width:197pt" width="262" class="xl75" height="440" rowspan="12">4) Medical Expenses for injury due to an accident<span style="mso-spacerun:yes">&nbsp; </span>(sum of outpatient and inpatient medical expenses)</td><td style="border-left:none;width:309pt" width="412" class="xl76">Up to S$13,000 for medical expenses incurred up to 365 days from date of accident:</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none" class="xl78" height="20">With the following sub-limits:</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
