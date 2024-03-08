@@ -6,12 +6,12 @@ third_nav_title: Mathematical Olympiad of SG
 variant: tiptap
 ---
 <h4></h4>
-<p><strong><u>NMOS 2024 Competition Details</u></strong>
+<p><strong><u>NMO∑ 2024 Competition Details</u></strong>
 </p>
 <p>Date: 16 July 2024, Tuesday</p>
 <p>Duration: 1 hour 30 minutes</p>
 <p></p>
-<p><strong><u>Changes for NMOS 2024</u></strong>
+<p><strong><u>Changes for NMO∑ 2024</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
