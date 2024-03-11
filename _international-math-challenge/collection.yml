@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Singapore International Mathematical and Computational Challenge.md
-      - 2022 Sample Challenge Question.md
+      - Sample Challenge Question.md
       - 2022 Challenge Problem.md
       - About Singapore.md
       - Results/.keep
