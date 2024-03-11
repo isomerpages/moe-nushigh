@@ -6,10 +6,26 @@ third_nav_title: Mathematical Olympiad of SG
 variant: tiptap
 ---
 <h4></h4>
-<p>The NMOS Competition is scheduled to take place on 16th July 2024 at your
-respective schools. Unlike previous years, there will be only one written
-round for the entire competition, with no special round. Registration opens
-on 25th March 2024, and closes on 19th April 2024. The registration fee
-is $24, inclusive of 9% GST.</p>
+<p><strong><u>NMO∑ 2024 Competition Details</u></strong>
+</p>
+<p>Date: 16 July 2024, Tuesday</p>
+<p>Duration: 1 hour 30 minutes</p>
+<p></p>
+<p><strong><u>Changes for NMO∑ 2024</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Registration fee is $24 per participant (inclusive of 9% GST)</p>
+</li>
+<li>
+<p>Open to Primary 5 Students only</p>
+</li>
+<li>
+<p>Paper will comprise 35 Questions</p>
+</li>
+<li>
+<p>No Special Round</p>
+</li>
+</ul>
 <p>NMOS Committee
-<br>29 February 2024</p>
+<br>8 March 2024</p>
