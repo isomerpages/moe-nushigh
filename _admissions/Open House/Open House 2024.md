@@ -5,38 +5,54 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<img src="/images/Admission/oh23_banner.jpg" style="width:85%">
-
-#### **Onsite Open House on 20 May 2023**
-Come, join us at NUS High School Open House on&nbsp;**20 May 2023, Saturday, 9 am – 4 pm!**
-
-Do not miss the chance to hear our staff and students share exciting anecdotes of their school life and be enlightened by our unique curriculum and modular system. Interact with our students and find out how our students find their talents, expand their interests and explore their passions. Click here for the <a target="_blank" href="/files/Open House/2023 nush brochure.pdf">2023 NUS High Brochure</a>. 
-
-You can look forward to the following features:
-
-• School Leader’s Talk
-<br>• Academic and Programmes Showcase<br>• CCA and Student Life Showcase
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/Admission/oh23_banner.jpg">
+</div>
+<h4><strong>Onsite Open House on 11 May 2024</strong></h4>
+<p>Come, join us at NUS High School Open House on&nbsp;<strong>11 May 2024, Saturday, 9 am – 3 pm!</strong>
+</p>
+<p>Do not miss the chance to hear our staff and students share exciting anecdotes
+of their school life and be enlightened by our unique curriculum and modular
+system. Interact with our students and find out how our students find their
+talents, expand their interests and explore their passions.</p>
+<p>You can look forward to the following features:</p>
+<p>• School Leader’s Talk
+<br>• Academic and Programmes Showcase
+<br>• CCA and Student Life Showcase
 <br>• Alumni and PSG Booth
-<br>• School tour
-
-There will be 5 School Leader’s Talks at the following timings:
-
-• Session 1: 0930 to 1015
-<br>• Session 2: 1100 to 1145
+<br>• School tour</p>
+<p>There will be 5 School Leader’s Talks at the following timings:</p>
+<p>• Session 1: 0930 to 1015
+<br>• Session 2: 1045 to 1130
 <br>• Session 3: 1230 to 1315
-<br>• Session 4: 1430 to 1515<br>• Session 5: 1600 to 1645
-
-**No pre-registration is required**. You may click on this link:&nbsp;[https://nush.link/keepintouch/](https://nush.link/keepintouch/)&nbsp;to be on our mailing list for updates on Open House and admissions related matters.&nbsp;
-
-You may also refer to the tab "Open House Information" for information curated from our previous e-Open House.
-
-<img src="/images/openhse1.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/openhse2.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/openhse3.jpg" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-<img src="/images/openhse5.jpg" style="width:40%;margin-right:55px;" align="right">
-<img src="/images/openhse4.jpg" style="width:40%;margin-left:55px;" align="left">
-
-<br clear="left">
+<br>• Session 4: 1345 to 1430
+<br>• Session 5: 1500 to 1545</p>
+<p><strong>No pre-registration is required</strong>. You may click on this
+link:&nbsp;<a href="https://nush.link/keepintouch/" rel="noopener noreferrer nofollow" target="_blank">https://nush.link/keepintouch/</a>&nbsp;to
+be on our mailing list for updates on Open House and admissions related
+matters.&nbsp;</p>
+<p><strong><u>Check back on this page to view more updates!</u></strong>
+</p>
+<p>You may also refer to the tab "Open House Information" for information
+curated from our previous e-Open House.</p>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/openhse1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/openhse2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/openhse3.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%;margin-right:55px;" height="auto" width="100%" src="/images/openhse5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:40%;margin-left:55px;" height="auto" width="100%" src="/images/openhse4.jpg">
+</div>
+<p>
+<br>
+</p>
