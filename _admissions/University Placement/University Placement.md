@@ -7,8 +7,7 @@ variant: markdown
 ---
 #### **Our Graduates have gotten offers from the following universities:**
 
-
-
+![](/images/Admission/university_offers.png)
 
 
 ##### **What Our Alumni Say**
