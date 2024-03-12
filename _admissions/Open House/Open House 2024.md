@@ -6,6 +6,9 @@ third_nav_title: Open House
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admission/OH24_banner.jpg">
+</div>
 <h4><strong>Onsite Open House on 11 May 2024</strong></h4>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>11 May 2024, Saturday, 9 am – 3 pm!</strong>
 </p>
@@ -34,22 +37,23 @@ matters.&nbsp;</p>
 <p>You may also refer to the tab "Open House Information" for information
 curated from our previous e-Open House.</p>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/openhse1.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/openhse2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/openhse2.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/openhse1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/openhse3.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/openhse3.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:55px;" height="auto" width="100%" src="/images/openhse5.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/openhse5.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-left:55px;" height="auto" width="100%" src="/images/openhse4.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/openhse4.jpg">
 </div>
 <p>
 <br>
