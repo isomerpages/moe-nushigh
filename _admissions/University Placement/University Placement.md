@@ -3,16 +3,13 @@ title: University Placement
 permalink: /admissions/university-placement/university-placement/
 description: ""
 third_nav_title: University Placement
+variant: markdown
 ---
-#### **Where do our alumni go from here?**
-##### **Asia-Pacific**
-<center>Australia National University . KAIST . Monash University . Nanyang Technological University . National University of Singapore . Seoul National University . Singapore Management University . Singapore University of Technology and DesignUniversity of Adelaide . University of Hong Kong . University of Melbourne . University of New South Wales . University of Queensland . University of Sydney . University of Tokyo . Yale-NUS</center>
+#### **Our Graduates have gotten offers from the following universities:**
 
-##### **North America**
-<center>Brown University . California Institute of Technology . Carnegie Mellon University . Columbia University . Cornell University . Duke University . Emory University . Harvard University . Harvey Mudd College . Johns Hopkins University . Massachusetts Institute of Technology . McGill University . Princeton University . Rice University . Stanford University . Tufts University . University of British Columbia . University of California, Berkeley . University of Illinois at Urbana-Champaign . University of Michigan, Ann Arbor . University of Pennsylvania . University of Toronto . University of Waterloo . Vanderbilt University . Wesleyan University . Williams College . Yale University</center>
 
-##### **Europe**
-<center>Ecole Hoteliere de Lausanne . Heidelberg University . Imperial College London . King’s College London . London School of Economics . Oxford University . University of St Andrews . University College London . University of Cambridge . University of Edinburgh . University of Glasgow . University of London . University of Nottingham . University of Warwick</center>
+
+
 
 ##### **What Our Alumni Say**
 
