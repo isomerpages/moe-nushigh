@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Admission/oh23_banner.jpg">
-</div>
+<p></p>
 <h4><strong>Onsite Open House on 11 May 2024</strong></h4>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>11 May 2024, Saturday, 9 am – 3 pm!</strong>
 </p>
