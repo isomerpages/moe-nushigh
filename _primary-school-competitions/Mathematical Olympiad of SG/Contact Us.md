@@ -8,4 +8,4 @@ variant: markdown
 Please email any enquiries to: [nmos@moe.edu.sg](mailto:nmos@moe.edu.sg) or contact:
 
           Ms Letizia
-          (Tel: 6601 1566 from Monday to Friday 9am to 5pm except Public Holidays)
+          (Tel: 6516 5357 from Monday to Friday 9am to 5pm except Public Holidays)
