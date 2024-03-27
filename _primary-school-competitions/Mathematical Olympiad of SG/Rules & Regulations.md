@@ -18,6 +18,7 @@ variant: markdown
 7.  The language of the competition will be English.  
   
 8.  The&nbsp;**NMO∑ Competition**&nbsp; will be a&nbsp;**1 hour 30 minutes**&nbsp;written paper comprising 35 questions. The breakdown of the questions are as follows:
+
  	*   Q1 to Q10 – 1 mark
 	*   Q11 to Q20 – 2 marks
 	*   Q21 to Q30 – 3 marks    
