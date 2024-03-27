@@ -21,6 +21,12 @@ variant: markdown
  <br>       
 7.  The language of the competition will be English.  
   <br>  
-8.  The&nbsp;**NMO∑ Competition**&nbsp; will be a&nbsp;**1 hour 30 minutes**&nbsp;written paper.&nbsp;Schools are to conduct the competition on **16th&nbsp;July 2024**. Schools must also adhere to the Safe Management Measures, as required by Ministry of Education.
+8.  The&nbsp;**NMO∑ Competition**&nbsp; will be a&nbsp;**1 hour 30 minutes**&nbsp;written paper comprising 35 questions. The breakdown of the questions are as follows:
+ 	*   Q1 to Q10 – 1 mark
+	*   Q11 to Q20 – 2 marks
+	*   Q21 to Q30 – 3 marks    
+	                  
+	Schools are to conduct the competition on **16th&nbsp;July 2024**.
+9. Schools must also adhere to the Safe Management Measures, as required by Ministry of Education.
 <br>    
 9.  All decisions made by the organisers shall be final and no discussion or correspondence will be entertained.
