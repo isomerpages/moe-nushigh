@@ -21,6 +21,7 @@ variant: markdown
 * Q1 to Q10 - 1 mark
 * Q2 to Q20 - 2 marks
 * Q21 to Q30 - 3 marks
+* Q31 to Q35 - 4 marks
 
 9. 	Schools are to conduct the competition on **16th July 2024**. Schools must also adhere to the Safe Management Measures, as required by Ministry of Education.
 10.  All decisions made by the organisers shall be final and no discussion or correspondence will be entertained.
