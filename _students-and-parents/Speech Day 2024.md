@@ -4,8 +4,6 @@ permalink: /speech-day/
 variant: tiptap
 description: ""
 ---
-<p>&lt;img src="/images/Speech Day/speech_day_2024.jpg"&gt;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech Day/speech_day_2024.jpg">
 </div>
