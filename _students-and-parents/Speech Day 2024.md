@@ -4,7 +4,11 @@ permalink: /speech-day/
 variant: tiptap
 description: ""
 ---
-<p>&lt;img src="/images/Speech Day/speech day 2024.jpg"&gt;</p>
+<p>&lt;img src="/images/Speech Day/speech_day_2024.jpg"&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech Day/speech_day_2024.jpg">
+</div>
 <h3>NUS HIGH SCHOOL SPEECH DAY 2024</h3>
 <p>We will be celebrating our 20th Speech Day held on 5 April 2024, Friday
 at 8.45 am at the NUS High School Hall.&nbsp; This marks the special occasion
