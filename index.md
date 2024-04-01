@@ -19,7 +19,7 @@ sections:
           description: Join us!
           url: /careers
   - infopic:
-      title: Year 1 and Year 3 Admission
+      title: Come, Join us at our Open House on 11th May 2024!
       button: click here for more details
       url: /admissions/year-1-and-3-admissions
       image: /images/year 1 admissions.jpg
