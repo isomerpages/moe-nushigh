@@ -2,5 +2,6 @@ collections:
   archived:
     output: true
     order:
+      - Yearbooks.md
       - Sexuality Education.md
       - Convocation 2022.md
