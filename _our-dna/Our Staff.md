@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /our-dna/our-staff/
 description: ""
+variant: markdown
 ---
 ### **NUS High School Staff**
 NUS High School has more than 100 academic staff as well as 40 administrative and support staff.&nbsp;More than 50% of our academic staff holds a PhD or a Master degree. Our highly qualified teachers bring with them a wealth of experience from various backgrounds. This diversity helps to enrich our students’ learning experience. By mentoring students and providing one-to-one guidance and counselling on academic work, research as well as personal issues, our teachers create a supportive community for our students to discover and realise their full potential.
@@ -33,12 +34,13 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Khoo-Teo Yew Mei Grace | Teacher |
 |   Dr Seow Nianjia  | Teacher / Outreach Educator |
 |   Dr Maury Julien Jean Pierre | Assistant Head, Research, Innovation and Enterprise |
-|   Dr Flora Soh Shu Fang | Teacher |
+|   Dr Soh Shu Fang Flora | Teacher |
 |   Ms Zhong Jingyi | Assistant Head, Chemistry |
-|   Ms Ng Yu Rui | Assistant Head, Student Wellbeing |
+|   Mdm Ng Yu Rui | Assistant Head, Student Wellbeing |
 |   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
 |   Mr Wong Teck Hee  | Teacher  |
 |   Mr Tee Tiam Siong Jonathan  | Teacher  |
+|   Mr Choo Yi En Theodore  | Teacher  |
 |   Ms Pek Lay Pheng | Principal Laboratory Technologist |
 |   Ms Loo Koh Lee | Senior Laboratory Technologist |
 |   Mr Lew Andrew Delfin Reyes | Laboratory Technologist |
@@ -205,7 +207,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Dr Chiam Sher-Yi |   Head, Research, Innovation &amp; Enterprise |
-|   Mr Leong Kin Chong |   Senior Laboratory Technologist |
+|   Mr Leong Kin Chong |   Senior Laboratory Specialist |
 |   Mr Andre Jusuf |   Teacher |
 |   Mr Phoon Chee Haw |   Teacher |
 |
@@ -214,11 +216,11 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Van Li Hui |   Manager Student Affairs <br><br> Manager Admissions &amp; Recruitment |
+|   Ms Van Li Hui |   Senior Manager, Student Affairs <br><br> Senior Manager, Admissions &amp; Recruitment |
 | Ms Goh Xin Ni Annie | Assistant Manager, Admissions &amp; Recruitment|
-|   Ms Philomena Loh  |   Executive, Student Affairs  |
+|   Ms Loh Ying Kwai Philomena  |  Senior Executive, Student Affairs  |
 |   Ms Ang Sherna |   Senior Executive, Student Affairs |
-|   Ms Celestine d/o Arlando |   Acting Assistant Manager, Student Affairs |
+|   Mdm Celestine d/o Arlando |   Acting Assistant Manager |
 |   Ms Mazni Bte Abdullah  |   Senior Executive, Admissions &amp; Recruitment |
 |
 
@@ -226,19 +228,19 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Mrs Lynette Tan-Soon  |   Manager |
+|   Mrs Tan-Soon Ping Ping Lynette  |   Manager |
 |   Ms Duong Thi Kim Hang Evelyn |   Assistant Manager |
-|   Ms Teng Lwen Huang Ji Ann |   Assistant Executive |
-|   Ms Lim Tian Choo Ris |   Assistant Executive |
+|   Mdm Teng Lwen Huang Ji Ann |   Corporate Service Executive |
+|   Ms Lim Tian Choo Ris |   Corporate Service Officer |
 |
 
 #### **Human Resource**
 
 |  |  |
 |---|---|
-|   Ms Chee Wei Fang |   Manager |
-|   Ms Ang Sherli |   Assistant Manager |
-|   Ms Poh Han Lin |   Assistant Executive  |
+|   Ms Chee Wei Fang |  Senior Manager |
+|   Ms Ang Sherli |  Manager |
+|   Ms Poh Han Lin |   Corporate Service Executive  |
 |
 
 
@@ -246,8 +248,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Sion Hwei Hoon |   Manager |
+|   Ms Sion Hwei Hoon Chloe | Senior Manager |
 |   Ms Tan Sihui Dorothy |  Assistant Manager |
+|   Ms Susan Cheong Sook Cheng | Senior Executive |
 |   Ms Liout Cheng En |   Executive |
 |
 
@@ -255,12 +258,13 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Mr Allan Patrick Uy |   College Counsellor |
-|   Mr Christopher Andrew West |   College Counsellor |
-|   Ms Jade Lee Ye Kee |   Pastoral Counsellor |
+|   Mr Allan Patrick Uy |   Senior College Counsellor |
+|   Mr Christopher Andrew West | Senior College Counsellor |
+|   Ms Lee Ye Kee Jade |   Principal Pastoral Counsellor |
 |   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
 |   Ms Chua Shuyi Sarah Elizabeth |   Pastoral Counsellor |
-|   Ms Lim Siok Hwa Jenny  |   Assistant Executive |
+|   Mrs Lim Siok Hwa Jenny  |  Corporate Service Officer |
+|   Dr Piriya d/o Sasajala  |  Senior Education &amp; Career Guidance Counsellor |
 |
 
 #### **Boarding**
@@ -269,7 +273,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 | &nbsp; Mr Wong Chee Khiam | &nbsp; Manager (Boarding Operations) |
 | &nbsp; Mr Joseph Giri Sri Krishnan | &nbsp; Boarding Master |
-| &nbsp;&nbsp;Ms Susan Cheong Sook Cheng | &nbsp; Senior Executive |
 | &nbsp;&nbsp;Ms Shahira Bte Amat Amin | &nbsp; Assistant Executive |
 | &nbsp; Mrs Sheela Peranandam | &nbsp;Assistant Executive  |
 |
@@ -279,13 +282,14 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mr Teo Chun Siong Alan |   Deputy Director |
-|   Mr Ng Jin Guan |   Assistant Manager, Estate |
-|   Mr Chris Yap Chin Voon |   Senior Systems Analyst |
-|   Mr Tawfiq Sim Xin Wei |   Senior Systems Engineer |
-|   Mr Wang Anqiang |   Senior Systems Engineer |
-|   Mr Hay Yong Huat |   Principal Estate Officer |
-|   Mr Leong Chun Chiew Johnny |   Senior Estate Officer |
-|   Ms Norashikin Bte Abdul Rahim |   Estate Officer |
+|  Mr Ng Jin Guan Kevin |   Assistant Manager, Estate |
+|  Mr Yap Chin Voon Chris |   Senior Executive, IT |
+|   Mr Wong Anqiang Stefan |   Senior Executive, IT |
+|   Mr Sim Xin Wei Tawfiq |  Executive, IT  |
+|   Mr Hay Yong Huat David |   Principal Executive, Estate |
+|   Mr Leong Chun Chiew Johnny |   Executive, Estate |
+|   Ms Norashikin Bte Abdul Rahim |   Executive, Estate |
+|   Mr Ang Eng Kwang Alvin |  Corporate Service Officer, Estate  |
 |
 
 #### **NUS High School Library**
