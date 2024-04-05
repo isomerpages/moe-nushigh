@@ -21,6 +21,11 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * <a target="_blank" href="/files/Careers/el teacher 2024.pdf">English Language Teacher</a>
 * <a target="_blank" href="/files/Careers/Art_Teacher_2024.pdf">Art Teacher</a>
 
+#### **Non-Academic Position**
+
+* <a target="_blank" href="/files/Careers/Executive_HR_Revised.pdf">Executive, Human Resources</a>
+
+* <a target="_blank" href="/files/Careers/Senior_Executive_P_I.pdf">Senior Executive, Partnership &amp; Internationalization (P&amp;I)</a>
 
 Only shortlisted candidates will be notified. <br>
 Human Resource <br>
