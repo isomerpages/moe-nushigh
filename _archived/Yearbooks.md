@@ -1,6 +1,6 @@
 ---
 title: Yearbooks
-permalink: /students-and-parents/yearbooks/
+permalink: /students-and-parents/yearbooks-archived/
 description: ""
 variant: markdown
 ---
