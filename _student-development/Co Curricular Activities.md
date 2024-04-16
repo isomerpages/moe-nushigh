@@ -50,8 +50,8 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-					Journalism Club
-			</th>
+					<a target="_blank" href="https://nushpress.com/">Journalism Club</a><a>
+			</a></th>
 			<th style="width: 33%; text-align: center">
 				Media Club
 			</th>
@@ -63,7 +63,9 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic4.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://nushpress.com/">
+					<img src="/images/Student Development/CCA/ccapic4.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
 			<img src="/images/Student Development/CCA/ccapic5.png" style="max-width=100%; max-height=100%">
