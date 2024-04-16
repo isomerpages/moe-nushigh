@@ -53,10 +53,10 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 					<a target="_blank" href="https://nushpress.com/">Journalism Club</a><a>
 			</a></th>
 			<th style="width: 33%; text-align: center">
-				Media Club
+				<a target="_blank" href="https://www.instagram.com/nushmedia/">Media Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				Robotics Club
+				<a target="_blank" href="https://www.instagram.com/nush.robo/">Robotics Club</a>
 			</th>
 		</tr>
 	</thead>
@@ -68,10 +68,14 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic5.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nushmedia/">
+				<img src="/images/Student Development/CCA/ccapic5.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic6.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nush.robo/">
+				<img src="/images/Student Development/CCA/ccapic6.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 		</tr>
 	</tbody>
@@ -85,7 +89,7 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 			<th style="width: 33%; text-align: center">
 			</th>
 			<th style="width: 33%; text-align: center">
-					Youth Flying Club
+				<a target="_blank" href="https://www.instagram.com/nushyfc/">Youth Flying Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
 			</th>
@@ -96,7 +100,9 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 			<td>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic7.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nushyfc/">
+				<img src="/images/Student Development/CCA/ccapic7.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td>
 			</td>
@@ -106,31 +112,38 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 
 <br>
 
-#### **Performing Arts**
+
+#### **[Performing Arts](https://youtu.be/llm-vZhEDnA)**
 <table>
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-				Chinese Orchestra
+				<a target="_blank" href="https://www.youtube.com/@nushighchineseorchestra1659">Chinese Orchestra</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				High School Choir
+				<a target="_blank" href="https://www.instagram.com/nushchoir/">High School Choir</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				Dance Club
+				<a target="_blank" href="https://linktr.ee/NushDanceClub">Dance Club</a>
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic8.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://www.youtube.com/@nushighchineseorchestra1659">
+					<img src="/images/Student Development/CCA/ccapic8.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic9.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nushchoir/">
+				<img src="/images/Student Development/CCA/ccapic9.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic10.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://linktr.ee/NushDanceClub">
+				<img src="/images/Student Development/CCA/ccapic10.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 		</tr>
 	</tbody>
@@ -142,10 +155,10 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-				Drama Club
+				<a target="_blank" href="https://www.youtube.com/watch?v=XN4kh6ryROM">Drama Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				School Orchestra
+				<a target="_blank" href="https://www.youtube.com/watch?v=D1Gts8tf5pY">School Orchestra</a>
 			</th>
 			<th>
 			</th>
@@ -154,10 +167,14 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic11.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.youtube.com/watch?v=XN4kh6ryROM">
+				<img src="/images/Student Development/CCA/ccapic11.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic12.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.youtube.com/watch?v=D1Gts8tf5pY">
+				<img src="/images/Student Development/CCA/ccapic12.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td>
 			</td>
@@ -173,7 +190,7 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-				Badminton
+				<a target="_blank" href="https://oqg.nyc3.digitaloceanspaces.com/uploads/pdf/6597babe3151d.pdf">Badminton</a>
 			</th>
 			<th style="width: 33%; text-align: center">
 				Basketball
@@ -186,7 +203,9 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic13.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://oqg.nyc3.digitaloceanspaces.com/uploads/pdf/6597babe3151d.pdf">
+					<img src="/images/Student Development/CCA/ccapic13.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
 			<img src="/images/Student Development/CCA/ccapic14.png" style="max-width=100%; max-height=100%">
@@ -207,7 +226,7 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 				Netball
 			</th>
 			<th style="width: 33%; text-align: center">
-				Outdoor Adventure Club
+				<a target="_blank" href="https://www.instagram.com/nush.odac/">Outdoor Adventure Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
 				Table Tennis
@@ -220,7 +239,9 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 				<img src="/images/Student Development/CCA/ccapic16.png" style="max-width=100%; max-height=100%">
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic17.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nush.odac/">
+				<img src="/images/Student Development/CCA/ccapic17.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
 			<img src="/images/Student Development/CCA/ccapic18.png" style="max-width=100%; max-height=100%">
@@ -235,10 +256,10 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-				Tennis
+				<a target="_blank" href="https://www.instagram.com/nushtennis/">Tennis</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				Track &amp; Field
+				<a target="_blank" href="https://www.instagram.com/nushtrack">Track &amp; Field</a>
 			</th>
 			<th style="width: 33%; text-align: center">
 				Water Sports
@@ -248,10 +269,14 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic19.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://www.instagram.com/nushtennis/">
+					<img src="/images/Student Development/CCA/ccapic19.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic20.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nushtrack">
+				<img src="/images/Student Development/CCA/ccapic20.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
 			<img src="/images/Student Development/CCA/ccapic21.png" style="max-width=100%; max-height=100%">
@@ -268,26 +293,32 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-				NCC Land
+				<a target="_blank" href="https://www.instagram.com/nushncc/">NCC Land</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				Scouts
+				<a target="_blank" href="https://nushighedu-my.sharepoint.com/:p:/g/personal/nhschany_nushigh_edu_sg/EaDdC6yfkmFDjlhU8AZyjjUBvwHCOVvhfK2NDKC00Qar5w?e=IMXKbA">Scouts</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				St John Brigade
+				<a target="_blank" href="https://www.instagram.com/nushsjb/">St John Brigade</a>
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic22.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://www.instagram.com/nushncc/">
+					<img src="/images/Student Development/CCA/ccapic22.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic23.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://nushighedu-my.sharepoint.com/:p:/g/personal/nhschany_nushigh_edu_sg/EaDdC6yfkmFDjlhU8AZyjjUBvwHCOVvhfK2NDKC00Qar5w?e=IMXKbA">
+				<img src="/images/Student Development/CCA/ccapic23.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic24.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nushsjb/">
+				<img src="/images/Student Development/CCA/ccapic24.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 		</tr>
 	</tbody>
