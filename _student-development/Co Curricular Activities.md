@@ -16,10 +16,10 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 				<a target="_blank" href="https://linktr.ee/nushastro">Astronomy Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				Chess Club
+				<a target="_blank" href="https://www.instagram.com/nushblackknights/">Chess Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
-				Debate Club
+				<a target="_blank" href="https://www.instagram.com/nush.debate/">Debate Club</a>
 			</th>
 		</tr>
 	</thead>
@@ -31,10 +31,14 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic2.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://www.instagram.com/nushblackknights/">
+					<img src="/images/Student Development/CCA/ccapic2.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
-			<img src="/images/Student Development/CCA/ccapic3.png" style="max-width=100%; max-height=100%">
+			<a target="_blank" href="https://www.instagram.com/nush.debate/">
+				<img src="/images/Student Development/CCA/ccapic3.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 		</tr>
 	</tbody>
