@@ -6,7 +6,7 @@ variant: markdown
 ---
 CCA is considered a core but non-examinable module at NUS High School. It is compulsory for every student to participate in one school-based CCA from any of the 4 CCA categories: Clubs &amp; Societies, Performing Arts, Sports and Uniformed Groups.
 
-Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbsp;to take a look at our CCA e-Brochure for 2022, prepared for our Virtual CCA Fair!&nbsp;_(file takes a while to download)_
+Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbsp;to take a look at our CCA e-Brochure for 2024, prepared for our Virtual CCA Fair!&nbsp;_(file takes a while to download)_
 
 #### **Clubs &amp; Societies**
 <table>
