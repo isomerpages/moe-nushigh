@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /studying-at-nus-high/student-development/cca/
 description: ""
+variant: markdown
 ---
 CCA is considered a core but non-examinable module at NUS High School. It is compulsory for every student to participate in one school-based CCA from any of the 4 CCA categories: Clubs &amp; Societies, Performing Arts, Sports and Uniformed Groups.
 
@@ -12,7 +13,7 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-					Astronomy Club
+				<a target="_blank" href="https://linktr.ee/nushastro">Astronomy Club</a>
 			</th>
 			<th style="width: 33%; text-align: center">
 				Chess Club
@@ -25,7 +26,9 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				<img src="/images/Student Development/CCA/ccapic1.png" style="max-width=100%; max-height=100%">
+				<a target="_blank" href="https://linktr.ee/nushastro">
+					<img src="/images/Student Development/CCA/ccapic1.png" style="max-width=100%; max-height=100%">
+				</a>
 			</td>
 			<td style="text-align:center">
 			<img src="/images/Student Development/CCA/ccapic2.png" style="max-width=100%; max-height=100%">
