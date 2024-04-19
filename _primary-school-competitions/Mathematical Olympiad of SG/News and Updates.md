@@ -6,10 +6,10 @@ third_nav_title: Mathematical Olympiad of SG
 variant: tiptap
 ---
 <h4></h4>
-<p><strong><u>NMO∑ 2024 Latest Update</u></strong>
+<p><strong><u>NMO∑ 2024 Latest Update</u></strong> 
 <br>
 <br>Please take note that we will be extending the NMOS Registration deadline
-to <strong>26 Apr 2024 (Friday) 5pm.</strong>
+to <strong>26 Apr 2024 (Friday), 5pm.</strong> 
 <br>
 </p>
 <p><strong><u>NMO∑ 2024 Competition Details</u></strong>
