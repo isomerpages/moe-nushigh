@@ -2,6 +2,7 @@
 title: Humanitarian Education
 permalink: /studying-at-nus-high/student-development/humanitarian-education/
 description: ""
+variant: markdown
 ---
 This is NUS High’s 6-year programme designed to nurture dispositions of a Humanitarian through the Heart, Head and Hand approach. It aims to attune our students to the needs of our society, and to have a holistic understanding of the key challenges involved in community service as well as an appreciation of the stakeholders involved in this work. An outcome we strive for is to channel our students’ passion in Science, Technology, Engineering and Mathematics (STEM), towards collaborations and solutions for the betterment of the world.
 
@@ -29,7 +30,7 @@ In the lower years, structured activities are organised to expose our students t
 				Year 1<br>Family Bonding Day
 			</td>
 			<td style="text-align:center">
-			Year 2<br>Knowing our Community
+			Year 2<br>Activity Day with Seniors to encourage Active Ageing
 			</td>
 			<td style="text-align:center">
 			Year 3<br>Simulation Activity to<br> Empathise with Elderly
@@ -59,10 +60,11 @@ In the senior years, students are encouraged to initiate, plan and implement ser
 	<tbody>
 		<tr>
 			<td style="text-align:center"> 
-				 Humanitarian Education Project<br>Virtual Robotics Project
+				 Humanitarian Education Project
+				<br>Activities with Children to Support Learning for the Sciences
 			</td>
 			<td style="text-align:center">
-			Humanitarian Education Project<br>Virtual Intergenerational Activity
+			Humanitarian Education Project<br>Recreational Sports with Guests Workers
 			</td>
 			<td style="text-align:center">
 			Overseas Community<br>Involvement Projects
