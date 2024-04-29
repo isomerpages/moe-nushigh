@@ -15,11 +15,17 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
-* <a target="_blank" href="/files/Careers/CS_Teacher_2024.pdf">Mathematics/Computer Science Teacher
+* <a target="_blank" href="/files/Careers/Mathematics_Computer_Science_Teacher.pdf">Mathematics/Computer Science Teacher
 </a>
-* <a target="_blank" href="/files/Careers/History_Teacher_2024.pdf">History Teacher</a>
-* <a target="_blank" href="/files/Careers/el teacher 2024.pdf">English Language Teacher</a>
-* <a target="_blank" href="/files/Careers/Art_Teacher_2024.pdf">Art Teacher</a>
+* <a target="_blank" href="/files/Careers/History_Teacher.pdf">History Teacher</a>
+* <a target="_blank" href="/files/Careers/English_Language_Teacher.pdf">English Language Teacher</a>
+* <a target="_blank" href="/files/Careers/Art_Teacher.pdf">Art Teacher</a>
+* <a target="_blank" href="/files/Careers/Physics___Engineering_Teacher.pdf">Physics &amp; Engineering Teacher</a>
+* <a target="_blank" href="/files/Careers/Tamil_Language_Teacher.pdf">Tamil Language Teacher</a>
+* <a target="_blank" href="/files/Careers/Assistant_Head__Physics___Engineering.pdf">Assistant Head, Physics &amp; Engineering</a>
+* <a target="_blank" href="/files/Careers/Assistant_Head__Math_and_Statistics.pdf">Assistant Head, Math and Statistics </a>
+* <a target="_blank" href="/files/Careers/Head__Math_and_Statistics.pdf">Head, Math and Statistics</a>
+* <a target="_blank" href="/files/Careers/Head__Mother_Tongue___Foreign_Languages.pdf">Head, Mother Tongue &amp; Foreign Languages</a>
 
 #### **Non-Academic Position**
 
