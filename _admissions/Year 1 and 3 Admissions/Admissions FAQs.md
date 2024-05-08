@@ -12,7 +12,7 @@ For Year 1 admission in 2025, 100% of the places are offered via the DSA-Sec Exe
 
 If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2024 to the third day of release of PSLE results.
 
-For Year 3 admission in 2024, the registration is from 14 to 28 August 2023 at&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b).
+For Year 3 admission in 2025, the registration is from 14 to 28 August 2024 at&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b).
 
 ##### **2\. How old must an applicant be to qualify for admission?**
 
@@ -32,7 +32,7 @@ For Year 1 DSA-Sec applicants:<br>
 Before the Selection Camp: The details for submission of the portfolio including scanned copies of P4, P5 and P6 semester 1 school report books, achievements, competitions, awards and scholarships certificates will be announced after the Selection Tests. Only applicants who have been shortlisted for the DSA Selection Camp are required to do so.
 
 For Year 3 Admission applicants:<br>
-Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) &nbsp;by 28 August 2023. All Year 3 Admission applicants are required to do so.
+Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) &nbsp;by 28 August 2024. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
 From 1 to 14 Nov 2024: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) &nbsp;by 14 Nov 2024. All SIE applicants are required to do so.
@@ -56,7 +56,7 @@ No. We only have Mathematics and Science talent areas for DSA-Sec.
 
 Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 29 June 2024. The Selection Camp and Interview will be on the 13 and 23 July 2024 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. Thereafter, applicants who need to be further assessed will attend a Selection Interview.
 
-The Year 3 Admission Selection Tests will be on the 12 September 2023 and the Selection Interview will be on the 26 September 2023. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
+The Year 3 Admission Selection Tests will be on the 10 September 2024 and the Selection Interview will be on the 24 September 2024. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
 
 The SIE Interview will be between 4th&nbsp;and 6th&nbsp;day from the release of the PSLE results. Only shortlisted applicants will attend the SIE interview.
 
@@ -70,7 +70,7 @@ For Year 1 DSA-Sec applicants:<br>
 After the Selection Tests. Shortlisted applicants will be informed by 12 July 2024 for the Selection Camp. The Selection Camp will be held on 13 July 2024.
 
 For Year 3 Admission applicants:<br>
-After the Selection Tests. Shortlisted applicants will be informed by 25 September 2023 for the Selection Interview. The Selection Interview will be held on 26 September 2023.
+After the Selection Tests. Shortlisted applicants will be informed by 23 September 2024 for the Selection Interview. The Selection Interview will be held on 24 September 2024.
 
 For Year 1 SIE applicants:<br>
 Shortlisted applicants will be informed by the 3rd&nbsp;day from the release of the PSLE results.
@@ -98,7 +98,7 @@ Applicants who have registered but are unable to attend the selection because of
 
 For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by August 2024 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;
 
-For Year 3 Admission, successful applicants will be notified and given a Letter of Confirmed Offer via e-mail by mid October 2023.
+For Year 3 Admission, successful applicants will be notified and given a Letter of Confirmed Offer via e-mail by mid October 2024.
 
 For Year 1 SIE, successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) within the Secondary One Option Phase.
 
