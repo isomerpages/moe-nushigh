@@ -2,13 +2,14 @@
 title: Contact Us
 permalink: /our-dna/contact-us/
 description: ""
+variant: markdown
 ---
 ### **Address**<br>
 NUS High School of Mathematics and Science<br>
 20 Clementi Avenue 1<br>
 Singapore 129957
 
-<img src="/images/map.jpg" style="width:85%">
+<img src="/images/Contact Us/NUS_High_Map_080524.jpg" style="width:85%">
 
 
 ### **Contacts**
