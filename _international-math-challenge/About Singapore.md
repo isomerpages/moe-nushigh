@@ -33,7 +33,7 @@ SMRT journey planner can be seen at&nbsp;[http://journey.smrt.com.sg/](http://jo
 
 **_Mass Rapid Transit (MRT)_**<br>The air-conditioned passenger train service is the fastest way to get around the island. The lines comprise of the North-South line, the East-West line, the North-East line, the Circle line and the Downtown line. Trains operate at intervals of between two and a half minutes and eight minutes from 5:30 am until 12:30 am daily. Train fares are paid using the EZ-Link Card or a standard ticket sold at dispensing machines at every MRT station.
 
-The nearest MRT stations to NUS High School of Math &amp; Science is Clementi Station (EW23).
+The nearest MRT station to NUS High School of Math &amp; Science is Clementi Station (EW23).
 
 **_EZ-Link Card_**<br>
 The EZ-Link Card is a contactless smart card used to pay for MRT and bus fares. The card may be bought or revalued at any TransitLink Ticket Sales Office located in most MRT stations and bus interchanges. Each adult card is sold with a minimum value of S$10 plus a deposit fee of S$5.
