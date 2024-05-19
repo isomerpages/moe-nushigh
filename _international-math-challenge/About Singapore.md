@@ -16,7 +16,7 @@ Unity in diversity is the philosophy of this cosmopolitan city. Although geograp
 Singapore has a population of 5.54 million people, comprising Chinese, Malays, Indians and Eurasians and people of other descent. The original inhabitants were Malay fishermen, but after the arrival of Sir Stamford Raffles and the establishment of a British trading post, Singapore became a magnet for migrants and merchants. Seeking a better life for themselves and their families, they came from the southern provinces of China, Indonesia, India, Pakistan, Ceylon and the Middle East. Though inter-marriages have taken place over the years, each racial group within Singapore has retained its own cultural identity while developing as an integral part of Singapore community.
 
 **B) Language**<br>
-There are four official languages in Singapore: Malay, Mandarin, Tamil and English. English is the ofiicial language of business and administration, and is widely spoken and understood. Most Singaporeans are bilingual, conversing in both their mother tongue and English. Malay is the national language.
+There are four official languages in Singapore: Malay, Mandarin, Tamil and English. English is the official language of business and administration, and is widely spoken and understood. Most Singaporeans are bilingual, conversing in both their mother tongue and English. Malay is the national language.
 
 **C) Religion**<br>
 With its ethnic mix also comes its diverse set of religions. Singapore’s skyline boasts the distinctive minarets of mosques, spires of gothic cathedrals, intricate figurines of Hindu temple gods and distinctive roof architecture of Chinese temples. The main religions are Buddhism, Christianity, Hinduism, Judaism, Islam, Sikhism, Taoism
