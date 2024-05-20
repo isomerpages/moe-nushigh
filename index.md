@@ -19,9 +19,9 @@ sections:
           description: Join us!
           url: /careers
   - infopic:
-      title: Come, Join us at our Open House on 11th May 2024!
+      title: Year 1 Admissions
       button: click here for more details
-      url: /admissions/open-house/
+      url: https://www.nushigh.edu.sg/admissions/year-1-and-3-admissions/year-1-admissions/
       image: /images/Admission/OH24_banner.jpg
       alt: Image alt text
   - infopic:
