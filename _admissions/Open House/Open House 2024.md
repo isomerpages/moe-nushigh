@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admission/OH24_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_banner_post_open_house_after.jpg">
 </div>
 <h4><strong>Onsite Open House on 11 May 2024</strong></h4>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>11 May 2024, Saturday, 9 am – 3 pm!</strong>
