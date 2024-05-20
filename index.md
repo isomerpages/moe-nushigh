@@ -22,7 +22,7 @@ sections:
       title: Year 1 Admissions
       button: click here for more details
       url: https://www.nushigh.edu.sg/admissions/year-1-and-3-admissions/year-1-admissions/
-      image: /images/Admission/OH24_banner.jpg
+      image: /images/Web_banner_post_open_house_after.jpg
       alt: Image alt text
   - infopic:
       image: /images/Main Page/phi14x3.png
