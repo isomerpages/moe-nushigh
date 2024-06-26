@@ -8,7 +8,8 @@ third_nav_title: Results
 <h3><strong>Endeavour Awards</strong></h3>
 <h4><strong>Champion</strong></h4>
 <p>John Monash Science School</p>
-<p>Please click here for the champion team's report.</p>
+<p>Please click <a href="/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the champion team's report.</p>
 <h4><strong>Special Award</strong></h4>
 <p>Anglo-Chinese School (Independent)</p>
 <p>Pui Ching Middle School</p>
