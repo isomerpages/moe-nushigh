@@ -4,6 +4,7 @@ permalink: /news-and-events/international-and-national-events/sg-international-m
 description: ""
 variant: tiptap
 ---
-Please click [here](/files/challenge1.pdf) for the challenge problem. 
-
-Please click [here](/files/challenge2.pdf) for the champion team's report.
+<p>Please click <a href="/files/SIMC/SIMC_2024_Endeavour_Challenge.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the challenge problem.</p>
+<p>Please click <a href="/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the champion team's report.</p>
