@@ -5,33 +5,38 @@ variant: tiptap
 description: ""
 third_nav_title: Results
 ---
-<h3><strong>Senior Challenge</strong></h3>
+<h3><strong>Endeavour Awards</strong></h3>
 <h4><strong>Champion</strong></h4>
-<p>Korea Science Academy of KAIST (Korea) &lt;br&gt;</p>
-<p>Please click&amp;nbsp;[here](/files/kaistchampion.pdf)&amp;nbsp;for the
-champion team's report.</p>
+<p>John Monash Science School</p>
+<p>Please click here for the champion team's report.</p>
 <h4><strong>Special Award</strong></h4>
-<p>Korea Science Academy of KAIST (Korea)&lt;br&gt;</p>
-<p>Raffles Institution (Singapore)&lt;br&gt;</p>
-<p>River Valley High School (Singapore)</p>
+<p>Anglo-Chinese School (Independent)</p>
+<p>Pui Ching Middle School</p>
+<p>NUS High School of Mathematics and Science</p>
+<p>Philippine Science High School Main Campus</p>
 <h4><strong>Distinction Award</strong></h4>
-<p>Anglo-Chinese School (Independent) (Singapore)&lt;br&gt;</p>
-<p>Hwa Chong Institution (College) (Singapore)&lt;br&gt;</p>
-<p>Lyceum of Belarusian State University (Belarus)&lt;br&gt;</p>
-<p>NUS High School of Mathematics and Science (Singapore)&lt;br&gt;</p>
-<p>Pui Ching Middle School (Hong Kong)&lt;br&gt;</p>
-<p>Raffles Institution (Singapore)&lt;br&gt;</p>
-<p>River Valley High School (Singapore)&lt;br&gt;</p>
-<p>The High School Affiliated to Xi’an Jiaotong University (China)</p>
+<p>Anglo-Chinese School(Independent)</p>
+<p>Chung Ling High School Penang</p>
+<p>Fazekas Mihaly High School, Budapest .</p>
+<p>Korea Science Academy of KAIST</p>
+<p>National Junior College</p>
+<p>North Carolina School of Science and Mathematics</p>
+<p>NUS High School of Mathematics and Science</p>
+<p>Philippine Science High School Main Campus</p>
+<p>Pui Ching Middle School</p>
+<p>The High School Affiliated to Xi'an Jiaotong University</p>
 <h4><strong>Merit Award</strong></h4>
-<p>Alferov Lyceum Physical Technical High School (Russia)&lt;br&gt;</p>
-<p>Batory High School (Poland)&lt;br&gt;</p>
-<p>HUS High School for Gifted Students (Vietnam)&lt;br&gt;</p>
-<p>Mahidol Wittayanusorn School (Thailand)&lt;br&gt;</p>
-<p>National Junior College (Singapore)&lt;br&gt;</p>
-<p>Philippine Science High School Main Campus (Philippines)&lt;br&gt;</p>
-<p>Tokyo Tech High School of Science and Technology (Japan)&lt;br&gt;</p>
-<p>Yokohama Science Frontier High School (Japan)</p>
+<p>Alferov Physical Technical High School</p>
+<p>Anderson Serangoon Junior College</p>
+<p>Batory High School</p>
+<p>Dunman High School</p>
+<p>Eunoia Junior College</p>
+<p>Mahidol Wittayanusorn School (MWIT)</p>
+<p>Padma Seshadri Bala Bhavan Senior Secondary School, K.K.Nagar</p>
+<p>Ritsumeikan High School</p>
+<p>St. Joseph's Institution</p>
+<p>Temasek Junior College</p>
+<p></p>
 <h4><strong>Participation Award</strong></h4>
 <p>Aloisiuskolleg (Germany)&lt;br&gt;</p>
 <p>Anglo-Chinese Junior College (Singapore)&lt;br&gt;</p>
@@ -45,55 +50,22 @@ champion team's report.</p>
 <p>Millennia Institute (Singapore)&lt;br&gt;</p>
 <p>North Carolina School of Science and Mathematics (USA)&lt;br&gt;</p>
 <p>Padma Seshadri Bala Bhavan Senior Secondary School, K.K.Nagar (India)</p>
-<h3><strong>Junior Challenge</strong></h3>
-<h4><strong>High Distinction</strong></h4>
-<p>Batory High School (Poland)&lt;br&gt;</p>
-<p>Philippine Science High School Main Campus (Philippines)&lt;br&gt;</p>
-<p>School of Science and Technology, Singapore</p>
-<h4><strong>Special Award (Modelling)</strong></h4>
-<p>Commonwealth Secondary School (Singapore)&lt;br&gt;</p>
-<p>Peicai Secondary School (Singapore)</p>
-<h4><strong>Special Award (Report)</strong></h4>
-<p>Anglo-Chinese School (Independent) (Singapore)&lt;br&gt;</p>
-<p>Beatty Secondary School (Singapore)&lt;br&gt;</p>
-<p>Mathematical Grammar School (Serbia)&lt;br&gt;</p>
-<p>Methodist Girls’ School (Singapore)&lt;br&gt;</p>
-<p>Nanyang Girls’ High School (Singapore)&lt;br&gt;</p>
-<p>Raffles Girls’ Secondary School (Singapore)&lt;br&gt;</p>
-<p>SMJK Chung Ling, Pulau Pinang (Malaysia)</p>
-<h4><strong>Special Award (Report)</strong></h4>
-<p>Hwa Chong Institution (Singapore)&lt;br&gt;</p>
-<p>Nan Chiau High School (Singapore)</p>
-<h4><strong>Distinction Award</strong></h4>
-<p>Beatty Secondary School (Singapore)&lt;br&gt;</p>
-<p>Catholic High School (Singapore)&lt;br&gt;</p>
-<p>Hwa Chong Institution (Singapore)&lt;br&gt;</p>
-<p>Nan Chiau High School (Singapore)&lt;br&gt;</p>
-<p>Nanyang Girls' High School (Singapore)&lt;br&gt;</p>
-<p>Raffles Girls' Secondary School (Singapore)</p>
-<h4><strong>Merit Award</strong></h4>
-<p>Anglo-Chinese School (Independent) (Singapore) &lt;br&gt;</p>
-<p>Assumption English School (Singapore)&lt;br&gt;</p>
-<p>Camborne Science and International Academy (United Kingdom)&lt;br&gt;</p>
-<p>Commonwealth Secondary School (Singapore)&lt;br&gt;</p>
-<p>Dunearn Secondary School (Singapore)&lt;br&gt;</p>
-<p>Fuhua Secondary School (Singapore)&lt;br&gt;</p>
-<p>HUS High School for Gifted Students (Vietnam)&lt;br&gt;</p>
-<p>Maris Stella High School (Secondary) (Singapore) &lt;br&gt;</p>
-<p>Mathematical Grammar School (Serbia)&lt;br&gt;</p>
-<p>Methodist Girls' School (Singapore)&lt;br&gt;</p>
-<p>Ngee Ann Secondary School (Singapore)&lt;br&gt;</p>
-<p>Peicai Secondary School (Singapore)&lt;br&gt;</p>
-<p>River Valley High School (Singapore)&lt;br&gt;</p>
-<p>SMJK Chung Ling, Pulau Pinang (Malaysia)&lt;br&gt;</p>
-<p>Tanjong Katong Secondary School (Singapore)&lt;br&gt;</p>
-<p>Woodgrove Secondary School (Singapore)</p>
-<h4><strong>Participation Award</strong></h4>
-<p>CHIJ Katong Convent (Singapore)&lt;br&gt;</p>
-<p>Kranji Secondary School (Singapore)&lt;br&gt;</p>
-<p>National Gymnasium of Natural Sciences and Mathematics "Academician Lyubomir
-Chakalov" Sofia (Bulgaria)&lt;br&gt;</p>
-<p>Queenstown Secondary School (Singapore)&lt;br&gt;</p>
-<p>Tanjong Katong Girls' School (Singapore)&lt;br&gt;</p>
-<p>Yuhua Secondary School (Singapore)&lt;br&gt;</p>
+<h3><strong>Explore Awards</strong></h3>
+<h4><strong>Special Award</strong></h4>
+<p>Chung Cheng High School (Maln)</p>
+<p>Commonwealth Secondary School</p>
+<p>North Vista Secondary School, Team A (Not attending)</p>
+<p>Orchid Park Secondary School, Team B</p>
+<p>River Valley High School</p>
+<p>Anglo-Chinese School (Independent)</p>
+<p>Clementi Town Secondary School</p>
+<p>National Junior College</p>
+<p>School of Science &amp; Technology, Singapore, Team A</p>
+<p>School of Science &amp; Technology, Singapore, Team B</p>
+<p>Fuhua Secondary School</p>
+<p>Kuo Chuan Presbyterian Secondary School</p>
+<p>Nan Hua High School</p>
+<p>Raffles Girls' School Secondary</p>
+<p>Xinmin Sacondary School</p>
+<p></p>
 <p>Zhonghua Secondary School (Singapore)</p>
