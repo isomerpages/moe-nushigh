@@ -39,23 +39,23 @@ the champion team's report.</p>
 <p>Temasek Junior College</p>
 <p></p>
 <h4><strong>Participation Award</strong></h4>
-<p>Aloisiuskolleg (Germany)&lt;br&gt;</p>
-<p>Anglo-Chinese Junior College (Singapore)&lt;br&gt;</p>
-<p>Brookhouse School (Kenya)&lt;br&gt;</p>
-<p>Budhanilkantha School (Nepal)&lt;br&gt;</p>
-<p>Camborne Science and International Academy (United Kingdom)&lt;br&gt;</p>
-<p>Fazekas Mihály Elementary and Secondary Grammar School (Hungary)&lt;br&gt;</p>
-<p>John Monash Science School (Australia)&lt;br&gt;</p>
-<p>Maktab Sains Paduka Seri Begawan Sultan (Brunei)&lt;br&gt;</p>
-<p>Mathematical Grammar School (Serbia)&lt;br&gt;</p>
-<p>Millennia Institute (Singapore)&lt;br&gt;</p>
-<p>North Carolina School of Science and Mathematics (USA)&lt;br&gt;</p>
+<p>Aloisiuskolleg (Germany)</p>
+<p>Anglo-Chinese Junior College (Singapore)</p>
+<p>Brookhouse School (Kenya)</p>
+<p>Budhanilkantha School (Nepal)</p>
+<p>Camborne Science and International Academy (United Kingdom)</p>
+<p>Fazekas Mihály Elementary and Secondary Grammar School (Hungary)</p>
+<p>John Monash Science School (Australia)</p>
+<p>Maktab Sains Paduka Seri Begawan Sultan (Brunei)</p>
+<p>Mathematical Grammar School (Serbia)</p>
+<p>Millennia Institute (Singapore)</p>
+<p>North Carolina School of Science and Mathematics (USA)</p>
 <p>Padma Seshadri Bala Bhavan Senior Secondary School, K.K.Nagar (India)</p>
 <h3><strong>Explore Awards</strong></h3>
 <h4><strong>Special Award</strong></h4>
 <p>Chung Cheng High School (Maln)</p>
 <p>Commonwealth Secondary School</p>
-<p>North Vista Secondary School, Team A (Not attending)</p>
+<p>North Vista Secondary School, Team A</p>
 <p>Orchid Park Secondary School, Team B</p>
 <p>River Valley High School</p>
 <p>Anglo-Chinese School (Independent)</p>
@@ -68,5 +68,4 @@ the champion team's report.</p>
 <p>Nan Hua High School</p>
 <p>Raffles Girls' School Secondary</p>
 <p>Xinmin Sacondary School</p>
-<p></p>
-<p>Zhonghua Secondary School (Singapore)</p>
+<p>Zhonghua Secondary School</p>
