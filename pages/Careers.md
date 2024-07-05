@@ -26,8 +26,8 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * <a target="_blank" href="/files/Careers/Assistant_Head__Math_and_Statistics.pdf">Assistant Head, Math and Statistics </a>
 * <a target="_blank" href="/files/Careers/Head__Math_and_Statistics.pdf">Head, Math and Statistics</a>
 
-
-
+#### **Non-Academic Position**
+*  [Assistant Executive, Outreach (Temporary)](/files/Careers/assistant_executive_outreach_temp.pdf)
 
 Only shortlisted candidates will be notified. <br>
 Human Resource <br>
