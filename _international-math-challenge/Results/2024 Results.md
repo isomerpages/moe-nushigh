@@ -17,7 +17,7 @@ the champion team's report.</p>
 <p>Philippine Science High School Main Campus</p>
 <h4><strong>Distinction Award</strong></h4>
 <p>Anglo-Chinese School(Independent)</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Anglo_Chinese_School__Independent_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Chung Ling High School Penang</p>
 <p>Fazekas Mihaly High School, Budapest .</p>
@@ -56,42 +56,42 @@ the poster</p>
 <h3><strong>Explore Awards</strong></h3>
 <h4><strong>Special Award</strong></h4>
 <p>Chung Cheng High School (Maln)</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Chung_Cheng_High_School__Main_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Commonwealth Secondary School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Commonwealth_Secondary_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>North Vista Secondary School, Team A</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/North_Vista_Secondary_School_Team_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Orchid Park Secondary School, Team B</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Orchid_Park_Secondary_School_Team_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>River Valley High School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/River_Valley_High_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Anglo-Chinese School (Independent)</p>
 <p>Clementi Town Secondary School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Clementi_Town_Secondary_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>National Junior College</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/National_Junior_College.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>School of Science &amp; Technology, Singapore, Team A</p>
 <p>School of Science &amp; Technology, Singapore, Team B</p>
 <p>Fuhua Secondary School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Fuhua_Secondary_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Kuo Chuan Presbyterian Secondary School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Kuo_Chuan_Presbyterian_Secondary_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Nan Hua High School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Nan_Hua_High_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Raffles Girls' School Secondary</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Raffles_Girls_School_Secondary.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Xinmin Sacondary School</p>
-<p>Please click <a href="https://cms.isomer.gov.sg/files/SIMC/SIMC2_0_Champion_Report_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/SIMC/SIMC 2024 Poster/Xinmin_Secondary_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the poster</p>
 <p>Zhonghua Secondary School</p>
