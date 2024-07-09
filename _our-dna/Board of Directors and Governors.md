@@ -2,6 +2,7 @@
 title: Board of Directors and Governors
 permalink: /our-dna/board-of-directors-and-governors/
 description: ""
+variant: markdown
 ---
 Parent Organisation:
 <br>
@@ -91,10 +92,10 @@ Parent Organisation:
 				<img src="/images/Our DNA/BODG/ms chang.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/ms jazz chong.png" style="max-width: 100%; max-height:100%">
+					<img src="/images/Our DNA/BODG/DSO_CEO.jpg" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof chong yap seng.png" style="max-width: 100%; max-heigth: 100%">
+					<img src="/images/Our DNA/BODG/ms jazz chong.png" style="max-width: 100%; max-height:100%">
 			</th>
 		</tr>
 	</thead>
@@ -106,15 +107,15 @@ Parent Organisation:
 				<br>Prime Minister's Office
 			</td>
 			<td style="text-align:center"> 
+				Mr Cheong Chee Hoo
+				<br>Chief Executive Officer
+				<br>DSO National Laboratories
+			</td>
+			<td style="text-align:center"> 
 				Ms Chong Chin Fong, Jazz
 				<br>Owner
 				<br>Ode to Art
-			</td>
-			<td style="text-align:center">
-				Professor Chong Yap Seng
-				<br>Dean, Yong Loo Lin School of Medicine
-				<br>National University of Singapore and Senior Consultant
-			</td>
+			</td>	
 		</tr>
 	</tbody>
 </table>
@@ -123,18 +124,23 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/prof chong yap seng.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/prof chua kee chaing.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
 					<img src="/images/Our DNA/BODG/prof er meng hwa.png" style="max-width: 100%; max-height:100%">
 			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof ng huck hui.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Professor Chong Yap Seng
+				<br>Dean, Yong Loo Lin School of Medicine
+				<br>National University of Singapore and Senior Consultant
+			</td>
 			<td style="text-align:center">
 				Professor Chua Kee Chaing
 				<br>President
@@ -145,11 +151,6 @@ Parent Organisation:
 				<br>Emeritus Professor, School of Electrical &amp; Electronic Engineering
 				<br>Nanyang Technological University
 			</td>
-			<td style="text-align:center">
-				Professor Ng Huck Hui
-				<br>Assistant Chief Executive
-				<br>Biomedical Research Council, A*STAR
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -158,18 +159,23 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/prof ng huck hui.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/mr quek gim pew.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
 					<img src="/images/Our DNA/BODG/dr rosemary.png" style="max-width: 100%; max-height:100%">
 			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr shailesh.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Professor Ng Huck Hui
+				<br>Assistant Chief Executive
+				<br>Biomedical Research Council, A*STAR
+			</td>
 			<td style="text-align:center">
 				Mr Quek Gim Pew
 				<br>Senior Research &amp; Development Consultant
@@ -180,11 +186,6 @@ Parent Organisation:
 				<br>Chief Executive Officer
 				<br>CoV Biotechnology
 			</td>
-			<td style="text-align:center">
-				Mr Shailesh Anand Ganu
-				<br>Managing Director
-				<br>Willis Towers Watson
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -193,18 +194,23 @@ Parent Organisation:
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
+				<img src="/images/Our DNA/BODG/mr shailesh.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
 				<img src="/images/Our DNA/BODG/mr sivanesan.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%; align: center">
 					<img src="/images/Our DNA/BODG/ms soh siew choo.png" style="max-width: 100%; max-height:100%">
 			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/ms theodora tan.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center">
+				Mr Shailesh Anand Ganu
+				<br>Managing Director
+				<br>Willis Towers Watson
+			</td>
 			<td style="text-align:center">
 				Mr S Sivanesan
 				<br>Senior Partner
@@ -215,10 +221,32 @@ Parent Organisation:
 				<br>Chief Information Officer
 				<br>MetLife Asia 
 			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<thead>
+		<tr>
+			<th style="width: 33%; align: center">
+			</th>
+			<th style="width: 33%; align: center">
+					<img src="/images/Our DNA/BODG/ms theodora tan.png" style="max-width: 100%; max-heigth: 100%">
+			</th>
+			<th style="width: 33%; align: center">
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center">
+			</td>
 			<td style="text-align:center">
 				Ms Theodora Tan
 				<br>Zonal Director Schools West School Division
 				<br>Ministry of Education
+			</td>
+			<td style="text-align:center">
 			</td>
 		</tr>
 	</tbody>
