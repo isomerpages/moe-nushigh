@@ -32,7 +32,7 @@ For Year 1 DSA-Sec applicants:<br>
 Before the Selection Camp: The details for submission of the portfolio including scanned copies of P4, P5 and P6 semester 1 school report books, achievements, competitions, awards and scholarships certificates will be announced after the Selection Tests. Only applicants who have been shortlisted for the DSA Selection Camp are required to do so.
 
 For Year 3 Admission applicants:<br>
-Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b) &nbsp;by 28 August 2024. All Year 3 Admission applicants are required to do so.
+Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission) &nbsp;by 28 August 2024. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
 From 1 to 14 Nov 2024: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) &nbsp;by 14 Nov 2024. All SIE applicants are required to do so.
