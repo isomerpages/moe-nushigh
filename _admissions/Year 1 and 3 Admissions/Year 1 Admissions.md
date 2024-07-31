@@ -81,7 +81,7 @@ Interested applicants are strongly advised to indicate their interest online and
 
 _\* Important points to note when register at NUS High School Online Portal:_<br>
 1\.  _SIE will open if there is vacancy available on the day of release of PSLE results._<br>
-2\.  _If PSLE results are released on 22 Nov 2024 (Wednesday), 3rd day from release of PSLE results will be 24 Nov 2024._
+2\.  _If PSLE results are released on 20 Nov 2024 (Wednesday), 3rd day from release of PSLE results will be 22 Nov 2024._
 
 #### **Summary of Application for Supplementary Intake Exercise (SIE)**
 1\. Indication of Interest at [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form).
