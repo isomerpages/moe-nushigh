@@ -26,12 +26,12 @@ For admission to Year 3 at NUS High School, local mainstream secondary school ap
 Applicants who were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) and applicants who are currently enrolled in IP track / IP school are not eligible to apply. These students are expected to honour their commitment to their posted school.
 
 #### **Application Process**
-1\. Submit application at [Year 3 Admission Online Application Form](https://go.gov.sg/2023nushy3admissionex) 
+1\. Submit application at [[Year 3 Admission Online Application Form](https://go.gov.sg/nush-ay2025-y3-admission)Year 3 Admission Online Application Form](https://go.gov.sg/2023nushy3admissionex) 
 
 *  The online application form will be open from **14 to 28 August 2024**.
 *   Pay the administrative fee of $70 through the online application form. If you require waiver of fees due to financial constraints, please indicate during application.
 
-2\. Submit portfolio at [Year 3 Admission Online Application Form](https://go.gov.sg/2023nushy3admissionex) 
+2\. Submit portfolio at [Year 3 Admission Online Application Form](https://go.gov.sg/nush-ay2025-y3-admission) 
 *   Submit past 3 years school results and any supporting documents by **28 August 2024**. 
 
 3\. Attend the Selection at NUS High School
