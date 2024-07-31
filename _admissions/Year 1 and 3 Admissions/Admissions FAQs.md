@@ -12,7 +12,7 @@ For Year 1 admission in 2025, 100% of the places are offered via the DSA-Sec Exe
 
 If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2024 to the third day of release of PSLE results.
 
-For Year 3 admission in 2025, the registration is from 14 to 28 August 2024 at&nbsp;[Year 3 Admission Online Application Portal](https://form.gov.sg/61b07c1cfef0530013c85b9b).
+For Year 3 admission in 2025, the registration is from 14 to 28 August 2024 at&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission).
 
 ##### **2\. How old must an applicant be to qualify for admission?**
 
