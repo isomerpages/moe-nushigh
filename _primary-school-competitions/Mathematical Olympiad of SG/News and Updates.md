@@ -6,7 +6,7 @@ third_nav_title: Mathematical Olympiad of SG
 variant: tiptap
 ---
 <h4></h4>
-<p><strong><u>NMO∑ 2024 Latest Update</u></strong> 
+<p><strong><u>NMO∑ 2024 Latest Update</u></strong>
 </p>
 <p>
 <br>The results for NMOS 2024 will be emailed to the respective school NMOS
