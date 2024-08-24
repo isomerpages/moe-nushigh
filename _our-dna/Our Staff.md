@@ -144,15 +144,15 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Li Liangzi | Head, Mother Tongue &amp; Foreign Languages |
 |   Mr Ho Kok Kiat  | Assistant Head, Mother Tongue &amp; Foreign Languages |
 |   Ms Lim Puay See | Assistant Head, Mother Tongue &amp; Foreign Languages |
-|   Mr Toh Chen Yeong | Teacher |
-|   Mr Wu Jiong | Teacher |
-|   Ms Dong Yanqin  | Teacher |
-|   Mr Xie Chuanling | Teacher |
 |   Mr Chua Chin Haw | Teacher |
+|   Ms Dong Yanqin  | Teacher |
 |   Mr Han Xuanjun | Teacher |
 |   Ms Song Haiyan |  Teacher |
-|   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
+|   Mr Toh Chen Yeong | Teacher |
+|   Mr Wu Jiong | Teacher |
+|   Mr Xie Chuanling | Teacher |
 |   Mdm Rohaida Bte Ismail | Teacher (Malay Language) |
+|   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
 |   Mrs Elizabeth Mariko Nishida Gomez | Teacher (Japanese Language) |
 |
 
@@ -164,15 +164,15 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Caroline Gordon | Assistant Head, English Language &amp; Literature |
 |   Ms Koh Mei Yin Genette | Assistant Head, English Language &amp; Literature |
 |   Ms Lau Wen Li Sofia | Head School Staff Developer |
-|   Ms Koo Ivy | Dean, Junior High |
 |   Ms Chan Yun-Zhi Eunice | Dean, Senior High |
+|   Ms Koo Ivy | Dean, Junior High |
 |   Mdm Beji Dass | Lead Teacher |
-|   Ms Vincent Esther Xueming  | Teacher |
 |   Dr Eric Francis Tinsay Valles  | Teacher |
-|   Mr Lim Chong Shen | Teacher |
 |   Mdm Asrina Binte Sani | Teacher |
 |   Mr Chin Kiane Yun Dustin | Teacher |
 |   Ms Chin Lee Pyin Melissa | Teacher |
+|   Mr Lim Chong Shen | Teacher |
+|   Ms Vincent Esther Xueming  | Teacher |
 |   Mr Wong Sung Peng Daniel | Teacher  |
 |
 
@@ -181,9 +181,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Dr Wong Eng Cheng Emilia |   Head, Music &amp; Art |
-|   Ms Chua Ngeah Sian |   Teacher (Music) |
-|   Ms Koh Wun Be Geneva |   Teacher (Art) |
 |   Mr Syed Mahdar Bin Syed Othman |   Art Specialist |
+|   Ms Koh Wun Be Geneva |   Teacher (Art) |
+|   Ms Chua Ngeah Sian |   Teacher (Music) |
 |
 
 #### **Physical Education**
@@ -191,11 +191,11 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Loh Lai Kiang Angela |   Head, Physical Education &amp; CCA |
+|   Mr Chee Kok Liang David  |   Teacher |
 |   Mr Fan Kai Ming |   Teacher  |
+|   Mdm Kong Seow Yoke Annie  |   Teacher |
 |   Mr Loke Kok Fei Keefe |  Teacher |
 |   Mr Norman Dominique Tse Y-Yin |   Teacher |
-|   Mdm Kong Seow Yoke Annie  |   Teacher |
-|   Mr Chee Kok Liang David  |   Teacher |
 |
 
 #### **Research, Innovation &amp; Enterprise**
