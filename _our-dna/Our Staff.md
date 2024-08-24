@@ -35,7 +35,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Maury Julien Jean Pierre | Assistant Head, Research, Innovation and Enterprise |
 |   Dr Soh Shu Fang Flora | Teacher |
 |   Ms Zhong Jingyi | Assistant Head, Chemistry |
-|   Mdm Ng Yu Rui | Assistant Head, Student Wellbeing |
+|   Mdm Ng Yu Rui | Assistant Head, Student Well Being |
 |   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
 |   Mr Tee Tiam Siong Jonathan  | Teacher  |
 |   Mr Choo Yi En Theodore  | Teacher  |
@@ -50,7 +50,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Mr Poh Boon Hor |   Head, Physics &amp; Engineering |
 |   Ms Lim Jia Hui |   Assistant Head, Physics &amp; Engineering |
-|   Mrs Oon-Teo Geok Hon Sheryl |   Acting Head CCE |
+|   Mrs Oon-Teo Geok Hon Sheryl |   Head, Character &amp; Citizenship Education |
 |   Mr Tan Soon Kee @ Hariz Tan |   Senior Teacher |
 |   Mr Soh Kwan Seng Clifton |   Senior Teacher |
 |   Dr Bernard Ricardo Widjaja  |   Senior Consultant |
@@ -190,7 +190,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Loh Lai Kiang Angela |   Head, Physical Education |
+|   Ms Loh Lai Kiang Angela |   Head, Physical Education &amp; CCA |
 |   Mr Fan Kai Ming |   Teacher  |
 |   Mr Loke Kok Fei Keefe |  Teacher |
 |   Mr Norman Dominique Tse Y-Yin |   Teacher |
@@ -211,7 +211,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Phoon Chee Haw |   Teacher |
 |
 
-#### **Student Affairs / Admissions &amp; Recruitment**
+#### **Admissions &amp; Recruitment / Student Affairs**
 
 |  |  |
 |---|---|
