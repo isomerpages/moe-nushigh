@@ -34,11 +34,11 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Maury Julien Jean Pierre | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Yeo Shyh Yuan Don | Lead Teacher |
 |   Dr Li Wei | Senior Consultant |
-|   Mr Lee Kim Hun | Teacher |
-|   Mrs Khoo-Teo Yew Mei Grace | Teacher |
 |   Dr Soh Shu Fang Flora | Teacher |
-|   Mr Tee Tiam Siong Jonathan  | Teacher  |
 |   Mr Choo Yi En Theodore  | Teacher  |
+|   Mrs Khoo-Teo Yew Mei Grace | Teacher |
+|   Mr Lee Kim Hun | Teacher |
+|   Mr Tee Tiam Siong Jonathan  | Teacher  |
 |   Ms Pek Lay Pheng | Senior Laboratory Specialist |
 |   Ms Loo Koh Lee | Laboratory Specialist |
 |   Mr Lew Andrew Delfin Reyes | Laboratory Officer |
@@ -51,15 +51,15 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Poh Boon Hor |   Head, Physics &amp; Engineering |
 |   Ms Lim Jia Hui |   Assistant Head, Physics &amp; Engineering |
 |   Mrs Oon-Teo Geok Hon Sheryl |   Head, Character &amp; Citizenship Education |
-|   Mr Tan Soon Kee @ Hariz Tan |   Senior Teacher |
+|   Mr Tan Guan Seng |    Assistant Head, Discipline |
 |   Mr Soh Kwan Seng Clifton |   Senior Teacher |
+|   Mr Tan Soon Kee @ Hariz Tan |   Senior Teacher |
 |   Dr Bernard Ricardo Widjaja  |   Senior Consultant |
 |   Mr Lim Yeow Heng |   Teacher |
 |   Dr Ng Tiong Eng |   Teacher |
 |   Mr Yuen Xiang Hao |   Teacher |
 |   Ms Lim Li Chen |   Teacher |
 |   Ms Yenny Wijaya |   Teacher |
-|   Mr Tan Guan Seng |    Assistant Head, Discipline |
 |   Mr Yeem Kai Ean Silas |   Teacher   |
 |   Mr Seow Yongli |   Teacher   |
 |   Mr Tan Jit Bin Joseph |   Senior Laboratory Specialist |
