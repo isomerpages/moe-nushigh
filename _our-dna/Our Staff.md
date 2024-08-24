@@ -206,9 +206,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Maury Julien Jean Pierre |   Assistant Head, Research, Innovation &amp; Enterprise |
 |   Mr Chai Ming Huang Royce |   Assistant Head, Research, Innovation &amp; Enterprise |
 |   Mr Lim Teck Choow |   Assistant Head, Research, Innovation &amp; Enterprise |
-|   Mr Leong Kin Chong |   Senior Laboratory Specialist |
 |   Mr Andre Jusuf |   Teacher |
 |   Mr Phoon Chee Haw |   Teacher |
+|   Mr Leong Kin Chong |   Senior Laboratory Specialist |
 |
 
 #### **Admissions &amp; Recruitment / Student Affairs**
