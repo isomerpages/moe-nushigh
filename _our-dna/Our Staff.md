@@ -55,16 +55,16 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Soh Kwan Seng Clifton |   Senior Teacher |
 |   Mr Tan Soon Kee @ Hariz Tan |   Senior Teacher |
 |   Dr Bernard Ricardo Widjaja  |   Senior Consultant |
-|   Mr Lim Yeow Heng |   Teacher |
-|   Dr Ng Tiong Eng |   Teacher |
-|   Mr Yuen Xiang Hao |   Teacher |
 |   Ms Lim Li Chen |   Teacher |
-|   Ms Yenny Wijaya |   Teacher |
-|   Mr Yeem Kai Ean Silas |   Teacher   |
+|   Dr Ng Tiong Eng |   Teacher |
+|   Mr Lim Yeow Heng |   Teacher |
 |   Mr Seow Yongli |   Teacher   |
+|   Mr Yeem Kai Ean Silas |   Teacher   |
+|   Ms Yenny Wijaya |   Teacher |
+|   Mr Yuen Xiang Hao |   Teacher |
 |   Mr Tan Jit Bin Joseph |   Senior Laboratory Specialist |
-|   Mr Riduwan Bin Gafoor |   Laboratory Specialist |
 |   Mr Lim Beng Chong Desmond |   Laboratory Specialist |
+|   Mr Riduwan Bin Gafoor |   Laboratory Specialist |
 |
 
 #### **Biology**
