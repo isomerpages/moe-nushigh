@@ -72,17 +72,17 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Dr Tang Hock Chun |   Head, Biology |
-|   Ms Ng Oon Hui Phebee |   Assistant Head, Biology |
 |   Dr Low Kai Leng |   Assistant Head, Biology |
+|   Ms Ng Oon Hui Phebee |   Assistant Head, Biology |
 |   Ms Chan Jing-Ning Ruth |   Head,  Curriculum<br><br>Head,  Assessment |
 |   Dr Huang Sinong |   Head, Humanitarian Education |
-|   Mdm Fong Kit Ching |   Senior Teacher |
-|   Ms Lim Suat Fong Valerie |   Assistant Dean, Junior High |
-|   Dr Seoh Kah Huat Robin |   Teacher |
-|   Ms Woo Yok Lin Verlyn |   Teacher |
-|   Mr Lee Siak Cheong |   Teacher |
 |   Mrs Fernandez Kalpana |   Assistant Dean, Senior High |
+|   Ms Lim Suat Fong Valerie |   Assistant Dean, Junior High |
+|   Mdm Fong Kit Ching |   Senior Teacher |
+|   Dr Seoh Kah Huat Robin |   Teacher |
+|   Mr Lee Siak Cheong |   Teacher |
 |   Ms Renata Triani |   Teacher |
+|   Ms Woo Yok Lin Verlyn |   Teacher |
 |   Ms Cheong Yoke Fun |   Laboratory Specialist |
 |   Ms Ameryn Dahnia Binte Mohamad Zaili  |  Laboratory Officer |
 |   Ms Goh Hui Qi Rachel |   Laboratory Officer |
@@ -93,24 +93,24 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mr Chen Hong Ming | Head, Mathematics &amp; Statistics |
-|   Ms Lee Sheau Huey  | Teacher  |
 |   Mr Goh Shu Liang | Assistant Head, Mathematics &amp; Statistics |
-|   Mr Tan Boon Keong | Teacher |
+|   Mr Low Chin Han | Acting Assistant Head, Mathematics &amp; Statistics |
 |   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
-|   Dr Lee Chan Lye | Senior Consultant |
-|   Mr Teoh Yeow Hwee Joel | Senior Teacher |
-|   Mr Low Chin Han | Acting Assistant Head, Mathematics &amp; Statistics |
-|   Mr Wang Haibin | Senior Consultant |
-|   Ms Seow Chwee Loon Joyce | Senior Teacher |
 |   Ms Jiang Zewei Vivian | Assistant Head, ICT |
+|   Ms Seow Chwee Loon Joyce | Senior Teacher |
+|   Mr Teoh Yeow Hwee Joel | Senior Teacher |
+|   Dr Lee Chan Lye | Senior Consultant |
+|   Mr Wang Haibin | Senior Consultant |
 |   Dr Lina Bte Jalal | Teacher |
-|   Mr Ku Ching Ming | Teacher |
-|   Mr Chia Vui Leong | Teacher |
-|   Mr Tan Rui Feng | Teacher |
-|   Mrs Liu-Ye Xiajuan | Teacher |
 |   Mr Chan Yu Ming | Teacher |
+|   Mr Chia Vui Leong | Teacher |
 |   Mr Chua Jia He Herman (Cai Jiahe)  | Teacher  |
+|   Mr Ku Ching Ming | Teacher |
+|   Ms Lee Sheau Huey  | Teacher  |
+|   Mrs Liu-Ye Xiajuan | Teacher |
+|   Mr Tan Boon Keong | Teacher |
+|   Mr Tan Rui Feng | Teacher |
 |   Mr Yeo Heu Ming Jeremy  |  Teacher|
 |
 
@@ -120,8 +120,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Ms Chew Shuhui Phylliscia  |   Head, Computer Science<br><br>Head, ICT |
 |   Mr Ng Chee Loong |   Head Talent Development &amp; College Counselling |
-|   Mr Chua Eng Siong Claude |   Teacher |
 |   Mr Li Da |   Senior Consultant |
+|   Mr Chua Eng Siong Claude |   Teacher |
 |
 
 #### **Humanities**
