@@ -16,8 +16,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Ms Soh Lai Leng Magdalen |   Principal |
 |   Mr Goh Hock Leong |   Deputy Principal (Academic) |
-|   Ms Sharon Khoo |   Deputy Principal (Student Development) |
-|   Mrs Doreen Gan |   Deputy Principal (Administration) |
+|   Ms Khoo Lee Yong Sharon |   Deputy Principal (Student Development) |
+|   Mrs Gan-Lai Soo Hong Doreen |   Deputy Principal (Administration) |
 |
 
 #### **Chemistry**
