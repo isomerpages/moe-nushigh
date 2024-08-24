@@ -216,7 +216,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Van Li Hui |   Senior Manager, Student Affairs <br><br> Senior Manager, Admissions &amp; Recruitment |
-| Ms Goh Xin Ni Annie | Assistant Manager, Admissions &amp; Recruitment|
+|   Ms Goh Xin Ni Annie | Assistant Manager, Admissions &amp; Recruitment|
 |   Ms Mazni Bte Abdullah  |   Senior Executive, Admissions &amp; Recruitment |
 |   Mdm Celestine d/o Arlando |   Acting Assistant Manager |
 |   Ms Ang Sherna |   Senior Executive, Student Affairs |
@@ -259,10 +259,10 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Allan Patrick Uy |   Senior College Counsellor |
 |   Mr Christopher Andrew West | Senior College Counsellor |
 |   Ms Lee Ye Kee Jade |   Principal Pastoral Counsellor |
-|   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
 |   Ms Chua Shuyi Sarah Elizabeth |   Pastoral Counsellor |
-|   Mrs Lim Siok Hwa Jenny  |  Corporate Service Officer |
+|   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
 |   Dr Piriya d/o Sasajala  |  Senior Education &amp; Career Guidance Counsellor |
+|   Mrs Lim Siok Hwa Jenny  |  Corporate Service Officer |
 |
 
 #### **Boarding**
@@ -281,13 +281,13 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Mr Teo Chun Siong Alan |   Deputy Director |
 |  Mr Ng Jin Guan Kevin |   Assistant Manager, Estate |
-|  Mr Yap Chin Voon Chris |   Senior Executive, IT |
-|   Mr Wong Anqiang Stefan |   Senior Executive, IT |
-|   Mr Sim Xin Wei Tawfiq |  Executive, IT  |
 |   Mr Hay Yong Huat David |   Principal Executive, Estate |
 |   Mr Leong Chun Chiew Johnny |   Executive, Estate |
 |   Ms Norashikin Bte Abdul Rahim |   Executive, Estate |
 |   Mr Ang Eng Kwang Alvin |  Corporate Service Officer, Estate  |
+|   Mr Wong Anqiang Stefan |   Senior Executive, IT |
+|  Mr Yap Chin Voon Chris |   Senior Executive, IT |
+|   Mr Sim Xin Wei Tawfiq |  Executive, IT  |
 |
 
 #### **Outreach**
