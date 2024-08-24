@@ -129,11 +129,11 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mrs Yeo-Lim Ing Chieh Rebekah |   Head, Humanities |
-|   Ms Chua Bann |   Teacher (History) |
 |   Mr Kwee Yeow Teck Alex |   Assistant Head, Humanities |
+|   Mdm Tong Boon Yee |   Teacher (Economics) |
 |   Ms Chen Zhaoyan Madeline |   Teacher (Geography) |
 |   Ms Poh Irene  |   Teacher (Geography) |
-|   Mdm Tong Boon Yee |   Teacher (Economics) |
+|   Ms Chua Bann |   Teacher (History) |
 |   Ms Tay Melody  |   Teacher (History)  |
 |
 
