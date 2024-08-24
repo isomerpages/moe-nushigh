@@ -161,7 +161,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Bay Wee Wen | Head, English Language &amp; Literature |
-|   Ms Caroline Gordon | Assistant Head, English Language &amp;   Literature |
+|   Ms Caroline Gordon | Assistant Head, English Language &amp; Literature |
+|   Ms Koh Mei Yin Genette | Assistant Head, English Language &amp; Literature |
 |   Ms Lau Wen Li Sofia | Head School Staff Developer |
 |   Ms Koo Ivy | Dean, Junior High |
 |   Ms Chan Yun-Zhi Eunice | Dean, Senior High |
@@ -172,7 +173,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mdm Asrina Binte Sani | Teacher |
 |   Mr Chin Kiane Yun Dustin | Teacher |
 |   Ms Chin Lee Pyin Melissa | Teacher |
-|   Ms Koh Mei Ying Genette | Assistant Head, English Language &amp;     Literature |
 |   Mr Wong Sung Peng Daniel | Teacher  |
 |
 
@@ -203,6 +203,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Dr Chiam Sher-Yi |   Head, Research, Innovation &amp; Enterprise |
+|   Dr Maury Julien Jean Pierre |   Assistant Head, Research, Innovation &amp; Enterprise |
+|   Mr Chai Ming Huang Royce |   Assistant Head, Research, Innovation &amp; Enterprise |
+|   Mr Lim Teck Choow |   Assistant Head, Research, Innovation &amp; Enterprise |
 |   Mr Leong Kin Chong |   Senior Laboratory Specialist |
 |   Mr Andre Jusuf |   Teacher |
 |   Mr Phoon Chee Haw |   Teacher |
@@ -246,8 +249,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Ms Sion Hwei Hoon Chloe | Senior Manager |
 |   Ms Tan Sihui Dorothy |  Assistant Manager |
-|   Ms Susan Cheong Sook Cheng | Senior Executive |
-|   Ms Liout Cheng En |   Executive |
+|   Ms Cheong Sook Cheng Susan | Senior Executive |
 |
 
 #### **Counsellors**
