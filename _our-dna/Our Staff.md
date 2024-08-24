@@ -26,6 +26,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Ms Koh Siok Bee | Head, Chemistry |
 |   Dr Teh Yun Ling | Assistant Head, Chemistry |
+|   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
+|   Ms Zhong Jingyi | Assistant Head, Chemistry |
 |   Mr Murali Krishnaswamy | Head, Student Leadership<br><br> Head, Discipline |
 |   Ms Chong Ai Lin  | Head, Communications &amp; Outreach <br><br>Head, Stakeholder Engagement  |
 |   Mr Yeo Shyh Yuan Don | Lead Teacher |
@@ -34,9 +36,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Khoo-Teo Yew Mei Grace | Teacher |
 |   Dr Maury Julien Jean Pierre | Assistant Head, Research, Innovation and Enterprise |
 |   Dr Soh Shu Fang Flora | Teacher |
-|   Ms Zhong Jingyi | Assistant Head, Chemistry |
 |   Mdm Ng Yu Rui | Assistant Head, Student Well Being |
-|   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
 |   Mr Tee Tiam Siong Jonathan  | Teacher  |
 |   Mr Choo Yi En Theodore  | Teacher  |
 |   Ms Pek Lay Pheng | Senior Laboratory Specialist |
