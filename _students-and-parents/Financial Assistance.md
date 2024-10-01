@@ -17,7 +17,7 @@ The MOE ISB scheme offers tiered school fee subsidies ranging from 33% to 100% t
 1\.  Eligibility Criteria - A pupil is a Singapore Citizen, and meets the GHI or PCI criterion.<br>
 2\.  Tenure of Bursary - All ISB approved cases will be valid till December of the year.&nbsp;Fresh applications will have to be submitted for each academic year.<br>
 3\.  Effective Month – Pupils can apply any time of the year. It will take effect in the month the application is approved. There will be no backdating of effective month.<br>
-4\.  The&nbsp;**ISB application form**&nbsp;can be&nbsp;**downloaded** **[HERE](/files/Financial%20Assistance/form_moe_isb_2024.pdf)**
+4\.  The&nbsp;**ISB application form**&nbsp;can be&nbsp;**downloaded** **[HERE](/files/Financial%20Assistance/form_moe_isb_2025.pdf)**
 
 #### **Eligibility Criteria and Benefits:**
 

@@ -218,7 +218,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Van Li Hui |   Senior Manager, Student Affairs <br><br> Senior Manager, Admissions &amp; Recruitment |
 |   Ms Goh Xin Ni Annie | Assistant Manager, Admissions &amp; Recruitment|
 |   Ms Mazni Bte Abdullah  |   Senior Executive, Admissions &amp; Recruitment |
-|   Mdm Celestine d/o Arlando |   Acting Assistant Manager |
+|   Mdm Celestine d/o Arlando |  Assistant Manager |
 |   Ms Ang Sherna |   Senior Executive, Student Affairs |
 |   Ms Loh Ying Kwai Philomena  |  Senior Executive, Student Affairs  |
 |
