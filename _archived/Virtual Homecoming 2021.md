@@ -1,8 +1,8 @@
 ---
 title: Virtual Homecoming 2021
-permalink: /admissions/university-placement/virtual-homecoming/
+permalink: /archived/virtual-homecoming/
 description: ""
-third_nav_title: University Placement
+variant: tiptap
 ---
 <img src="/images/virtualhomecoming.png" style="width:75%">
 
