@@ -12,7 +12,7 @@ The DSA-Sec exercise comprises a two-phase selection. All applicants will sit fo
 
 Interested applicants must register at the MOE Centralised DSA-Sec Online Portal during the application period. For more details, please refer to MOE website [DSA for Secondary Schools](https://www.moe.gov.sg/secondary/dsa). Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. NUS High School can be found under the talent area of both "Math" and "Science". Applicants need to register only ONCE in either "Math" or "Science". You SHOULD NOT select NUS High School twice as you only have three DSA choices.
 
-International students applying for admission to NUS High School do not need to sit for the Admissions Exercise for International Students (AEIS)-Secondary test due to our specialised curriculum. However, applicants who are also applying to other mainstream schools in Singapore would need to take and pass the AEIS test before they can be considered for admission to secondary schools. Please refer to [https://www.moe.gov.sg/international-students/aeis](https://ddec1-0-en-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fwww.moe.gov.sg%2finternational%2dstudents%2faeis&amp;umid=e2c2fd7c-7247-4b8c-8af2-dccaeb115268&amp;auth=8d3ccd473d52f326e51c0f75cb32c9541898e5d5-df04d7bb99ad64218721876dca5b53af91ef250e).
+International students applying for admission to NUS High School do not need to sit for the Admissions Exercise for International Students (AEIS)-Secondary test due to our specialised curriculum. However, applicants who are also applying to other mainstream schools in Singapore would need to take and pass the AEIS test before they can be considered for admission to secondary schools. Please refer to [https://www.moe.gov.sg/international-students/aeis](https://www.moe.gov.sg/international-students/aeis).
 
 The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will be based on the applicants' performance in the DSA-Sec Exercise. 
 
@@ -62,7 +62,7 @@ Applicants who are interested to apply to NUS High School via the SIE should als
 
 Selection of applicants in the SIE will be based on the PSLE results and portfolio which includes primary school academic results. Only shortlisted applicants will be invited to attend a Selection Interview. Applicants with a PSLE score of 4 to 6 with AL 1 in both Mathematics and Science are encouraged to apply.
 
-Interested applicants are strongly advised to indicate their interest online and upload the required documents (P4 to 6 academic results, achievements, scholarships and awards certificates) from **1 to 14 November 2024** [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form). **Online Application for SIE will only open if there is vacancy available on the PSLE results releasing date.**
+Interested applicants are strongly advised to indicate their interest online and upload the required documents (P4 to 6 academic results, achievements, scholarships and awards certificates) from **1 to 14 November 2024** [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form). **Online Application for SIE will only open if there is vacancy available on the PSLE results releasing date.**
 
 **Important dates and information for Supplementary Intake Exercise (SIE)**
 
@@ -84,13 +84,13 @@ _\* Important points to note when register at NUS High School Online Portal:_<br
 2\.  _If PSLE results are released on 20 Nov 2024 (Wednesday), 3rd day from release of PSLE results will be 22 Nov 2024._
 
 #### **Summary of Application for Supplementary Intake Exercise (SIE)**
-1\. Indication of Interest at [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form).
-*   [Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) will be open from **1 - 14 November 2024**. If you do not have computer or internet access, please complete the online registration at NUS High School Annex Office.
+1\. Indication of Interest at [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form).
+*   [Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) will be open from **1 - 14 November 2024**. If you do not have computer or internet access, please complete the online registration at NUS High School Annex Office.
 
-*   Upload the scanned copy of the P4 to P6 academic results and supporting documents by 14 November 2024 at [NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form).
+*   Upload the scanned copy of the P4 to P6 academic results and supporting documents by 14 November 2024 at [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form).
 
-2\. Apply for SIE by submitting the PSLE results to [PSLE results submission portal](https://go.gov.sg/2023nushs-sie-submit-psle-results).
-*   Indicate PSLE score &amp; subject grades and upload a scanned copy of the PSLE result slip by the third day from the release of PSLE results via the [PSLE results submission portal](https://go.gov.sg/2023nushs-sie-submit-psle-results). Submission must be completed by 10 am.
+2\. Apply for SIE by submitting the PSLE results to [PSLE results submission portal](https://go.gov.sg/2024-nushs-sie-submit-psle-results).
+*   Indicate PSLE score &amp; subject grades and upload a scanned copy of the PSLE result slip by the third day from the release of PSLE results via the [PSLE results submission portal](https://go.gov.sg/2024-nushs-sie-submit-psle-results). Submission must be completed by 10 am.
 *   Applying for admission via SIE is free.
 
 *   No appeal is allowed after the third day from the release of PSLE results.
