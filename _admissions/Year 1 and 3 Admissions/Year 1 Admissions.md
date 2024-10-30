@@ -74,7 +74,7 @@ Interested applicants are strongly advised to indicate their interest online and
 | Closing of Online Indication of Interest | 14 Nov 2024 | 10 pm |
 | Opening of Online Application for SIE with Submission of PSLE Results | On the day of release of PSLE results | 10 am |
 | Closing of Online Application for SIE | 3rd day² from the release of PSLE results | 10 am |
-| Selection Interview (Only Shortlisted Applicants) | 4th to 6th day from release of PSLE results |  |
+| Selection Interview (Only Shortlisted Applicants) | 3rd to 6th day from release of PSLE results |  |
 | Outcome of SIE | 4th to 6th day from release of PSLE results |  |
 | Acceptance of SIE offer | 24 hours upon receiving SIE offer |  |
 |
@@ -87,13 +87,13 @@ _\* Important points to note when register at NUS High School Online Portal:_<br
 1\. Indication of Interest at [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form).
 *   [Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) will be open from **1 - 14 November 2024**. If you do not have computer or internet access, please complete the online registration at NUS High School Annex Office.
 
-*   Upload the scanned copy of the P4 to P6 academic results and supporting documents by 14 November 2024 at [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form).
+*   Upload scanned copies of the P5 and P6 academic results and supporting documents by 14 November 2024 at [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form).
 
 2\. Apply for SIE by submitting the PSLE results to [PSLE results submission portal](https://go.gov.sg/2024-nushs-sie-submit-psle-results).
 *   Indicate PSLE score &amp; subject grades and upload a scanned copy of the PSLE result slip by the third day from the release of PSLE results via the [PSLE results submission portal](https://go.gov.sg/2024-nushs-sie-submit-psle-results). Submission must be completed by 10 am.
 *   Applying for admission via SIE is free.
 
-*   No appeal is allowed after the third day from the release of PSLE results.
+*   No appeal of late application is allowed after the third day from the release of PSLE results.
 
 3\. Attend the Selection Interview
 *   Applicants may be invited to attend a Selection Interview between the 4th and 6th day from the release of the PSLE results.
