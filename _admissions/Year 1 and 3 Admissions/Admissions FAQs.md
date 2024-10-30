@@ -35,7 +35,7 @@ For Year 3 Admission applicants:<br>
 Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission) &nbsp;by 28 August 2024. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
-From 1 to 14 Nov 2024: Portfolio including scanned copies of the P4, 5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) &nbsp;by 14 Nov 2024. All SIE applicants are required to do so.
+From 1 to 14 Nov 2024: Portfolio including scanned copies of the P5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;by 14 Nov 2024. All SIE applicants are required to do so.
 
 As supporting documents are non-returnable, the applicant is advised to provide only scanned copies of the original documents.
 
@@ -58,7 +58,7 @@ Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on th
 
 The Year 3 Admission Selection Tests will be on the 10 September 2024 and the Selection Interview will be on the 24 September 2024. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
 
-The SIE Interview will be between 4th&nbsp;and 6th&nbsp;day from the release of the PSLE results. Only shortlisted applicants will attend the SIE interview.
+The SIE Interview will be between 3rd&nbsp;and 6th&nbsp;day from the release of the PSLE results. Only shortlisted applicants will attend the SIE interview.
 
 ##### **8\. How do you shortlist applicants for the selection camp / interview?**
 
@@ -149,7 +149,7 @@ Anything that the child does to show their passion and strength in math and scie
 
 ##### **24\. Does NUSHS participate in the Secondary One (S1) posting exercise?**
 
-No. NUSHS does not participate in the S1 posting exercise. Students who wish to participate in the NUSHS SIE must apply online at our&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form).
+No. NUSHS does not participate in the S1 posting exercise. Students who wish to participate in the NUSHS SIE must apply online at our&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form).
 
 ##### **25\. Do I need to participate in the S1 posting exercise if I’ve applied for NUSHS SIE?**
 
@@ -161,13 +161,13 @@ Yes. You may apply for SIE. Selection of applicants in the SIE will be based on 
 
 ##### **27\. When can I register for NUSHS SIE?**
 
-You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) &nbsp;and upload your scanned documents from 1 November 2024 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
+You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;and upload your scanned documents from 1 November 2024 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
 
 ##### **28\. Do I need to re-register online for SIE if I have already completed the online application for DSA-Sec via the MOE Centralised Online Portal?**
 
-Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2023nushs-sie-interest-form) &nbsp;from 1 to 14 November 2024.
+Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;from 1 to 14 November 2024.
 
-If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the&nbsp;[PSLE results submission portal](https://go.gov.sg/2023nushs-sie-submit-psle-results) &nbsp;from the first to the third day of release of PSLE results.
+If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the&nbsp;[PSLE results submission portal](https://go.gov.sg/2024-nushs-sie-submit-psle-results) &nbsp;from the first to the third day of release of PSLE results.
 
 ##### **29\. Can I request for an e-interview for SIE if I am overseas during the SIE interview period?**
 
