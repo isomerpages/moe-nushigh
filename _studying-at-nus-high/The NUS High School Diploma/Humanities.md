@@ -2,7 +2,7 @@
 title: Humanities
 permalink: /studying-at-nus-high/the-nus-high-diploma/humanities/
 description: ""
-third_nav_title: The NUS High Diploma
+third_nav_title: The NUS High School Diploma
 ---
 ## Humanities
 The Humanities Curriculum at NUS High School aims to nurture our students into world-ready learners with humanitarian values. Students will have an appreciation and sustained interest in the world around them. They will also be adept at thinking critically and inventively, inspiring multiple and varied possibilities for the betterment of our community and society. 

@@ -2,7 +2,7 @@
 title: English Language and Literature
 permalink: /studying-at-nus-high/the-nus-high-diploma/english-language-and-literature/
 description: ""
-third_nav_title: The NUS High Diploma
+third_nav_title: The NUS High School Diploma
 ---
 ## English Language and Literature
 The English Language and Literature Curriculum aims to nurture students who are worldready thinkers and communicators. Students will communicate effectively in varied contexts as a result of their development in listening, reading, speaking and writing. More importantly, it seeks to develop in students a broad and mature understanding of a range of subject matter pertaining to the local and world affairs as well as the ability to analyse and evaluate them critically and creatively. In addition, the programme hopes to cultivate students’ literary consciousness, lifelong interest in the language, love for and appreciation of texts of varied genres, which will enable their journey in self-directed learning. 

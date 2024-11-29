@@ -2,7 +2,7 @@
 title: Music & Art
 permalink: /studying-at-nus-high/the-nus-high-diploma/music-and-art/
 description: ""
-third_nav_title: The NUS High Diploma
+third_nav_title: The NUS High School Diploma
 ---
 ## Music &amp; Art
 

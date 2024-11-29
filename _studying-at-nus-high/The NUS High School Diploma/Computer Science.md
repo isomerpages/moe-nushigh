@@ -2,7 +2,7 @@
 title: Computer Science
 permalink: /studying-at-nus-high/the-nus-high-diploma/computer-science/
 description: ""
-third_nav_title: The NUS High Diploma
+third_nav_title: The NUS High School Diploma
 ---
 ## Computer Science
 The Computer Science curriculum in NUS High School is divided into two key stages – Foundation and Specialisation Years. 

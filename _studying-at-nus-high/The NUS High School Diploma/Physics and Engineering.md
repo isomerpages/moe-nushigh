@@ -2,7 +2,7 @@
 title: Physics and Engineering
 permalink: /studying-at-nus-high/the-nus-high-diploma/physics-and-engineering/
 description: ""
-third_nav_title: The NUS High Diploma
+third_nav_title: The NUS High School Diploma
 ---
 ## Physics and Engineering
 The Physics &amp; Engineering curriculum in NUS High School spans 6 years and is divided into two key stages – Foundation and Specialisation Years.

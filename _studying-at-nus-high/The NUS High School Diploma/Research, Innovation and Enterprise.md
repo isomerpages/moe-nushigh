@@ -2,7 +2,7 @@
 title: Research, Innovation and Enterprise
 permalink: /studying-at-nus-high/the-nus-high-diploma/research-innovation-and-enterprise/
 description: ""
-third_nav_title: The NUS High Diploma
+third_nav_title: The NUS High School Diploma
 ---
 ## Research, Innovation and Enterprise
 
@@ -14,10 +14,10 @@ The Da Vinci programme will nurture students’ appreciation and understanding o
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie_icon1.png" style="max-width: 100%; max-height:100%" >
+				<img src="/images/RIE/rie_icon1.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie_icon2.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/RIE/rie_icon2.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%;align: center">
 				<img src="/images/RIE/rie_icon3.png" style="max-width: 100%; max-heigth: 100%">
@@ -26,10 +26,10 @@ The Da Vinci programme will nurture students’ appreciation and understanding o
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
+			<td style="text-align:center"> 
 			To nurture students’ appreciation and understanding of the multi- and inter-disciplinary nature of work so that they can be polymaths in this fast-changing world.
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 			To help students stay at the frontier of research and innovation.
 			</td>
 			<td style="text-align:center">
@@ -39,7 +39,7 @@ The Da Vinci programme will nurture students’ appreciation and understanding o
 	</tbody>
 </table>
 
-In the foundation years, the department has designed structured modules that provide training in problem solving skills as well as inter- & multi-disciplinary studies. Elective modules in Design & Engineering and Science Communication are also offered to students.
+In the foundation years, the department has designed structured modules that provide training in problem solving skills as well as inter- &amp; multi-disciplinary studies. Elective modules in Design &amp; Engineering and Science Communication are also offered to students.
 
 To prepare our students for research work, all students are required to take the Research Methodology module. Students also have the opportunity to take on simpler research projects guided by our teachers. From Year 3, they can also participate in mentorship programmes to conduct research with partner organisations.
 
@@ -47,10 +47,10 @@ To prepare our students for research work, all students are required to take the
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie1.png" style="max-width: 100%; max-height:100%" >
+				<img src="/images/RIE/rie1.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie2.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/RIE/rie2.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%;align: center">
 				<img src="/images/RIE/rie3.png" style="max-width: 100%; max-heigth: 100%">
@@ -59,10 +59,10 @@ To prepare our students for research work, all students are required to take the
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
+			<td style="text-align:center"> 
 			Customising circuit boards<br>(Design and Engineering)
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 			Design Thinking - Understanding<br>about Perspectives
 			</td>
 			<td style="text-align:center">
@@ -77,10 +77,10 @@ To prepare our students for research work, all students are required to take the
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie4.png" style="max-width: 100%; max-height:100%" >
+				<img src="/images/RIE/rie4.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie5.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/RIE/rie5.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%;align: center">
 				<img src="/images/RIE/rie6.png" style="max-width: 100%; max-heigth: 100%">
@@ -89,10 +89,10 @@ To prepare our students for research work, all students are required to take the
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
+			<td style="text-align:center"> 
 			Junior Science Research<br>Module for Year 3s
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 			Junior Scientist Category:<br>Singapore Science and<br>Engineering Fair
 			</td>
 			<td style="text-align:center">
@@ -108,10 +108,10 @@ Our students embark on their Advanced Research Project in their Specialisation y
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie7.png" style="max-width: 100%; max-height:100%" >
+				<img src="/images/RIE/rie7.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie8.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/RIE/rie8.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%;align: center">
 				<img src="/images/RIE/rie9.png" style="max-width: 100%; max-heigth: 100%">
@@ -120,10 +120,10 @@ Our students embark on their Advanced Research Project in their Specialisation y
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
+			<td style="text-align:center"> 
 			Annual Research Congress
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 			Representing Singapore at the<br>Intel International Science and<br>Engineering Fair
 			</td>
 			<td style="text-align:center">
@@ -139,10 +139,10 @@ In line with our school’s vision to nurture pioneers, humanitarians and innova
 	<thead>
 		<tr>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie10.png" style="max-width: 100%; max-height:100%" >
+				<img src="/images/RIE/rie10.png" style="max-width: 100%; max-height:100%">
 			</th>
 			<th style="width: 33%; align: center">
-				<img src="/images/RIE/rie11.png" style="max-width: 100%; max-heigth: 100%" >
+				<img src="/images/RIE/rie11.png" style="max-width: 100%; max-heigth: 100%">
 			</th>
 			<th style="width: 33%;align: center">
 				<img src="/images/RIE/rie12.png" style="max-width: 100%; max-heigth: 100%">
@@ -151,10 +151,10 @@ In line with our school’s vision to nurture pioneers, humanitarians and innova
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center" > 
+			<td style="text-align:center"> 
 			Solid State Fan - Patented
 			</td>
-			<td style="text-align:center" >
+			<td style="text-align:center">
 			Hackathon 2019 Champions
 			</td>
 			<td style="text-align:center">
