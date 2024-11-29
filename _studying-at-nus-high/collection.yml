@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - The NUS High School Diploma/.keep
-      - The NUS High School Diploma/The NUS High Diploma.md
+      - The NUS High School Diploma/The NUS High School Diploma.md
       - The NUS High School Diploma/Programme of Studies.md
       - The NUS High School Diploma/Biology.md
       - The NUS High School Diploma/Chemistry.md
