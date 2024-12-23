@@ -6,12 +6,12 @@ variant: markdown
 ---
 #### **School Fees (Per Month)**
 
-| Nationality | From 2024 (S$) |
+| Nationality | 2025 (S$) |
 |:---:|:---:|
 | Singapore Citizens | 300 |
-| Singapore Permanent Residents | 934 |
-| International Students (ASEAN) | 1,646 |
-| International Students (non-ASEAN) | 2,616 |
+| Singapore Permanent Residents | 1,010 |
+| International Students (ASEAN) | 1,760 |
+| International Students (non-ASEAN) | 2,800 |
 |
 
 There is also a miscellaneous fee of S$20 (subject to revision) per month per student.
@@ -33,19 +33,19 @@ There is also a miscellaneous fee of S$20 (subject to revision) per month per st
 
 8\.  Please refer to the table below for GIRO deduction date. Feb’s deduction will be for school fees of Jan and Feb. Sept’s deduction will be for the school fees of Sept and Oct. Oct’s deduction will be for the school fees of Nov and Dec.
 
-#### **2024 School fees GIRO deduction date**
+#### **2025 School fees GIRO deduction date**
 
 |  | Scheduled Date |
 |:---:|:---:|
-| January & February | 13-Feb-2024 (Tue) |
-| March | 11-Mar-2024 (Mon) |
-| April | 11-Apr-2024 (Thu) |
-| May | 10-May-2024 (Fri) |
-| June | 10-Jun-2024 (Mon) |
-| July | 10-Jul-2024 (Wed) |
-| August | 12-Aug-2024 (Mon) |
-| September & October | 10-Sep-2024 (Tue) |
-| November & December | 10-Oct-2024 (Thu) |
+| January & February | 10-Feb-2025 (Mon) |
+| March | 10-Mar-2025 (Mon) |
+| April | 10-Apr-2025 (Thu) |
+| May | 13-May-2025 (Tue) |
+| June | 10-Jun-2025 (Tue) |
+| July | 10-Jul-2025 (Thu) |
+| August | 11-Aug-2025 (Mon) |
+| September & October | 10-Sep-2025 (Wed) |
+| November & December | 10-Oct-2025 (Fri) |
 |
 
 #### **Edusave**
