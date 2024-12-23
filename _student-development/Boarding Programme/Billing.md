@@ -27,14 +27,14 @@ Rates cover the following:<br>
 5\. Special programmes and various activities<br>
 6\. 24-hour security
 
-#### Giro Schedule for 2024 Boarding Fee
+#### Giro Schedule for 2025 Boarding Fee
 
 | Term | Scheduled Date | Collecting For |
 |---|---|---|
-| 1 | 8 Feb 2024 (Thursday) | Term 1 Boarding Fee |
-| 2 | 5 Apr 2024 (Friday) | Term 2 Boarding Fee plus Mar holiday Boarding Fee (if any)|
-| 3 | 5 Jul 2024 (Friday) | Term 3 Boarding Fee plus Jun holiday Boarding Fee(if any) |
-| 4 | 20 Sep 2024 (Friday) | Term 4 Boarding Fee plus Sep holiday Boarding Fee (if any) |
+| 1 | 14 Feb 2025  | Term 1 Boarding Fee |
+| 2 | 4 Apr 2025 | Term 2 Boarding Fee plus March holiday Boarding Fee (if any)|
+| 3 | 11 Jul 2025 | Term 3 Boarding Fee plus June holiday Boarding Fee(if any) |
+| 4 | 26 Sep 2025 | Term 4 Boarding Fee plus Sep holiday Boarding Fee (if any) |
 |
 
 #### Financial Assistance<br>
