@@ -2,10 +2,8 @@
 title: Scholarships and Awards
 permalink: /students-and-parents/scholarships-and-awards/
 description: ""
+variant: markdown
 ---
-#### **Temasek Foundation Scholarship for STEM**
-The Temasek Foundation Scholarship for STEM is awarded to outstanding NUS High School Year 1 students who have great passion, talent and achievements in mathematics and/or science, i.e. students who demonstrate peaks of excellence in their primary school.
-
 #### **MOE Edusave Awards and Scholarships**
 Edusave Awards are offered to students based on their character, leadership, conduct, learning dispositions and academic performance.
 
