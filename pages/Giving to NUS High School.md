@@ -9,4 +9,3 @@ description: ""
 <p></p>
 <h4>To find out more about the fund usage, please click here:</h4>
 <p></p>
-<p></p>
