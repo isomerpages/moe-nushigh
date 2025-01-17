@@ -9,5 +9,5 @@ description: ""
 <p><a href="https://form.gov.sg/6777acc252556bf794c1f1f2" rel="noopener nofollow" target="_blank">Give to NUS High</a>
 </p>
 <p></p>
-<h4>To find out more about the fund usage, please click here: </h4>
+<h4>To find out more about the fund usage, please click here:</h4>
 <p></p>
