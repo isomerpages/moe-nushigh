@@ -10,6 +10,6 @@ description: ""
 <hr>
 <h4>To find out more about the fund usage, please click here:</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Lead the Breakthrough" src="/images/Giving/lead_the_breakthrough.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Lead the Breakthrough" src="/images/Giving/lead_the_breakthrough.png">
 </div>
 <p></p>
