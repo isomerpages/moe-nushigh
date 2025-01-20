@@ -315,12 +315,12 @@ and safety.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recognise one’s vulnerability to risky situations and the importance of
+<p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -337,18 +337,17 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recognise the importance of self-respect and respect for others in relating
+<p>recognise the importance of self-respect and respect for others in relating
 to members of the opposite sex</p>
 <p></p>
-<p>Recognise one’s vulnerability to risky situations and the importance of
+<p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Sem 1</p>
 </td>
 </tr>
 </tbody>
