@@ -412,19 +412,19 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Know that self-perception and identity have an impact on our self-esteem
+<p>know that self-perception and identity have an impact on our self-esteem
 and how we interact with others and the choices we make, both online and
 offline</p>
 <p></p>
-<p>Understand that expectations of oneself and others may differ and can
-affect one’s emotions, Thoughts and behaviours</p>
+<p>understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
 <p></p>
-<p>Recognise what healthy dating relationships involve and know that readiness
+<p>recognise what healthy dating relationships involve and know that readiness
 is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -444,20 +444,20 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Know that relationship-building involves personal emotions and vulnerabilities,
+<p>know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
 <p></p>
-<p>Know that a decision to end a relationship will have consequences on oneself
+<p>know that a decision to end a relationship will have consequences on oneself
 and others</p>
 <p></p>
-<p>Know that grief and loss due to rejections and broken relationships is
+<p>know that grief and loss due to rejections and broken relationships is
 normal and one can recover from the experience</p>
 <p></p>
-<p>Know there are healthy ways of coping with broken relationships, and family
+<p>know there are healthy ways of coping with broken relationships, and family
 and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -478,16 +478,16 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recognise the importance of being informed of social and moral issues
+<p>recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
 our own moral standpoints as we form our perspectives about them</p>
 <p></p>
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Sem 1</p>
 </td>
 </tr>
 </tbody>
@@ -544,21 +544,21 @@ as main caregivers in the family), and the impact of these stereotypes
 on individuals. Students will learn to be aware of possible gender stereotypes
 that may affect one’s family and future decisions. They will also learn
 to reframe their perspectives and not judge others based on their own or
-others’ values and principles, with regard to gender stereotypes.</p>
+others’ values and principles, with regard to gender stereotypes</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations</p>
 <p></p>
-<p>Know that imposing gender stereotypes on oneself and others can limit
+<p>know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 <p><em>&nbsp;</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -577,27 +577,26 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Know there are healthy ways of coping with broken relationships, and family
+<p>know there are healthy ways of coping with broken relationships, and family
 and friends are important pillars of support</p>
 <p></p>
-<p>Recognise emotions caused by traumatic situations, e.g. bullying, abuse
+<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
 social impact on victims</p>
 <p></p>
-<p>Understand that we need moral courage and wisdom to recognise and end
+<p>understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
 well-being</p>
 <p></p>
-<p>Understand the importance of ensuring that non-verbal messages match with
-verbal ones, when communicating personal and emotional Boundaries in a
+<p>understand the importance of ensuring that non-verbal messages match with
+verbal ones, when communicating personal and emotional boundaries in a
 relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -617,20 +616,21 @@ to marriage is understanding the other person’s perspective and effectively
 communicating with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Know that long-term romantic relationships leading to marriage involve
+<p>know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions</p>
 <p></p>
-<p>Know that marriage entails a union between a man and a woman based on
+<p>know that marriage entails a union between a man and a woman based on
 love, trust, commitment, and requires mutual effort</p>
 <p></p>
-<p>Understand that conflicts are normal in any relationship, including marriage,
+<p>understand that conflicts are normal in any relationship, including marriage,
 and the way in which a couple handles conflict is critical to the success
 of their marriage</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -651,12 +651,12 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Sem 1</p>
 </td>
 </tr>
 </tbody>
@@ -669,7 +669,7 @@ alignment with our beliefs</p>
 collaboration with the Ministry of Education, to provide Secondary 3 students
 with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
 conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
+The desired outcome of the <em>eTeens </em>programme is that students are
 empowered to make wise, informed and sensible decisions.</p>
 <p></p>
 </li>
