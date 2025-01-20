@@ -682,7 +682,7 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
-<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong></h4>
+<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -706,18 +706,18 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it
-is, how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and risky situations
-in a healthy way.</p>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use).</p>
+<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Sem 1</p>
 </td>
 </tr>
 <tr>
@@ -730,7 +730,7 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Sem 1</p>
 </td>
 </tr>
 </tbody>
@@ -747,21 +747,20 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year, through Parents Gateway and FormSG. The completed
-form is to be submitted by 29/01/2024.</p>
+at the start of the year through Parents Gateway and FormSG. The completed
+form is to be submitted by 31/01/2025.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year, through Parents Gateway and FormSG. The completed
-form is to be submitted by 29/01/2024.</p>
+at the start of the year through Parents Gateway and FormSG. The completed
+form is to be submitted by 31/01/2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 65161709 or <a rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>Parents can contact the school at 65161709 or <a href="mailto:einstein@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education</p>
 </li>
 </ol>
 <p></p>
