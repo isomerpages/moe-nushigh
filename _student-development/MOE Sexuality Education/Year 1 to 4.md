@@ -45,7 +45,7 @@ ones.</p>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3><strong>Overview of NUS High School’s Sexuality Education Programme for 2024</strong></h3>
+<h3><strong>Overview of NUS High School’s Sexuality Education Programme for 2025</strong></h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -67,7 +67,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
-his/her own identity and often struggles with new social relationships.
+his or her own identity and often struggles with new social relationships.
 The period of middle adolescence (generally from 15 – 17 years old) can
 be a turbulent period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
@@ -87,8 +87,8 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3><strong>At NUS High School, the following Sexuality Education lessons will be taught in 2024:</strong></h3>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<h3><strong>At NUS High School, the following Sexuality Education lessons will be taught in 2025:</strong></h3>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <h4><strong>Year 1</strong></h4>
 <table style="minWidth: 125px">
@@ -145,20 +145,20 @@ online and offline.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recognise the importance of monitoring and managing our emotional Reactions,
-in helpful ways that are reflective of our values and principles</p>
-<p></p>
-<p>Recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)</p>
-<p></p>
-<p>Recognise the importance and understand what builds healthy and supportive
-relationships, both online and offline</p>
-<p></p>
-<p>Understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
+of monitoring and managing our emotional reactions, in helpful ways that
+are reflective of our values and principles</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there
+are different forms of love (e.g. familial, platonic, romantic love)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
+of, and understand what builds healthy and supportive relationships, both
+online and offline</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating
+is, and recognise that the readiness and interest in dating vary among
+individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Sem 2</p>
 </td>
 </tr>
 <tr>
