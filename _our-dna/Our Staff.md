@@ -239,6 +239,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
+|   Ms Sion Hwei Hoon Chloe | Senior Manager |
 |   Ms Chee Wei Fang |  Manager |
 |   Ms Poh Han Lin |   Corporate Service Executive  |
 |
@@ -248,7 +249,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Sion Hwei Hoon Chloe | Senior Manager |
 |   Ms Tan Sihui Dorothy |  Acting Manager |
 |   Ms Cheong Sook Cheng Susan | Senior Executive |
 |   Ms Clara Or Qi'En | Executive |
@@ -270,7 +270,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-| Mr Wong Chee Khiam | Manager, Operations |
 | Mr Joseph Giri Sri Krishnan | Manager (Boarding Master) |
 | Ms Shahira Binte Amat Amin | Corporate Service Executive |
 | Mrs Sheela Peranandam | Corporate Service Executive  |
@@ -290,6 +289,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Wong Anqiang Stefan |   Senior Executive, IT |
 |  Mr Yap Chin Voon Chris |   Senior Executive, IT |
 |   Mr Sim Xin Wei Tawfiq |  Executive, IT  |
+| Mr Wong Chee Khiam | Assistant Manager (Project), Estate |
 |
 
 #### **Outreach**
