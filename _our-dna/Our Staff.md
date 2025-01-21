@@ -88,7 +88,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Goh Hui Qi Rachel |   Laboratory Officer |
 |
 
-#### **Mathematics &amp; Statistics**
+#### **Math &amp; Statistics**
 
 |  |  |
 |---|---|
@@ -248,7 +248,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Sion Hwei Hoon Chloe | Senior Manager |
-|   Ms Tan Sihui Dorothy |  Assistant Manager |
+|   Ms Tan Sihui Dorothy |  Acting Manager |
 |   Ms Cheong Sook Cheng Susan | Senior Executive |
 |
 
