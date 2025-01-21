@@ -2,7 +2,6 @@ collections:
   students-and-parents:
     output: true
     order:
-      - Giving to NUS High School.md
       - School Fees.md
       - Scholarships and Awards.md
       - Financial Assistance.md
@@ -11,3 +10,4 @@ collections:
       - Parents Support Group.md
       - Speech Day 2024.md
       - Convocation 2023.md
+      - Giving to NUS High School.md
