@@ -28,7 +28,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Teh Yun Ling | Assistant Head, Chemistry |
 |   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
 |   Ms Zhong Jingyi | Assistant Head, Chemistry |
-|   Mr Murali Krishnaswamy | Head, Student Leadership<br><br> Head, Discipline |
+|   Mr Murali Krishnaswamy | Deputy Director, Student Leadership &amp; Discipline |
 |   Ms Chong Ai Lin  | Deputy Director, Organizational Development &amp; Engagement  |
 |   Mdm Ng Yu Rui | Assistant Head, Student Well Being |
 |   Dr Maury Julien Jean Pierre | Assistant Head, Research, Innovation and Enterprise |
@@ -94,7 +94,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Mr Chen Hong Ming | Head, Mathematics &amp; Statistics |
 |   Mr Goh Shu Liang | Assistant Head, Mathematics &amp; Statistics |
-|   Mr Low Chin Han | Acting Assistant Head, Mathematics &amp; Statistics |
+|   Mr Low Chin Han | Senior Teacher |
 |   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
 |   Ms Jiang Zewei Vivian | Assistant Head, Mathematics &amp; Statistics |
@@ -141,7 +141,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Dr Li Liangzi | Head, Mother Tongue &amp; Foreign Languages |
+|   Dr Li Liangzi | Head, Special Project |
 |   Mr Ho Kok Kiat  | Assistant Head, Mother Tongue &amp; Foreign Languages |
 |   Ms Lim Puay See | Assistant Head, Mother Tongue &amp; Foreign Languages |
 |   Mr Chua Chin Haw | Teacher |
