@@ -158,7 +158,7 @@ relationships, both online and offline</p>
 in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -293,7 +293,7 @@ as a male or female</p>
 <p>understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +347,7 @@ exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1</p>
 </td>
 </tr>
 </tbody>
@@ -424,7 +424,7 @@ is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -457,7 +457,7 @@ normal and one can recover from the experience</p>
 and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
@@ -558,7 +558,7 @@ and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -596,7 +596,7 @@ relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -630,7 +630,7 @@ of their marriage</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -656,7 +656,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
