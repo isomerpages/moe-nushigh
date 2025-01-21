@@ -59,7 +59,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Ng Tiong Eng |   Teacher |
 |   Mr Lim Yeow Heng |   Teacher |
 |   Mr Seow Yongli |   Teacher   |
-|   Mr Yeem Kai Ean Silas |   Teacher   |
 |   Ms Yenny Wijaya |   Teacher |
 |   Mr Yuen Xiang Hao |   Teacher |
 |   Mr Goh Qi Xuan Benjamin |   Teacher |
@@ -153,7 +152,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Song Haiyan |  Teacher |
 |   Mr Toh Chen Yeong | Teacher |
 |   Mr Wu Jiong | Teacher |
-|   Mr Xie Chuanling | Teacher |
 |   Mdm Rohaida Bte Ismail | Teacher (Malay Language) |
 |   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
 |   Mrs Elizabeth Mariko Nishida Gomez | Teacher (Japanese Language) |
@@ -242,7 +240,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Chee Wei Fang |  Manager |
-|   Ms Ang Sherli |  Manager |
 |   Ms Poh Han Lin |   Corporate Service Executive  |
 |
 
@@ -266,7 +263,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Lee Ye Kee Jade |   Principal Pastoral Counsellor |
 |   Ms Chua Shuyi Sarah Elizabeth |   Pastoral Counsellor |
 |   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
-|   Dr Piriya d/o Sasajala  |  Senior Education &amp; Career Guidance Counsellor |
 |   Mrs Lim Siok Hwa Jenny  |  Corporate Service Officer |
 |
 
@@ -278,6 +274,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 | Mr Joseph Giri Sri Krishnan | Manager (Boarding Master) |
 | Ms Shahira Binte Amat Amin | Corporate Service Executive |
 | Mrs Sheela Peranandam | Corporate Service Executive  |
+| Ms Ang Sherli |  Manager, Operations |
 |
 
 #### **Infrastructure**
