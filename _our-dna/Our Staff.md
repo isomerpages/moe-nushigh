@@ -62,6 +62,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Yeem Kai Ean Silas |   Teacher   |
 |   Ms Yenny Wijaya |   Teacher |
 |   Mr Yuen Xiang Hao |   Teacher |
+|   Mr Goh Qi Xuan Benjamin |   Teacher |
 |   Mr Tan Jit Bin Joseph |   Senior Laboratory Specialist |
 |   Mr Lim Beng Chong Desmond |   Laboratory Specialist |
 |   Mr Riduwan Bin Gafoor |   Laboratory Specialist |
@@ -141,6 +142,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
+|   Mr Hong Wee Seng Jeffrey | Head, Mother Tongue &amp; Foreign Languages |
 |   Dr Li Liangzi | Head, Special Project |
 |   Mr Ho Kok Kiat  | Assistant Head, Mother Tongue &amp; Foreign Languages |
 |   Ms Lim Puay See | Assistant Head, Mother Tongue &amp; Foreign Languages |
@@ -250,6 +252,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Sion Hwei Hoon Chloe | Senior Manager |
 |   Ms Tan Sihui Dorothy |  Acting Manager |
 |   Ms Cheong Sook Cheng Susan | Senior Executive |
+|   Ms Clara Or Qi'En | Executive |
 |
 
 #### **Counsellors**
