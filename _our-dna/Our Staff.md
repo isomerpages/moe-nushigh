@@ -134,8 +134,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Chen Zhaoyan Madeline |   Teacher (Geography) |
 |   Ms Poh Irene  |   Teacher (Geography) |
 |   Ms Chua Bann |   Teacher (History) |
-|   Ms Tay Melody  |   Teacher (History)  |
 |   Ms Huang Pei Shan Pearl Mia  |   Teacher (History)  |
+|   Ms Tay Melody  |   Teacher (History)  |
 |
 
 #### **Mother Tongue &amp; Foreign Languages**
@@ -143,9 +143,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mr Hong Wee Seng Jeffrey | Head, Mother Tongue &amp; Foreign Languages |
-|   Dr Li Liangzi | Head, Special Project |
 |   Mr Ho Kok Kiat  | Assistant Head, Mother Tongue &amp; Foreign Languages |
 |   Ms Lim Puay See | Assistant Head, Mother Tongue &amp; Foreign Languages |
+|   Dr Li Liangzi | Head, Special Project |
 |   Mr Chua Chin Haw | Teacher |
 |   Ms Dong Yanqin  | Teacher |
 |   Mr Han Xuanjun | Teacher |
@@ -173,9 +173,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Chin Kiane Yun Dustin | Teacher |
 |   Ms Chin Lee Pyin Melissa | Teacher |
 |   Mr Lim Chong Shen | Teacher |
+|   Mr Tan Weiqing Melvyn | Teacher  |
 |   Ms Vincent Esther Xueming  | Teacher |
 |   Mr Wong Sung Peng Daniel | Teacher  |
-|   Mr Tan Weiqing Melvyn | Teacher  |
 |
 
 #### **Music &amp; Art**
@@ -270,10 +270,10 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
+| Ms Ang Sherli |  Manager, Operations |
 | Mr Joseph Giri Sri Krishnan | Manager (Boarding Master) |
 | Ms Shahira Binte Amat Amin | Corporate Service Executive |
 | Mrs Sheela Peranandam | Corporate Service Executive  |
-| Ms Ang Sherli |  Manager, Operations |
 |
 
 #### **Infrastructure**
@@ -282,6 +282,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |---|---|
 |   Mr Teo Chun Siong Alan |   Deputy Director |
 |  Mr Ng Jin Guan Kevin |   Assistant Manager, Estate |
+| Mr Wong Chee Khiam | Assistant Manager (Project), Estate |
 |   Mr Hay Yong Huat David |   Principal Executive, Estate |
 |   Mr Leong Chun Chiew Johnny |   Executive, Estate |
 |   Ms Norashikin Bte Abdul Rahim |   Executive, Estate |
@@ -289,7 +290,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Wong Anqiang Stefan |   Senior Executive, IT |
 |  Mr Yap Chin Voon Chris |   Senior Executive, IT |
 |   Mr Sim Xin Wei Tawfiq |  Executive, IT  |
-| Mr Wong Chee Khiam | Assistant Manager (Project), Estate |
 |
 
 #### **Outreach**
