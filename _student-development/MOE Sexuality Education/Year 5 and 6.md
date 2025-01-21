@@ -127,7 +127,7 @@ entails and be reminded of the importance of respect for others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1 and 2</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ others, and think through the consequences of doing so.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1 and 2</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1 and 2</p>
 </td>
 </tr>
 </tbody>
@@ -238,7 +238,7 @@ and choosing to do what is right.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ and downplay achievements so as to fit in), which can affect interactions
 and relationships in ways that are harmful to themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 1</p>
 </td>
 </tr>
 </tbody>
