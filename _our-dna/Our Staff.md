@@ -93,8 +93,8 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Mr Chen Hong Ming | Head, Mathematics &amp; Statistics |
 |   Mr Goh Shu Liang | Assistant Head, Mathematics &amp; Statistics |
+|   Mr Low Fook Hong | Assistant Head, ICT |
 |   Mr Low Chin Han | Senior Teacher |
 |   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
@@ -106,7 +106,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Dr Lina Bte Jalal | Teacher |
 |   Mr Chan Yu Ming | Teacher |
 |   Mr Chia Vui Leong | Teacher |
-|   Mr Chua Jia He Herman (Cai Jiahe)  | Teacher  |
 |   Mr Ku Ching Ming | Teacher |
 |   Ms Lee Sheau Huey  | Head, Mathematics &amp; Statistics  |
 |   Mrs Liu-Ye Xiajuan | Teacher |
@@ -123,6 +122,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Ng Chee Loong |   Head Talent Development &amp; College Counselling |
 |   Mr Li Da |   Senior Consultant |
 |   Mr Chua Eng Siong Claude |   Teacher |
+|   Dr Kiah Han Mao |   Computer Science Educator |
 |
 
 #### **Humanities**
@@ -136,6 +136,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Poh Irene  |   Teacher (Geography) |
 |   Ms Chua Bann |   Teacher (History) |
 |   Ms Tay Melody  |   Teacher (History)  |
+|   Ms Huang Pei Shan Pearl Mia  |   Teacher (History)  |
 |
 
 #### **Mother Tongue &amp; Foreign Languages**
@@ -176,6 +177,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Lim Chong Shen | Teacher |
 |   Ms Vincent Esther Xueming  | Teacher |
 |   Mr Wong Sung Peng Daniel | Teacher  |
+|   Mr Tan Weiqing Melvyn | Teacher  |
 |
 
 #### **Music &amp; Art**
