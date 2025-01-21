@@ -2,10 +2,10 @@ collections:
   students-and-parents:
     output: true
     order:
+      - Giving to NUS High School.md
       - School Fees.md
       - Scholarships and Awards.md
       - Financial Assistance.md
       - School Safety Policy.md
       - Group Accident Insurance.md
       - Parents Support Group.md
-      - Giving to NUS High School.md
