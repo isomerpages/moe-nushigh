@@ -29,7 +29,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mrs Teo-Huang Huan Xin  | Assistant Head, Chemistry |
 |   Ms Zhong Jingyi | Assistant Head, Chemistry |
 |   Mr Murali Krishnaswamy | Head, Student Leadership<br><br> Head, Discipline |
-|   Ms Chong Ai Lin  | Head, Communications &amp; Outreach <br><br>Head, Stakeholder Engagement  |
+|   Ms Chong Ai Lin  | Deputy Director, Organizational Development &amp; Engagement  |
 |   Mdm Ng Yu Rui | Assistant Head, Student Well Being |
 |   Dr Maury Julien Jean Pierre | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Yeo Shyh Yuan Don | Lead Teacher |
@@ -97,7 +97,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Low Chin Han | Acting Assistant Head, Mathematics &amp; Statistics |
 |   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
-|   Ms Jiang Zewei Vivian | Assistant Head, ICT |
+|   Ms Jiang Zewei Vivian | Assistant Head, Mathematics &amp; Statistics |
 |   Ms Seow Chwee Loon Joyce | Senior Teacher |
 |   Mr Teoh Yeow Hwee Joel | Senior Teacher |
 |   Dr Lee Chan Lye | Senior Consultant |
@@ -107,7 +107,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Chia Vui Leong | Teacher |
 |   Mr Chua Jia He Herman (Cai Jiahe)  | Teacher  |
 |   Mr Ku Ching Ming | Teacher |
-|   Ms Lee Sheau Huey  | Teacher  |
+|   Ms Lee Sheau Huey  | Head, Mathematics &amp; Statistics  |
 |   Mrs Liu-Ye Xiajuan | Teacher |
 |   Mr Tan Boon Keong | Teacher |
 |   Mr Tan Rui Feng | Teacher |
