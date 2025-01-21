@@ -9,7 +9,6 @@ description: ""
 <p></p>
 <hr>
 <h4>To find out more about the fund usage, please click here:</h4><a class="isomer-image-wrapper" href="/files/Giving/Giving_to_NUS_High__School_Fundraising_.pdf"><img style="width: 50%;" height="auto" width="100%" alt="Lead the Breakthrough" src="/images/Giving/lead_the_breakthrough.png"></a>
-<p><a href="/files/Giving/Giving_to_NUS_High__School_Fundraising_.pdf" rel="noopener nofollow" target="_blank">Lead the Breakthrough</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
