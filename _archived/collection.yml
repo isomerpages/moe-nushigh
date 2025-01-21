@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - Speech Day 2024.md
       - Virtual Homecoming 2021.md
       - Yearbooks.md
       - Sexuality Education.md
