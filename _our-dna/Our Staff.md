@@ -237,7 +237,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Chee Wei Fang |  Senior Manager |
+|   Ms Chee Wei Fang |  Manager |
 |   Ms Ang Sherli |  Manager |
 |   Ms Poh Han Lin |   Corporate Service Executive  |
 |
@@ -294,6 +294,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-| Ms Chong Ai Lin | Head, Communications &amp; Outreach <br><br>Head, Stakeholder Engagement |
+| Ms Chong Ai Lin | Deputy Director, Organizational Development &amp; Engagement |
 |  Dr Seow Nianjia | Outreach Educator  |
 |
