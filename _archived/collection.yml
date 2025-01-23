@@ -2,6 +2,11 @@ collections:
   archived:
     output: true
     order:
+      - Lead the Breakthrough Archived.md
+      - Voyager Programme.md
+      - BOD BOG Temp Page.md
+      - Convocation 2023.md
+      - Speech Day 2024.md
       - Virtual Homecoming 2021.md
       - Yearbooks.md
       - Sexuality Education.md
