@@ -2,9 +2,9 @@ collections:
   students-and-parents:
     output: true
     order:
-      - Giving to NUS High School/Lead the Breakthrough.md
-      - Giving to NUS High School/Giving to NUS High School.md
       - Giving to NUS High School/.keep
+      - Giving to NUS High School/Giving to NUS High School.md
+      - Giving to NUS High School/Lead the Breakthrough.md
       - School Fees.md
       - Scholarships and Awards.md
       - Financial Assistance.md
