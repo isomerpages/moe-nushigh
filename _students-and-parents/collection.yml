@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Giving to NUS High School/.keep
-      - Giving to NUS High School.md
       - School Fees.md
       - Scholarships and Awards.md
       - Financial Assistance.md
