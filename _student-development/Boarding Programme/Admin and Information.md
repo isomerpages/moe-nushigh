@@ -3,6 +3,7 @@ title: Admin and Information
 permalink: /student-development/boarding-programme/admin/
 description: ""
 third_nav_title: Boarding Programme
+variant: markdown
 ---
 ### **Administration &amp; Information**
 
@@ -26,8 +27,8 @@ Students who hold valid student passes and are above 12 years old are welcome to
 1\. [Leave and Late Return Application Form](/files/form1.pdf)<br>
 2\. [Student Accommodation Application Form](/files/form2.pdf)<br>
 3\. [Boarding Resident Application Form](/files/form3.pdf)<br>
-4\. [Adult Guest Application Form (Student Dorm)](/files/form4.pdf)<br>
-5\. [Adult Guest Application Form (Apartment)](/files/form5.pdf)
+4\. [Student Application Form (Student Dorm)](/files/Boarding/Reservation_for_Student_Room.pdf) <br>
+5\. [Guest Application Form (Apartment)](/files/Boarding/Reservation_For_Guest_Apartment.pdf)<br>
 
 #### Where to find us
 
