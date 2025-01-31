@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - Competition Information.md
       - Lead the Breakthrough Archived.md
       - Voyager Programme.md
       - BOD BOG Temp Page.md
