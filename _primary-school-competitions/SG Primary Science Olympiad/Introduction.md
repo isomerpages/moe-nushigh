@@ -20,11 +20,11 @@ The&nbsp;**Singapore Primary Science Olympiad (SPSO)**&nbsp;is an annual nationa
 --------------------------------------------------
 <br>
 
-_SPSO 2024 will consist of only the Theory Round._
+_SPSO 2025 will consist of only the Theory Round._
 
 <br>
 
 |  | Date | Venue |
 |:---:|:---:|:---:|
-| **Theory Round** | 21 May 2024 (Tuesday) | Participants' Own Schools |
+| **Theory Round** | 20 May 2025 (Tuesday) | Participants' Own Schools |
 |
