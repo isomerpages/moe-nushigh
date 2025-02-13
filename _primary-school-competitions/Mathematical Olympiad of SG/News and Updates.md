@@ -6,10 +6,15 @@ third_nav_title: Mathematical Olympiad of SG
 variant: tiptap
 ---
 <h4></h4>
-<p><strong><u>NMO∑ 2024 Latest Update</u></strong>
+<p><strong><u>NMO∑ 2025</u></strong>
 </p>
-<p>The results for NMOS 2024 will be emailed to the respective school NMOS
-coordinator(s) on 5 Aug 2024, 12pm. Enquires over the phone regarding results
-will not be entertained.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The period for registration for NMOS 2025 if from <strong>1 March 2025 to 1 April 2025</strong>.</p>
+</li>
+<li>
+<p>The new awards for NMOS 2025 can be found <a href="https://www.nushigh.edu.sg/news-and-events/primary-school-competitions/mathematical-olympiad-of-sg/awards/" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
 <p>NMOS Committee
-<br>2 August 2024</p>
+<br>14 February 2025</p>
