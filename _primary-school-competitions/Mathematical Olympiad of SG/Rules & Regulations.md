@@ -16,7 +16,7 @@ variant: tiptap
 </li>
 <li>
 <p><strong>No individual registration will be allowed.</strong>&nbsp;The
-period of registration is from <strong>1 March 2025 to 1 April 2025.</strong>
+period of registration is from <strong>7 March 2025 to 7 April 2025.</strong>
 </p>
 </li>
 <li>
