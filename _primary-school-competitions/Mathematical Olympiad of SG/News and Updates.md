@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The period for registration for NMOS 2025 if from <strong>1 March 2025 to 1 April 2025</strong>.</p>
+<p>The period for registration for NMOS 2025 if from <strong>7 March 2025 to 7 April 2025</strong>.</p>
 </li>
 <li>
 <p>The new awards for NMOS 2025 can be found <a href="https://www.nushigh.edu.sg/news-and-events/primary-school-competitions/mathematical-olympiad-of-sg/awards/" rel="noopener nofollow" target="_blank">here</a>.</p>
