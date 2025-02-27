@@ -48,13 +48,15 @@ comprehension skills.</p>
 </li>
 <li>
 <p>The paper consists of two sections:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Section 1: 30 multiple-choice questions (MCQs), each with 4 possible answers,
 only one of which is correct.</p>
 </li>
 <li>
 <p>Section 2: 10 questions with multiple correct responses.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>The syllabus and sample questions are available via the "Sample Questions"
