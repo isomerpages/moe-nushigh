@@ -27,6 +27,7 @@ for participation.</p>
 </ul>
 <p>Please refer to the email sent to your school, through the school’s principal,
 for registration details.</p>
-<p>For any enquiries, please email spso@highsch.nus.edu.sg</p>
+<p>For any enquiries, please email <a href="mailto:spso@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a>
+</p>
 <p></p>
 <p></p>
