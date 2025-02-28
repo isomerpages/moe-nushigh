@@ -17,10 +17,6 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Academic Position**
 * <a target="_blank" href="/files/Careers/Mathematics_Computer_Science_Teacher.pdf">Mathematics/Computer Science Teacher
 </a>
-* <a target="_blank" href="/files/Careers/History_Teacher.pdf">History Teacher</a>
-* <a target="_blank" href="/files/Careers/English_Language_Teacher.pdf">English Language Teacher</a>
-
-* <a target="_blank" href="/files/Careers/Physics___Engineering_Teacher.pdf">Physics &amp; Engineering Teacher</a>
 * <a target="_blank" href="/files/Careers/Tamil_Language_Teacher.pdf">Tamil Language Teacher</a>
 * <a target="_blank" href="/files/Careers/Assistant_Head__Physics___Engineering.pdf">Assistant Head, Physics &amp; Engineering</a>
 * <a target="_blank" href="/files/Careers/Assistant_Head__Math_and_Statistics.pdf">Assistant Head, Math and Statistics </a>
@@ -28,8 +24,6 @@ Interested applicants should provide a detailed resume and a short write-up on y
 
 #### **Non-Academic Position**
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/assistant_executive_outreach_temp.pdf)
-*  [Senior Executive/Executive, Partnership &amp; Internationalization (P&amp;I)](/files/Careers/Senior_Executive_or_Executive_P_I.pdf)
-*  [Education and Career Guidance (ECG) Counsellor](/files/Careers/ECG_Counsellor.pdf)
 *  [Manager/ Assistant Manager, Boarding Operations](/files/Careers/Advertisement_Manager_Asst_Mgr_Boarding_Operations.pdf)
 
 Only shortlisted candidates will be notified. <br>
