@@ -1,6 +1,6 @@
 ---
 title: Registration
-permalink: /spso/registration/
+permalink: /archived/spso/registration/
 description: ""
 variant: markdown
 ---

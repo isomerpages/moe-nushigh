@@ -1,6 +1,6 @@
 ---
 title: Competition Information
-permalink: /spso/info/
+permalink: /archived/spso/info/
 description: ""
 variant: markdown
 ---

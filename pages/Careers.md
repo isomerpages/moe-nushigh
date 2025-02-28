@@ -30,6 +30,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/assistant_executive_outreach_temp.pdf)
 *  [Senior Executive/Executive, Partnership &amp; Internationalization (P&amp;I)](/files/Careers/Senior_Executive_or_Executive_P_I.pdf)
 *  [Education and Career Guidance (ECG) Counsellor](/files/Careers/ECG_Counsellor.pdf)
+*  [Manager/ Assistant Manager, Boarding Operations](/files/Careers/Advertisement_Manager_Asst_Mgr_Boarding_Operations.pdf)
 
 Only shortlisted candidates will be notified. <br>
 Human Resource <br>
