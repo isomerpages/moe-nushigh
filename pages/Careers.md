@@ -19,7 +19,6 @@ Interested applicants should provide a detailed resume and a short write-up on y
 </a>
 * <a target="_blank" href="/files/Careers/Tamil_Language_Teacher.pdf">Tamil Language Teacher</a>
 * <a target="_blank" href="/files/Careers/Assistant_Head__Physics___Engineering.pdf">Assistant Head, Physics &amp; Engineering</a>
-* <a target="_blank" href="/files/Careers/Assistant_Head__Math_and_Statistics.pdf">Assistant Head, Math and Statistics </a>
 * <a target="_blank" href="/files/Careers/Head__Math_and_Statistics.pdf">Head, Math and Statistics</a>
 
 #### **Non-Academic Position**
