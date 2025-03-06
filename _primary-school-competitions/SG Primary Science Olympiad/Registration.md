@@ -16,9 +16,9 @@ third_nav_title: SG Primary Science Olympiad
 not be entertained.</p>
 </li>
 <li>
-<p>Students can only be registered through their primary schools. Schools
-have the discretion to determine the numbers and select their students
-for participation.</p>
+<p>Students are to obtain registration information directly from their respective
+schools. Schools have the discretion to determine the number of participants
+and select students for participation.</p>
 </li>
 <li>
 <p>Only MOE primary schools are allowed to register.</p>
