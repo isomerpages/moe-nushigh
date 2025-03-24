@@ -10,9 +10,9 @@ variant: tiptap
 </div>
 <h3><strong>Introduction</strong></h3>
 <p>The&nbsp;<strong>Singapore Primary Science Olympiad (SPSO)</strong>&nbsp;is
-an annual national competition which has been organised by the NUS High
-School of Mathematics and Science since 2009. This competition is open
-to Primary Five pupils in Singapore.</p>
+an annual national competition organised by the NUS High School of Mathematics
+and Science since 2009. This competition is open to Primary Five pupils
+in Singapore.</p>
 <h3><strong>Aims of SPSO</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -24,7 +24,7 @@ and Science Olympiad (IMSO)</p>
 school pupils</p>
 </li>
 <li>
-<p>Cultivate enthusiasm and instil passion for science subjects</p>
+<p>Cultivate enthusiasm and instill passion for science subjects</p>
 </li>
 <li>
 <p>Provide an avenue to showcase pupils' abilities in the subjects</p>
