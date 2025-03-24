@@ -20,6 +20,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * <a target="_blank" href="/files/Careers/Tamil_Language_Teacher.pdf">Tamil Language Teacher</a>
 * <a target="_blank" href="/files/Careers/Assistant_Head__Physics___Engineering.pdf">Assistant Head, Physics &amp; Engineering</a>
 * <a target="_blank" href="/files/Careers/Head__Math_and_Statistics.pdf">Head, Math and Statistics</a>
+* [Chemistry Teacher](/files/Careers/Chemistry_Teacher_Advertisement_2025_03_10.pdf)
 
 #### **Non-Academic Position**
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
