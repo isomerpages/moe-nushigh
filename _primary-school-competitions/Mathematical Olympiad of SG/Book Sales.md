@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h3><strong>Retail Store</strong></h3>
 <p>Publications for our NMOΣ Five-Year Series (2016 to 2019, 2021), 2017,
-2018, 2019, 2021, 2022, 2023 and 2024 NMOΣ questions (with solutions for
-both Preliminary and Special rounds) are available for walk-in sale (while
-stocks last) at:
+2018, 2019, 2021, 2022, 2023 and 2024 NMOΣ questions (with solutions) are
+available for walk-in sale (while stocks last) at:
 <br>
 </p>
 <p>NUS Co-op@Central Forum
