@@ -6,9 +6,9 @@ third_nav_title: Mathematical Olympiad of SG
 variant: tiptap
 ---
 <h3><strong>Retail Store</strong></h3>
-<p>Publications for our NMOΣ Six-Year Series (2016 to 2019, 2021 to 2021),
-2023 and 2024 NMOΣ questions (with solutions for both Preliminary and Special
-rounds) are available for walk-in sale (while stocks last) at:
+<p>Publications for our NMOΣ Five-Year Series (2016 to 2019, 2021), 2017,
+2018, 2019, 2021, 2022, 2023 and 2024 NMOΣ questions (with solutions) are
+available for walk-in sale (while stocks last) at:
 <br>
 </p>
 <p>NUS Co-op@Central Forum
@@ -17,7 +17,7 @@ rounds) are available for walk-in sale (while stocks last) at:
 <br>CLB-01-02
 <br>Singapore 119275</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/book_sales_image_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/book_sales_image.png">
 </div>
 <p>The books are also available on their <a href="https://www.nuscoop.sg/search?keywords=NMOS" rel="noopener noreferrer nofollow" target="_blank">online bookstore.</a>
 </p>
