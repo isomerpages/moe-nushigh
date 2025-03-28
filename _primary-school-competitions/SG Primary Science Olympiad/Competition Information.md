@@ -15,10 +15,6 @@ third_nav_title: SG Primary Science Olympiad
 <p>Open to all Primary Five students enrolled in the year of the competition.</p>
 </li>
 <li>
-<p>Registration must be done through primary schools; no private registrations
-are allowed.</p>
-</li>
-<li>
 <p>There is no limit on the number of participants from each school.&nbsp;
 However, schools have the discretion to determine the numbers and select
 their students for participation.</p>
@@ -102,7 +98,7 @@ No telephone inquiries regarding results will be entertained.</p>
 names at the point of registration as they will appear on the e-certificates.</p>
 </li>
 <li>
-<p>A surcharge of $10 nett will be imposed for the reprint of each e-certificate.</p>
+<p>A surcharge of $24 nett will be imposed for the reprint of each e-certificate.</p>
 </li>
 <li>
 <p>Any medals and trophies will be delivered to the schools around mid-September

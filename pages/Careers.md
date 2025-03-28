@@ -18,7 +18,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * <a target="_blank" href="/files/Careers/Mathematics_Computer_Science_Teacher.pdf">Mathematics/Computer Science Teacher
 </a>
 * <a target="_blank" href="/files/Careers/Tamil_Language_Teacher.pdf">Tamil Language Teacher</a>
-* <a target="_blank" href="/files/Careers/Assistant_Head__Physics___Engineering.pdf">Assistant Head, Physics &amp; Engineering</a>
+* [Assistant Head, Physics &amp; Engineering](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
 * <a target="_blank" href="/files/Careers/Head__Math_and_Statistics.pdf">Head, Math and Statistics</a>
 * [Chemistry Teacher](/files/Careers/Chemistry_Teacher_Advertisement_2025_03_10.pdf)
 
