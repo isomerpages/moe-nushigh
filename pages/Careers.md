@@ -26,6 +26,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Non-Academic Position**
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
 *  [Manager/ Assistant Manager, Boarding Operations](/files/Careers/Advertisement_Manager_Asst_Mgr_Boarding_Operations.pdf)
+*  [Pastoral Counsellor](/files/Careers/Pastoral_Counsellor.pdf)
 
 Only shortlisted candidates will be notified. <br>
 Human Resource <br>
