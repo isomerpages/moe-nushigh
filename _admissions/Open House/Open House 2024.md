@@ -9,8 +9,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_banner_post_open_house_after.jpg">
 </div>
-<h4><strong>Onsite Open House on 11 May 2024</strong></h4>
-<p>Come, join us at NUS High School Open House on&nbsp;<strong>11 May 2024, Saturday, 9 am – 3 pm!</strong>
+<h4><strong>Onsite Open House on 29 May 2025</strong></h4>
+<p>Come, join us at NUS High School Open House on&nbsp;<strong>29 May 2025, Saturday, 9 am – 3 pm!</strong>
 </p>
 <p>Do not miss the chance to hear our staff and students share exciting anecdotes
 of their school life and be enlightened by our unique curriculum and modular
