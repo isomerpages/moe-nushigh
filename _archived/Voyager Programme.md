@@ -1,7 +1,8 @@
 ---
 title: Voyager Programme
-permalink: /studying-at-nus-high/student-development/voyager-programme/
+permalink: /archived/voyager-programme/
 description: ""
+variant: tiptap
 ---
 <center>The Voyager Programme seeks to develop students in the following areas:</center>
 

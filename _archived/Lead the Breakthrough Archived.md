@@ -1,6 +1,6 @@
 ---
 title: Lead the Breakthrough Archived
-permalink: /lead-the-breakthrough-archived/
+permalink: /archived/lead-the-breakthrough/
 variant: tiptap
 description: ""
 ---

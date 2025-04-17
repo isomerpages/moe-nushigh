@@ -1,6 +1,6 @@
 ---
 title: Convocation 2023
-permalink: /students-and-parents/convo23/
+permalink: /archived/students-and-parents/convo23/
 variant: markdown
 description: ""
 ---
