@@ -22,7 +22,7 @@ sections:
       title: Open House 2025
       button: click here for more details
       url: /admissions/open-house/
-      image: /images/Admission/Open_House_2025_halved.jpg
+      image: /images/Admission/Open_House_2025.jpg
       alt: Image alt text
   - infopic:
       image: /images/Main Page/phi14x3.png
