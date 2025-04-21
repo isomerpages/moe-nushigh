@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web_banner_post_open_house_after.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admission/Open_House_2025_halved.jpg">
 </div>
 <h4><strong>Onsite Open House on 24 May 2025</strong></h4>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>24 May 2025, Saturday, 9 am – 3 pm!</strong>
@@ -36,25 +35,26 @@ matters.&nbsp;</p>
 </p>
 <p>You may also refer to the tab "Open House Information" for information
 curated from our previous e-Open House.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/openhse2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Christopher_15.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/openhse1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Jayden_OpenHouse__15_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/openhse3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Christopher_26.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/openhse5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/openhse4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Ayden_OpenHouse_14.jpg">
 </div>
 <p>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Jayden_OpenHouse__16_.jpg">
+</div>
+<p></p>
