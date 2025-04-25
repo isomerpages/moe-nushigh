@@ -27,8 +27,7 @@ talents, expand their interests and explore their passions.</p>
 <br>• Session 3: 1230 to 1315
 <br>• Session 4: 1345 to 1430
 <br>• Session 5: 1500 to 1545</p>
-<p><strong>No pre-registration is required</strong>. You may click on this
-link:&nbsp;<a href="https://nush.link/keepintouch/" rel="noopener noreferrer nofollow" target="_blank">https://nush.link/keepintouch/</a>&nbsp;to
+<p>You may click on this link:&nbsp;<a href="https://nush.link/keepintouch/" rel="noopener noreferrer nofollow" target="_blank">https://nush.link/keepintouch/</a>&nbsp;to
 be on our mailing list for updates on Open House and admissions related
 matters.&nbsp;</p>
 <p><strong><u>Check back on this page to view more updates!</u></strong>
