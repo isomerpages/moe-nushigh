@@ -15,14 +15,14 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
+* [Head, Math and Statistics](/files/Careers/Head__Math_and_Statistics.pdf)
 * <a target="_blank" href="/files/Careers/Mathematics_Computer_Science_Teacher.pdf">Mathematics/Computer Science Teacher
 </a>
-* <a target="_blank" href="/files/Careers/Tamil_Language_Teacher.pdf">Tamil Language Teacher</a>
 * [Assistant Head, Physics &amp; Engineering](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
-* <a target="_blank" href="/files/Careers/Head__Math_and_Statistics.pdf">Head, Math and Statistics</a>
 * [Chemistry Teacher](/files/Careers/Chemistry_Teacher_Advertisement_2025_03_10.pdf)
 * [English Language Teacher](/files/Careers/EL_Teacher___Updated.pdf)
 * [Chinese Language Teacher](/files/Careers/Chinese_Language_Teacher_Advertisement_2025_03_24.pdf)
+* [Tamil Language Teacher](/files/Careers/Tamil_Language_Teacher.pdf)
 
 #### **Non-Academic Position**
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
