@@ -37,7 +37,7 @@ For Year 3 Admission applicants:<br>
 Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books and any Mathematics and Science related accomplishments, such as certificates and awards are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission) &nbsp;by 27 August 2025. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
-From 1 to 14 Nov 2025: Portfolio including scanned copies of the P5 and 6 school report books and any Mathematics and Science related accomplishments, such as certificates and awards, are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;by 14 Nov 2025. All SIE applicants are required to do so.
+From 1 to 14 November 2025: Portfolio including scanned copies of the P5 and 6 school report books and any Mathematics and Science related accomplishments, such as certificates and awards, are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;by 14 November 2025. All SIE applicants are required to do so.
 
 As supporting documents are non-returnable, the applicant is advised to provide only scanned copies of the original documents.
 
