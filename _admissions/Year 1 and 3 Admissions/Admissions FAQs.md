@@ -8,17 +8,17 @@ variant: markdown
 #### **Admissions &amp; Application Matters**
 ##### **1\. How many application phases are there per year?**
 
-For Year 1 admission in 2025, 100% of the places are offered via the DSA-Sec Exercise. Registration for DSA-Sec Exercise is at the MOE centralised DSA-Sec online portal during application period. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
+For Year 1 admission in 2026, 100% of the places are offered via the DSA-Sec Exercise. Registration for DSA-Sec Exercise is at the MOE centralised DSA-Sec online portal during application period. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
-If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2024 to the third day of release of PSLE results.
+If there are vacancies after the DSA-Sec Exercise, interested students must indicate their interest and register for the Supplementary Intake Exercise (SIE) from 1 November 2025 to the third day of release of PSLE results.
 
-For Year 3 admission in 2025, the registration is from 14 to 28 August 2024 at&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission).
+For Year 3 admission in 2026, the registration is from 13 to 27 August 2025 at&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission).
 
 ##### **2\. How old must an applicant be to qualify for admission?**
 
-For admission to Year 1 at NUS High School, Singapore mainstream schools' applicants must currently be in Primary Six. Non mainstream schools' applicants must either be currently reading or have completed Singapore Primary Six education (or its equivalent). In addition, applicants must be born between 2010 - 2012 and should not be older than 15 years of age as of 1 January 2025.
+For admission to Year 1 at NUS High School, Singapore mainstream schools' applicants must currently be in Primary Six. Non mainstream schools' applicants must either be currently reading or have completed Singapore Primary Six education (or its equivalent). In addition, applicants must be born between 2011 - 2013 and should not be older than 15 years of age as of 1 January 2026.
 
-For admission to Year 3 at NUS High School, Singapore mainstream schools' applicants must currently be in Secondary Two. Non mainstream schools' applicants must either be currently reading or have completed Singapore Secondary Two education (or its equivalent). In addition, applicants must be born between 2008 - 2010 and should not be older than 17 years of age as of 1 January 2025.&nbsp;The Year 3 Admission is&nbsp;**not open**&nbsp;to Singapore mainstream schools' Secondary Two students who are currently studying in IP school / IP track or were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS).&nbsp;&nbsp;
+For admission to Year 3 at NUS High School, Singapore mainstream schools' applicants must currently be in Secondary Two. Non mainstream schools' applicants must either be currently reading or have completed Singapore Secondary Two education (or its equivalent). In addition, applicants must be born between 2009 - 2011 and should not be older than 17 years of age as of 1 January 2026.&nbsp;The Year 3 Admission is&nbsp;**not open**&nbsp;to Singapore mainstream schools' Secondary Two students who are currently studying in IP school / IP track or were posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS).&nbsp;&nbsp;
 
 ##### **3\. What if I do not have internet access for online application?**
 
@@ -29,48 +29,50 @@ For Year 3 Admission and Year 1 SIE applicants with no internet access, please a
 ##### **4\. When do I have to submit the supporting documents to NUS High School?**
 
 For Year 1 DSA-Sec applicants:<br>
-Before the Selection Camp: The details for submission of the portfolio including scanned copies of P4, P5 and P6 semester 1 school report books, achievements, competitions, awards and scholarships certificates will be announced after the Selection Tests. Only applicants who have been shortlisted for the DSA Selection Camp are required to do so.
+Only applicants who have been shortlisted for the DSA Selection Camp need to submit their portfolio. The submission instruction will be provided with the invitation to attend the Selection Camp, via the e-mail contact e-mail address filled in at MOE Centralised DSA-Sec Online Portal. Portfolio may include any Mathematics and Science related accomplishments, such as certificates and awards. 
+
+There is no need to submit copy of school report book if the applicant is studying in a Singapore MOE Mainstream School. Submission of copies of school report book for equivalent of Primary 5 and Primary 6 levels results are only required for applicants who are not from Singapore MOE Schools.
 
 For Year 3 Admission applicants:<br>
-Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission) &nbsp;by 28 August 2024. All Year 3 Admission applicants are required to do so.
+Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books and any Mathematics and Science related accomplishments, such as certificates and awards are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission) &nbsp;by 27 August 2025. All Year 3 Admission applicants are required to do so.
 
 For Year 1 SIE applicants:<br>
-From 1 to 14 Nov 2024: Portfolio including scanned copies of the P5 and 6 school report books, awards, achievements and scholarships certificates are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;by 14 Nov 2024. All SIE applicants are required to do so.
+From 1 to 14 Nov 2025: Portfolio including scanned copies of the P5 and 6 school report books and any Mathematics and Science related accomplishments, such as certificates and awards, are to be uploaded to the&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;by 14 Nov 2025. All SIE applicants are required to do so.
 
 As supporting documents are non-returnable, the applicant is advised to provide only scanned copies of the original documents.
 
 ##### **5\. What supporting documents do i need to submit to NUS High School? In what format should the documents be?**
 
-The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or PDF format&nbsp;before attending the selection camp / interview.&nbsp;
+The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or PDF format&nbsp;before attending the selection camp / interview respectivly.&nbsp;
 
-1\. P4 to P6 report books (Year 1) / P6 to Sec 2 report books (Year 3)<br>
-2\. Achievements certificates (optional)<br>
-3\. Awards &amp; scholarships certificates (optional)<br>
-4\. Any other activities outside schools that showed the applicants' passion and talent in Math&nbsp;and/or&nbsp;Science (optional)
+1\. P5 to P6 level equivalent report books (for Year 1 applicants who are from Non-Singapore MOE Mainstream Schools only) / P6 to Sec 2 report books (for all Year 3 applicants)<br>
+2\. Mathematics and Science related accomplishments, such as certificates and awards (optional)<br>
+
 
 ##### **6\. Does NUS High School admit students via DSA sports talents?**
 
 No. We only have Mathematics and Science talent areas for DSA-Sec.
 
+
 ##### **7\. Is there DSA selection test, camp and interview this year? Is there Year 3 admission test and interview this year? Is there SIE interview this year?**
 
-Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 29 June 2024. The Selection Camp and Interview will be on the 13 and 23 July 2024 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. Thereafter, applicants who need to be further assessed will attend a Selection Interview.
+Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 5 July 2025. The Selection Camp will be on 25 or 26 July 2025 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. There will not be any Selection Interview.
 
-The Year 3 Admission Selection Tests will be on the 10 September 2024 and the Selection Interview will be on the 24 September 2024. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
+The Year 3 Admission Selection Tests will be on 16 September 2025 and the Selection Interview will be on 30 September 2025. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
 
 The SIE Interview will be between 3rd&nbsp;and 6th&nbsp;day from the release of the PSLE results. Only shortlisted applicants will attend the SIE interview.
 
 ##### **8\. How do you shortlist applicants for the selection camp / interview?**
 
-We will shortlist the applicants through their performance in the Selection Tests, their primary school test and exam results (mastery of primary school syllabus in math and science), participation and achievements in math and science related competitions and programmes. We will also look at the related CCA achievements, awards, scholarships, projects and so on.
+We shortlist applicants through their performance in the Selection Tests, their primary school test and exam results (mastery of primary school syllabus in math and science), participation and achievements in Mathematics and Science related competitions and programmes. We will also look at the related CCA accomplishments, such as certificates and awards.
 
 ##### **9\. When will I be informed if I am shortlisted for the selection camp or interview?**
 
 For Year 1 DSA-Sec applicants:<br>
-After the Selection Tests. Shortlisted applicants will be informed by 12 July 2024 for the Selection Camp. The Selection Camp will be held on 13 July 2024.
+After the Selection Tests. Shortlisted applicants will be informed by 24 July 2025 for the Selection Camp. The Selection Camp will be held on 25 July 2025 or 26 July 2025.
 
 For Year 3 Admission applicants:<br>
-After the Selection Tests. Shortlisted applicants will be informed by 23 September 2024 for the Selection Interview. The Selection Interview will be held on 24 September 2024.
+After the Selection Tests. Shortlisted applicants will be informed by 29 September 2025 for the Selection Interview. The Selection Interview will be held on 30 September 2025.
 
 For Year 1 SIE applicants:<br>
 Shortlisted applicants will be informed by the 3rd&nbsp;day from the release of the PSLE results.
@@ -78,7 +80,7 @@ Shortlisted applicants will be informed by the 3rd&nbsp;day from the release of 
 ##### **10\. Where will the selection be held?**
 
 For Year 1 DSA-Sec applicants<br>
-The Year 1 Selection Tests will be conducted at NUS Multi-Purpose Hall or NUS High School. Applicants will be informed of the exact venue by 21 June 2024. The Selection Camp and Selection Interview will be held at NUS High School.
+The Year 1 Selection Tests venues are pending confirmation. Applicants will be informed of the exact venue by 1 July 2025. The Selection Camp will be held at NUS High School.
 
 For Year 3 Admission<br>
 The Year 3 Selection Tests and Selection Interview will be held at NUS High School.
@@ -88,7 +90,7 @@ The Year 1 SIE Selection Interview will be held at NUS High School.
 
 ##### **11.&nbsp;What will the selection test, camp and interview be based on?**
 
-NUS High School considers various qualities and attributes and does not focus on students' past achievements alone. The selection tests, camp and interview assess the understanding and application of mathematics and science that have been taught in schools. There will also be general knowledge questions to assess how widely read students are in the fields of mathematics and the sciences. We also look for qualities such as problem solving abilities, passion and motivation, independence, creativity and communication abilities.
+NUS High School considers various qualities and attributes and does not focus on students' past achievements alone. The selection assesses the understanding and application of mathematics and science that have been taught in schools. There will also be general knowledge questions to assess how widely read students are in the fields of mathematics and the sciences. We also look for qualities such as problem solving abilities, passion and motivation, independence, creativity and communication abilities.
 
 ##### **12\. What if I am unable to attend the selection test, camp or interview?**
 
@@ -96,9 +98,9 @@ Applicants who have registered but are unable to attend the selection because of
 
 ##### **13\. How would I know if I am accepted by NUS High School?**
 
-For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by August 2024 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;
+For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by 4 September 2025 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;
 
-For Year 3 Admission, successful applicants will be notified and given a Letter of Confirmed Offer via e-mail by mid October 2024.
+For Year 3 Admission, successful applicants will be notified and given a Letter of Confirmed Offer via e-mail by mid October 2025.
 
 For Year 1 SIE, successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) within the Secondary One Option Phase.
 
@@ -161,11 +163,11 @@ Yes. You may apply for SIE. Selection of applicants in the SIE will be based on 
 
 ##### **27\. When can I register for NUSHS SIE?**
 
-You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;and upload your scanned documents from 1 November 2024 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
+You may indicate your interest &amp; register online at&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;and upload your scanned documents from 1 November 2025 to the third day of release of PSLE results. The SIE application will be open on the day of release of the PSLE results, if there are vacancies available.
 
 ##### **28\. Do I need to re-register online for SIE if I have already completed the online application for DSA-Sec via the MOE Centralised Online Portal?**
 
-Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;from 1 to 14 November 2024.
+Yes. For those who have applied for DSA-Sec via the MOE Centralised Online Portal previously, you MUST apply for the SIE via&nbsp;[NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form) &nbsp;from 1 to 14 November 2025.
 
 If we have vacancies and you are eligible for the SIE, you will need to fill in your P6 prelims, PSLE AL-scores and grades at the&nbsp;[PSLE results submission portal](https://go.gov.sg/2024-nushs-sie-submit-psle-results) &nbsp;from the first to the third day of release of PSLE results.
 
