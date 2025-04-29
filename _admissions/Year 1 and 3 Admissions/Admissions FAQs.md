@@ -31,7 +31,7 @@ For Year 3 Admission and Year 1 SIE applicants with no internet access, please a
 For Year 1 DSA-Sec applicants:<br>
 Only applicants who have been shortlisted for the DSA Selection Camp need to submit their portfolio. The submission instruction will be provided with the invitation to attend the Selection Camp, via the e-mail contact e-mail address filled in at MOE Centralised DSA-Sec Online Portal. Portfolio may include any Mathematics and Science related accomplishments, such as certificates and awards. 
 
-There is no need to submit copy of school report book if the applicant is studying in a Singapore MOE Mainstream School. Submission of copies of school report book for equivalent of Primary 5 and Primary 6 levels results are only required for applicants who are not from Singapore MOE Schools.
+There is no need to submit copy of school report book if the applicant is studying in a Singapore Mainstream School. Submission of copies of school report book for equivalent of Primary 5 and Primary 6 levels results are only required for applicants who are not from Singapore Mainstream Schools.
 
 For Year 3 Admission applicants:<br>
 Before the Selection Tests: Portfolio including photocopies of the Primary 6, Secondary 1 and Secondary 2 semester 1 school report books and any Mathematics and Science related accomplishments, such as certificates and awards are to be uploaded to the&nbsp;[Year 3 Admission Online Application Portal](https://go.gov.sg/nush-ay2025-y3-admission) &nbsp;by 27 August 2025. All Year 3 Admission applicants are required to do so.
@@ -43,9 +43,9 @@ As supporting documents are non-returnable, the applicant is advised to provide 
 
 ##### **5\. What supporting documents do i need to submit to NUS High School? In what format should the documents be?**
 
-The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or PDF format&nbsp;before attending the selection camp / interview respectivly.&nbsp;
+The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or Pdf format&nbsp;before attending the selection camp / interview respectivly.&nbsp;
 
-1\. P5 to P6 level equivalent report books (for Year 1 applicants who are from Non-Singapore MOE Mainstream Schools only) / P6 to Sec 2 report books (for all Year 3 applicants)<br>
+1\. P5 to P6 level equivalent report books (for Year 1 applicants who are from Non-Singapore Mainstream Schools only) / P6 to Sec 2 report books (for all Year 3 applicants)<br>
 2\. Mathematics and Science related accomplishments, such as certificates and awards (optional)<br>
 
 
@@ -64,7 +64,7 @@ The SIE Interview will be between 3rd&nbsp;and 6th&nbsp;day from the release of 
 
 ##### **8\. How do you shortlist applicants for the selection camp / interview?**
 
-We shortlist applicants through their performance in the Selection Tests, their primary school test and exam results (mastery of primary school syllabus in math and science), participation and achievements in Mathematics and Science related competitions and programmes. We will also look at the related CCA accomplishments, such as certificates and awards.
+We shortlist applicants through their performance in the Selection Tests, their primary school test and exam results (mastery of primary school syllabus in Mathematics and Science), participation and achievements in Mathematics and Science related competitions and programmes. We will also look at the related CCA accomplishments, such as certificates and awards.
 
 ##### **9\. When will I be informed if I am shortlisted for the selection camp or interview?**
 
