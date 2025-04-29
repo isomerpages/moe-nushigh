@@ -48,7 +48,7 @@ _\* Important points to note when you register at MOE Centralised DSA-Sec Online
 *   Applicants will receive invitation email via the Main Contact Email Address by 24 July 2025, if shortlisted to attend the Selection Camp on **25 July 2025, Friday or 26 July 2025, Saturday**.
 
 3. Offer of the DSA-Sec Exercise
-*   Successful applicants will be notified of the selection outcome - Confirmed Offer (CO) or Wait List Offer (WL) by **4 Sep 2025** via the main contact e-mail address registered with MOE Centralised DSA-Sec Online Portal.
+*   Successful applicants will be notified of the selection outcome - Confirmed Offer (CO) or Wait List Offer (WL) by **4 September 2025** via the main contact e-mail address registered with MOE Centralised DSA-Sec Online Portal.
 *   Please note that the School is unable to provide information on application outcome or status over the telephone and we reserve the right not to release any information explaining why an application is unsuccessful.
 *   All applicants will receive their application outcomes between 25 August and 4 September 2025.
 
