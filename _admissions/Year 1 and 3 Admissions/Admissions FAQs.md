@@ -43,7 +43,7 @@ As supporting documents are non-returnable, the applicant is advised to provide 
 
 ##### **5\. What supporting documents do i need to submit to NUS High School? In what format should the documents be?**
 
-The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or Pdf format&nbsp;before attending the selection camp / interview respectivly.&nbsp;
+The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or Pdf format&nbsp;before attending the selection camp / interview respectively.&nbsp;
 
 1\. P5 to P6 level equivalent report books (for Year 1 applicants who are from Non-Singapore Mainstream Schools only) / P6 to Sec 2 report books (for all Year 3 applicants)<br>
 2\. Mathematics and Science related accomplishments, such as certificates and awards (optional)<br>
