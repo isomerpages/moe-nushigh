@@ -15,7 +15,7 @@ All RSC and RSPR who are interested in NUS High School are encouraged to partici
 *   [Admission to Year 1](https://staging.d1bl70m167uzkq.amplifyapp.com/admissions/year-1-and-3-admissions/year-1-admissions/)
 *   [Admission to Year 3](https://staging.d1bl70m167uzkq.amplifyapp.com/admissions/year-1-and-3-admissions/year-3-admissions/)
 
-Applicants who missed the above admission periods may appeal to&nbsp;[newton@highsch.nus.edu.sg](mailto:newton@highsch.nus.edu.sg)&nbsp;for alternative test date, subject to approval. The deadline for both Year 1 and Year 3 is 30 September 2024.
+Applicants who missed the above admission periods may appeal to&nbsp;[newton@highsch.nus.edu.sg](mailto:newton@highsch.nus.edu.sg)&nbsp;for alternative test date, subject to approval. The deadline for both Year 1 and Year 3 is 30 September 2025.
 
 #### **Admission for International Student (IS)**
 There are three categories of International Students (IS):<br>
