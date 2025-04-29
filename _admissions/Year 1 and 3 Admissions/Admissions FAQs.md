@@ -98,7 +98,7 @@ Applicants who have registered but are unable to attend the selection because of
 
 ##### **13\. How would I know if I am accepted by NUS High School?**
 
-For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by 4 September 2025 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp;
+For Year 1 DSA-Sec,&nbsp;successful applicants will be notified and given a Letter of Offer (Confirmed Offer / Wait List) by 4 September 2025 via the main contact email address registered with MOE Centralised DSA-Sec Online Portal.&nbsp; All applicants will receive their application outcomes between 25 August and 4 September 2025.
 
 For Year 3 Admission, successful applicants will be notified and given a Letter of Confirmed Offer via e-mail by mid October 2025.
 
