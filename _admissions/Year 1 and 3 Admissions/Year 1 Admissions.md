@@ -62,7 +62,7 @@ Applicants who are interested to apply to NUS High School via the SIE should als
 
 Selection of applicants in the SIE will be based on the PSLE results and portfolio which includes primary school academic results. Only shortlisted applicants will be invited to attend a Selection Interview. Applicants with a PSLE score of 4 to 6 with AL 1 in both Mathematics and Science are encouraged to apply.
 
-Interested applicants are strongly advised to indicate their interest online and upload the required documents (P4 to 6 academic results, achievements, scholarships and awards certificates) from **1 to 14 November 2025** [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form). **Online Application for SIE will only open if there is vacancy available on the PSLE results releasing date.**
+Interested applicants are strongly advised to indicate their interest online and upload the required documents (P5 and P6 academic results and Mathematics and Science related accomplishments, such as certificates and awards) from **1 to 14 November 2025** [NUS High School Online Indication of Interest](https://go.gov.sg/2024-nushs-sie-interest-form). **Online Application for SIE will only open if there is vacancy available on the PSLE results releasing date.**
 
 **Important dates and information for Supplementary Intake Exercise (SIE)**
 
