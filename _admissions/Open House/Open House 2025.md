@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<p><a href="/files/Open House/NUSH_Open_House_and_DSA.pdf" rel="noopener nofollow" target="_blank">Open House and DSA Pamphlet</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admission/Open_House_2025_halved.jpg">
 </div>
 <h4><strong>Onsite Open House on 24 May 2025</strong></h4>
+<blockquote>
+<p><a href="/files/Open House/NUSH_Open_House_and_DSA.pdf" rel="noopener nofollow" target="_blank">Open House and DSA Pamphlet</a>
+</p>
+</blockquote>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>24 May 2025, Saturday, 9 am – 3 pm!</strong>
 </p>
 <p>Do not miss the chance to hear our staff and students share exciting anecdotes
