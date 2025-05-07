@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
+<p><a href="/files/Open House/NUSH_Open_House_and_DSA.pdf" rel="noopener nofollow" target="_blank">Open House and DSA Pamphlet</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admission/Open_House_2025_halved.jpg">
 </div>
