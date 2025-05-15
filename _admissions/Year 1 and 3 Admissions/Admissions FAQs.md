@@ -196,3 +196,7 @@ As NUS High School is not in the S1 Posting Exercise, there is no cut-off point 
 The SIE will not be opened.&nbsp;
 
 Other information related to University and Career options, University Admissions can be found&nbsp;[here](/admissions/university-placement/university-placement/).
+
+##### **35\. Must a student be in Posting Group 3 to be eligible to apply for Year 3 Admission?**
+
+No, being in Posting Group 3 is not a requirement. However, we highly recommend that applicants should be reading G3 Mathematics and G3 Science in their current school, as this better aligns with the academic rigour expected at year 3 entry.
