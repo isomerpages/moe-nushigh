@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <h4><strong>Onsite Open House on 24 May 2025</strong></h4>
 <blockquote>
-<p><a href="/files/Open House/NUSH_Open_House_and_DSA.pdf" rel="noopener nofollow" target="_blank">Open House and DSA Pamphlet</a>
+<p><a href="/files/Open House/NUSH_Open_House_and_DSA_pdf.pdf" rel="noopener nofollow" target="_blank">Open House and DSA Pamphlet</a>
 </p>
 </blockquote>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>24 May 2025, Saturday, 9 am – 3 pm!</strong>
