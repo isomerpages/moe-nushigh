@@ -25,6 +25,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Tamil Language Teacher](/files/Careers/Tamil_Language_Teacher.pdf)
 
 #### **Non-Academic Position**
+*  [Assistant Manager, Admissions &amp; Recruitment](/files/Careers/Asst_Mgr_Admissions___Recruitment_May_2025.pdf)
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
 *  [Manager/ Assistant Manager, Boarding Operations](/files/Careers/Advertisement_Manager_Asst_Mgr_Boarding_Operations.pdf)
 *  [Pastoral Counsellor](/files/Careers/Pastoral_Counsellor.pdf)
