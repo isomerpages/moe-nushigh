@@ -121,7 +121,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Ng Chee Loong |   Head Talent Development &amp; College Counselling |
 |   Mr Li Da |   Senior Consultant |
 |   Mr Chua Eng Siong Claude |   Teacher |
-|   Dr Kiah Han Mao |   Computer Science Educator |
 |
 
 #### **Humanities**
@@ -259,10 +258,10 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Mr Allan Patrick Uy |   Senior College Counsellor |
-|   Mr Christopher Andrew West | Senior College Counsellor |
 |   Ms Lee Ye Kee Jade |   Principal Pastoral Counsellor |
-|   Ms Chua Shuyi Sarah Elizabeth |   Pastoral Counsellor |
 |   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
+|   Ms Ding Mengyao |   Education &amp; Career Guidance Counsellor |
+|   Mr Lim Jun Liang Eugene |   Education &amp; Career Guidance Counsellor |
 |   Mrs Lim Siok Hwa Jenny  |  Corporate Service Officer |
 |
 
@@ -270,7 +269,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-| Ms Ang Sherli |  Manager, Operations |
+| Mr Tay Tai Chung | Manager, Operations |
 | Mr Joseph Giri Sri Krishnan | Manager (Boarding Master) |
 | Ms Shahira Binte Amat Amin | Corporate Service Executive |
 | Mrs Sheela Peranandam | Corporate Service Executive  |
