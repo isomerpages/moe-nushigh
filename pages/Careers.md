@@ -23,6 +23,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Chinese Language Teacher](/files/Careers/Chinese_Language_Teacher_Advertisement_2025_03_24.pdf)
 
 #### **Non-Academic Position**
+*  [Corporate Service Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
 *  [Assistant Manager, Admissions &amp; Recruitment](/files/Careers/Asst_Mgr_Admissions___Recruitment_May_2025.pdf)
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
 
