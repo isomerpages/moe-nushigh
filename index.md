@@ -19,10 +19,10 @@ sections:
           description: Join us!
           url: /careers
   - infopic:
-      title: Open House 2025
+      title: Year 1 and 3 Admissions
       button: click here for more details
-      url: /admissions/open-house/
-      image: /images/Admission/Open_House_2025.jpg
+      url: /admissions/year-1-and-3-admissions/
+      image: /images/Admission/Web_banner_post_open_house.jpg
       alt: Image alt text
   - infopic:
       image: /images/Main Page/phi14x3.png
