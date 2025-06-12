@@ -43,7 +43,5 @@ With effect from 1 April 2019, MOE has introduced the UPLIFT Scholarship to reco
 The UPLIFT Scholarship information is available here: <br>
 <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships">https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships</a>
 
-#### **Temasek Foundation Study Award for STEM**
-Temasek Foundation Study Award for STEM may be given to NUS High School students who received school fees subsidy under the tier 1 &amp; 2 MOE Independent School Bursary (ISB) scheme at Tier 1 and Tier 2.
-
-Besides the school fees subsidy under the MOE ISB scheme, NUS High School provides additional financial assistance to needy Singapore Citizen pupils so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.
+#### **NUS High Study Award**
+UPLIFT Scholarship recipents qualify for an additional NUS High Study Award of up to $2,000 per annum, complementing their existing MOE ISB benefits.
