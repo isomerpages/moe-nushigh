@@ -19,7 +19,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Mathematics/Computer Science Teacher](/files/Careers/Mathematics_Computer_Science_Teacher.pdf)
 * [Mathematics Adjunct Teacher](/files/Careers/Mathematics_Adjunct_Teacher.pdf)
 * [Assistant Head, Physics &amp; Engineering](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
-* [English Language Teacher](/files/Careers/EL_Teacher___Updated.pdf)
+* [English Language Teacher](/files/Careers/EL_Teacher_Advertisement_Updated_1_Jul_25.pdf)
 * [Chinese Language Teacher](/files/Careers/Chinese_Language_Teacher_Advertisement_2025_03_24.pdf)
 
 #### **Non-Academic Position**
