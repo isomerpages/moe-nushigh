@@ -59,7 +59,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Lim Li Chen |   Teacher |
 |   Dr Ng Tiong Eng |   Teacher |
 |   Mr Lim Yeow Heng |   Teacher |
-|   Mr Seow Yongli |   Teacher   |
 |   Ms Yenny Wijaya |   Teacher |
 |   Mr Yuen Xiang Hao |   Teacher |
 |   Mr Tan Jit Bin Joseph |   Senior Laboratory Specialist |
@@ -152,6 +151,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Toh Chen Yeong | Teacher |
 |   Mr Wu Jiong | Teacher |
 |   Mdm Rohaida Bte Ismail | Teacher (Malay Language) |
+|   Mdm Dhiravidamani Sudha | Teacher (Tamil Language) |
 |   Mdm Polani Alavandar Latha | Teacher (Tamil Language) |
 |   Mrs Elizabeth Mariko Nishida Gomez | Teacher (Japanese Language) |
 |
@@ -166,7 +166,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Lau Wen Li Sofia | Head School Staff Developer |
 |   Ms Chan Yun-Zhi Eunice | Dean, Senior High |
 |   Ms Koo Ivy | Dean, Junior High |
-|   Mdm Beji Dass | Lead Teacher |
 |   Dr Eric Francis Tinsay Valles  | Teacher |
 |   Mdm Asrina Binte Sani | Teacher |
 |   Mr Chin Kiane Yun Dustin | Teacher |
@@ -217,7 +216,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Van Li Hui |   Senior Manager, Student Affairs <br><br> Senior Manager, Admissions &amp; Recruitment |
-|   Ms Goh Xin Ni Annie | Assistant Manager, Admissions &amp; Recruitment|
+|   Dr Leong Hin Chong Gary | Assistant Manager, Admissions &amp; Recruitment |
 |   Ms Mazni Bte Abdullah  |   Senior Executive, Admissions &amp; Recruitment |
 |   Mdm Celestine d/o Arlando |  Assistant Manager |
 |   Ms Ang Sherna |   Senior Executive, Student Affairs |
@@ -260,7 +259,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Allan Patrick Uy |   Senior College Counsellor |
 |   Ms Lee Ye Kee Jade |   Principal Pastoral Counsellor |
 |   Ms Koh Pei Fern Emily |   Pastoral Counsellor |
-|   Ms Ding Mengyao |   Education &amp; Career Guidance Counsellor |
+|   Ms Ding Mengyao Olivia |   Education &amp; Career Guidance Counsellor |
 |   Mr Lim Jun Liang Eugene |   Education &amp; Career Guidance Counsellor |
 |   Mrs Lim Siok Hwa Jenny  |  Corporate Service Officer |
 |
@@ -272,7 +271,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 | Mr Tay Tai Chung | Manager, Operations |
 | Mr Joseph Giri Sri Krishnan | Manager (Boarding Master) |
 | Ms Shahira Binte Amat Amin | Corporate Service Executive |
-| Mrs Sheela Peranandam | Corporate Service Executive  |
 |
 
 #### **Infrastructure**
