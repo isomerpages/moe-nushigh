@@ -24,10 +24,9 @@ Interested applicants should provide a detailed resume and a short write-up on y
 
 #### **Non-Academic Position**
 *  [Corporate Service Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
-*  [Assistant Manager, Admissions &amp; Recruitment](/files/Careers/Asst_Mgr_Admissions___Recruitment_May_2025.pdf)
+
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
 
-*  [Pastoral Counsellor](/files/Careers/Pastoral_Counsellor.pdf)
 
 Only shortlisted candidates will be notified. <br>
 Human Resource <br>
