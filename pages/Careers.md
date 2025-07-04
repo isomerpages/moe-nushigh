@@ -19,15 +19,14 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Mathematics/Computer Science Teacher](/files/Careers/Mathematics_Computer_Science_Teacher.pdf)
 * [Mathematics Adjunct Teacher](/files/Careers/Mathematics_Adjunct_Teacher.pdf)
 * [Assistant Head, Physics &amp; Engineering](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
-* [English Language Teacher](/files/Careers/EL_Teacher___Updated.pdf)
+* [English Language Teacher](/files/Careers/EL_Teacher_Advertisement_Updated_1_Jul_25.pdf)
 * [Chinese Language Teacher](/files/Careers/Chinese_Language_Teacher_Advertisement_2025_03_24.pdf)
 
 #### **Non-Academic Position**
 *  [Corporate Service Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
-*  [Assistant Manager, Admissions &amp; Recruitment](/files/Careers/Asst_Mgr_Admissions___Recruitment_May_2025.pdf)
+
 *  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
 
-*  [Pastoral Counsellor](/files/Careers/Pastoral_Counsellor.pdf)
 
 Only shortlisted candidates will be notified. <br>
 Human Resource <br>
