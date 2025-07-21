@@ -25,7 +25,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Non-Academic Position**
 *  [Corporate Service Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
 
-*  [Assistant Executive, Outreach (Temporary)](/files/Careers/TEMPORARY_ASSISTANT_EXECUTIVE__OUTREACH.pdf)
+*  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
 
 
 Only shortlisted candidates will be notified. <br>
