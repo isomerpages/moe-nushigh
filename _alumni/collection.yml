@@ -2,5 +2,5 @@ collections:
   alumni:
     output: true
     order:
-      - 20th Anniversary Homecoming 2025.md
       - Alumni.md
+      - 20th Anniversary Homecoming 2025.md
