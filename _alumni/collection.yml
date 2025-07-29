@@ -2,6 +2,6 @@ collections:
   alumni:
     output: true
     order:
-      - Give Back to NUS High.md
       - Alumni.md
       - 20th Anniversary Homecoming 2025.md
+      - Give Back to NUS High.md
