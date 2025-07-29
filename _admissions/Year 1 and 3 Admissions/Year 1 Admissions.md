@@ -27,9 +27,8 @@ The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will
 | Closing of MOE Centralised DSA-Sec Online Portal | 3 June 2025 | By 3.00 pm |
 | DSA Selection Tests *(All Applicants)* | 5 July 2025 | 8:30 am - 12:00 pm |
 | DSA Selection Camp *(Only Shortlisted Applicants)* | 25 or 26 July 2025 | Friday 2.00 pm - 7.00 pm or Saturday 8.00 am - 1.00 pm |
-| Engagement of DSA Exercise *(NUSHS Student for a Day (I) - School Preview) (Only Shortlisted Applicants)* | 8 August 2025 | 1.00 pm - 6.00 pm |
 | Outcome of DSA Exercise | 25 August - 4 September 2025 | By e-mail |
-| Engagement of DSA Exercise *(NUSHS Student for a Day (II) - Newton Fun Camp)* | 3 October 2025  | 12.30 pm - 6.00 pm  |
+| Engagement of DSA Exercise *(NUSHS Student for a Day )* | 3 October 2025  | 12.30 pm - 6.00 pm  |
 | School Preference Submission | 27 - 31 October 2025 | By Friday 3.00 pm
 | DSA Allocation by MOE | Late November | Please refer to MOE website
 |
