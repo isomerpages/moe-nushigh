@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/School Logo/Hero/nush_hero1.png
       key_highlights:
-        - title: Recent Highlights
-          description: ""
-          url: /news-and-events/recent-highlights
         - title: Students & Parents
           description: ""
           url: /students-and-parents/school-fees
+        - title: Alumni
+          description: ""
+          url: /alumni/
         - title: Careers
           description: Join us!
           url: /careers
