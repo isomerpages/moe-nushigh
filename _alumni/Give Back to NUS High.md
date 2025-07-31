@@ -10,8 +10,8 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/one_time_donation.png">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Alumni/annual_donation.png">
-</div>
+<blockquote>
+<p>If you would like to make an annual pledge, please approach the staff
+at the NUSHigh Giving Merchandise Booth during Homecoming to assist you</p>
+</blockquote>
 <p></p>
