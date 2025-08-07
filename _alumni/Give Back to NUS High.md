@@ -5,5 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h4>Support the journey on the path less travelled and the culture that dares to experiment, explore, excel.<br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni/onetimedonation.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni/recurringpledge.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
