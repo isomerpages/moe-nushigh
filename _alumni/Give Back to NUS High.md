@@ -10,9 +10,7 @@ description: ""
 <p></p>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="/files/Giving/Recurring_Donations_Form.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni/recurringpledge.png"></a>
-<blockquote>
-<p><sub>Click here for the form and further instructions.</sub>
-</p>
-</blockquote>
+<p>click here to download the giro form. Further instructions are on the
+form</p>
 <p></p>
 <p></p>
