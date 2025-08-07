@@ -11,7 +11,7 @@ description: ""
 <hr>
 <p></p><a class="isomer-image-wrapper" href="/files/Giving/Recurring_Donations_Form.pdf"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Alumni/recurringpledge.png"></a>
 <blockquote>
-<p><sup><sub>Click here for the form and further instructions.</sub></sup>
+<p><sub>Click here for the form and further instructions.</sub>
 </p>
 </blockquote>
 <p></p>
