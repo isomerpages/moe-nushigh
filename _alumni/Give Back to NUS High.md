@@ -12,6 +12,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni/recurringpledge.png">
 </div>
-<p></p>
+<blockquote>
+<p>Click here for the form and further instructions.</p>
+</blockquote>
 <p></p>
 <p></p>
