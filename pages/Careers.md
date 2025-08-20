@@ -18,6 +18,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Head, Math and Statistics](/files/Careers/Head__Math_and_Statistics.pdf)
 * [Mathematics/Computer Science Teacher](/files/Careers/Mathematics_Computer_Science_Teacher.pdf)
 * [Assistant Head, Physics &amp; Engineering](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
+* [Biology, Adjunct Teacher](/files/Careers/Biology_Adjunct_Teacher_2026___2027_Sem_1.pdf)
 
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
