@@ -180,7 +180,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Dr Wong Eng Cheng Emilia |   Head, Music &amp; Art |
+|   Dr Wong Eng Cheng Emilia |   Head, Arts |
 |   Mr Syed Mahdar Bin Syed Othman |   Art Specialist |
 |   Ms Koh Wun Be Geneva |   Teacher (Art) |
 |   Ms Chua Ngeah Sian |   Teacher (Music) |
