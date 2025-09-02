@@ -13,4 +13,6 @@ description: ""
 <p>Click here to download the giro form. Further instructions are on the
 form.</p>
 <p></p>
-<p></p>
+<p>All donations amounts are deeply appreciated. For donations that are $500
+and above, we would like to make available a plushie of our mascot Novus
+that can be redeemed from the school.</p>
