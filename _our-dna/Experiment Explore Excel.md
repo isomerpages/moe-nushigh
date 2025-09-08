@@ -62,6 +62,7 @@ variant: markdown
 			<th style="width:50%">
 				<img src="/images/specialprogramme5.jpg">
 			</th>
+			<th></th>
 		</tr>
 	</thead>
 	<tbody>
