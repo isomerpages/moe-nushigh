@@ -15,10 +15,12 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
-* [Head, Math and Statistics](/files/Careers/Head__Math_and_Statistics.pdf)
-* [Mathematics/Computer Science Teacher](/files/Careers/Mathematics_Computer_Science_Teacher.pdf)
+* [Mathematics and Statistics, Head](/files/Careers/Head__Math_and_Statistics.pdf)
+* [Mathematics/Computer Science, Teacher](/files/Careers/Mathematics_Computer_Science_Teacher.pdf)
 * [Mathematics, Adjunct Teacher](/files/Careers/Mathematics_Adjunct_Teacher___26_Aug_25.pdf)
-* [Assistant Head, Physics &amp; Engineering](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
+* [Physics &amp; Engineering, Assistant Head](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
+* [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
+* [Physics &amp; Engineering, Adjunct Teacher](/files/Careers/Physics___Engrg_Adjunct_Teacher.pdf)
 * [Biology, Adjunct Teacher](/files/Careers/Biology_Adjunct_Teacher_2026___2027_Sem_1.pdf)
 
 #### **Non-Academic Position**
