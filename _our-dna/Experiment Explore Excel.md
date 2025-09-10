@@ -2,6 +2,7 @@
 title: Experiment Explore Excel
 permalink: /our-dna/experiment-explore-excel/
 description: ""
+variant: markdown
 ---
 ### **Special Programmes**
 
@@ -61,19 +62,14 @@ description: ""
 			<th style="width:50%">
 				<img src="/images/specialprogramme5.jpg">
 			</th>
-			<th style="width:50">
-				<img src="/images/specialprogramme6.jpg">
-			</th>
+			<th></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
 				- Embraces the world as the classroom as our students learn from overseas experiences.<br><br>- The programme aims to help students develop a global outlook and the ability to operate within multi-national settings<br><br>- Students learn with the best as they go for Student Exchange Programmes with our partner schools, as well as international Science Fairs and Service Learning Trips.<br><br>- Students learn from the best as they take part in conferences and various academic field trips.
-			</td>
-			<td>
-				- The goal of the programme is to nurture students who excel in the disciplines of the Humanities, English Language and Literature.<br><br>- Students are invited to sign up for activities organised by the Gifted Education Branch of MOE, such as the Creative Writing programme, Moot Parliament Programme and the Humanities &amp; Social Science Programme.<br><br>- Students can also join the Humanities Interest Group, English Interest Group, or Current Affairs Interest Group.
-			</td>
+			</td>			
 		</tr>
 	</tbody>
 </table>
