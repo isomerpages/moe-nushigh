@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - Our DNA/.keep
       - SPSO/Competition Information.md
       - SPSO/Registration.md
       - SPSO/.keep
