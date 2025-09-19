@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - School Events/Convocation 2023.md
       - School Events/Virtual Homecoming 2021.md
       - School Events/.keep
       - Our DNA/BOD BOG Temp Page.md
