@@ -3,6 +3,7 @@ title: Voyager Programme
 permalink: /archived/voyager-programme/
 description: ""
 variant: tiptap
+third_nav_title: School Programmes
 ---
 <center>The Voyager Programme seeks to develop students in the following areas:</center>
 

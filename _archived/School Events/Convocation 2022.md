@@ -2,6 +2,7 @@
 title: Convocation 2022
 permalink: /students-and-parents/convocation-2022/
 description: ""
+third_nav_title: School Events
 ---
 ![](/images/convocation.jpg)
 

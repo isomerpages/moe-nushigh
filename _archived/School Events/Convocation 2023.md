@@ -3,6 +3,7 @@ title: Convocation 2023
 permalink: /archived/students-and-parents/convo23/
 variant: markdown
 description: ""
+third_nav_title: School Events
 ---
 <img src="/images/Convocation/convo23_banner.jpg">
 ### CONVOCATION 2023

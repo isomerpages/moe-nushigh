@@ -2,6 +2,7 @@
 title: BOD BOG Temp Page
 permalink: /permalink/
 description: ""
+third_nav_title: Our DNA
 ---
 Parent Organisation:
 <br>

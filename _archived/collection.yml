@@ -2,14 +2,25 @@ collections:
   archived:
     output: true
     order:
-      - Registration.md
-      - Competition Information.md
-      - Lead the Breakthrough Archived.md
-      - Voyager Programme.md
-      - BOD BOG Temp Page.md
-      - Convocation 2023.md
-      - Speech Day 2024.md
-      - Virtual Homecoming 2021.md
+      - School Programmes/Lead the Breakthrough Archived.md
+      - School Programmes/Sexuality Education.md
+      - School Programmes/Voyager Programme.md
+      - School Programmes/.keep
+      - School Events/Convocation 2022.md
+      - School Events/Speech Day 2024.md
+      - School Events/Convocation 2023.md
+      - School Events/Virtual Homecoming 2021.md
+      - School Events/.keep
+      - Our DNA/BOD BOG Temp Page.md
+      - Our DNA/.keep
+      - SPSO/Competition Information.md
+      - SPSO/Registration.md
+      - SPSO/.keep
+      - Achievement Pages/2019.md
+      - Achievement Pages/2018.md
+      - Achievement Pages/2020.md
+      - Achievement Pages/2021.md
+      - Achievement Pages/2022.md
+      - Achievement Pages/2023.md
+      - Achievement Pages/.keep
       - Yearbooks.md
-      - Sexuality Education.md
-      - Convocation 2022.md

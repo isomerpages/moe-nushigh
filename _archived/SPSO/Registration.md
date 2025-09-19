@@ -3,6 +3,7 @@ title: Registration
 permalink: /archived/spso/registration/
 description: ""
 variant: markdown
+third_nav_title: SPSO
 ---
 #### **Instructions for Registration**
 *   All registrations&nbsp;**must**&nbsp;be submitted online. Telephone registrations will not be entertained.&nbsp;

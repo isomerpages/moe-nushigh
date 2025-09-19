@@ -3,6 +3,7 @@ title: Virtual Homecoming 2021
 permalink: /archived/virtual-homecoming/
 description: ""
 variant: tiptap
+third_nav_title: School Events
 ---
 <img src="/images/virtualhomecoming.png" style="width:75%">
 

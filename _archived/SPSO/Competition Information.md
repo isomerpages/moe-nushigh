@@ -3,6 +3,7 @@ title: Competition Information
 permalink: /archived/spso/info/
 description: ""
 variant: markdown
+third_nav_title: SPSO
 ---
 #### **General**
 *   This competition is open to all primary school pupils who are enrolled in the **Primary Five** level as of the year of the competition.

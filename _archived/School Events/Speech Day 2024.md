@@ -3,6 +3,7 @@ title: Speech Day 2024
 permalink: /archived/speech-day/
 variant: tiptap
 description: ""
+third_nav_title: School Events
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech Day/speech_day_2024.jpg">
