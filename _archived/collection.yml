@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - School Programmes/Sexuality Education.md
       - School Programmes/Voyager Programme.md
       - School Programmes/.keep
       - School Events/Convocation 2022.md
