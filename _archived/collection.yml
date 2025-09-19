@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - Achievement Pages/2019.md
       - Achievement Pages/2018.md
       - Achievement Pages/2020.md
       - Achievement Pages/2021.md
