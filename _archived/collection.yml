@@ -2,6 +2,7 @@ collections:
   archived:
     output: true
     order:
+      - SPSO/Registration.md
       - SPSO/.keep
       - Achievement Pages/2019.md
       - Achievement Pages/2018.md
