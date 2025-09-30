@@ -16,7 +16,6 @@ Interested applicants should provide a detailed resume and a short write-up on y
 
 #### **Academic Position**
 * [Mathematics and Statistics, Head](/files/Careers/Head__Math_and_Statistics.pdf)
-* [Mathematics/Computer Science, Teacher](/files/Careers/Mathematics_Computer_Science_Teacher.pdf)
 * [Mathematics, Adjunct Teacher](/files/Careers/Mathematics_Adjunct_Teacher___26_Aug_25.pdf)
 * [Physics &amp; Engineering, Assistant Head](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
 * [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
