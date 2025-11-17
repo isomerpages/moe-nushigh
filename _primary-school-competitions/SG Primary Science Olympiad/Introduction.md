@@ -37,7 +37,7 @@ school pupils</p>
 <p>
 <br>
 </p>
-<p><em>SPSO 2025 will consist of only the Theory Round.</em>
+<p><em>SPSO 2026 will consist of only the Theory Round.</em>
 </p>
 <p>
 <br>
@@ -66,7 +66,7 @@ school pupils</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 May 2025 (Tuesday)</p>
+<p>19 May 2026 (Tuesday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participants' Own Schools</p>
