@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: SG Primary Science Olympiad
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPSO/spso.png">
+</div>
 <h3><strong>Introduction</strong></h3>
 <p>The&nbsp;<strong>Singapore Primary Science Olympiad (SPSO)</strong>&nbsp;is
 an annual national competition organised by the NUS High School of Mathematics
