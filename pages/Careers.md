@@ -22,6 +22,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Physics &amp; Engineering, Adjunct Teacher](/files/Careers/Physics___Engrg_Adjunct_Teacher.pdf)
 * [Biology, Adjunct Teacher](/files/Careers/Biology_Adjunct_Teacher_2026___2027_Sem_1.pdf)
 * [Design and Engineering, Adjunct Teacher](/files/Careers/RIE_Adjunct_Teacher.pdf)
+* 
 
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
