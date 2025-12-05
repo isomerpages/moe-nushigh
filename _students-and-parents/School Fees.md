@@ -6,15 +6,15 @@ variant: markdown
 ---
 #### **School Fees (Per Month)**
 
-| Nationality | 2025 (S$) |
+| Nationality | 2026 (S$) |
 |:---:|:---:|
 | Singapore Citizens | 300 |
-| Singapore Permanent Residents | 1,010 |
-| International Students (ASEAN) | 1,760 |
-| International Students (non-ASEAN) | 2,800 |
+| Singapore Permanent Residents | 1,090 |
+| International Students (ASEAN) | 1,885 |
+| International Students (non-ASEAN) | 2,995 |
 |
 
-There is also a miscellaneous fee of S$20 (subject to revision) per month per student.
+There is also a miscellaneous fee of S$30 (subject to revision) per month per student.
 
 1\.  The school fee structure applies to all students, regardless of date of admission to the school.
 
@@ -37,15 +37,15 @@ There is also a miscellaneous fee of S$20 (subject to revision) per month per st
 
 |  | Scheduled Date |
 |:---:|:---:|
-| January & February | 10-Feb-2025 (Mon) |
-| March | 10-Mar-2025 (Mon) |
-| April | 10-Apr-2025 (Thu) |
-| May | 13-May-2025 (Tue) |
-| June | 10-Jun-2025 (Tue) |
-| July | 10-Jul-2025 (Thu) |
-| August | 11-Aug-2025 (Mon) |
-| September & October | 10-Sep-2025 (Wed) |
-| November & December | 10-Oct-2025 (Fri) |
+| January & February | 10-Feb-2026 (Tue) |
+| March | 10-Mar-2026 (Tue) |
+| April | 10-Apr-2026 (Fri) |
+| May | 11-May-2026 (Mon) |
+| June | 10-Jun-2026 (Wed) |
+| July | 10-Jul-2026 (Fri) |
+| August | 11-Aug-2026 (Tue) |
+| September & October | 10-Sep-2026 (Tue) |
+| November & December | 12-Oct-2026 (Mon) |
 |
 
 #### **Edusave**
