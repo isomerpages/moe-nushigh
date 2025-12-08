@@ -18,7 +18,7 @@ There is also a miscellaneous fee of S$30 (subject to revision) per month per st
 
 1\.  The school fee structure applies to all students, regardless of date of admission to the school.
 
-2\.  Miscellaneous fee of S$20 per month per student is payable, in addition to school fees. The supplementary fees will help defray costs of school-wide activities and programmes where each and every student will benefit. The amount collected pays for items such as the Student Protection Plan (Insurance), School newsletters/publications and other services/facilities.
+2\.  Miscellaneous fee of S$30 per month per student is payable, in addition to school fees. The supplementary fees will help defray costs of school-wide activities and programmes where each and every student will benefit. The amount collected pays for items such as the Student Protection Plan (Insurance), School newsletters/publications and other services/facilities.
 
 3\.  Students are advised to submit documentary proof of their citizenship changes to the School promptly. School fees changes will take effect in the month following the notification.
 
