@@ -6,7 +6,6 @@ variant: markdown
 ---
 NUS High School supports financially needy students with an array of financial assistance schemes. They include Ministry of Education (MOE) Independent Schools Bursary (ISB), school-based financial assistance, scholarships, study awards, and bursaries from various self-help groups and external organizations. These are available to uplift our needy students so that our students do not face resource constraints in their pursuit of academic excellence in NUS High School.
 
-Students who require financial assistance at any point in time may email Student Affairs staff via the school email -&nbsp;[einstein@highsch.nus.edu.sg](mailto:einstein@highsch.nus.edu.sg)&nbsp;or approach Student Affairs staff at the School Admin Office.
 
 #### **Ministry of Education (MOE) Independent School Bursary (ISB)**
 The Ministry of Education provides financial assistance to needy Singapore Citizen pupils so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education. It also provides subsidy for school fees to Singapore Citizen pupils from lower and middle income families in Independent Schools.
