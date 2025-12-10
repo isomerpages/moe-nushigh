@@ -33,7 +33,7 @@ There is also a miscellaneous fee of S$30 (subject to revision) per month per st
 
 8\.  Please refer to the table below for GIRO deduction date. Feb’s deduction will be for school fees of Jan and Feb. Sept’s deduction will be for the school fees of Sept and Oct. Oct’s deduction will be for the school fees of Nov and Dec.
 
-#### **2025 School fees GIRO deduction date**
+#### **2026 School fees GIRO deduction date**
 
 |  | Scheduled Date |
 |:---:|:---:|
