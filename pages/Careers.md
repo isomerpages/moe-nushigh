@@ -22,12 +22,12 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Physics &amp; Engineering, Adjunct Teacher](/files/Careers/Physics___Engrg_Adjunct_Teacher.pdf)
 * [Biology, Adjunct Teacher](/files/Careers/Biology_Adjunct_Teacher_2026___2027_Sem_1.pdf)
 * [Design and Engineering, Adjunct Teacher](/files/Careers/RIE_Adjunct_Teacher.pdf)
-* [English Language / General Paper](/files/Careers/English_Language_Teacher.pdf)
+* [English Language / General Paper Teacher](/files/Careers/English_Language_Teacher.pdf)
 
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
 *  [Senior Laboratory Specialist (Chemistry)](/files/Careers/Job_Advert__Senior_Chemistry_Laboratory_Officer_T4_.pdf)
-*  
+*  [Corporate Services Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
 
 
 Only shortlisted candidates will be notified. <br>
