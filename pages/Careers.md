@@ -27,6 +27,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
 *  [Senior Laboratory Specialist (Chemistry)](/files/Careers/Job_Advert__Senior_Chemistry_Laboratory_Officer_T4_.pdf)
+*  
 
 
 Only shortlisted candidates will be notified. <br>
