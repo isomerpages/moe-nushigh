@@ -28,4 +28,4 @@ With faith, hope and foresight,<br>
 Scaling greater heights in one big stride,<br>
 For NUS High we fight... For NUS High we fight!  
   
-Please click&nbsp;[here]([NUSHS School Song.mp3](https://nushighedu-my.sharepoint.com/:u:/g/personal/nhscal_nushigh_edu_sg/IQCKW7sb9o22SL7xXrh2hcFeAdqIUZjFMeWNqarIw2KjA9Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=sZV5FT))&nbsp;to listen to our school song sung by members of our school choir.
+Please click&nbsp;([NUSHS School Song.mp3](https://nushighedu-my.sharepoint.com/:u:/g/personal/nhscal_nushigh_edu_sg/IQCKW7sb9o22SL7xXrh2hcFeAdqIUZjFMeWNqarIw2KjA9Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=sZV5FT))&nbsp;to listen to our school song sung by members of our school choir.
