@@ -108,5 +108,5 @@ names at the point of registration as they will appear on the e-certificates.</p
 <p>&nbsp;</p>
 <p><strong>For any inquiries, please email: <a rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a></strong>
 </p>
-<p><em>Updated on 13 Jan 2026. </em>
+<p><em>Updated on 13 Jan 2026.</em>
 </p>
