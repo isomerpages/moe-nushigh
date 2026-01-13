@@ -24,15 +24,16 @@ and select students for participation.</p>
 <p>Only MOE primary schools are allowed to register.</p>
 </li>
 <li>
-<p>Registration fee: <strong>$24 nett</strong> (inclusive of 9% GST) per participant.</p>
+<p>Registration fee: <strong>$25 nett</strong> (inclusive of 9% GST) per participant.</p>
 </li>
 <li>
-<p>The period for registration is from <strong>10 Mar to 7 Apr 2025</strong>.</p>
+<p>The period for registration is from <strong>20 February to 20 March 2026</strong>.</p>
 </li>
 </ul>
-<p>Please refer to the email sent to your school, through the school’s principal,
-for registration details.</p>
+<p></p>
 <p>For any enquiries, please email <a href="mailto:spso@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a>
 </p>
 <p></p>
+<p><em>Updated on 13 Jan 2026. </em>
+</p>
 <p></p>
