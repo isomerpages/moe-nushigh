@@ -17,18 +17,18 @@ family as the basic unit of society. This means encouraging healthy, heterosexua
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues</p>
+on sexuality issues.</p>
 <p></p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are to:</p>
 <p>(a)&nbsp;Support students in managing their physiological, social and
 emotional changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;Guide students to make wise, informed and responsible decisions
-on sexuality matters.</p>
-<p>Help students develop a moral compass and respect for themselves and others
-by having positive mainstream values and attitudes about sexuality that
-are premised on the family as the basic unit of society.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c)&nbsp;Help students develop a moral compass and respect for themselves
+and others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p></p>
 </li>
 <li>
@@ -45,7 +45,7 @@ ones.</p>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3><strong>Overview of NUS High School’s Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of NUS High School’s Sexuality Education Programme for 2026</strong></h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -87,8 +87,9 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h3><strong>At NUS High School, the following Sexuality Education lessons will be taught in 2025:</strong></h3>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<h3><strong>At NUS High School, the following Sexuality Education lessons will be taught in 2026:</strong></h3>
+<p></p>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <h4><strong>Year 1</strong></h4>
 <table style="minWidth: 125px">
@@ -141,19 +142,16 @@ will have the opportunity to better understand the considerations involved
 in making responsible decisions towards dating and romantic relationships
 and understand how to build healthy and supportive relationships, both
 online and offline.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles</p>
-<p></p>
-<p>recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)</p>
-<p></p>
-<p>recognise the importance of, and understand what builds healthy and supportive
-relationships, both online and offline</p>
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of monitoring
+and managing our emotional reactions, in helpful ways that are reflective
+of our values and principles</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different
+forms of love (e.g. familial, platonic, romantic love)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of, and
+understand what builds healthy and supportive relationships, both online
+and offline</p>
 <p>understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
 </td>
@@ -179,9 +177,9 @@ of self.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>understand that physical and psychological abuse from others, especially
-those we know and trust, can have strong negative effects on a person’s
-self-concept</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological
+abuse from others, especially those we know and trust, can have strong
+negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -205,14 +203,14 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>understand and accept that as we work towards becoming our best self,
-there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences</p>
-<p></p>
-<p>recognise that there are moral and legal consequences of risky sexual
-behaviours, pornography access and acting irresponsibly or maliciously
-when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that as we
+work towards becoming our best self, there will be times when we make mistakes,
+and recognise the importance of exercising moral courage in facing up to
+consequences</p>
+<p>·&nbsp;&nbsp;&nbsp;recognise that there are moral and legal consequences
+of risky sexual behaviours, pornography access and acting irresponsibly
+or maliciously when online (e.g. spreading of online falsehoods, flouting
+copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -284,16 +282,16 @@ treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>know that one’s understanding of gender roles should not be limited by
-gender stereotypes</p>
-<p></p>
-<p>develop an appreciation of one’s own unique qualities and characteristics
+<p>• know that one’s understanding of gender roles should not be limited
+by gender stereotypes</p>
+<p>• develop an appreciation of one’s own unique qualities and characteristics
 as a male or female</p>
+<p>• understand what sexual orientation entails</p>
 <p></p>
-<p>understand what sexual orientation entails</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -315,12 +313,12 @@ and safety.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>recognise one’s vulnerability to risky situations and the importance of
-exercising discretion to reduce risks and avoid negative consequences,
+<p>• recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -339,15 +337,14 @@ aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>recognise the importance of self-respect and respect for others in relating
+<p>• recognise the importance of self-respect and respect for others in relating
 to members of the opposite sex</p>
-<p></p>
-<p>recognise one’s vulnerability to risky situations and the importance of
-exercising discretion to reduce risks and avoid negative consequences,
+<p>• recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
@@ -412,15 +409,14 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>know that self-perception and identity have an impact on our self-esteem
+<p>• know that self-perception and identity have an impact on our self-esteem
 and how we interact with others and the choices we make, both online and
 offline</p>
-<p></p>
-<p>understand that expectations of oneself and others may differ and can
+<p>• understand that expectations of oneself and others may differ and can
 affect one’s emotions, thoughts and behaviours</p>
-<p></p>
-<p>recognise what healthy dating relationships involve and know that readiness
+<p>• recognise what healthy dating relationships involve and know that readiness
 is important when entering into a dating relationship</p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,17 +440,15 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>know that relationship-building involves personal emotions and vulnerabilities,
+<p>• know that relationship-building involves personal emotions and vulnerabilities,
 and changes and challenges</p>
+<p>• know that a decision to end a relationship will have consequences on
+oneself and others</p>
+<p>• know that grief and loss due to rejections and broken relationships
+is normal and one can recover from the experience</p>
+<p>• know there are healthy ways of coping with broken relationships, and
+family and friends are important pillars of support</p>
 <p></p>
-<p>know that a decision to end a relationship will have consequences on oneself
-and others</p>
-<p></p>
-<p>know that grief and loss due to rejections and broken relationships is
-normal and one can recover from the experience</p>
-<p></p>
-<p>know there are healthy ways of coping with broken relationships, and family
-and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -478,16 +472,16 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>recognise the importance of being informed of social and moral issues
+<p>• recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
 our own moral standpoints as we form our perspectives about them</p>
+<p>• understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 <p></p>
-<p>understand that we strengthen our character when we commit to sound values-based
-viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -544,21 +538,18 @@ as main caregivers in the family), and the impact of these stereotypes
 on individuals. Students will learn to be aware of possible gender stereotypes
 that may affect one’s family and future decisions. They will also learn
 to reframe their perspectives and not judge others based on their own or
-others’ values and principles, with regard to gender stereotypes</p>
-<p>&nbsp;</p>
+others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>• understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations</p>
-<p></p>
-<p>know that imposing gender stereotypes on oneself and others can limit
+<p>• know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -577,26 +568,25 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>know there are healthy ways of coping with broken relationships, and family
-and friends are important pillars of support</p>
-<p></p>
-<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
+<p>• know there are healthy ways of coping with broken relationships, and
+family and friends are important pillars of support</p>
+<p>• recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
 social impact on victims</p>
-<p></p>
-<p>understand that we need moral courage and wisdom to recognise and end
+<p>• understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
 well-being</p>
+<p>• understand the importance of ensuring that non-verbal messages match
+with verbal ones, when communicating personal and emotional boundaries
+in a relationship</p>
 <p></p>
-<p>understand the importance of ensuring that non-verbal messages match with
-verbal ones, when communicating personal and emotional boundaries in a
-relationship</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -611,22 +601,19 @@ in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
 apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.&nbsp;</p>
+matters in sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>know that long-term romantic relationships leading to marriage involve
+<p>• know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
 and moral dimensions</p>
-<p></p>
-<p>know that marriage entails a union between a man and a woman based on
+<p>• know that marriage entails a union between a man and a woman based on
 love, trust, commitment, and requires mutual effort</p>
-<p></p>
-<p>understand that conflicts are normal in any relationship, including marriage,
-and the way in which a couple handles conflict is critical to the success
-of their marriage</p>
-<p></p>
+<p>• understand that conflicts are normal in any relationship, including
+marriage, and the way in which a couple handles conflict is critical to
+the success of their marriage</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -651,9 +638,9 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>understand that we strengthen our character when we commit to sound values-based
-viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs</p>
+<p>• understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
@@ -665,12 +652,16 @@ alignment with our beliefs</p>
 <h3><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens </em>programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens </em>is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide Secondary
+3 students with accurate information on STIs, HIV and protection from a
+health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. eTeens is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the eTeens programme is that students are empowered to make wise, informed
+and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
 <p></p>
 </li>
 <li>
@@ -682,7 +673,7 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
-<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -709,15 +700,18 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
+<p>• Raise awareness and provide knowledge on:</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -725,12 +719,12 @@ healthy way.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn to negotiate their way out of a risky situation by applying skills
+<p>• Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -748,19 +742,20 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year through Parents Gateway and FormSG. The completed
-form is to be submitted by 31/01/2025.</p>
+form is to be submitted by 20/02/2026.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year through Parents Gateway and FormSG. The completed
-form is to be submitted by 31/01/2025.</p>
+form is to be submitted by 20/02/2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 65161709 or <a href="mailto:einstein@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education</p>
+<p>Parents can contact the school at 6516 1709 or <a href="mailto:einstein@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+Programme.</p>
 </li>
 </ol>
 <p></p>

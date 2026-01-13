@@ -39,11 +39,10 @@ school pupils</p>
 </p>
 <p><em>SPSO 2026 will consist of only the Theory Round.</em>
 </p>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -59,8 +58,14 @@ school pupils</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Theory Round</strong>
 </p>
@@ -73,6 +78,9 @@ school pupils</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

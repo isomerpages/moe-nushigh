@@ -34,22 +34,21 @@ that are premised on the family as the basic unit of society.</p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
-relationships based on love and respect (which are the foundation for strong
-families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+<p></p>
 </li>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p>&nbsp;</p>
-<h3><strong>Overview of NUS High Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of NUS High Sexuality Education Programme for 2026</strong></h3>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -71,8 +70,8 @@ the main focus on relationships.
 </p>
 </li>
 </ol>
-<h3><strong>At NUS High School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong></h3>
-<p><strong>&nbsp;2025 Sexuality Education Lessons in CCE 2021</strong>
+<h3><strong>At NUS High School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h3>
+<p><strong>&nbsp;2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p></p>
 <h4><strong>&nbsp;Year 5</strong></h4>
@@ -127,7 +126,7 @@ entails and be reminded of the importance of respect for others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 and 2</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +151,7 @@ others, and think through the consequences of doing so.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 and 2</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +176,7 @@ on being a source of support for others who may be pregnant or have STIs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 and 2</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
@@ -238,7 +237,7 @@ and choosing to do what is right.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +261,7 @@ and downplay achievements so as to fit in), which can affect interactions
 and relationships in ways that are harmful to themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
@@ -271,11 +270,8 @@ and relationships in ways that are harmful to themselves and others.</p>
 <h3><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h3>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide JC/MI Year 1 students
-with accurate information on STIs/HIV and protection from a health perspective.
-The desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+<p><em>eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</em>
+</p>
 <p></p>
 </li>
 <li>
@@ -284,7 +280,8 @@ on an individual and the family, and the importance of responsible decision-maki
 and seeking help. Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<p></p>
+<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -309,21 +306,24 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mass Talk</p>
-<p>·&nbsp;by HPB appointed vendor in Term 1 2025</p>
-<p>·&nbsp;by pre-recorded video from Semester 2 2025</p>
-<p>&nbsp;</p>
+<p>• by pre-recorded video from January 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;infectious diseases (STIs and HIV)</p>
-<p>·&nbsp;modes of transmission for STIs and HIV</p>
-<p>·&nbsp;modes of protection against infection, specifically abstinence
-and the correct and consistent use of condoms</p>
-<p>·&nbsp;consequences and impact of being infected with STIs/HIV</p>
-<p>·&nbsp;ways of managing the impact of STIs</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexually transmitted infectious
+diseases (STIs and HIV): what it is, how it spreads, how to prevent infection
+mainly through ABC (abstinence, being faithful, correct, and consistent
+condom use), consequences and impact of STIs/HIV</p>
 <p>&nbsp;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills for respecting boundaries
+(e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure
+to have pre-marital sex)</p>
+<p>&nbsp;</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and
+risky situations in a healthy way, including avenues for help-seeking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 2</p>
+<p>Sem 3</p>
 </td>
 </tr>
 </tbody>
@@ -340,18 +340,18 @@ Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year through Parents Gateway and FormSG.
-The completed form is to be submitted by 31/01/2025.</p>
+The completed form is to be submitted by 20/02/2026.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year, through Parents Gateway and FormSG. The completed
-form is to be submitted by 31/01/2025.</p>
+form is to be submitted by 20/02/2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 65161709 or <a rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
+<p>Parents can contact the school at 6516 1709 or <a rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>

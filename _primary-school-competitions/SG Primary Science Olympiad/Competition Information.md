@@ -20,10 +20,10 @@ However, schools have the discretion to determine the numbers and select
 their students for participation.</p>
 </li>
 <li>
-<p>Registration period: 10 March to 7 April 2025.</p>
+<p>Registration period: 20 February to 20 March 2026.</p>
 </li>
 <li>
-<p>Registration fee: $24 nett per participant (inclusive of 9% GST).</p>
+<p>Registration fee: $25 nett per participant (inclusive of 9% GST).</p>
 </li>
 <li>
 <p>There will be NO REFUND of registration fee.</p>
@@ -71,8 +71,8 @@ will be entertained.</p>
 <h3><strong>Awards</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medals will be awarded to participants based on their scores in the theory
-paper.</p>
+<p>Medals (Gold, Silver, Bronze) will be awarded to participants based on
+their scores in the theory paper.</p>
 </li>
 <li>
 <p>Trophies will be awarded to the top 20 schools based on the cumulative
@@ -98,14 +98,15 @@ No telephone inquiries regarding results will be entertained.</p>
 names at the point of registration as they will appear on the e-certificates.</p>
 </li>
 <li>
-<p>A surcharge of $24 nett will be imposed for the reprint of each e-certificate.</p>
+<p>A surcharge of $25 nett will be imposed for the reprint of each e-certificate.</p>
 </li>
 <li>
 <p>Any medals and trophies will be delivered to the schools around mid-September
-2025.</p>
+2026.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>For any inquiries, please email: <a rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a></strong>
 </p>
-<p></p>
+<p><em>Updated on 13 Jan 2026.</em>
+</p>
