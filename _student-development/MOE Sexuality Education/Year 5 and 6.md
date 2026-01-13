@@ -340,14 +340,14 @@ Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year through Parents Gateway and FormSG.
-The completed form is to be submitted by 31/01/2026.</p>
+The completed form is to be submitted by 20/02/2026.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year, through Parents Gateway and FormSG. The completed
-form is to be submitted by 31/01/2026.</p>
+form is to be submitted by 20/02/2026.</p>
 <p></p>
 </li>
 <li>
