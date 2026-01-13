@@ -21,8 +21,9 @@ they are eligible to participate regardless of age.</p>
 <h5><strong>4. Can students in levels lower than Primary Five take part?</strong></h5>
 <p>No, this competition is meant for Primary Five students.</p>
 <h5><strong>5. Can students register as individuals if their primary schools are not taking part or the school did not select them as representatives?</strong></h5>
-<p>No, students can only be registered through their schools. Please approach
-your school's Science department for registration and clarification.</p>
+<p>No, students can only be registered when their primary schools are participating
+in SPSO. Please approach your school's Science department for registration
+and clarification.</p>
 <h5><strong>6. A few students would like to withdraw from the competition upon successful registration. Will their registration fees be refunded?</strong></h5>
 <p>No, there will be no refund of the registration fee.</p>
 <h5><strong>7. When will the results of the theory round be released and how will they be made known?</strong></h5>
