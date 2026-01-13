@@ -34,6 +34,6 @@ and select students for participation.</p>
 <p>For any enquiries, please email <a href="mailto:spso@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a>
 </p>
 <p></p>
-<p><em>Updated on 13 Jan 2026. </em>
+<p><em>Updated on 13 Jan 2026.</em>
 </p>
 <p></p>
