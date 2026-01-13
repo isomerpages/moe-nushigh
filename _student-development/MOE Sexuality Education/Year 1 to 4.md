@@ -617,7 +617,7 @@ the success of their marriage</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 <tr>
@@ -643,7 +643,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 </tr>
 </tbody>
