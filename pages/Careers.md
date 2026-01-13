@@ -16,17 +16,12 @@ Interested applicants should provide a detailed resume and a short write-up on y
 
 #### **Academic Position**
 * [Mathematics and Statistics, Head](/files/Careers/Head__Math_and_Statistics.pdf)
-* [Mathematics, Adjunct Teacher](/files/Careers/Mathematics_Adjunct_Teacher___26_Aug_25.pdf)
 * [Physics &amp; Engineering, Assistant Head](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
 * [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
-* [Physics &amp; Engineering, Adjunct Teacher](/files/Careers/Physics___Engrg_Adjunct_Teacher.pdf)
-* [Biology, Adjunct Teacher](/files/Careers/Biology_Adjunct_Teacher_2026___2027_Sem_1.pdf)
-* [Design and Engineering, Adjunct Teacher](/files/Careers/RIE_Adjunct_Teacher.pdf)
 * [English Language / General Paper Teacher](/files/Careers/English_Language_Teacher.pdf)
 
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
-*  [Senior Laboratory Specialist (Chemistry)](/files/Careers/Job_Advert__Senior_Chemistry_Laboratory_Officer_T4_.pdf)
 *  [Corporate Services Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
 
 
