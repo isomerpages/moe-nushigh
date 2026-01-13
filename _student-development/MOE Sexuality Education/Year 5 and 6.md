@@ -270,11 +270,8 @@ and relationships in ways that are harmful to themselves and others.</p>
 <h3><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h3>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide JC/MI Year 1 students
-with accurate information on STIs/HIV and protection from a health perspective.
-The desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+<p><em>eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</em>
+</p>
 <p></p>
 </li>
 <li>
@@ -283,7 +280,8 @@ on an individual and the family, and the importance of responsible decision-maki
 and seeking help. Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<p></p>
+<h4><strong>At NUS High School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -308,21 +306,24 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mass Talk</p>
-<p>·&nbsp;by HPB appointed vendor in Term 1 2025</p>
-<p>·&nbsp;by pre-recorded video from Semester 2 2025</p>
-<p>&nbsp;</p>
+<p>• by pre-recorded video from January 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;infectious diseases (STIs and HIV)</p>
-<p>·&nbsp;modes of transmission for STIs and HIV</p>
-<p>·&nbsp;modes of protection against infection, specifically abstinence
-and the correct and consistent use of condoms</p>
-<p>·&nbsp;consequences and impact of being infected with STIs/HIV</p>
-<p>·&nbsp;ways of managing the impact of STIs</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexually transmitted infectious
+diseases (STIs and HIV): what it is, how it spreads, how to prevent infection
+mainly through ABC (abstinence, being faithful, correct, and consistent
+condom use), consequences and impact of STIs/HIV</p>
 <p>&nbsp;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills for respecting boundaries
+(e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure
+to have pre-marital sex)</p>
+<p>&nbsp;</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and
+risky situations in a healthy way, including avenues for help-seeking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sem 2</p>
+<p>Sem 3</p>
 </td>
 </tr>
 </tbody>
@@ -339,18 +340,18 @@ Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year through Parents Gateway and FormSG.
-The completed form is to be submitted by 31/01/2025.</p>
+The completed form is to be submitted by 31/01/2026.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year, through Parents Gateway and FormSG. The completed
-form is to be submitted by 31/01/2025.</p>
+form is to be submitted by 31/01/2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 65161709 or <a rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
+<p>Parents can contact the school at 6516 1709 or <a rel="noopener noreferrer nofollow" target="_blank">einstein@highsch.nus.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
