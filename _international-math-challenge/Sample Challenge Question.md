@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Click&nbsp;<a href="/files/simc2024samplechallengequestion.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-download the 2024 Junior Challenge sample question.</p>
+download the 2024 Challenge sample question.</p>
 <p>Click&nbsp;<a href="/files/junior.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 download the 2022 Junior Challenge sample question.</p>
 <p>Click&nbsp;<a href="/files/senior.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
