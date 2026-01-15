@@ -4,7 +4,7 @@ permalink: /our-dna/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/principal.jpg" style="width:25%">
+<img src="/images/SohLLM.jpg" style="width:25%">
 
 Welcome to NUS High School of Mathematics and Science!
 
