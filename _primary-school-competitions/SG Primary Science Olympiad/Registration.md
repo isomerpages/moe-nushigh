@@ -13,7 +13,7 @@ third_nav_title: SG Primary Science Olympiad
 <ul data-tight="true" class="tight">
 <li>
 <p>All registrations must be submitted online; telephone registrations will
-not be entertained.</p>
+not be accepted.</p>
 </li>
 <li>
 <p>Students are to obtain registration information directly from their respective
