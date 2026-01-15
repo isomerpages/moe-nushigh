@@ -30,7 +30,7 @@ their students for participation.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3><strong>Competition Format for 2025</strong></h3>
+<h3><strong>Competition Format</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The competition consists of a single round and is conducted in English.</p>
@@ -68,44 +68,7 @@ will be entertained.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Awards</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Medals (Gold, Silver, Bronze) will be awarded to participants based on
-their scores in the theory paper.</p>
-</li>
-<li>
-<p>Trophies will be awarded to the top 20 schools based on the cumulative
-scores of their top 5 students from the Theory Round.</p>
-</li>
-<li>
-<p>A certificate will be awarded to the top-performing girl from each participating
-school, provided at least a Silver award is achieved.</p>
-</li>
-<li>
-<p>All participants will receive e-certificates.</p>
-</li>
-<li>
-<p>Competition results will be communicated through the respective schools.
-No telephone inquiries regarding results will be entertained.</p>
-</li>
-</ul>
 <p></p>
-<h3><strong>Electronic Certificates</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Schools and parents are responsible for ensuring the accuracy of participants'
-names at the point of registration as they will appear on the e-certificates.</p>
-</li>
-<li>
-<p>A surcharge of $25 nett will be imposed for the reprint of each e-certificate.</p>
-</li>
-<li>
-<p>Any medals and trophies will be delivered to the schools around mid-September
-2026.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
 <p><strong>For any inquiries, please email: <a rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a></strong>
 </p>
 <p><em>Updated on 13 Jan 2026.</em>
