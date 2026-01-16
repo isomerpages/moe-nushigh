@@ -2,252 +2,328 @@
 title: Board of Directors and Governors
 permalink: /our-dna/board-of-directors-and-governors/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Parent Organisation:
+<p>Parent Organisation:
 <br>
-<img align="left" style="width:25%" src="/images/Our DNA/BODG/nus logo edited.png">
-<br><br><br>
-
-### **Board of Directors**
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/professor tan eng chye.png" style="max-width: 100%; max-height:100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof thean voon yew aaron.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/professor tan cheng yian bernard.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center"> 
-				Professor Tan Eng Chye (Chairman)
-				<br>President
-				<br>National University of Singapore
-			</td>
-			<td style="text-align:center">
-				Professor Thean Voon-Yew Aaron
-				<br>Deputy President (Academic Affairs) &amp; Provost
-				<br>National University of Singapore
-			</td>
-			<td style="text-align:center">
-				Professor Tan Cheng Yian, Bernard
-				<br>Senior Vice Provost (Undergraduate Education)
-				<br>National University of Singapore
-			</td>
-		</tr>
-	</tbody>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/Our DNA/BODG/nus logo edited.png">
+</div>
+<p>
+<br>
+<br>
+<br>
+</p>
+<h3><strong>Board of Directors</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/professor tan eng chye.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/prof thean voon yew aaron.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/professor tan cheng yian bernard.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Professor Tan Eng Chye (Chairman)
+<br>President
+<br>National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor Thean Voon-Yew Aaron
+<br>Deputy President (Academic Affairs) &amp; Provost
+<br>National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor Tan Cheng Yian, Bernard
+<br>Senior Vice Provost (Undergraduate Education)
+<br>National University of Singapore</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-
-### **Board of Governors**
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/mr seah moon ming.png" style="max-width: 100%; max-height:100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof thean voon yew aaron.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr teo thiam guan daniel.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center"> 
-				Mr Seah Moon Ming
-				<br>(Chairman)
-				<br>Chairman
-				<br>SMRT Corp Ltd
-			</td>
-			<td style="text-align:center">
-				Professor Thean Voon-Yew Aaron (Vice Chairman)
-				<br>Deputy President (Academic Affairs) &amp; Provost
-				<br>National University of Singapore
-			</td>
-						<td style="text-align:center">
-				Mr Teo Thiam Guan Daniel (Treasurer)
-				<br>Vice President and Chief Finance Officer
-				<br>Bridgestone China Asia Pacific
-			</td>
-		</tr>
-	</tbody>
+<h3><strong>Board of Governors</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/mr seah moon ming.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/prof thean voon yew aaron.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/mr teo thiam guan daniel.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Moon Ming
+<br>(Chairman)
+<br>Chairman
+<br>SMRT Corp Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor Thean Voon-Yew Aaron (Vice Chairman)
+<br>Deputy President (Academic Affairs) &amp; Provost
+<br>National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Thiam Guan Daniel (Treasurer)
+<br>Vice President and Chief Finance Officer
+<br>Bridgestone China Asia Pacific</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/ms chang.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/DSO_CEO.jpg" style="max-width: 100%; max-height:100%">
-			</th>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/ms jazz chong.png" style="max-width: 100%; max-height:100%">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center">
-				Ms Chang Li Lin
-				<br>Press Secretary to the Prime Minister
-				<br>Prime Minister's Office
-			</td>
-			<td style="text-align:center"> 
-				Mr Cheong Chee Hoo
-				<br>Chief Executive Officer
-				<br>DSO National Laboratories
-			</td>
-			<td style="text-align:center"> 
-				Ms Chong Chin Fong, Jazz
-				<br>Owner
-				<br>Ode to Art
-			</td>	
-		</tr>
-	</tbody>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/ms chang.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/DSO_CEO.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/ms jazz chong.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chang Li Lin
+<br>Press Secretary to the Prime Minister
+<br>Prime Minister's Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheong Chee Hoo
+<br>Chief Executive Officer
+<br>DSO National Laboratories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Chin Fong, Jazz
+<br>Owner
+<br>Ode to Art</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof chong yap seng.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof chua kee chaing.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/prof er meng hwa.png" style="max-width: 100%; max-height:100%">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center">
-				Professor Chong Yap Seng
-				<br>Dean, Yong Loo Lin School of Medicine
-				<br>National University of Singapore and Senior Consultant
-			</td>
-			<td style="text-align:center">
-				Professor Chua Kee Chaing
-				<br>President
-				<br>Singapore Institute of Technology
-			</td>
-			<td style="text-align:center"> 
-				Professor Er Meng Hwa
-				<br>Emeritus Professor, School of Electrical &amp; Electronic Engineering
-				<br>Nanyang Technological University
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/prof chong yap seng.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/prof chua kee chaing.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/prof er meng hwa.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Professor Chong Yap Seng
+<br>Dean, Yong Loo Lin School of Medicine
+<br>National University of Singapore and Senior Consultant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor Chua Kee Chaing
+<br>President
+<br>Singapore Institute of Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor Er Meng Hwa
+<br>Emeritus Professor, School of Electrical &amp; Electronic Engineering
+<br>Nanyang Technological University</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/prof ng huck hui.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr quek gim pew.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/dr rosemary.png" style="max-width: 100%; max-height:100%">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center">
-				Professor Ng Huck Hui
-				<br>Assistant Chief Executive
-				<br>Biomedical Research Council, A*STAR
-			</td>
-			<td style="text-align:center">
-				Mr Quek Gim Pew
-				<br>Senior Research &amp; Development Consultant
-				<br>Ministry of Defence
-			</td>
-			<td style="text-align:center"> 
-				Dr Rosemary Tan
-				<br>Chief Executive Officer
-				<br>CoV Biotechnology
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/prof ng huck hui.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/mr quek gim pew.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/dr rosemary.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Professor Ng Huck Hui
+<br>Assistant Chief Executive
+<br>Biomedical Research Council, A*STAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Gim Pew
+<br>Senior Research &amp; Development Consultant
+<br>Ministry of Defence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Rosemary Tan
+<br>Chief Executive Officer
+<br>CoV Biotechnology</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr shailesh.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-				<img src="/images/Our DNA/BODG/mr sivanesan.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/ms soh siew choo.png" style="max-width: 100%; max-height:100%">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center">
-				Mr Shailesh Anand Ganu
-				<br>Managing Director
-				<br>Willis Towers Watson
-			</td>
-			<td style="text-align:center">
-				Mr S Sivanesan
-				<br>Senior Partner
-				<br>Dentons Rodyk &amp; Davidson LLP
-			</td>
-			<td style="text-align:center"> 
-				Ms Soh Siew Choo
-				<br>Chief Information Officer
-				<br>MetLife Asia 
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/mr shailesh.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-heigth: 100%" height="auto" width="100%" src="/images/Our DNA/BODG/mr sivanesan.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="max-width: 100%; max-height:100%" height="auto" width="100%" src="/images/Our DNA/BODG/ms soh siew choo.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shailesh Anand Ganu
+<br>Managing Director
+<br>Willis Towers Watson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr S Sivanesan
+<br>Senior Partner
+<br>Dentons Rodyk &amp; Davidson LLP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Siew Choo
+<br>Chief Information Officer
+<br>MetLife Asia</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<table>
-	<thead>
-		<tr>
-			<th style="width: 33%; align: center">
-			</th>
-			<th style="width: 33%; align: center">
-					<img src="/images/Our DNA/BODG/ms theodora tan.png" style="max-width: 100%; max-heigth: 100%">
-			</th>
-			<th style="width: 33%; align: center">
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align:center">
-			</td>
-			<td style="text-align:center">
-				Ms Theodora Tan
-				<br>Zonal Director Schools West School Division
-				<br>Ministry of Education
-			</td>
-			<td style="text-align:center">
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Our DNA/BODG/ms theodora tan.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
 </table>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>s Theodora Tan
+<br>Zonal Director Schools West School Division
+<br>Ministry of Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Theodora Tan
+<br>Principal NUS High School
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
