@@ -29,3 +29,9 @@ Scaling greater heights in one big stride,<br>
 For NUS High we fight... For NUS High we fight!  
   
 Please click&nbsp;([NUSHS School Song.mp3](https://nushighedu-my.sharepoint.com/:u:/g/personal/nhscal_nushigh_edu_sg/IQCKW7sb9o22SL7xXrh2hcFeAdqIUZjFMeWNqarIw2KjA9Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=sZV5FT))&nbsp;to listen to our school song sung by members of our school choir.
+
+Our students are also committed to the **NUS High Pledge**, which is introduced to all Year 1 students during Orientation. 
+
+NUS High Pledge:
+
+We, the students of NUS High School, pledge to uphold our shared values of **W**onderment, **I**ntegrity, **S**ervice, **E**xcellence, **R**esilience and **H**umility, 
