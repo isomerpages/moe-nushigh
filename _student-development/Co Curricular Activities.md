@@ -190,7 +190,7 @@ Click&nbsp;**<a target="_blank" href="/files/CCA/ccabrochure.pdf">here</a>**&nbs
 	<thead>
 		<tr>
 			<th style="width: 33%; text-align: center">
-				<a target="_blank" href="https://oqg.nyc3.digitaloceanspaces.com/uploads/pdf/6597babe3151d.pdf">Badminton</a>
+				Badminton
 			</th>
 			<th style="width: 33%; text-align: center">
 				Basketball
