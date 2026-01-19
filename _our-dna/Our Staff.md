@@ -92,7 +92,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Lee Sheau Huey  | Head, Mathematics &amp; Statistics  |
+|   Ms Lee Sheau Huey  | Acting Head, Mathematics &amp; Statistics  |
 |   Mr Goh Shu Liang | Assistant Head, Mathematics &amp; Statistics |
 |   Ms Jiang Zewei Vivian | Assistant Head, Mathematics &amp; Statistics |
 |   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
@@ -145,11 +145,11 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Hong Wee Seng Jeffrey | Head, Mother Tongue &amp; Foreign Languages |
 |   Mr Ho Kok Kiat  | Assistant Head, Mother Tongue &amp; Foreign Languages |
 |   Ms Lim Puay See | Assistant Head, Mother Tongue &amp; Foreign Languages |
+|   Ms Thian Siaw Fong | Senior Teacher |
 |   Dr Li Liangzi | Teacher |
 |   Mr Chua Chin Haw | Teacher |
 |   Ms Dong Yanqin  | Teacher |
 |   Ms Song Haiyan |  Teacher |
-|   Ms Thian Siaw Fong | Senior Teacher |
 |   Mr Toh Chen Yeong | Teacher |
 |   Mr Wu Jiong | Teacher |
 |   Mdm Rohaida Bte Ismail | Teacher (Malay Language) |
