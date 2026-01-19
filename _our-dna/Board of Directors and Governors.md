@@ -310,13 +310,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>s Theodora Tan
+<p>Ms Theodora Tan
 <br>Zonal Director Schools West School Division
 <br>Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Theodora Tan
-<br>Principal NUS High School
+<p>
 <br>
 </p>
 </td>
