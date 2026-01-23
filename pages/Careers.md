@@ -15,14 +15,15 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
-* [Mathematics and Statistics, Head](/files/Careers/Head__Math_and_Statistics.pdf)
 * [Physics &amp; Engineering, Assistant Head](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
 * [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
 * [English Language / General Paper Teacher](/files/Careers/English_Language_Teacher.pdf)
+* [Math and Statistics, Head](/files/Careers/Head__Math_and_Statistics.pdf)
 
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
 *  [Corporate Services Officer, Boarding](/files/Careers/Corporate_Service_Officer__Boarding.pdf)
+*  [Pastoral Counsellor](/files/Careers/PC_2026.pdf)
 
 
 Only shortlisted candidates will be notified. <br>
