@@ -2,80 +2,540 @@
 title: Group Accident Insurance
 permalink: /students-and-parents/group-accident-insurance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-The School has taken up a Group Personal Accident policy for your child/ward with Marsh Singapore – Income Insurance Ltd (effective from 01 Jan 2024 to 31 January 2026).
-
-The policy is by no means extensive and is intended to help defray **<u>some</u>** of the costs (if
-treatment exceeds the policy’s coverage limits).
-
-Please enquire at the Admin Office for submission of a claim.
-
-<img src="/images/Group Accident Insurance/gai.png" style="width:100%">
-
-Footnotes:
-1. Validity for claims on treatment must be within 12 months from date of incident.  <br>
-2. (1) Death claim – documents are required from (a) Coroner’s Report; (b) Birth Certificate; (c) Death Certificate; (d) Police Report.<br>
-(2) Permanent disability claim - Medical report.
-
-
-<table style="border-collapse:
- collapse;width:506pt" width="674" cellspacing="0" cellpadding="0" border="0">
-	<colgroup><col style="mso-width-source:userset;mso-width-alt:9581;width:197pt" width="262"> <col style="mso-width-source:userset;mso-width-alt:15067;width:309pt" width="412"></colgroup>
-	<tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:
-  colspan;width:506pt" width="674" colspan="2" class="xl66" height="20">Basis of Cover: As per schedule as follows:</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl68" height="20">Benefit</td><td style="border-left:none" class="xl69">Sum Insured / Limit</td></tr><tr style="mso-height-source:userset;height:21.0pt" height="28"><td style="height:21.0pt" class="xl70" height="28">1) Accidental Death</td><td style="border-top:none;border-left:none" class="xl71">S$50,000</td></tr><tr style="mso-height-source:userset;height:33.75pt" height="45"><td style="height:33.75pt;border-top:none;
-  width:197pt" width="262" class="xl72" height="45">2) Accidental Permanent Disablement (including Second and Third Degree Burns)</td><td style="border-top:none;border-left:none;width:309pt" width="412" class="xl73">Up to 150% of Accidental Death Benefit<br>(As per Policy Schedule of Benefits for Partial / Total Disability)</td></tr><tr style="mso-height-source:userset;height:23.25pt" height="31"><td style="height:23.25pt;border-top:none" class="xl70" height="31">3) Funeral Benefit / Burial expenses</td><td style="border-top:none;border-left:none" class="xl74">S$5,000</td></tr><tr style="height:25.5pt" height="34"><td style="height:330.0pt;
-  border-top:none;width:197pt" width="262" class="xl75" height="440" rowspan="12">4) Medical Expenses for injury due to an accident<span style="mso-spacerun:yes">&nbsp; </span>(sum of outpatient and inpatient medical expenses)</td><td style="border-left:none;width:309pt" width="412" class="xl76">Up to S$13,000 for medical expenses incurred up to 365 days from date of accident:</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none" class="xl78" height="20">With the following sub-limits:</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl76" height="34">a. <font class="font8">Outpatient Expenses (up to S$2,150 including $400 sublimit for Chinese Medicine Practitioner)</font></td></tr><tr style="height:51.0pt" height="68"><td style="height:51.0pt;border-left:none;
-  width:309pt" width="412" class="xl79" height="68">For outpatient and follow-up medical treatments due to an accident or Heat-related injuries including minor / day surgery at clinic / hospital, physiotherapy at specialist outpatient clinics (SOC) in restructured hospitals and Singapore Sports Council.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl76" height="20">&nbsp;</td></tr><tr style="height:63.75pt" height="85"><td style="height:63.75pt;border-left:none;
-  width:309pt" width="412" class="xl80" height="85">b. <font class="font8">Inpatient Expenses (up to S$10,850)</font><font class="font6"> for inpatient and follow-up treatments after hospitalization due to an accident including daily room and board (incl ICU), capped at S$120 per day, in-hospital consultation and surgery expenses, for other hospital services (eg X-ray, MRI,<span style="mso-spacerun:yes">&nbsp; </span>prescription, medical supplies, operating theatre)</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none" class="xl81" height="20"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;</span></td></tr><tr style="height:38.25pt" height="51"><td style="height:38.25pt;border-left:none;
-  width:309pt" width="412" class="xl80" height="51">c. Reconstructive Surgical Expenses arising from an accident (up to S$13,000) including medical consultation, test, surgical procedure and medical treatment before/after the surgery</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none" class="xl81" height="20"><span style="mso-spacerun:yes">&nbsp;&nbsp;</span></td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl82" height="34">d. Dental treatments recommended or asked by medical practitioner for the Insured person to be treated (up to S$4,000)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none" class="xl81" height="20">&nbsp;</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="34">For accident overseas, the Insured Person must seek treatment within 7 days of returning to Singapore</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:197pt" width="262" class="xl76" height="20">&nbsp;</td><td style="border-left:none" class="xl81"><span style="mso-spacerun:yes">&nbsp;&nbsp;</span></td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;width:197pt" width="262" class="xl83" height="34">5) Hospitalization Allowance (overseas and upon return)</td><td style="border-left:none" class="xl70">S$50 per day of hospitalisation stay (up to a max of 50 days)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl81" height="20">&nbsp;</td><td style="border-left:none" class="xl81">&nbsp;</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;width:197pt" width="262" class="xl75" height="34">6) Temporary/Permanent Mobility Aid, Prosthesis and Other Implants</td><td style="border-left:none" class="xl84">Up to S$5,000</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt" class="xl85" height="34"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span></td><td style="border-left:none;width:309pt" width="412" class="xl86">Note: A doctor's prescription or memo to support the purchase of mobility aids, prosthesis or implants is required</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl87" height="20">&nbsp;</td><td style="border-top:none;border-left:none" class="xl88">&nbsp;</td></tr><tr style="height:38.25pt" height="51"><td style="border-bottom:.5pt solid black;
-  height:319.5pt;width:197pt" width="262" class="xl89" height="426" rowspan="12">TERRITORIAL / GEOGRAPHICAL LIMIT(S)</td><td style="border-left:none;width:309pt" width="412" class="xl90">(a) To cover the students while within their premises (including boarding school 24 hours cover) regardless whether they are participating/attending any school activities;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl92" height="20">&nbsp;</td></tr><tr style="height:38.25pt" height="51"><td style="height:38.25pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="51">(b) Participating/ attending school activities, including home-based learning &amp; blended learning and/or activities approved / organized / endorsed / sponsored / authorized by NUS High School</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="20">&nbsp;</td></tr><tr style="height:51.0pt" height="68"><td style="height:51.0pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="68">(c) Travelling directly between residence and school or venue outside their premises for school activities, and / or activities approved / organized / endorsed / sponsored / authorized by NUS High School.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="20">&nbsp;</td></tr><tr style="height:51.0pt" height="68"><td style="height:51.0pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="68">(d) Overseas travel on worldwide 24 hours basis for purpose of participating/attending to activities outside Singapore that are approved / organized / endorsed / sponsored / authorized by NUS High School.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="20">&nbsp;</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="34">(e) Students on community involvement program approved / endorsed by NUS High School.<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="20">&nbsp;</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl93" height="34">(f) Students on job attachment assigned and approved by NUS High School.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl95" height="20">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;
-  width:197pt" width="262" class="xl96" height="20">&nbsp;</td><td style="border-top:none;border-left:none;width:309pt" width="412" class="xl97">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:197pt" width="262" class="xl98" height="20">AGGREGATE LIMIT(S) OF LIABILITY</td><td style="border-left:none;width:309pt" width="412" class="xl80">S$10,000,000 per occurrence/per event</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:197pt" width="262" class="xl98" height="20">&nbsp;</td><td style="border-left:none;width:309pt" width="412" class="xl99">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="border-bottom:.5pt solid black;
-  height:687.0pt;width:197pt" width="262" class="xl89" height="916" rowspan="31">EXTENSION(S) / CLAUSE(S)</td><td style="border-top:none;border-left:none;width:309pt" width="412" class="xl75">. Act of god / convulsion of nature</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">. Automatic additons, deletions &amp; promotions</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="34">. Disappearance, including disappearance resulting from an act of god or convulsion of nature (Limit: 365 days)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">. Domestic Assistance Benefit ($1,000)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">Drowning and Suffocation by Gas, Poisonous Fumes or Smoke</font></td></tr><tr style="height:38.25pt" height="51"><td style="height:38.25pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="51">. Double indemnity for Death or Permanent and Total / Partial Disability whilst on a public conveyance or due to a natural catastrophe</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">Exposure</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">Food Poisoning</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">Hijack</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">. Murder and assault</td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="34">·<font class="font7">&nbsp;&nbsp;&nbsp;</font><font class="font6">Terrorism including losses caused by terrorist attacks by nuclear, chemical and/or Biological substances</font></td></tr><tr style="height:38.25pt" height="51"><td style="height:38.25pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="51">. Trauma counselling, psychiatric and psychological treatment for insured's next-of-kin, should insured suffer from death or total / partial disability from an accident (Limit: S$1000)</td></tr><tr style="height:38.25pt" height="51"><td style="height:38.25pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="51">. Injury, illness, disease or Death resulting from complications or related to attacks by venomous or disease transmitting insects, reptiles, amphibians, sea creatures and animals.</td></tr><tr style="height:89.25pt" height="119"><td style="height:89.25pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="119">. Claims arising directly or indirectly or in consequence of invasion, act of foreign enemy, hostilities, acts of terrorism, civil war, civil unrest, civil commotion, strike, riot, rebellion, revolution, insurrection, mutiny, uprising, military coup or other usurpation of power, confiscation, detention, nationalisation, requisition, martial law or state of seige or any events or causes which result in the proclamation or maintenance of martial law or state of seige.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">2nd Degree Burn - S$5,000</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">3rd Degree Burn</font></td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="34">·<font class="font7">&nbsp;</font><font class="font6">Additional Accidental Death Benefit due to Natural Catastrophe (Additional Payout – up to S$5,000)</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7"> </font><font class="font6">Ambulance Costs (Limit : S$500)</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">Notice of Cancellation amended to 60 days</font></td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="34">· Comatose State Benefit (Up to 10% of accidental death or S$50,000 whichever is lower)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">HIV due to blood Transfusion (up to S$5,000)</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">. Non-Elective surgery (up to S$5,000 per accident)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;</font><font class="font6">Miscarriage due to an accident</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp; </font><font class="font6">Motor-cycling</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp; </font><font class="font6">Scarring of Face (up to S$500)</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;&nbsp;</font><font class="font6">Strike Riot &amp; Civil Commotion</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;&nbsp;</font><font class="font6">Unscheduled Flight (up to S$2,000,000 per conveyance)</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">·<font class="font7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font class="font5">Memo A</font></td></tr><tr style="height:25.5pt" height="34"><td style="height:25.5pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="34">Policy is extended to cover hazardous activities/sports if such activities are organized/endorsed/authorised by the Insured.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-left:none;
-  width:309pt" width="412" class="xl77" height="20">&nbsp;</td></tr><tr style="mso-height-source:userset;height:40.5pt" height="54"><td style="height:40.5pt;border-left:none;
-  width:309pt" width="412" class="xl86" height="54">. "infectious disease" under the Infectious Disease Act (Cap. 137) due to and arising from exposure in the insured's school premises or during any school-related activity, whether in Singapore or elsewhere.</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl87" height="20">&nbsp;</td><td style="border-top:none;border-left:none;width:309pt" width="412" class="xl75">&nbsp;</td></tr><tr style="mso-height-source:userset;height:17.25pt" height="23"><td style="height:17.25pt;width:197pt" width="262" class="xl100" height="23">MAJOR EXCLUSION(S)</td><td style="border-left:none;width:309pt" width="412" class="xl75">. Self-inflicted injuries or any attempt thereat, while sane or insane.</td></tr><tr style="mso-height-source:userset;height:41.25pt" height="55"><td style="height:41.25pt;width:197pt" width="262" class="xl101" height="55">&nbsp;</td><td style="border-left:none;width:309pt" width="412" class="xl77">·<font class="font7">&nbsp;&nbsp;</font><font class="font6">Insurrection, declared or undeclared war or any warlike operations, military or naval service in time of declared or undeclared war or while under orders for warlike operations or restoration of public order.</font></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:197pt" width="262" class="xl101" height="20">&nbsp;</td><td style="border-left:none;width:309pt" width="412" class="xl77">· Participating in riot, committing an assault or felony.</td></tr><tr style="mso-height-source:userset;height:15.75pt" height="21"><td style="height:15.75pt;width:197pt" width="262" class="xl101" height="21">&nbsp;</td><td style="border-left:none;width:309pt" width="412" class="xl77">. Participation in competitive racing on wheels.</td></tr><tr style="mso-height-source:userset;height:6.0pt" height="8"><td style="height:6.0pt;width:197pt" width="262" class="xl102" height="8">&nbsp;</td><td style="border-left:none;width:309pt" width="412" class="xl86">&nbsp;</td></tr></tbody></table>
-
-Important Note: Above summary provides a brief outline of the coverage and for the full details, please refer to the policy's terms and conditions.
+<p><strong>Group Accident Insurance Policy</strong>
+</p>
+<p>The School has taken up a Group Personal Accident policy for your child/ward
+with Marsh Singapore – Income Insurance Ltd (effective from 01 February
+2026 to 31 January 2027).</p>
+<p><strong>Parents/guardians should take note that medical treatment at private hospitals will typically cost higher, and parents/guardians may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</strong>
+</p>
+<p><strong>Note that ineligible expenses in excess of the limits will be borne by the student/parents/ guardians.</strong>
+</p>
+<p>Please enquire at the Admin Office for submission of a claim.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/claim_1.png">
+</div>
+<p><strong>Basic of Cover as per schedule:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Benefits</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sum Insured/Limit Per Student (Up to)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) Accidental Death</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$50,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2) Accidental Permanent Disablement (including Third Degree Burns)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 150% of Accidental Death Benefit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3) Funeral Benefit/Burial Expenses</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4) Medical Expenses for injury due to an accident (sum of outpatient and
+inpatient medical expenses)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to S$13,000 with the following sub-limit:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>a.&nbsp; Outpatient expenses (up to S$2,150 including S$400 sublimit for
+Chinese Medicine Practitioner)
+<br>For outpatient and follow-up medical treatments due to an accident or
+Heat-related injuries including minor / day surgery at clinic / hospital,</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physiotherapy at specialist outpatient clinics (SOC) in restructured hospitals
+and Singapore Sports Council.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>b) Inpatient expenses (up to S$10,850) for inpatient and follow-up treatments
+after hospitalisation due to an accident including daily room and board
+(including ICU), capped at S$120 per day, in-hospital consultation and
+surgery expenses, for other hospital services (eg. X-rays, MRI, prescription,
+medical supplies, operating theatre).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>c) Reconstructive surgical expenses arising from an accident (up to S$13,000)
+including medical consultation, test, surgical procedure and medical treatment
+before/after the surgery.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>d) Dental treatments recommended or asked by a medical practitioner for
+the Insured Person to be treated (up to S$4,000)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For accident overseas, the insured must seek treatment within 7 days of
+returning to Singapore.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Note:</u>
+<br>- 1st treatment must be sought within 30 days from date of accident.
+<br>- TCM practitioners must be registered with the TCM Practitioners Board
+&amp; possess a valid practising certificate.
+<br>- Private physiotherapy treatments are not covered.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5) Hospitalisation Allowance (overseas and upon return)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$50 per day, max S$50 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6) Temporary/Permanent Mobility Aid, Prosthesis and Other Implants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to S$5,000
+<br>Doctor's prescription or memo to support the purchase of mobility aids,
+prosthesis or implants is required.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Extensions/Clauses</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- 2nd Degree Burn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>up to S$5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Additional Accidental Death Benefit due to Natural Catastrophe (Additional
+Payout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Ambulance Costs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>up to S$500</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Automatic Increase in Benefit (Additional Payout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5% of sum insured or S$12,500 whichever lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Assault, Hijack &amp; Murder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Comatose State Benefit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 10% of Accidental Death Sum or S$50,000 whichever is lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Domestic and Nursing Assistance Benefit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$1,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Drowning and Suffocation by Gas, Poisonous Fumes or Smoke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Emergency Evacuation and Repatriation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Emergency Travel Expenses / Visitor Benefit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Extends to cover injury, illness, disease or Death resulting from complications
+or related to attacks by venomous or disease transmitting insects, reptiles,
+amphibians, sea creatures and animals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Exposure &amp; Disappearance (12 months)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Food Poisoning in School or during a School Activity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Full Terrorism Cover</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered (including Nuclear Chemical and Biological Terrorism)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- HIV Due to blood Transfusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>up to S$5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Motor Cycling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Non-Elective Surgery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>up to S$5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Public Conveyance (Additional Payout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Physiotherapy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Refer to Medical Expenses</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Repatriation of Mortal Remains</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Scarring of Face</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$500</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Second Degree Burns</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Strike Riot &amp; Civil Commotion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Terrorism Benefit (Additional Payout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Covered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Trauma Counselling, Psychiatric and Psychological Treatment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$1,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- 'Infectious disease' under the Infectious Disease Act (Cap.137) due
+to and arising from exposure in the insured's school premises or during
+any school-related activity, whether in Singapore or elsewhere.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p><strong>Territorial / Geographical Limit (s)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(a) To cover students while within their premises (including boarding
+school 24 hours cover) regardless of whether they are participating/attending
+any school activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(b) To cover students participating in the school's activities, including
+home-based learning &amp; blended learning, and/or activities approved
+/ organized / endorsed / sponsored / authorized by NUS High School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(c) To cover students traveling directly between residence and school
+or venue outside their premises for school activities, and/or activities
+approved / organized / endorsed / sponsored / authorized by NUS High School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(d) To cover students overseas travel on worldwide 24 hours basis for
+purpose of participating/attending to activities outside Singapore that
+are approved / organized / endorsed / sponsored / authorized by NUS High
+School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(e) To cover students on community involvement program approved / endorsed
+by NUS High School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(f) To cover students on job attachment assigned and approved by NUS High
+School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Major Exclusions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Self-inflicted injuries or any attempt thereat, while sane or insane.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Insurrection, declared or undeclared war or any warlike operations,
+military or naval service in time of declared or undeclared war or while
+under orders for warlike operations or restoration of public order.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Participating in riot, committing an assault or felony.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Participation in competitive racing on wheels.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>- Contracts (Rights of Third Parties) Act (Cap. 53B)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Important Note: Above summary provides a brief outline of the coverage
+and for the full details, please refer to the policy's terms and conditions.</p>
