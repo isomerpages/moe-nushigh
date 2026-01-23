@@ -309,7 +309,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Theodora Tan
-<br>Zonal Director Schools West School Division
+<br>Zonal Director Schools</p>
+<p>West School Division
 <br>Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
