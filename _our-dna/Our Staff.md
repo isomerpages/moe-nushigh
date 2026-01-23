@@ -92,9 +92,9 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 
 |  |  |
 |---|---|
-|   Ms Lee Sheau Huey  | Acting Head, Mathematics &amp; Statistics  |
-|   Mr Goh Shu Liang | Assistant Head, Mathematics &amp; Statistics |
-|   Ms Jiang Zewei Vivian | Assistant Head, Mathematics &amp; Statistics |
+|   Ms Lee Sheau Huey  | Acting Head, Math &amp; Statistics  |
+|   Mr Goh Shu Liang | Assistant Head, Math &amp; Statistics |
+|   Ms Jiang Zewei Vivian | Assistant Head, Math &amp; Statistics |
 |   Mr Chai Ming Huang Royce | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Lim Teck Choow | Assistant Head, Research, Innovation and Enterprise |
 |   Mr Low Fook Hong | Assistant Head, ICT |
