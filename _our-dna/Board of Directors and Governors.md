@@ -286,9 +286,15 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our DNA/BODG/ms theodora tan.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our DNA/BODG/ms_soh__website_.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -300,6 +306,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our DNA/BODG/blank__website_.jpg">
+</div>
 </th>
 </tr>
 </tbody>
@@ -314,7 +323,9 @@ variant: tiptap
 <br>Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Ms Soh Lai Leng Magdalen</p>
+<p>Principal, NUS High School</p>
+<p>Secretary of Board of Governors
 <br>
 </p>
 </td>
