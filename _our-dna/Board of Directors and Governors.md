@@ -131,7 +131,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Chang Li Lin
-<br>Press Secretary to the Prime Minister
+<br>Press Secretary to the Senior Minister
 <br>Prime Minister's Office</p>
 </td>
 <td rowspan="1" colspan="1">
