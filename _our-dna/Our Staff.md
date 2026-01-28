@@ -118,7 +118,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |  |  |
 |---|---|
 |   Ms Chew Shuhui Phylliscia  |   Head, Computer Science<br><br>Head, ICT |
-|   Mr Ng Chee Loong |   Head Talent Development &amp; College Counselling |
+|   Mr Ng Chee Loong |   Head, Talent Development &amp; College Counselling |
 |   Mr Li Da |   Senior Consultant |
 |   Mr Chua Eng Siong Claude |   Teacher |
 |   Ms Rosheena Siddiqi| Teacher |
@@ -164,7 +164,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Ms Bay Wee Wen | Head, English Language &amp; Literature |
 |   Ms Caroline Gordon | Assistant Head, English Language &amp; Literature |
 |   Ms Koh Mei Yin Genette | Assistant Head, English Language &amp; Literature |
-|   Ms Lau Wen Li Sofia | Head School Staff Developer |
+|   Ms Lau Wen Li Sofia | Head, School Staff Developer |
 |   Ms Chan Yun-Zhi Eunice | Dean, Senior High |
 |   Ms Koo Ivy | Dean, Junior High |
 |   Dr Eric Francis Tinsay Valles  | Teacher |
@@ -275,7 +275,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 | Mr Tay Tai Chung | Manager, Operations |
 | Mr Joseph Giri Sri Krishnan | Manager (Boarding Master) |
 | Ms Shahira Binte Amat Amin | Corporate Service Executive |
-|
+| Ms Faith Lim Pei Ting | Corporate Service Officer |
 
 #### **Infrastructure**
 
