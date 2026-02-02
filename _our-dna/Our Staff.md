@@ -41,6 +41,7 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Lee Kim Hun | Teacher |
 |   Ms Tang Yee Voon | Teacher |
 |   Ms Pek Lay Pheng | Senior Laboratory Specialist |
+|   Mr Cezane Santos Cabulay | Senior Laboratory Specialist |
 |   Ms Loo Koh Lee | Laboratory Specialist |
 |   Mr Lew Andrew Delfin Reyes | Laboratory Specialist |
 |
