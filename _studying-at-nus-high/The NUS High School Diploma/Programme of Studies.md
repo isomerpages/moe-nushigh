@@ -21,5 +21,6 @@ variant: tiptap
 </p>
 <p><a href="/files/POS/POS_Class_of_2030.pdf" rel="noopener nofollow" target="_blank">Class of 2030</a>
 </p>
-<p>Class of 2031</p>
+<p><a href="/files/POS/POS_Class_of_2031.pdf" rel="noopener noreferrer nofollow" target="_blank">Class of 2031</a>
+</p>
 <p></p>
