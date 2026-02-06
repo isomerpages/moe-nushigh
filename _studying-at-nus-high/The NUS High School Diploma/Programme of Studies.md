@@ -7,8 +7,6 @@ variant: tiptap
 ---
 <h3><strong>Please click on the year of graduation for the relevant programme of studies.</strong></h3>
 <p></p>
-<p><a href="/files/POS/POS_Class_of_2023_final.pdf" rel="noopener nofollow" target="_blank">Class of 2023</a>
-</p>
 <p><a href="/files/POS/POS_Class_of_2024.pdf" rel="noopener nofollow" target="_blank">Class of 2024</a>
 </p>
 <p><a href="/files/POS/POS_Class_of_2025.pdf" rel="noopener nofollow" target="_blank">Class of 2025</a>
@@ -22,5 +20,7 @@ variant: tiptap
 <p><a href="/files/POS/POS_Class_of_2029.pdf" rel="noopener nofollow" target="_blank">Class of 2029</a>
 </p>
 <p><a href="/files/POS/POS_Class_of_2030.pdf" rel="noopener nofollow" target="_blank">Class of 2030</a>
+</p>
+<p><a href="/files/POS/POS_Class_of_2031.pdf" rel="noopener noreferrer nofollow" target="_blank">Class of 2031</a>
 </p>
 <p></p>
