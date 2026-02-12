@@ -16,11 +16,11 @@ variant: tiptap
 </li>
 <li>
 <p><strong>No individual registration will be allowed.</strong>&nbsp;The
-period of registration is from <strong>7 March 2025 to 7 April 2025.</strong>
+period of registration is from <strong>20 February 2026 to 20 March 2026.</strong>
 </p>
 </li>
 <li>
-<p>The registration fee per participant is&nbsp;<strong>$24 (inclusive of 9% GST)</strong>.</p>
+<p>The registration fee per participant is&nbsp;<strong>$25 (inclusive of 9% GST)</strong>.</p>
 </li>
 <li>
 <p>There will be NO REFUND of registration fee.</p>
@@ -32,7 +32,7 @@ period of registration is from <strong>7 March 2025 to 7 April 2025.</strong>
 <p>The language of the competition will be English.</p>
 </li>
 <li>
-<p>The&nbsp;<strong>NMO∑ Competition</strong>&nbsp; will be a&nbsp;<strong>1 hour 30 minutes</strong>&nbsp;written
+<p>The&nbsp;<strong>NMO∑ Competition</strong>&nbsp;will be a&nbsp;<strong>1 hour 30 minutes</strong>&nbsp;written
 paper comprising 35 questions. The breakdown of the questions are as follows:</p>
 </li>
 </ol>
@@ -52,13 +52,13 @@ paper comprising 35 questions. The breakdown of the questions are as follows:</p
 </ul>
 <ol start="9" data-tight="true" class="tight">
 <li>
-<p>Schools are to conduct the competition on <strong>15 July 2025 </strong>in
+<p>Schools are to conduct the competition on <strong>14 July 2026 </strong>in
 any&nbsp;<strong>1 hour 30 minutes</strong>&nbsp;timeslot from 2pm to 4:30pm.
 Schools must also adhere to the Safe Management Measures, as required by
 Ministry of Education.</p>
 </li>
 <li>
-<p>All decisions made by the organisers shall be final and no discussion
+<p>All decisions made by the organizers shall be final and no discussion
 or correspondence will be entertained.</p>
 </li>
 </ol>

@@ -44,7 +44,7 @@ schools around mid-September 2026.</p>
 names as they will appear on the e-certificates.</p>
 </li>
 <li>
-<p>A surcharge of $25 nett will be imposed for the reprint of each e-certificate.</p>
+<p>A surcharge of $15 nett will be imposed for the reprint of each e-certificate.</p>
 </li>
 </ul>
 <p><strong>For any inquiries, please email: <a href="mailto:spso@highsch.nus.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spso@highsch.nus.edu.sg</a></strong>
