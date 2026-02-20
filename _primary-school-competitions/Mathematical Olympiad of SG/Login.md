@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Mathematical Olympiad of SG
 variant: markdown
 ---
-Registration Link: http://nmos,nushigh.edu.sg
+Registration Link: http://nmos.nushigh.edu.sg
