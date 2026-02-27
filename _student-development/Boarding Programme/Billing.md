@@ -31,10 +31,10 @@ Rates cover the following:<br>
 
 | Term | Scheduled Date | Collecting For |
 |---|---|---|
-| 1 | 14 Feb 2025  | Term 1 Boarding Fee |
-| 2 | 4 Apr 2025 | Term 2 Boarding Fee plus March holiday Boarding Fee (if any)|
-| 3 | 11 Jul 2025 | Term 3 Boarding Fee plus June holiday Boarding Fee(if any) |
-| 4 | 26 Sep 2025 | Term 4 Boarding Fee plus Sep holiday Boarding Fee (if any) |
+| 1 | 4 Mar 2026  | Term 1 Boarding Fees |
+| 2 | 6 Apr 2026 | Term 2 Boarding Fees plus March holiday Boarding Fees (if any)|
+| 3 | 13 Jul 2026 | Term 3 Boarding Fees plus mid-year holiday Boarding Fees (if any)
+| 4 | 25 Sep 2026 | Term 4 Boarding Fees |
 |
 
 #### Financial Assistance<br>
