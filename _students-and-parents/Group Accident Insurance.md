@@ -7,19 +7,15 @@ variant: tiptap
 <p><strong>Group Accident Insurance Policy</strong>
 </p>
 <p>The School has taken up a Group Personal Accident policy for your child/ward
-with Income Insurance Ltd.</p>
-<p>&nbsp;</p>
+with Income Insurance Ltd.&nbsp;</p>
 <p><strong>Parents/guardians should note that medical treatment at private hospitals typically costs higher, and parents/guardians may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</strong>
 </p>
 <p><strong>Ineligible expenses or expenses in excess of the limits will be borne by the student/parents/ guardians.</strong>
 </p>
-<p>&nbsp;</p>
 <p>Please refer to the details below for submitting a claim or contact the
 Admin Office for further enquiries.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/claim_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/insurance.png">
 </div>
 <p><strong>Basic of Cover as per schedule:</strong>
 </p>
