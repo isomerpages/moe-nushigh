@@ -20,6 +20,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
 * [English Language / General Paper Teacher](/files/Careers/English_Language_Teacher.pdf)
 * [Biology Adjunct Teacher](/files/Careers/Biology_Ajunct_Teacher_2026_Sem_2.pdf)
+* [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
 
 
 #### **Non-Academic Position**
