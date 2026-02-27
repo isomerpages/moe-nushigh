@@ -34,7 +34,7 @@ Rates cover the following:<br>
 | 1 | 4 Mar 2026  | Term 1 Boarding Fees |
 | 2 | 6 Apr 2026 | Term 2 Boarding Fees plus March holiday Boarding Fees (if any)|
 | 3 | 13 Jul 2026 | Term 3 Boarding Fees plus mid-year holiday Boarding Fees (if any)
-| 4 | 26 Sep 2026 | Term 4 Boarding Fees |
+| 4 | 25 Sep 2026 | Term 4 Boarding Fees |
 |
 
 #### Financial Assistance<br>
