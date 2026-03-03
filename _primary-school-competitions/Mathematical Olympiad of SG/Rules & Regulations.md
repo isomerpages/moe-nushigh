@@ -41,7 +41,7 @@ paper comprising 35 questions. The breakdown of the questions are as follows:</p
 <p>Q1 to Q10 - 1 mark</p>
 </li>
 <li>
-<p>Q2 to Q20 - 2 marks</p>
+<p>Q11 to Q20 - 2 marks</p>
 </li>
 <li>
 <p>Q21 to Q30 - 3 marks</p>
