@@ -21,6 +21,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [English Language / General Paper Teacher](/files/Careers/English_Language_Teacher.pdf)
 * [Biology Adjunct Teacher](/files/Careers/Biology_Ajunct_Teacher_2026_Sem_2.pdf)
 * [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
+* [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
 
 
 #### **Non-Academic Position**
