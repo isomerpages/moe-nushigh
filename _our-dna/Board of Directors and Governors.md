@@ -222,7 +222,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Gim Pew
-<br>Chairman National Supercomputing Center (NSCC)</p>
+<br>Chairman National Supercomputin Center (NSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Rosemary Tan
