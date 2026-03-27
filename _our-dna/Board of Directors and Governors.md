@@ -217,8 +217,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Professor Ng Huck Hui
-<br>Assistant Chief Executive
-<br>Biomedical Research Council, A*STAR</p>
+<br>Vice President Medicine and Dean, School of Medicine, Nazarbayev University</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Gim Pew
