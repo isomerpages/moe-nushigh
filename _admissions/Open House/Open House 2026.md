@@ -5,15 +5,9 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Admission/Open_House_2025_halved.jpg">
-</div>
-<h4><strong>Onsite Open House on 24 May 2025</strong></h4>
-<blockquote>
-<p><a href="/files/Open House/NUSH_Open_House_and_DSA_pdf.pdf" rel="noopener nofollow" target="_blank">Open House and DSA Pamphlet</a>
-</p>
-</blockquote>
-<p>Come, join us at NUS High School Open House on&nbsp;<strong>24 May 2025, Saturday, 9 am – 3 pm!</strong>
+<h4><strong>Onsite Open House on 16 May 2026</strong></h4>
+<p></p>
+<p>Come, join us at NUS High School Open House on&nbsp;<strong>16 May 2026, Saturday, 9 am – 3 pm!</strong>
 </p>
 <p>Do not miss the chance to hear our staff and students share exciting anecdotes
 of their school life and be enlightened by our unique curriculum and modular
@@ -25,12 +19,21 @@ talents, expand their interests and explore their passions.</p>
 <br>• CCA and Student Life Showcase
 <br>• Alumni and PSG Booth
 <br>• School tour</p>
-<p>There will be 5 School Leader’s Talks at the following timings:</p>
-<p>• Session 1: 0930 to 1015
-<br>• Session 2: 1045 to 1130
-<br>• Session 3: 1230 to 1315
-<br>• Session 4: 1345 to 1430
-<br>• Session 5: 1500 to 1545</p>
+<p>There will be 4 School Leader’s Talks at the following timings:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Session 1: 0930 to 1015​</p>
+</li>
+<li>
+<p>Session 2: 1100 to 1145​</p>
+</li>
+<li>
+<p>Session 3: 1315 to 1400 ​</p>
+</li>
+<li>
+<p>Session 4: 1500 to 1545​</p>
+</li>
+</ul>
 <p>You may click on this link:&nbsp;<a href="https://nush.link/keepintouch/" rel="noopener noreferrer nofollow" target="_blank">https://nush.link/keepintouch/</a>&nbsp;to
 be on our mailing list for updates on Open House and admissions related
 matters.&nbsp;</p>
