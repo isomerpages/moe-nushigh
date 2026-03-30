@@ -221,12 +221,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Gim Pew
-<br>Chairman</p>
-<p>National Supercomputing Center (NSCC)</p>
+<br>Chairman, National Supercomputing Center (NSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Rosemary Tan
-<br>Chief Executive Officer Leydon Labs Asia Pte. Ltd.</p>
+<br>Chief Executive Officer, Leydon Labs Asia Pte. Ltd.</p>
 </td>
 </tr>
 </tbody>
