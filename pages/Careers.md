@@ -27,6 +27,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
 *  [Pastoral Counsellor](/files/Careers/PC_2026.pdf)
+*  [Laboratory Specialist (Physics) ](/files/Job_Advert__Physics_Laboratory_Specialist_.pdf)
 
 
 Only shortlisted candidates will be notified. <br>
