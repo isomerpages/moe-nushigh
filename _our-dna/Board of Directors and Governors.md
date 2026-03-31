@@ -217,18 +217,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Professor Ng Huck Hui
-<br>Assistant Chief Executive
-<br>Biomedical Research Council, A*STAR</p>
+<br>Vice President Medicine and Dean, School of Medicine, Nazarbayev University</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Gim Pew
-<br>Senior Research &amp; Development Consultant
-<br>Ministry of Defence</p>
+<br>Chairman, National Supercomputing Center (NSCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Rosemary Tan
-<br>Chief Executive Officer
-<br>CoV Biotechnology</p>
+<br>Chief Executive Officer, Leydon Labs Asia Pte. Ltd.</p>
 </td>
 </tr>
 </tbody>
