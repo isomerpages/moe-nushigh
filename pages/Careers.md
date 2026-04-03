@@ -22,6 +22,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Biology Adjunct Teacher](/files/Careers/Biology_Ajunct_Teacher_2026_Sem_2.pdf)
 * [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
 * [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
+* [Music Teacher](/files/Music_Teacher_from_2026_Sem_2.pdf)
 
 
 #### **Non-Academic Position**
