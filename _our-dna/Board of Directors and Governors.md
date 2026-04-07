@@ -141,7 +141,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chong Chin Fong, Jazz
-<br>Owner
+<br>Art Gallerist
 <br>Ode to Art</p>
 </td>
 </tr>
