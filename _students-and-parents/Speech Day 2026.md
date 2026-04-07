@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech Day/2025_speech_day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Speech Day 2026" src="/images/Screenshot_2026_04_07_124533.png">
 </div>
 <h3><strong>NUS HIGH SCHOOL SPEECH DAY 2026</strong></h3>
 <p>We will be celebrating Speech Day on 17 April 2026.&nbsp; This marks the
