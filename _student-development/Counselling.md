@@ -2,6 +2,7 @@
 title: Counselling
 permalink: /studying-at-nus-high/student-development/counselling/
 description: ""
+variant: markdown
 ---
 Transitioning from primary to high school and later into university education can be a challenging journey in a student’s life. Examples of some of these challenges include adjustments, self-esteem, friendship, academic studies, boy-girl relationship, health, family, financial issues and others. When issue(s) become too challenging for the individual to manage, he/she may need to turn to someone for advice, guidance and/or help.
 
@@ -28,13 +29,13 @@ Our school’s counselling staff are here to provide a listening ear, help our s
 
 |  |  |  |
 |---|---|---|
-| Ms Jade Lee<br>DID: 6516 5439<br>Email: [nhslyk@nus.edu.sg](mailto:nhslyk@nus.edu.sg) | Ms Emily Koh<br>DID: 6601 3095<br>Email: [nbskpfe@nus.edu.sg](mailto:nbskpfe@nus.edu.sg) | Ms Sarah Chua<br>DID: 6601 7541<br>Email: [nhscsse@nus.edu.sg](mailto:nhscsse@nus.edu.sg) |
+| Ms Emily Koh<br>Email: [nbskpfe@nus.edu.sg](mailto:nbskpfe@nus.edu.sg) | Ms Chan Chi Yin<br>Email: [cchiyin@nus.edu.sg](mailto:cchiyin@nus.edu.sg) |
 
 #### **College Counsellors**
 
 |  |  |  |
 |---|---|---|
-| Mr Allan Uy <br>(House: Fleming and Faraday)<br>DID: 6516 5439<br>Email: [nhsapu@nus.edu.sg](mailto:nhsapu@nus.edu.sg) | Mr Christopher Andrew West<br>(House: Fibonacci and Nobel)<br>DID: 6516 1508<br>Email: [c.west6@nus.edu.sg](mailto:c.west6@nus.edu.sg) | Dr Piriya Sasajala<br>(MOE ECG Counsellor)<br>Email: [piriya_sasajala@schools.gov.sg](mailto:piriya_sasajala@schools.gov.sg) |
+| Mr Allan Uy <br>(Senior College Counsellor, House: Fleming and Faraday)<br>Email: [nhsapu@nus.edu.sg](mailto:nhsapu@nus.edu.sg) | Ms Ding Mengyao Olivia (Education &amp; Career Guidance Counsellor, House: Fibonacci and Nobel) <br>Email: [anhsoli@nus.edu.sg](mailto:anhsoli@nus.edu.sg) | Mr Lim Jun Liang, Eugene (Education &amp; Career Guidance Counsellor) <br>Email: [anhslimjl@nus.edu.sg](mailto:anhslimjl@nus.edu.sg) | 
 
 <img src="/images/counselling8.png" style="width:22%">
 
