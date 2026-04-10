@@ -35,7 +35,7 @@ Our school’s counselling staff are here to provide a listening ear, help our s
 
 |  |  |  |
 |---|---|---|
-| Mr Allan Uy <br>(House: Fleming and Faraday)<br>Email: [nhsapu@nus.edu.sg](mailto:nhsapu@nus.edu.sg) | Ms Ding Mengyao Olivia (Education &amp; Career Guidance Counsellor) <br>Email: [anhsoli@nus.edu.sg](mailto:anhsoli@nus.edu.sg) | Mr Lim Jun Liang, Eugene (Education &amp; Career Guidance Counsellor) <br>Email: [anhsoli@nus.edu.sg](mailto:anhsoli@nus.edu.sg) | 
+| Mr Allan Uy <br>(Senior College Counsellor, House: Fleming and Faraday)<br>Email: [nhsapu@nus.edu.sg](mailto:nhsapu@nus.edu.sg) | Ms Ding Mengyao Olivia (Education &amp; Career Guidance Counsellor, House: Fibonacci and Nobel) <br>Email: [anhsoli@nus.edu.sg](mailto:anhsoli@nus.edu.sg) | Mr Lim Jun Liang, Eugene (Education &amp; Career Guidance Counsellor) <br>Email: [anhslimjl@nus.edu.sg](mailto:anhslimjl@nus.edu.sg) | 
 
 <img src="/images/counselling8.png" style="width:22%">
 
