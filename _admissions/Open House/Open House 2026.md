@@ -34,9 +34,6 @@ talents, expand their interests and explore their passions.</p>
 <p>Session 4: 1500 to 1545​</p>
 </li>
 </ul>
-<p>You may click on this link:&nbsp;<a href="https://nush.link/keepintouch/" rel="noopener noreferrer nofollow" target="_blank">https://nush.link/keepintouch/</a>&nbsp;to
-be on our mailing list for updates on Open House and admissions related
-matters.&nbsp;</p>
 <p><strong><u>Check back on this page to view more updates!</u></strong>
 </p>
 <p>You may also refer to the tab "Open House Information" for information
