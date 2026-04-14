@@ -29,8 +29,6 @@ For Year 3 Admission and Year 1 SIE applicants with no internet access, please a
 ##### **4\. When do I have to submit the supporting documents to NUS High School?**
 
 For Year 1 DSA-Sec applicants:<br>
-Only applicants who have been shortlisted for the DSA Selection Camp need to submit their portfolio. The submission instruction will be provided with the invitation to attend the Selection Camp, via the e-mail contact e-mail address filled in at MOE Centralised DSA-Sec Online Portal. Portfolio may include any Mathematics and Science related accomplishments, such as certificates and awards. 
-
 There is no need to submit copy of school report book if the applicant is studying in a Singapore Mainstream School. Submission of copies of school report book for equivalent of Primary 5 and Primary 6 levels results are only required for applicants who are not from Singapore Mainstream Schools.
 
 For Year 3 Admission applicants:<br>
@@ -43,11 +41,9 @@ As supporting documents are non-returnable, the applicant is advised to provide 
 
 ##### **5\. What supporting documents do i need to submit to NUS High School? In what format should the documents be?**
 
-The shortlisted Year 1 applicants and all Year 3 applicants are to submit the following scanned documents in Jpeg or Pdf format&nbsp;before attending the selection camp / interview respectively.&nbsp;
+For Year 1 applicants who are from Non-Singapore Mainstream Schools only: P5 to P6 level equivalent report books and Mathematics and Science related accomplishments, such as certificates and awards (optional).
 
-1\. P5 to P6 level equivalent report books (for Year 1 applicants who are from Non-Singapore Mainstream Schools only) / P6 to Sec 2 report books (for all Year 3 applicants)<br>
-2\. Mathematics and Science related accomplishments, such as certificates and awards (optional)<br>
-
+For all Year 3 applicants: P6 to Sec 2 report books and Mathematics and Science related accomplishments, such as certificates and awards (optional).
 
 ##### **6\. Does NUS High School admit students via DSA sports talents?**
 
@@ -56,7 +52,7 @@ No. We only have Mathematics and Science talent areas for DSA-Sec.
 
 ##### **7\. Is there DSA selection test, camp and interview this year? Is there Year 3 admission test and interview this year? Is there SIE interview this year?**
 
-Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 4 July 2026. The Selection Camp will be on 24 or 25 July 2026 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp. There will not be any Selection Interview.
+Yes. The Year 1 DSA-Sec Selection Tests in Mathematics and Science will be on the 4 July 2026. The Selection Camp will be on 24 or 25 July 2026 respectively. All applicants will sit for the Selection Tests. Only shortlisted applicants will attend the Selection Camp.
 
 The Year 3 Admission Selection Tests will be on 15 September 2026 and the Selection Interview will be on 29 September 2026. All applicants will sit for the selection tests in Mathematics and Science. Only shortlisted applicants will attend the Year 3 Interview.
 
