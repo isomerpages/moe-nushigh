@@ -27,7 +27,7 @@ The selection criteria for all Year 1 DSA-Sec applicants to NUS High School will
 | Closing of MOE Centralised DSA-Sec Online Portal | 2 June 2026 | By 4.30 pm |
 | DSA Selection Tests *(All Applicants)* | 4 July 2026 | 8:30 am - 12:00 pm |
 | DSA Selection Camp *(Only Shortlisted Applicants)* | 24 or 25 July 2026 | Will be made known to shortlisted applicants |
-| Outcome of DSA Exercise | 17 August - 28 August 2026 | By e-mail |
+| Outcome of DSA Exercise | 17 - 28 August 2026 | By e-mail |
 | Engagement of DSA Exercise *(NUSHS Student for a Day )* | 2 October 2026  | 12.30 pm - 6.00 pm  |
 | School Preference Submission | 19 - 23 October 2026 | By Friday 4.30 pm
 | DSA Allocation by MOE | Late November | Please refer to MOE website
