@@ -65,7 +65,7 @@ We shortlist applicants through their performance in the Selection Tests, their 
 ##### **9\. When will I be informed if I am shortlisted for the selection camp or interview?**
 
 For Year 1 DSA-Sec applicants:<br>
-After the Selection Tests. Shortlisted applicants will be informed by 23 July 2026 for the Selection Camp. The Selection Camp will be held on 24 July 2025 or 25 July 2025.
+After the Selection Tests. Shortlisted applicants will be informed by 23 July 2026 for the Selection Camp. The Selection Camp will be held on 24 or 25 July 2026.
 
 For Year 3 Admission applicants:<br>
 After the Selection Tests. Shortlisted applicants will be informed by 28 September 2026 for the Selection Interview. The Selection Interview will be held on 29 September 2026.
@@ -187,9 +187,7 @@ As NUS High School is not in the S1 Posting Exercise, there is no cut-off point 
 
 ##### **34\. What if there is no vacancy available for SIE?**
 
-The SIE will not be opened.&nbsp;
-
-Other information related to University and Career options, University Admissions can be found&nbsp;[here](/admissions/university-placement/university-placement/).
+The SIE will not be opened.
 
 ##### **35\. Must a student be in Posting Group 3 to be eligible to apply for Year 3 Admission?**
 
