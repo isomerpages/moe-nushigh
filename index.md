@@ -22,7 +22,7 @@ sections:
       title: Year 1 and 3 Admissions
       button: click here for more details
       url: /admissions/year-1-and-3-admissions/
-      image: /images/Open_House_Website_Banner_draft_1.jpg
+      image: /images/Open_House_Website_Banner_draft_2.jpg
       alt: Image alt text
   - infopic:
       image: /images/Main Page/phi14x3.png
