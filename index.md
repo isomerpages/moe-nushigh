@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Open House 2026
       button: click here for more details
-      url: /admissions/year-1-and-3-admissions/
+      url: https://www.nushigh.edu.sg/admissions/open-house/
       image: /images/Open_House_Website_Banner_draft_4.jpg
       alt: Image alt text
   - infopic:
