@@ -6,7 +6,6 @@ third_nav_title: Open House
 variant: tiptap
 ---
 <h4><strong>Onsite Open House on 16 May 2026</strong></h4>
-<p></p>
 <p>Come, join us at NUS High School Open House on&nbsp;<strong>16 May 2026, Saturday, 9 am – 3 pm!</strong>
 </p>
 <p>Do not miss the chance to hear our staff and students share exciting anecdotes
@@ -38,6 +37,7 @@ talents, expand their interests and explore their passions.</p>
 </p>
 <p>You may also refer to the tab "Open House Information" for information
 curated from our previous e-Open House.</p>
+<p>Open House 2026 Pamphlet</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Christopher_15.jpg">
