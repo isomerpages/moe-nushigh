@@ -32,10 +32,9 @@ Rates cover the following:<br>
 | Term | Scheduled Date | Collecting For |
 |---|---|---|
 | 1 | 4 Mar 2026  | Term 1 Boarding Fees |
-| 2 | 6 Apr 2026 | Term 2 Boarding Fees plus March holiday Boarding Fees (if any)|
-| 3 | 13 Jul 2026 | Term 3 Boarding Fees plus mid-year holiday Boarding Fees (if any)
-| 4 | 25 Sep 2026 | Term 4 Boarding Fees |
-|
+| 2 | 8 May 2026 | Term 2 Boarding Fees plus March holiday Boarding Fees (if any)|
+| 3 | 27 Jul 2026 | Term 3 Boarding Fees plus mid-year holiday Boarding Fees (if any)
+
 
 #### Financial Assistance<br>
 To assist financially needy students to defray the cost of their Year 5 residential stay, NUS High School will provide a subsidy for students who are currently under the Ministry of Education Financial Assistance Scheme or who qualify according to its eligibility criteria.
