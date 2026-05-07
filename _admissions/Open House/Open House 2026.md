@@ -37,7 +37,7 @@ talents, expand their interests and explore their passions.</p>
 </p>
 <p>You may also refer to the tab "Open House Information" for information
 curated from our previous e-Open House.</p>
-<p><a href="/files/Open_House_Pamphlet__2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Open House 2026 Pamphlet</a>
+<p><a href="/files/Open_House_Pamphlet__2026____new.pdf" rel="noopener noreferrer nofollow" target="_blank">Open House Pamphlet</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
