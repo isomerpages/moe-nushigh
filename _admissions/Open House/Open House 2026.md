@@ -37,7 +37,8 @@ talents, expand their interests and explore their passions.</p>
 </p>
 <p>You may also refer to the tab "Open House Information" for information
 curated from our previous e-Open House.</p>
-<p></p>
+<p><a href="/files/Open_House_Pamphlet__2026___no_school_tour_.pdf" rel="noopener nofollow" target="_blank">Open House Pamphlet</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Admission/Christopher_15.jpg">
