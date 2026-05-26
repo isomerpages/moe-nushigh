@@ -358,11 +358,11 @@ Fair!&nbsp;<em>(file takes a while to download)</em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/nushsjb/" rel="noopener noreferrer nofollow" target="_blank">St John Brigade</a>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -372,12 +372,12 @@ Fair!&nbsp;<em>(file takes a while to download)</em>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="max-width=100%; max-height=100%" height="auto" width="100%" src="/images/Student Development/CCA/ccapic24.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
