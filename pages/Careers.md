@@ -24,6 +24,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
 * [Music Adjunct Teacher ](/files/Music_Adjunct_Teacher_from_2026_Sem_2.pdf)
 * [Assistant Head, Curriculum and Assessment](/files/Assistant_Head__Curriculum_and_Assessment.pdf)
+* [Assistant Head, Geography](/files/Assistant_Head__Geography.pdf)
 
 
 #### **Non-Academic Position**
