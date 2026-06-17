@@ -22,15 +22,12 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Biology Adjunct Teacher](/files/Careers/Biology_Ajunct_Teacher_2026_Sem_2.pdf)
 * [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
 * [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
-* [Music Adjunct Teacher ](/files/Music_Adjunct_Teacher_from_2026_Sem_2.pdf)
 * [Assistant Head, Curriculum and Assessment](/files/Assistant_Head__Curriculum_and_Assessment.pdf)
 * [Assistant Head, Geography](/files/Assistant_Head__Geography.pdf)
 
 
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
-*  [Pastoral Counsellor](/files/Careers/PC_2026.pdf)
-*  [Laboratory Specialist (Physics) ](/files/Job_Advert__Physics_Laboratory_Specialist_.pdf)
 *  [Executive, Boarding](/files/Executive__Boarding.pdf)
 
 
