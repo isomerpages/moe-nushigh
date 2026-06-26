@@ -29,6 +29,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 #### **Non-Academic Position**
 *  [Temporary Assistant Executive, Outreach](/files/Careers/14__Assistant_Executive_Outreach__Temp____Latest_14_Jul_25.pdf)
 *  [Executive, Boarding](/files/Executive__Boarding.pdf)
+*  [Lead Specialist, CCA and Student Leadership](/files/Lead_Specialist__CCA_and_Student_Leadership_Job_Advert.pdf)
 
 
 Only shortlisted candidates will be notified. <br>
