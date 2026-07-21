@@ -15,14 +15,11 @@ Successful candidates will participate in the planning and development of an int
 Interested applicants should provide a detailed resume and a short write-up on your teaching philosophy. A description on possible plans to achieve interactive learning and peer-tutoring will be welcome.
 
 #### **Academic Position**
-* [Math and Statistics, Head](/files/Careers/Head__Math_and_Statistics.pdf)
 * [Physics &amp; Engineering, Assistant Head](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
 * [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
-* [Biology Adjunct Teacher](/files/Careers/Biology_Ajunct_Teacher_2026_Sem_2.pdf)
 * [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
 * [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
 * [Assistant Head, Curriculum and Assessment](/files/Assistant_Head__Curriculum_and_Assessment.pdf)
-* [Assistant Head, Geography](/files/Assistant_Head__Geography.pdf)
 
 
 #### **Non-Academic Position**
