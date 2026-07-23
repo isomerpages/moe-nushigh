@@ -20,6 +20,8 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
 * [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
 * [Assistant Head, Curriculum and Assessment](/files/Assistant_Head__Curriculum_and_Assessment.pdf)
+* [Assistant Head, Math and Statistics](/files/Assistant_Head_Math_and_Statistics.pdf)
+* [Chemistry Teacher](/files/Chemistry_Teacher.pdf)
 
 
 #### **Non-Academic Position**
