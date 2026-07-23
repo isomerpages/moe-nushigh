@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: SG Primary Science Olympiad
 ---
-<p>We are thrilled to share that 5,286 participants from 163 primary schools
-took part in SPSO 2025. We extend our heartfelt thanks to all the schools
+<p>We are thrilled to share that 5,317 participants from 167 primary schools
+took part in SPSO 2026. We extend our heartfelt thanks to all the schools
 and students for their enthusiastic participation.</p>
 <p>Congratulations to all our prize winners!</p>
 <h4><strong>Awards</strong></h4>
