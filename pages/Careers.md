@@ -22,6 +22,8 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Assistant Head, Curriculum and Assessment](/files/Assistant_Head__Curriculum_and_Assessment.pdf)
 * [Assistant Head, Math and Statistics](/files/Assistant_Head_Math_and_Statistics.pdf)
 * [Chemistry Teacher](/files/Chemistry_Teacher.pdf)
+* [History, Adjunct Teacher](/files/History_Adjunct_Teacher.pdf)
+* [Physical Education, Adjunct Teacher](/files/Adjunct_Teacher____Physical_Education.pdf)
 
 
 #### **Non-Academic Position**
