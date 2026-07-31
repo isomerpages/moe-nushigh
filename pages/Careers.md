@@ -24,6 +24,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Chemistry Teacher](/files/Chemistry_Teacher.pdf)
 * [History, Adjunct Teacher](/files/History_Adjunct_Teacher.pdf)
 * [Physical Education, Adjunct Teacher](/files/Adjunct_Teacher____Physical_Education.pdf)
+* [Geography, Adjunct Teacher](/files/Geography_Adjunct_Teacher_for_2027.pdf)
 
 
 #### **Non-Academic Position**
