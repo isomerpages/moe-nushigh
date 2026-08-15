@@ -17,7 +17,7 @@ sections:
           url: /alumni/
         - title: NUSHigh Giving
           description: ""
-          url: https://www.nushigh.edu.sg/give-back-to-nus-high/
+          url: /give-back-to-nus-high/
         - title: Careers
           description: Join us!
           url: /careers
