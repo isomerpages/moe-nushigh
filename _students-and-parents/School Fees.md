@@ -57,4 +57,4 @@ There is also a miscellaneous fee of S$30 (subject to revision) per month per st
 
 11. For the convenience of parents/guardians of students in Independent Schools, Specialised Schools and Specialised Independent Schools, you can now set up an Edusave Standing Order (SO) to authorise the school to deduct funds from your child’s/ward’s Edusave account after you have given us the consent for his/her participation in the programme. This one-time authorisation will remain in force until you terminate the Edusave SO. 
 
-12. Parents/Guardians can set up the Edusave SO online via SFS by logging in to https://studentfinance.moe.gov.sg using your Singpass. 
+12. Parents/Guardians can set up the Edusave SO online via SFS by logging in to https://studentfinance.moe.gov.sg using your Singpass.
