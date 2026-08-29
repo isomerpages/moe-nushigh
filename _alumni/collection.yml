@@ -2,7 +2,6 @@ collections:
   alumni:
     output: true
     order:
-      - List of Donors.md
       - Alumni.md
       - Homecoming 2025.md
       - Give Back to NUS High.md
