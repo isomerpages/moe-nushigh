@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Alumni/Alumni News.md
       - Alumni/Alumni.md
       - Alumni/.keep
       - Giving To NUS High/Our Benefactors.md
