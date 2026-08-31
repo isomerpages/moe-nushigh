@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Alumni/.keep
       - Giving To NUS High/Our Benefactors.md
       - Giving To NUS High/Give Back to NUS High.md
       - Giving To NUS High/.keep
