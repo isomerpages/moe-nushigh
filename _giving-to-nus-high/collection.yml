@@ -1,4 +1,5 @@
 collections:
   giving-to-nus-high:
     output: true
-    order: []
+    order:
+      - Our Benefactors.md
