@@ -17,7 +17,9 @@ form.</p>
 <p>All donations amounts are deeply appreciated. For donations that are $500
 and above, we would like to make available a plushie of our mascot Novus
 that can be redeemed from the school.</p>
-<p></p>
+<hr>
+<p>Cick <a href="/our-benefactors/" rel="noopener nofollow" target="_blank">here</a> to
+see the list of our benefactors.</p>
 <p>
 <br>
 <br>
