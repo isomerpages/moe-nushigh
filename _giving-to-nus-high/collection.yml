@@ -2,4 +2,5 @@ collections:
   giving-to-nus-high:
     output: true
     order:
+      - Give Back to NUS High.md
       - Our Benefactors.md
