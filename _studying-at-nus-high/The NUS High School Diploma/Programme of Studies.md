@@ -24,6 +24,3 @@ variant: tiptap
 <p><a href="/files/Studying at NUS High/NUS High Diploma/POS_Class_of_2031.pdf" rel="noopener nofollow" target="_blank">Class of 2031</a>
 </p>
 <p></p>
-<p></p>
-<p><a href="/files/Studying at NUS High/NUS High Diploma/POS_Class_of_2029.pdf" rel="noopener nofollow" target="_blank">Class of 2029</a>
-</p>
