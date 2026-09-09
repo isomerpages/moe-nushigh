@@ -25,6 +25,7 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [History, Adjunct Teacher](/files/History_Adjunct_Teacher.pdf)
 * [Physical Education, Adjunct Teacher](/files/Adjunct_Teacher____Physical_Education.pdf)
 * [Geography, Adjunct Teacher](/files/Geography_Adjunct_Teacher_for_2027.pdf)
+* [Mathematics, Adjunct Teacher](/files/Mathematics_Adjunct_Teacher___8_Sep_26.pdf)
 
 
 #### **Non-Academic Position**
