@@ -16,7 +16,6 @@ Interested applicants should provide a detailed resume and a short write-up on y
 
 #### **Academic Position**
 * [Physics &amp; Engineering, Assistant Head](/files/Careers/Assistant_Head_Physics___Engrg___Updated.pdf)
-* [Physics &amp; Engineering, Teacher](/files/Careers/Physics___Engrg_Teacher.pdf)
 * [Geography Teacher](/files/20__Geography_Teacher_for_2027.pdf)
 * [Assistant Head, Physical Education](/files/Careers/21__Assistant_Head_Physical_Education.pdf)
 * [Assistant Head, Curriculum and Assessment](/files/Assistant_Head__Curriculum_and_Assessment.pdf)
