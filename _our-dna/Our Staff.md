@@ -185,7 +185,6 @@ NUS High School has more than 100 academic staff as well as 40 administrative an
 |   Mr Syed Mahdar Bin Syed Othman |   Art Specialist |
 |   Ms Ang Hui Zhen Charmaine |    Teacher (Art) |
 |   Ms Koh Wun Be Geneva |   Teacher (Art) |
-|   Ms Chua Ngeah Sian |   Teacher (Music) |
 
 
 
