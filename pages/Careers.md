@@ -25,6 +25,9 @@ Interested applicants should provide a detailed resume and a short write-up on y
 * [Physical Education, Adjunct Teacher](/files/Adjunct_Teacher____Physical_Education.pdf)
 * [Geography, Adjunct Teacher](/files/Geography_Adjunct_Teacher_for_2027.pdf)
 * [Mathematics, Adjunct Teacher](/files/Mathematics_Adjunct_Teacher___8_Sep_26.pdf)
+* [Physics and Engineering, Adjunct Teacher](/files/14__Physics__Engrg_Adjunct_Teacher___30_Sep_26.pdf)
+* [Malay Language, Teacher](/files/15__Malay_Language_Teacher_Advertisement___30_Sep_26.pdf)
+* [Outreach Educator, Physics &amp; Design Engineering](/files/16__Outreach_Educator_for_Physics_and_DE__2026_Advert____28_Sep_26__Updated_.pdf)
 
 
 #### **Non-Academic Position**
